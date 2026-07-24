@@ -1,23 +1,23 @@
 ﻿Key,English,Japanese
-STATBOARD_TXT_000000,1. General,1. 総則
-STATBOARD_TXT_000001,2. Time,2. 開催時間
+STATBOARD_TXT_000000,1. General,1. 全般
+STATBOARD_TXT_000001,2. Time,2. 時間
 STATBOARD_TXT_000002,3. Class,3. クラス
 STATBOARD_TXT_000003,Total Damage,総ダメージ
 STATBOARD_TXT_000004,Skill Damage,スキルダメージ
 STATBOARD_TXT_000005,Damage Taken,被ダメージ
-STATBOARD_TXT_000006,Healing Done,ヒーリング完了
+STATBOARD_TXT_000006,Healing Done,総回復量
 STATBOARD_TXT_000007,Total Kills,総キル数
 STATBOARD_TXT_000008,Total Deaths,総死亡者数
 STATBOARD_TXT_000009,Damage Per Death,死亡ごとのダメージ
 STATBOARD_TXT_000010,Tanking Per Death,死亡ごとのタンキング
 STATBOARD_TXT_000011,Healing Per Death,死亡ごとの回復量
 STATBOARD_TXT_000012,Kills Per Death,死亡あたりのキル数
-STATBOARD_TXT_000013,Damage Per Min,最小ダメージ
+STATBOARD_TXT_000013,Damage Per Min,毎分ダメージ
 STATBOARD_TXT_000014,Tanking Per Min,毎分タンキング
 STATBOARD_TXT_000015,Healing Per Min,毎分回復
 STATBOARD_TXT_000016,Deaths Per Min,毎分死亡者数
 STATBOARD_TXT_000017,Time Spent CC'd,CCに費やした時間
-STATBOARD_TXT_000018,CC's applied,CC が適用されている
+STATBOARD_TXT_000018,CC's applied,CC適用回数
 STATBOARD_TXT_000019,Damage Amped,ダメージ増幅
 STATBOARD_TXT_000020,Damage Mitigated,被害軽減
 STATBOARD_TXT_000021,Damage Reflected,反射ダメージ
