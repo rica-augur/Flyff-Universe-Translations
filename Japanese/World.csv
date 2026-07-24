@@ -1,8 +1,8 @@
 ﻿Key,English,Japanese
-DUASYLUM_WLD_000000,Ankou's Asylum,Ankou's Asylum
+DUASYLUM_WLD_000000,Ankou's Asylum,ベヒモス神殿
 DUASYLUM_WLD_000001,Ankou's Cell,Ankou's Cell
 DUCAVERN_WLD_000000,Leren Chasm (Instance Dungeon),レレンの淵（インスタンスダンジョン）
-DUHERNEOS_WLD_000000,Herneos (Dungeon),Herneos (Dungeon)
+DUHERNEOS_WLD_000000,Herneos (Dungeon),ヘルネオス（ダンジョン）
 DUDADK_WLD_000000,Dekane Mine (Dungeon),デェカネス鉱山（ダンジョン）
 WORLD_DUFLMAS_DUFLMAS_RGN_000000,Mars Mine (Dungeon),フラリスダンジョン
 DUGUARDIANE_WLD_000000,Guardiane Sanctuary (Instance Dungeon),ガーディアンサンクチュアリ（インスタンスダンジョン）
@@ -11,24 +11,24 @@ DURUSTIA_WLD_000000,The Wilds,ザ・ワイルズ
 DUSATEMPLE_WLD_000000,Iblis Temple (Dungeon),イブリス神殿（ダンジョン）
 DUSTORM_WLD_000000,Storm Peak (Instance Dungeon),ストームピーク（インスタンスダンジョン）
 DUUNDERWATER_WLD_000000,Envy Depths (Instance Dungeon),エンヴィーデプス（インスタンスダンジョン）
-DUUPRESIA_WLD_000000,Euphresia,Euphresia
+DUUPRESIA_WLD_000000,Euphresia,ユプレシア
 DUVOLKANE_WLD_000000,Volkane,ヴォルケイン
 DUVOLKANE_WLD_000001,Volkane (Dungeon),ヴォルケイン（ダンジョン）
 WDARENA_WLD_000000,Arena,～デュエルゾーン～
 WDARENA_WLD_000001,You can PvP in the Arena.,プレイヤー同士で戦うことができるフィールドです。
-WDARENA_WLD_000002,Training Center,Training Center
-WDARENA_WLD_000003,Test your capabilities against dummies!,Test your capabilities against dummies!
+WDARENA_WLD_000002,Training Center,トレーニングセンター
+WDARENA_WLD_000003,Test your capabilities against dummies!,ダミーを相手に力試しをしよう！
 WDARENA_WLD_000004,,
 WDARENA_WLD_000005,,
-WDARENA_WLD_000006,The Bronze Vagrant,The Bronze Vagrant
-WDARENA_WLD_000007,The Bronze Elementor,The Bronze Elementor
-WDARENA_WLD_000008,The Bronze Knight,The Bronze Knight
-WDARENA_WLD_000009,The Bronze Psykeeper,The Bronze Psykeeper
-WDARENA_WLD_000010,The Bronze Billposter,The Bronze Billposter
-WDARENA_WLD_000011,The Bronze Blade,The Bronze Blade
-WDARENA_WLD_000012,The Bronze Jester,The Bronze Jester
-WDARENA_WLD_000013,The Bronze Ranger,The Bronze Ranger
-WDARENA_WLD_000014,The Bronze Ringmaster,The Bronze Ringmaster
+WDARENA_WLD_000006,The Bronze Vagrant,青銅の放浪者像
+WDARENA_WLD_000007,The Bronze Elementor,青銅のエレメンター像
+WDARENA_WLD_000008,The Bronze Knight,青銅のナイト像
+WDARENA_WLD_000009,The Bronze Psykeeper,青銅のサイキーパー像
+WDARENA_WLD_000010,The Bronze Billposter,青銅のビルポスター像
+WDARENA_WLD_000011,The Bronze Blade,青銅のブレード像
+WDARENA_WLD_000012,The Bronze Jester,青銅のジェスター像
+WDARENA_WLD_000013,The Bronze Ranger,青銅のレンジャー像
+WDARENA_WLD_000014,The Bronze Ringmaster,青銅のリングマスター像
 WDCOLOSSEUM_WLD_000001,The Colosseum,コロッセオ
 WDCOLOSSEUM_WLD_000002,Colosseum Stadium,コロシアム
 WDCOLOSSEUM_WLD_000003,The Cage of Clockworks,時計仕掛けの檻
@@ -47,9 +47,9 @@ WDKEBARAS_WLD_000000,Lodelight,ロードライト
 WDKEBARAS_WLD_000001,This is a safe place.,～安全地帯～
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,ケバラス
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",罪深き島。ケバラスタウン。\nここは昔、犯罪者の刑務所だったそうだ...。
-WDKEBARAS2_WLD_000000,Lodelight,Lodelight
-WDKEBARAS2_WLD_000001,This is a safe place.,This is a safe place.
-WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,Kebaras 2
+WDKEBARAS2_WLD_000000,Lodelight,ロードライト
+WDKEBARAS2_WLD_000001,This is a safe place.,～安全地帯～
+WORLD_WDKEBARAS2_WDKEBARAS_RGN_000000,Kebaras 2,ケバラス2
 WORLD_WDKEBARAS2_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras 2!\nLong ago, this place served as a prison for criminals..."
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘的な城
 WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,地図にもない場所。中に入る方法を知っている人はいないようだ・・・。
@@ -80,18 +80,18 @@ WDMADRIGAL_WLD_000029,Welcome to Coral!,コーラルへようこそ!
 WDMADRIGAL_WLD_000030,Red Sea,紅海
 WDMADRIGAL_WLD_000032,Deep Sea,深海
 WDMADRIGAL_WLD_000034,Swamp,沼
-WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
-WDMADRIGAL_WLD_000037,Kaillun,Kaillun
-WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
+WDMADRIGAL_WLD_000035,Saint City Arena,セイントモーニング アリーナ
+WDMADRIGAL_WLD_000036,This place was famous long ago...,ここ、昔は結構有名だったんだよ…
+WDMADRIGAL_WLD_000037,Kaillun,カイルルン
+WDMADRIGAL_WLD_000038,Welcome to Kaillun!,カイルルンへようこそ!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
 WDMADRIGAL_WLD_000040,This is a safe place.,ここは安全な空間です。
-WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
+WDMADRIGAL_WLD_000041,Kaillun Grassland,カイルルン草原
 WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
-WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
+WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,ベヒモス神殿エントランス
 WDMADRIGAL_WLD_000047,This is a safe place.,ここは安全な空間です。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,第2エランパークス\n（ダーコン第1地区）
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,生産量第2位のエランス生産工場です。
@@ -252,11 +252,11 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000157,Saint City\nLittle Theater of Pepoview,�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,ネオ・ロードヴァンのアジト\n（ダーコン第1地区）
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,ジェスターの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,ムーの谷\n（ダーコン第3地区）
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164,Euphresia,Euphresia
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare.","Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,ヘルネオス
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.",ヘルネオスは、壮麗な建築物が立ち並ぶ美しい海底の楽園だった。\nしかし、シェードの手により、大きな混乱がもたらされた。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,エルリウン
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000164,Euphresia,ユプレシア
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000165,"Euphresia was a magical, dreamlike wetland where giant glowing mushrooms and enchanted fauna thrived in perfect harmony.\nHowever, Rhisis' ancient anger unleashed a dark corruption upon the soil, twisting the peaceful forest into a treacherous, spore-choked nightmare.",ユプレシアは、光り輝く巨大なキノコと魔法の生き物たちが調和して暮らす、幻想的で夢のような湿地帯だった。\nしかし、リシスの太古の怒りが大地に暗い穢れを解き放ち、穏やかだった森を、胞子に満ちた危険な悪夢へと変えてしまった。
 PROTOTYPE_WLD_000000,Prototype,プロトタイプ
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,マドリガルの知られざる場所
 WDPROTOTYPE_WLD_000001,Only a Game Master can help you to leave.,ゲームマスターだけがあなたが去るのを手伝うことができます。
@@ -265,4 +265,4 @@ WDREALM_WLD_000001,This is a safe place.,～安全地帯～
 WDREALM_WLD_000002,This is a safe place.,～安全地帯～
 WORLD_WDEVENT01_WDEVENT01_RGN_000000,You enter a battle zone!!!,バトルゾーンに入場しました！
 WDHEAVEN06_1_WLD_000003,Secret Room,シークレットルーム
-WDUPRESIA_WLD_000000,Euphresia,Euphresia
+WDUPRESIA_WLD_000000,Euphresia,ユプレシア
