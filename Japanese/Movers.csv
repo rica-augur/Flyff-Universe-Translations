@@ -1086,7 +1086,7 @@ PROPMOVER_TXT_110125,Meral,メレー
 PROPMOVER_TXT_110126,Captain Meral,キャプテン・メレー
 PROPMOVER_TXT_110127,Giant Kingster,ジャイアント・キングスター
 PROPMOVER_TXT_110128,Giant Kraken,ジャイアント・クラーケン
-PROPMOVER_TXT_110129,Giant Creper,ジャイアント・クレーパー
+PROPMOVER_TXT_110129,Giant Creper,ジャイアント・シザークラブ
 PROPMOVER_TXT_110130,Giant Naga,ジャイアント・ナーガ
 PROPMOVER_TXT_110131,Giant Atrox,ジャイアント・アトロックス
 PROPMOVER_TXT_110132,Giant Okean,ジャイアント・オケアン
@@ -1095,7 +1095,7 @@ PROPMOVER_TXT_110134,Giant Dorian,ジャイアント・ドリアン
 PROPMOVER_TXT_110135,Giant Meral,ジャイアント・メラル
 PROPMOVER_TXT_110136,Violet Kingster,ヴァイオレット・キングスター
 PROPMOVER_TXT_110137,Violet Kraken,ヴァイオレット・クラーケン
-PROPMOVER_TXT_110138,Violet Creper,バイオレット・クリーパー
+PROPMOVER_TXT_110138,Violet Creper,バイオレット・シザークラブ
 PROPMOVER_TXT_110139,Violet Naga,ヴァイオレット・ナーガ
 PROPMOVER_TXT_110140,Violet Atrox,バイオレット・アトロックス
 PROPMOVER_TXT_110141,Violet Okean,バイオレット・オケアン
@@ -1241,335 +1241,335 @@ PROPMOVER_TXT_400253,Orange Magical Toad,オレンジマジカルトード
 PROPMOVER_TXT_400254,Green Magical Toad,グリーンマジカルトード
 PROPMOVER_TXT_400255,Red Magical Toad,レッドマジカルトード
 PROPMOVER_TXT_400256,Dark Magical Toad,ダークマジカルトード
-PROPMOVER_TXT_400258,[Event] Creper,[Event] Creper
-PROPMOVER_TXT_400259,[Event] Violet Creper,[Event] Violet Creper
-PROPMOVER_TXT_400260,Red Earless Seal,Red Earless Seal
-PROPMOVER_TXT_400261,Purple Earless Seal,Purple Earless Seal
-PROPMOVER_TXT_400262,Burgundy Earless Seal,Burgundy Earless Seal
-PROPMOVER_TXT_400263,Pink Earless Seal,Pink Earless Seal
-PROPMOVER_TXT_400264,Orange Earless Seal,Orange Earless Seal
-PROPMOVER_TXT_400265,Blue Earless Seal,Blue Earless Seal
-PROPMOVER_TXT_400266,White Earless Seal,White Earless Seal
-PROPMOVER_TXT_400267,Brown Butterflies,Brown Butterflies
-PROPMOVER_TXT_400268,Purple Butterflies,Purple Butterflies
-PROPMOVER_TXT_400269,Green Butterflies,Green Butterflies
-PROPMOVER_TXT_400270,Pink Butterflies,Pink Butterflies
-PROPMOVER_TXT_400271,Red Butterflies,Red Butterflies
-PROPMOVER_TXT_400272,White Butterflies,White Butterflies
-PROPMOVER_TXT_400273,Black Butterflies,Black Butterflies
-PROPMOVER_TXT_400274,Green DJ Froggy,Green DJ Froggy
-PROPMOVER_TXT_400275,Red DJ Froggy,Red DJ Froggy
-PROPMOVER_TXT_400276,Purple DJ Froggy,Purple DJ Froggy
-PROPMOVER_TXT_400277,Pink DJ Froggy,Pink DJ Froggy
-PROPMOVER_TXT_400278,Cyan DJ Froggy,Cyan DJ Froggy
-PROPMOVER_TXT_400279,Blue DJ Froggy,Blue DJ Froggy
-PROPMOVER_TXT_400280,Black DJ Froggy,Black DJ Froggy
-PROPMOVER_TXT_400281,Lord Demian,Lord Demian
-PROPMOVER_TXT_400282,Lord Mushpang,Lord Mushpang
-PROPMOVER_TXT_400283,Yellow Junior Banana Hero,Yellow Junior Banana Hero
-PROPMOVER_TXT_400284,Purple Junior Banana Hero,Purple Junior Banana Hero
-PROPMOVER_TXT_400285,Orange Junior Banana Hero,Orange Junior Banana Hero
-PROPMOVER_TXT_400286,Blue Junior Banana Hero,Blue Junior Banana Hero
-PROPMOVER_TXT_400287,Green Junior Banana Hero,Green Junior Banana Hero
-PROPMOVER_TXT_400288,Pink Junior Banana Hero,Pink Junior Banana Hero
-PROPMOVER_TXT_400289,White Junior Banana Hero,White Junior Banana Hero
-PROPMOVER_TXT_400290,Lord Zenma,Lord Zenma
-PROPMOVER_TXT_400291,[Event] Pirate ship,[Event] Pirate ship
-PROPMOVER_TXT_400292,Shadowirs,Shadowirs
-PROPMOVER_TXT_400293,Captain Shadowirs,Captain Shadowirs
-PROPMOVER_TXT_400294,Giant Shadowirs,Giant Shadowirs
-PROPMOVER_TXT_400295,Small Skelmaw,Small Skelmaw
-PROPMOVER_TXT_400296,Skelmaw,Skelmaw
-PROPMOVER_TXT_400297,Captain Skelmaw,Captain Skelmaw
-PROPMOVER_TXT_400298,Giant Skelmaw,Giant Skelmaw
+PROPMOVER_TXT_400258,[Event] Creper,[Event] シザークラブ
+PROPMOVER_TXT_400259,[Event] Violet Creper,[Event] バイオレット・シザークラブ
+PROPMOVER_TXT_400260,Red Earless Seal,レッドアザラシ
+PROPMOVER_TXT_400261,Purple Earless Seal,パープルアザラシ
+PROPMOVER_TXT_400262,Burgundy Earless Seal,バーガンディアザラシ
+PROPMOVER_TXT_400263,Pink Earless Seal,ピンクアザラシ
+PROPMOVER_TXT_400264,Orange Earless Seal,オレンジアザラシ
+PROPMOVER_TXT_400265,Blue Earless Seal,ブルーアザラシ
+PROPMOVER_TXT_400266,White Earless Seal,ホワイトアザラシ
+PROPMOVER_TXT_400267,Brown Butterflies,ブラウン蝶々
+PROPMOVER_TXT_400268,Purple Butterflies,パープル蝶々
+PROPMOVER_TXT_400269,Green Butterflies,グリーン蝶々
+PROPMOVER_TXT_400270,Pink Butterflies,ピンク蝶々
+PROPMOVER_TXT_400271,Red Butterflies,レッド蝶々
+PROPMOVER_TXT_400272,White Butterflies,ホワイト蝶々
+PROPMOVER_TXT_400273,Black Butterflies,ブラック蝶々
+PROPMOVER_TXT_400274,Green DJ Froggy,グリーンDJフロッグ
+PROPMOVER_TXT_400275,Red DJ Froggy,レッドDJフロッグ
+PROPMOVER_TXT_400276,Purple DJ Froggy,パープルDJフロッグ
+PROPMOVER_TXT_400277,Pink DJ Froggy,ピンクDJフロッグ
+PROPMOVER_TXT_400278,Cyan DJ Froggy,シアンDJフロッグ
+PROPMOVER_TXT_400279,Blue DJ Froggy,ブルーDJフロッグ
+PROPMOVER_TXT_400280,Black DJ Froggy,ブラックDJフロッグ
+PROPMOVER_TXT_400281,Lord Demian,ロード・デミアン
+PROPMOVER_TXT_400282,Lord Mushpang,ロード・マッシュファング
+PROPMOVER_TXT_400283,Yellow Junior Banana Hero,イエローリトルバナナヒーロー
+PROPMOVER_TXT_400284,Purple Junior Banana Hero,パープルリトルバナナヒーロー
+PROPMOVER_TXT_400285,Orange Junior Banana Hero,オレンジリトルバナナヒーロー
+PROPMOVER_TXT_400286,Blue Junior Banana Hero,ブルーリトルバナナヒーロー
+PROPMOVER_TXT_400287,Green Junior Banana Hero,グリーンリトルバナナヒーロー
+PROPMOVER_TXT_400288,Pink Junior Banana Hero,ピンクリトルバナナヒーロー
+PROPMOVER_TXT_400289,White Junior Banana Hero,ホワイトリトルバナナヒーロー
+PROPMOVER_TXT_400290,Lord Zenma,ロード・ゼンマー
+PROPMOVER_TXT_400291,[Event] Pirate ship,[Event] 海賊船
+PROPMOVER_TXT_400292,Shadowirs,シャドウィアズ
+PROPMOVER_TXT_400293,Captain Shadowirs,キャプテン・シャドウィアズ
+PROPMOVER_TXT_400294,Giant Shadowirs,ジャイアント・シャドウィアズ
+PROPMOVER_TXT_400295,Small Skelmaw,スモール・スケルモウ
+PROPMOVER_TXT_400296,Skelmaw,スケルモウ
+PROPMOVER_TXT_400297,Captain Skelmaw,キャプテン・スケルモウ
+PROPMOVER_TXT_400298,Giant Skelmaw,ジャイアント・スケルモウ
 PROPMOVER_TXT_400299,Alchemy Desk,Alchemy Desk
 PROPMOVER_TXT_400300,Hearth,Hearth
 PROPMOVER_TXT_400301,Carpentry Workspace,Carpentry Workspace
 PROPMOVER_TXT_400302,Smithing Workspace,Smithing Workspace
 PROPMOVER_TXT_400303,Wandering Merchant,Wandering Merchant
-PROPMOVER_TXT_400304,Small Maleficar,Small Maleficar
-PROPMOVER_TXT_400305,Maleficar,Maleficar
-PROPMOVER_TXT_400306,Captain Maleficar,Captain Maleficar
-PROPMOVER_TXT_400307,Giant Maleficar,Giant Maleficar
-PROPMOVER_TXT_400308,Small Cursed Warden,Small Cursed Warden
-PROPMOVER_TXT_400309,Cursed Warden,Cursed Warden
-PROPMOVER_TXT_400310,Captain Cursed Warden,Captain Cursed Warden
-PROPMOVER_TXT_400311,Giant Cursed Warden,Giant Cursed Warden
-PROPMOVER_TXT_400312,Small Shadowirs,Small Shadowirs
-PROPMOVER_TXT_400313,Great Shadowirs,Great Shadowirs
-PROPMOVER_TXT_400314,Great Skelmaw,Great Skelmaw
-PROPMOVER_TXT_400315,Great Maleficar,Great Maleficar
-PROPMOVER_TXT_400316,Great Cursed Warden,Great Cursed Warden
-PROPMOVER_TXT_400317,Cyan Gloomie,Cyan Gloomie
-PROPMOVER_TXT_400318,Green Gloomie,Green Gloomie
-PROPMOVER_TXT_400319,Blue Gloomie,Blue Gloomie
-PROPMOVER_TXT_400320,Purple Gloomie,Purple Gloomie
-PROPMOVER_TXT_400321,Red Gloomie,Red Gloomie
-PROPMOVER_TXT_400322,Gray Gloomie,Gray Gloomie
-PROPMOVER_TXT_400323,Blue Medieval Horse,Blue Medieval Horse
-PROPMOVER_TXT_400324,Purple Medieval Horse,Purple Medieval Horse
-PROPMOVER_TXT_400325,Cyan Medieval Horse,Cyan Medieval Horse
-PROPMOVER_TXT_400326,Green Medieval Horse,Green Medieval Horse
-PROPMOVER_TXT_400327,Red Medieval Horse,Red Medieval Horse
-PROPMOVER_TXT_400328,Black Medieval Horse,Black Medieval Horse
-PROPMOVER_TXT_400329,Captain Luminfin,Captain Luminfin
-PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[Depths Guardian] Bunyip
-PROPMOVER_TXT_400331,[Depths Queen] Nereid,[Depths Queen] Nereid
-PROPMOVER_TXT_400332,Sovann,Sovann
-PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[Shade Lieutenant] Kriton
-PROPMOVER_TXT_400334,Dreadfin,Dreadfin
-PROPMOVER_TXT_400335,Captain Dreadfin,Captain Dreadfin
-PROPMOVER_TXT_400336,Dreadscale,Dreadscale
-PROPMOVER_TXT_400337,Captain Dreadscale,Captain Dreadscale
-PROPMOVER_TXT_400338,Luminfin,Luminfin
-PROPMOVER_TXT_400339,Hyuna,Hyuna
-PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[Event] Christmas Aibatt
-PROPMOVER_TXT_400351,Blue Cobra,Blue Cobra
-PROPMOVER_TXT_400340,Red Christmas Gingy,Red Christmas Gingy
-PROPMOVER_TXT_400341,Green Christmas Gingy,Green Christmas Gingy
-PROPMOVER_TXT_400342,Pink Christmas Gingy,Pink Christmas Gingy
-PROPMOVER_TXT_400343,Orange Christmas Gingy,Orange Christmas Gingy
-PROPMOVER_TXT_400344,Purple Christmas Gingy,Purple Christmas Gingy
-PROPMOVER_TXT_400345,Blue Christmas Gingy,Blue Christmas Gingy
-PROPMOVER_TXT_400352,Green Little Snaky,Green Little Snaky
-PROPMOVER_TXT_400353,Purple Little Snaky,Purple Little Snaky
-PROPMOVER_TXT_400354,Pink Little Snaky,Pink Little Snaky
-PROPMOVER_TXT_400355,Blue Little Snaky,Blue Little Snaky
-PROPMOVER_TXT_400356,Red Little Snaky,Red Little Snaky
-PROPMOVER_TXT_400357,Emerald Little Snaky,Emerald Little Snaky
-PROPMOVER_TXT_400358,Black Little Snaky,Black Little Snaky
-PROPMOVER_TXT_400359,Purple Frostpaw,Purple Frostpaw
-PROPMOVER_TXT_400360,Yellow Frostpaw,Yellow Frostpaw
-PROPMOVER_TXT_400361,Blue Frostpaw,Blue Frostpaw
-PROPMOVER_TXT_400362,Green Frostpaw,Green Frostpaw
-PROPMOVER_TXT_400363,Pink Frostpaw,Pink Frostpaw
-PROPMOVER_TXT_400364,Red Frostpaw,Red Frostpaw
-PROPMOVER_TXT_400365,White Frostpaw,White Frostpaw
-PROPMOVER_TXT_400366,Black Frostpaw,Black Frostpaw
-PROPMOVER_TXT_400367,Red Roaryen,Red Roaryen
-PROPMOVER_TXT_400368,Purple Roaryen,Purple Roaryen
-PROPMOVER_TXT_400369,Blue Roaryen,Blue Roaryen
-PROPMOVER_TXT_400370,Green Roaryen,Green Roaryen
-PROPMOVER_TXT_400371,White Roaryen,White Roaryen
-PROPMOVER_TXT_400372,Black Roaryen,Black Roaryen
+PROPMOVER_TXT_400304,Small Maleficar,スモール・マレフィカー
+PROPMOVER_TXT_400305,Maleficar,マレフィカー
+PROPMOVER_TXT_400306,Captain Maleficar,キャプテン・マレフィカー
+PROPMOVER_TXT_400307,Giant Maleficar,ジャイアント・マレフィカー
+PROPMOVER_TXT_400308,Small Cursed Warden,スモール・呪われた番人
+PROPMOVER_TXT_400309,Cursed Warden,呪われた番人
+PROPMOVER_TXT_400310,Captain Cursed Warden,キャプテン・呪われた番人
+PROPMOVER_TXT_400311,Giant Cursed Warden,ジャイアント・呪われた番人
+PROPMOVER_TXT_400312,Small Shadowirs,スモール・シャドウィアズ
+PROPMOVER_TXT_400313,Great Shadowirs,グレート・シャドウィアズ
+PROPMOVER_TXT_400314,Great Skelmaw,グレート・スケルモウ
+PROPMOVER_TXT_400315,Great Maleficar,グレート・マレフィカー
+PROPMOVER_TXT_400316,Great Cursed Warden,グレート・呪われた番人
+PROPMOVER_TXT_400317,Cyan Gloomie,シアングルーミィ
+PROPMOVER_TXT_400318,Green Gloomie,グリーングルーミィ
+PROPMOVER_TXT_400319,Blue Gloomie,ブルーグルーミィ
+PROPMOVER_TXT_400320,Purple Gloomie,パープルグルーミィ
+PROPMOVER_TXT_400321,Red Gloomie,レッドグルーミィ
+PROPMOVER_TXT_400322,Gray Gloomie,グレーグルーミィ
+PROPMOVER_TXT_400323,Blue Medieval Horse,ブルーメディーバルホース
+PROPMOVER_TXT_400324,Purple Medieval Horse,パープルメディーバルホース
+PROPMOVER_TXT_400325,Cyan Medieval Horse,シアンメディーバルホース
+PROPMOVER_TXT_400326,Green Medieval Horse,グリーンメディーバルホース
+PROPMOVER_TXT_400327,Red Medieval Horse,レッドメディーバルホース
+PROPMOVER_TXT_400328,Black Medieval Horse,ブラックメディーバルホース
+PROPMOVER_TXT_400329,Captain Luminfin,キャプテン・ルミンフィン
+PROPMOVER_TXT_400330,[Depths Guardian] Bunyip,[深淵の守護者] バニップ
+PROPMOVER_TXT_400331,[Depths Queen] Nereid,[深淵の女王] ネレイド
+PROPMOVER_TXT_400332,Sovann,ソヴァン
+PROPMOVER_TXT_400333,[Shade Lieutenant] Kriton,[シェードの幹部] クリトン
+PROPMOVER_TXT_400334,Dreadfin,ドレッドフィン
+PROPMOVER_TXT_400335,Captain Dreadfin,キャプテン・ドレッドフィン
+PROPMOVER_TXT_400336,Dreadscale,ドレッドスケイル
+PROPMOVER_TXT_400337,Captain Dreadscale,キャプテン・ドレッドスケイル
+PROPMOVER_TXT_400338,Luminfin,ルミンフィン
+PROPMOVER_TXT_400339,Hyuna,ヒョナ
+PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[Event] クリスマスアイバット
+PROPMOVER_TXT_400351,Blue Cobra,ブルーコブラ
+PROPMOVER_TXT_400340,Red Christmas Gingy,レッドクリスマスジンジー
+PROPMOVER_TXT_400341,Green Christmas Gingy,グリーンクリスマスジンジー
+PROPMOVER_TXT_400342,Pink Christmas Gingy,ピンククリスマスジンジー
+PROPMOVER_TXT_400343,Orange Christmas Gingy,オレンジクリスマスジンジー
+PROPMOVER_TXT_400344,Purple Christmas Gingy,パープルクリスマスジンジー
+PROPMOVER_TXT_400345,Blue Christmas Gingy,ブルークリスマスジンジー
+PROPMOVER_TXT_400352,Green Little Snaky,グリーンリトルスネーキー
+PROPMOVER_TXT_400353,Purple Little Snaky,パープルリトルスネーキー
+PROPMOVER_TXT_400354,Pink Little Snaky,ピンクリトルスネーキー
+PROPMOVER_TXT_400355,Blue Little Snaky,ブルーリトルスネーキー
+PROPMOVER_TXT_400356,Red Little Snaky,レッドリトルスネーキー
+PROPMOVER_TXT_400357,Emerald Little Snaky,エメラルドリトルスネーキー
+PROPMOVER_TXT_400358,Black Little Snaky,ブラックリトルスネーキー
+PROPMOVER_TXT_400359,Purple Frostpaw,パープルフロストポウ
+PROPMOVER_TXT_400360,Yellow Frostpaw,イエローフロストポウ
+PROPMOVER_TXT_400361,Blue Frostpaw,ブルーフロストポウ
+PROPMOVER_TXT_400362,Green Frostpaw,グリーンフロストポウ
+PROPMOVER_TXT_400363,Pink Frostpaw,ピンクフロストポウ
+PROPMOVER_TXT_400364,Red Frostpaw,レッドフロストポウ
+PROPMOVER_TXT_400365,White Frostpaw,ホワイトフロストポウ
+PROPMOVER_TXT_400366,Black Frostpaw,ブラックフロストポウ
+PROPMOVER_TXT_400367,Red Roaryen,レッドロアリエン
+PROPMOVER_TXT_400368,Purple Roaryen,パープルロアリエン
+PROPMOVER_TXT_400369,Blue Roaryen,ブルーロアリエン
+PROPMOVER_TXT_400370,Green Roaryen,グリーンロアリエン
+PROPMOVER_TXT_400371,White Roaryen,ホワイトロアリエン
+PROPMOVER_TXT_400372,Black Roaryen,ブラックロアリエン
 PROPMOVER_TXT_001236,Mechamochi,Mechamochi
-PROPMOVER_TXT_001237,[Event] Clockworks,[Event] Clockworks
-PROPMOVER_TXT_001238,Baby Pang,Baby Pang
-PROPMOVER_TXT_400373,Lord Mothbee,Lord Mothbee
-PROPMOVER_TXT_400374,Lord Zendros,Lord Zendros
-PROPMOVER_TXT_400375,Lord Dumb Bull,Lord Dumb Bull
-PROPMOVER_TXT_400376,Lord Totemia,Lord Totemia
-PROPMOVER_TXT_400377,Lord Flybrigen,Lord Flybrigen
-PROPMOVER_TXT_400378,Lord Neparuba,Lord Neparuba
-PROPMOVER_TXT_400379,Lord Rockepeller,Lord Rockepeller
-PROPMOVER_TXT_400380,Lord Longwing,Lord Longwing
-PROPMOVER_TXT_400381,Lord Shuhamma,Lord Shuhamma
-PROPMOVER_TXT_400382,Lord Watangka,Lord Watangka
-PROPMOVER_TXT_400383,Lord Fafnir,Lord Fafnir
-PROPMOVER_TXT_400384,Lord Gorruda,Lord Gorruda
-PROPMOVER_TXT_400385,Lord Mammoth,Lord Mammoth
+PROPMOVER_TXT_001237,[Event] Clockworks,[Event] クロックワークス
+PROPMOVER_TXT_001238,Baby Pang,ベビーパン
+PROPMOVER_TXT_400373,Lord Mothbee,ロード・モスビー
+PROPMOVER_TXT_400374,Lord Zendros,ロード・ゼンドロス
+PROPMOVER_TXT_400375,Lord Dumb Bull,ロード・ダンブル
+PROPMOVER_TXT_400376,Lord Totemia,ロード・トーテミア
+PROPMOVER_TXT_400377,Lord Flybrigen,ロード・フリビーリーズン
+PROPMOVER_TXT_400378,Lord Neparuba,ロード・ネパルバ
+PROPMOVER_TXT_400379,Lord Rockepeller,ロード・ロケッペラー
+PROPMOVER_TXT_400380,Lord Longwing,ロード・ロングウィング
+PROPMOVER_TXT_400381,Lord Shuhamma,ロード・シューハンマー
+PROPMOVER_TXT_400382,Lord Watangka,ロード・ワタングカ
+PROPMOVER_TXT_400383,Lord Fafnir,ロード・ファフニール
+PROPMOVER_TXT_400384,Lord Gorruda,ロード・ゴルーダ
+PROPMOVER_TXT_400385,Lord Mammoth,ロード・マンモス
 PROPMOVER_TXT_400386,Ghost of the Forgotten Lord,Ghost of the Forgotten Lord
-PROPMOVER_TXT_400387,Lord Augu,Lord Augu
-PROPMOVER_TXT_400388,Overlord Kraken,Overlord Kraken
-PROPMOVER_TXT_400389,Lord Dorian,Lord Dorian
-PROPMOVER_TXT_400390,Lord Okean,Lord Okean
-PROPMOVER_TXT_400391,Lord Naga,Lord Naga
-PROPMOVER_TXT_400392,Overlord Naga,Overlord Naga
-PROPMOVER_TXT_400393,Overlord Meral,Overlord Meral
-PROPMOVER_TXT_400394,Lord Tigar,Lord Tigar
-PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,Pink Guardian Easter Bunny
-PROPMOVER_TXT_400396,Green Guardian Easter Bunny,Green Guardian Easter Bunny
-PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,Blue Guardian Easter Bunny
-PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,Orange Guardian Easter Bunny
-PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,Purple Guardian Easter Bunny
-PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,Dark Guardian Easter Bunny
-PROPMOVER_TXT_400401,Lord Yetti,Lord Yetti
-PROPMOVER_TXT_400402,Purple Pawsy,Purple Pawsy
-PROPMOVER_TXT_400403,Red Pawsy,Red Pawsy
-PROPMOVER_TXT_400404,Green Pawsy,Green Pawsy
-PROPMOVER_TXT_400405,Blue Pawsy,Blue Pawsy
-PROPMOVER_TXT_400406,Magenta Pawsy,Magenta Pawsy
-PROPMOVER_TXT_400407,Lavender Pawsy,Lavender Pawsy
-PROPMOVER_TXT_400408,Pink Pawsy,Pink Pawsy
-PROPMOVER_TXT_400409,Gray Pawsy,Gray Pawsy
-PROPMOVER_TXT_400410,Orange Flumos,Orange Flumos
-PROPMOVER_TXT_400411,Purple Flumos,Purple Flumos
-PROPMOVER_TXT_400412,Red Flumos,Red Flumos
-PROPMOVER_TXT_400413,Blue Flumos,Blue Flumos
-PROPMOVER_TXT_400414,Green Flumos,Green Flumos
-PROPMOVER_TXT_400415,Yellow Flumos,Yellow Flumos
-PROPMOVER_TXT_400416,White Flumos,White Flumos
-PROPMOVER_TXT_400417,Black Flumos,Black Flumos
+PROPMOVER_TXT_400387,Lord Augu,ロード・アウグ
+PROPMOVER_TXT_400388,Overlord Kraken,オーバーロード・クラーケン
+PROPMOVER_TXT_400389,Lord Dorian,ロード・ドリアン
+PROPMOVER_TXT_400390,Lord Okean,ロード・オケアノス
+PROPMOVER_TXT_400391,Lord Naga,ロード・ナーガ
+PROPMOVER_TXT_400392,Overlord Naga,オーバーロード・ナーガ
+PROPMOVER_TXT_400393,Overlord Meral,オーバーロード・メレー
+PROPMOVER_TXT_400394,Lord Tigar,ロード・ティーガー
+PROPMOVER_TXT_400395,Pink Guardian Easter Bunny,ピンクガーディアンイースターバニー
+PROPMOVER_TXT_400396,Green Guardian Easter Bunny,グリーンガーディアンイースターバニー
+PROPMOVER_TXT_400397,Blue Guardian Easter Bunny,ブルーガーディアンイースターバニー
+PROPMOVER_TXT_400398,Orange Guardian Easter Bunny,オレンジガーディアンイースターバニー
+PROPMOVER_TXT_400399,Purple Guardian Easter Bunny,パープルガーディアンイースターバニー
+PROPMOVER_TXT_400400,Dark Guardian Easter Bunny,ダークガーディアンイースターバニー
+PROPMOVER_TXT_400401,Lord Yetti,ロード・イエティ
+PROPMOVER_TXT_400402,Purple Pawsy,パープルポージー
+PROPMOVER_TXT_400403,Red Pawsy,レッドポージー
+PROPMOVER_TXT_400404,Green Pawsy,グリーンポージー
+PROPMOVER_TXT_400405,Blue Pawsy,ブルーポージー
+PROPMOVER_TXT_400406,Magenta Pawsy,マゼンタポージー
+PROPMOVER_TXT_400407,Lavender Pawsy,ラベンダーポージー
+PROPMOVER_TXT_400408,Pink Pawsy,ピンクポージー
+PROPMOVER_TXT_400409,Gray Pawsy,グレーポージー
+PROPMOVER_TXT_400410,Orange Flumos,オレンジフルーモス
+PROPMOVER_TXT_400411,Purple Flumos,パープルフルーモス
+PROPMOVER_TXT_400412,Red Flumos,レッドフルーモス
+PROPMOVER_TXT_400413,Blue Flumos,ブルーフルーモス
+PROPMOVER_TXT_400414,Green Flumos,グリーンフルーモス
+PROPMOVER_TXT_400415,Yellow Flumos,イエローフルーモス
+PROPMOVER_TXT_400416,White Flumos,ホワイトフルーモス
+PROPMOVER_TXT_400417,Black Flumos,ブラックフルーモス
 PROPMOVER_TXT_400418,Wounded Revolutionary,Wounded Revolutionary
-PROPMOVER_TXT_400419,Yellow Breezy,Yellow Breezy
-PROPMOVER_TXT_400420,Purple Breezy,Purple Breezy
-PROPMOVER_TXT_400421,Blue Breezy,Blue Breezy
-PROPMOVER_TXT_400422,Pink Breezy,Pink Breezy
-PROPMOVER_TXT_400423,White Breezy,White Breezy
-PROPMOVER_TXT_400424,Black Breezy,Black Breezy
-PROPMOVER_TXT_400425,Blue Pawsh,Blue Pawsh
-PROPMOVER_TXT_400426,Pink Pawsh,Pink Pawsh
-PROPMOVER_TXT_400427,Orange Pawsh,Orange Pawsh
-PROPMOVER_TXT_400428,Green Pawsh,Green Pawsh
-PROPMOVER_TXT_400429,Navy Pawsh,Navy Pawsh
-PROPMOVER_TXT_400430,Red Pawsh,Red Pawsh
-PROPMOVER_TXT_400431,Fortune Pang,Fortune Pang
-PROPMOVER_TXT_400432,Orange Marshall,Orange Marshall
-PROPMOVER_TXT_400433,Green Marshall,Green Marshall
-PROPMOVER_TXT_400434,Cyan Marshall,Cyan Marshall
-PROPMOVER_TXT_400435,Purple Marshall,Purple Marshall
-PROPMOVER_TXT_400436,Red Marshall,Red Marshall
-PROPMOVER_TXT_400437,Neon Marshall,Neon Marshall
-PROPMOVER_TXT_400438,Brown Strawy Jack,Brown Strawy Jack
-PROPMOVER_TXT_400439,Maroon Strawy Jack,Maroon Strawy Jack
-PROPMOVER_TXT_400440,Green Strawy Jack,Green Strawy Jack
-PROPMOVER_TXT_400441,Purple Strawy Jack,Purple Strawy Jack
-PROPMOVER_TXT_400442,Olive Strawy Jack,Olive Strawy Jack
-PROPMOVER_TXT_400443,Blue Strawy Jack,Blue Strawy Jack
-PROPMOVER_TXT_400444,Black Strawy Jack,Black Strawy Jack
-PROPMOVER_TXT_400445,White Strawy Jack,White Strawy Jack
-PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[Event] Giant Mr. Pumpkin
-PROPMOVER_TXT_400447,Green Frogzy,Green Frogzy
-PROPMOVER_TXT_400448,Yellow Frogzy,Yellow Frogzy
-PROPMOVER_TXT_400449,Pink Frogzy,Pink Frogzy
-PROPMOVER_TXT_400450,Purple Frogzy,Purple Frogzy
-PROPMOVER_TXT_400451,Cyan Frogzy,Cyan Frogzy
-PROPMOVER_TXT_400452,Mint Green Frogzy,Mint Green Frogzy
-PROPMOVER_TXT_400453,Black Frogzy,Black Frogzy
-PROPMOVER_TXT_400454,White Frogzy,White Frogzy
-PROPMOVER_TXT_400455,Orange Whispero,Orange Whispero
-PROPMOVER_TXT_400456,Yellow Whispero,Yellow Whispero
-PROPMOVER_TXT_400457,Pink Whispero,Pink Whispero
-PROPMOVER_TXT_400458,Purple Whispero,Purple Whispero
-PROPMOVER_TXT_400459,Blue Whispero,Blue Whispero
-PROPMOVER_TXT_400460,Green Whispero,Green Whispero
-PROPMOVER_TXT_400461,Black Whispero,Black Whispero
-PROPMOVER_TXT_400462,White Whispero,White Whispero
-PROPMOVER_TXT_400463,Green Mecha Rabbit,Green Mecha Rabbit
-PROPMOVER_TXT_400464,Orange Mecha Rabbi,Orange Mecha Rabbi
-PROPMOVER_TXT_400465,Red Mecha Rabbit,Red Mecha Rabbit
-PROPMOVER_TXT_400466,Pink Mecha Rabbit,Pink Mecha Rabbit
-PROPMOVER_TXT_400467,Purple Mecha Rabbi,Purple Mecha Rabbi
-PROPMOVER_TXT_400468,Blue Mecha Rabbit,Blue Mecha Rabbit
-PROPMOVER_TXT_400469,Black Mecha Rabbit,Black Mecha Rabbit
-PROPMOVER_TXT_400470,White Mecha Rabbit,White Mecha Rabbit
-PROPMOVER_TXT_400471,Hellhound,Hellhound
-PROPMOVER_TXT_500001,Kanrang,Kanrang
+PROPMOVER_TXT_400419,Yellow Breezy,イエローブリージー
+PROPMOVER_TXT_400420,Purple Breezy,パープルブリージー
+PROPMOVER_TXT_400421,Blue Breezy,ブルーブリージー
+PROPMOVER_TXT_400422,Pink Breezy,ピンクブリージー
+PROPMOVER_TXT_400423,White Breezy,ホワイトブリージー
+PROPMOVER_TXT_400424,Black Breezy,ブラックブリージー
+PROPMOVER_TXT_400425,Blue Pawsh,ブルーポーシュ
+PROPMOVER_TXT_400426,Pink Pawsh,ピンクポーシュ
+PROPMOVER_TXT_400427,Orange Pawsh,オレンジポーシュ
+PROPMOVER_TXT_400428,Green Pawsh,グリーンポーシュ
+PROPMOVER_TXT_400429,Navy Pawsh,ネイビーポーシュ
+PROPMOVER_TXT_400430,Red Pawsh,レッドポーシュ
+PROPMOVER_TXT_400431,Fortune Pang,フォーチュンパン
+PROPMOVER_TXT_400432,Orange Marshall,オレンジマーシャル
+PROPMOVER_TXT_400433,Green Marshall,グリーンマーシャル
+PROPMOVER_TXT_400434,Cyan Marshall,シアンマーシャル
+PROPMOVER_TXT_400435,Purple Marshall,パープルマーシャル
+PROPMOVER_TXT_400436,Red Marshall,レッドマーシャル
+PROPMOVER_TXT_400437,Neon Marshall,ネオンマーシャル
+PROPMOVER_TXT_400438,Brown Strawy Jack,ブラウンストローイジャック
+PROPMOVER_TXT_400439,Maroon Strawy Jack,マルーンストローイジャック
+PROPMOVER_TXT_400440,Green Strawy Jack,グリーンストローイジャック
+PROPMOVER_TXT_400441,Purple Strawy Jack,パープルストローイジャック
+PROPMOVER_TXT_400442,Olive Strawy Jack,オリーブストローイジャック
+PROPMOVER_TXT_400443,Blue Strawy Jack,ブルーストローイジャック
+PROPMOVER_TXT_400444,Black Strawy Jack,ブラックストローイジャック
+PROPMOVER_TXT_400445,White Strawy Jack,ホワイトストローイジャック
+PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[Event] ジャイアント・カボチャ男爵
+PROPMOVER_TXT_400447,Green Frogzy,グリーンフロッジー
+PROPMOVER_TXT_400448,Yellow Frogzy,イエローフロッジー
+PROPMOVER_TXT_400449,Pink Frogzy,ピンクフロッジー
+PROPMOVER_TXT_400450,Purple Frogzy,パープルフロッジー
+PROPMOVER_TXT_400451,Cyan Frogzy,シアンフロッジー
+PROPMOVER_TXT_400452,Mint Green Frogzy,ミントグリーンフロッジー
+PROPMOVER_TXT_400453,Black Frogzy,ブラックフロッジー
+PROPMOVER_TXT_400454,White Frogzy,ホワイトフロッジー
+PROPMOVER_TXT_400455,Orange Whispero,オレンジウィスペロ
+PROPMOVER_TXT_400456,Yellow Whispero,イエローウィスペロ
+PROPMOVER_TXT_400457,Pink Whispero,ピンクウィスペロ
+PROPMOVER_TXT_400458,Purple Whispero,パープルウィスペロ
+PROPMOVER_TXT_400459,Blue Whispero,ブルーウィスペロ
+PROPMOVER_TXT_400460,Green Whispero,グリーンウィスペロ
+PROPMOVER_TXT_400461,Black Whispero,ブラックウィスペロ
+PROPMOVER_TXT_400462,White Whispero,ホワイトウィスペロ
+PROPMOVER_TXT_400463,Green Mecha Rabbit,グリーンメカラビット
+PROPMOVER_TXT_400464,Orange Mecha Rabbi,オレンジメカラビット
+PROPMOVER_TXT_400465,Red Mecha Rabbit,レッドメカラビット
+PROPMOVER_TXT_400466,Pink Mecha Rabbit,ピンクメカラビット
+PROPMOVER_TXT_400467,Purple Mecha Rabbi,パープルメカラビット
+PROPMOVER_TXT_400468,Blue Mecha Rabbit,ブルーメカラビット
+PROPMOVER_TXT_400469,Black Mecha Rabbit,ブラックメカラビット
+PROPMOVER_TXT_400470,White Mecha Rabbit,ホワイトメカラビット
+PROPMOVER_TXT_400471,Hellhound,スケルトンジャッカル
+PROPMOVER_TXT_500001,Kanrang,カルラン
 PROPMOVER_TXT_500002,Mewrang,Mewrang
 PROPMOVER_TXT_500003,Relgantus,Relgantus
-PROPMOVER_TXT_500004,Huntrang,Huntrang
+PROPMOVER_TXT_500004,Huntrang,フンツラン
 PROPMOVER_TXT_500005,Mawrang,マウラン
-PROPMOVER_TXT_500006,Cheirang,[ペットテイマー]チェイラン
-PROPMOVER_TXT_500007,Bato,Bato
+PROPMOVER_TXT_500006,Cheirang,チェイラン
+PROPMOVER_TXT_500007,Bato,パト
 PROPMOVER_TXT_500008,Ralbadan,Ralbadan
-PROPMOVER_TXT_500009,Miorang,Miorang
-PROPMOVER_TXT_500010,Ruidan,Ruidan
+PROPMOVER_TXT_500009,Miorang,ミウラン
+PROPMOVER_TXT_500010,Ruidan,ルイラン
 PROPMOVER_TXT_500011,Weevs,Weevs
-PROPMOVER_TXT_500012,Small Hundur Sharpfoot,Small Hundur Sharpfoot
-PROPMOVER_TXT_500013,Hundur Sharpfoot,Hundur Sharpfoot
-PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,Captain Hundur Sharpfoot
-PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,Giant Hundur Sharpfoot
-PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,Violet Hundur Sharpfoot
-PROPMOVER_TXT_500017,Small Samoset,Small Samoset
-PROPMOVER_TXT_500018,Samoset,Samoset
-PROPMOVER_TXT_500019,Captain Samoset,Captain Samoset
-PROPMOVER_TXT_500020,Giant Samoset,Giant Samoset
-PROPMOVER_TXT_500021,Violet Samoset,Violet Samoset
-PROPMOVER_TXT_500022,Small Kyouchish,Small Kyouchish
-PROPMOVER_TXT_500023,Kyouchish,Kyouchish
-PROPMOVER_TXT_500024,Captain Kyouchish,Captain Kyouchish
-PROPMOVER_TXT_500025,Giant Kyouchish,Giant Kyouchish
-PROPMOVER_TXT_500026,Violet Kyouchish,Violet Kyouchish
-PROPMOVER_TXT_500027,Small Kanonicus,Small Kanonicus
-PROPMOVER_TXT_500028,Kanonicus,Kanonicus
-PROPMOVER_TXT_500029,Captain Kanonicus,Captain Kanonicus
-PROPMOVER_TXT_500030,Giant Kanonicus,Giant Kanonicus
-PROPMOVER_TXT_500031,Violet Kanonicus,Violet Kanonicus
-PROPMOVER_TXT_500032,Small Mage Redcloud,Small Mage Redcloud
-PROPMOVER_TXT_500033,Mage Redcloud,Mage Redcloud
-PROPMOVER_TXT_500034,Captain Mage Redcloud,Captain Mage Redcloud
-PROPMOVER_TXT_500035,Giant Mage Redcloud,Giant Mage Redcloud
-PROPMOVER_TXT_500036,Violet Mage Redcloud,Violet Mage Redcloud
-PROPMOVER_TXT_500037,Small Taiaha,Small Taiaha
-PROPMOVER_TXT_500038,Taiaha,Taiaha
-PROPMOVER_TXT_500039,Captain Taiaha,Captain Taiaha
-PROPMOVER_TXT_500040,Giant Taiaha,Giant Taiaha
-PROPMOVER_TXT_500041,Violet Taiaha,Violet Taiaha
-PROPMOVER_TXT_500042,Small Hellhound,Small Hellhound
-PROPMOVER_TXT_500043,Hellhound,Hellhound
-PROPMOVER_TXT_500044,Captain Hellhound,Captain Hellhound
-PROPMOVER_TXT_500045,Giant Hellhound,Giant Hellhound
-PROPMOVER_TXT_500046,Violet Hellhound,Violet Hellhound
-PROPMOVER_TXT_500047,Chief Keokuk,Chief Keokuk
-PROPMOVER_TXT_500048,Monument of Death,Monument of Death
-PROPMOVER_TXT_500049,[Twisted Soul] Orcus,[Twisted Soul] Orcus
-PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[Tormented Soul] Nergal
-PROPMOVER_TXT_500051,[Demonic Soul] Hel,[Demonic Soul] Hel
-PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[Perverted Soul] Morrigan
-PROPMOVER_TXT_500053,[Anguished Soul] Mara,[Anguished Soul] Mara
-PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[Violent Soul] Ghed 
-PROPMOVER_TXT_500055,[God of Death] Ankou,[God of Death] Ankou
-PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[God of Death] Blazing Ankou
-PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[God of Death] Demonic Ankou
+PROPMOVER_TXT_500012,Small Hundur Sharpfoot,スモール・ワークウルフ
+PROPMOVER_TXT_500013,Hundur Sharpfoot,ワークウルフ
+PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,キャプテン・ワークウルフ
+PROPMOVER_TXT_500015,Giant Hundur Sharpfoot,ジャイアント・ワークウルフ
+PROPMOVER_TXT_500016,Violet Hundur Sharpfoot,バイオレット・ワークウルフ
+PROPMOVER_TXT_500017,Small Samoset,スモール・ライカンガード
+PROPMOVER_TXT_500018,Samoset,ライカンガード
+PROPMOVER_TXT_500019,Captain Samoset,キャプテン・ライカンガード
+PROPMOVER_TXT_500020,Giant Samoset,ジャイアント・ライカンガード
+PROPMOVER_TXT_500021,Violet Samoset,バイオレット・ライカンガード
+PROPMOVER_TXT_500022,Small Kyouchish,スモール・ライカンセンチネル
+PROPMOVER_TXT_500023,Kyouchish,ライカンセンチネル
+PROPMOVER_TXT_500024,Captain Kyouchish,キャプテン・ライカンセンチネル
+PROPMOVER_TXT_500025,Giant Kyouchish,ジャイアント・ライカンセンチネル
+PROPMOVER_TXT_500026,Violet Kyouchish,バイオレット・ライカンセンチネル
+PROPMOVER_TXT_500027,Small Kanonicus,スモール・ライカンアーチャー
+PROPMOVER_TXT_500028,Kanonicus,ライカンアーチャー
+PROPMOVER_TXT_500029,Captain Kanonicus,キャプテン・ライカンアーチャー
+PROPMOVER_TXT_500030,Giant Kanonicus,ジャイアント・ライカンアーチャー
+PROPMOVER_TXT_500031,Violet Kanonicus,バイオレット・ライカンアーチャー
+PROPMOVER_TXT_500032,Small Mage Redcloud,スモール・ライカンソーサラー
+PROPMOVER_TXT_500033,Mage Redcloud,ライカンソーサラー
+PROPMOVER_TXT_500034,Captain Mage Redcloud,キャプテン・ライカンソーサラー
+PROPMOVER_TXT_500035,Giant Mage Redcloud,ジャイアント・ライカンソーサラー
+PROPMOVER_TXT_500036,Violet Mage Redcloud,バイオレット・ライカンソーサラー
+PROPMOVER_TXT_500037,Small Taiaha,スモール・ライカンウォーリアー
+PROPMOVER_TXT_500038,Taiaha,ライカンウォーリアー
+PROPMOVER_TXT_500039,Captain Taiaha,キャプテン・ライカンウォーリアー
+PROPMOVER_TXT_500040,Giant Taiaha,ジャイアント・ライカンウォーリアー
+PROPMOVER_TXT_500041,Violet Taiaha,バイオレット・ライカンウォーリアー
+PROPMOVER_TXT_500042,Small Hellhound,スモール・スケルトンジャッカル
+PROPMOVER_TXT_500043,Hellhound,スケルトンジャッカル
+PROPMOVER_TXT_500044,Captain Hellhound,キャプテン・スケルトンジャッカル
+PROPMOVER_TXT_500045,Giant Hellhound,ジャイアント・スケルトンジャッカル
+PROPMOVER_TXT_500046,Violet Hellhound,バイオレット・スケルトンジャッカル
+PROPMOVER_TXT_500047,Chief Keokuk,ライカンバルガ
+PROPMOVER_TXT_500048,Monument of Death,ベヒモスの石像
+PROPMOVER_TXT_500049,[Twisted Soul] Orcus,呪われた石像
+PROPMOVER_TXT_500050,[Tormented Soul] Nergal,死の精霊トゥーラ
+PROPMOVER_TXT_500051,[Demonic Soul] Hel,死の精霊ウムトゥーラ
+PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,死の精霊オムニス
+PROPMOVER_TXT_500053,[Anguished Soul] Mara,死の精霊バグニス
+PROPMOVER_TXT_500054,[Violent Soul] Ghed ,ベヒモスガーディアン
+PROPMOVER_TXT_500055,[God of Death] Ankou,[死神] 神獣ベヒモス
+PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[死神] 炎の神獣ベヒモス
+PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[死神] 魔の神獣ベヒモス
 PROPMOVER_TXT_500058,[Elder] Traitus,[Elder] Traitus
-PROPMOVER_TXT_500059,Asylum Guard,Asylum Guard
-PROPMOVER_TXT_500060,Ankou,Ankou
-PROPMOVER_TXT_500061,Demonic Ankou,Demonic Ankou
-PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,Blue 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500063,Red 2025 Thanksgiving Turkey,Red 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500064,Green 2025 Thanksgiving Turkey,Green 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500065,Pink 2025 Thanksgiving Turkey,Pink 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500066,Black 2025 Thanksgiving Turkey,Black 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500067,White 2025 Thanksgiving Turkey,White 2025 Thanksgiving Turkey
-PROPMOVER_TXT_500068,Red Baby Horse,Red Baby Horse
+PROPMOVER_TXT_500059,Asylum Guard,アサイラム・ガード
+PROPMOVER_TXT_500060,Ankou,神獣ベヒモス
+PROPMOVER_TXT_500061,Demonic Ankou,魔の神獣ベヒモス
+PROPMOVER_TXT_500062,Blue 2025 Thanksgiving Turkey,ブルー2025年感謝祭ターキー
+PROPMOVER_TXT_500063,Red 2025 Thanksgiving Turkey,レッド2025年感謝祭ターキー
+PROPMOVER_TXT_500064,Green 2025 Thanksgiving Turkey,グリーン2025年感謝祭ターキー
+PROPMOVER_TXT_500065,Pink 2025 Thanksgiving Turkey,ピンク2025年感謝祭ターキー
+PROPMOVER_TXT_500066,Black 2025 Thanksgiving Turkey,ブラック2025年感謝祭ターキー
+PROPMOVER_TXT_500067,White 2025 Thanksgiving Turkey,ホワイト2025年感謝祭ターキー
+PROPMOVER_TXT_500068,Red Baby Horse,赤い仔馬
 PROPMOVER_TXT_500069,Cyan Shiki Paws,Cyan Shiki Paws
 PROPMOVER_TXT_500070,Green Shiki Paws,Green Shiki Paws
 PROPMOVER_TXT_500071,Purple Shiki Paws,Purple Shiki Paws
 PROPMOVER_TXT_500072,Blue Shiki Paws,Blue Shiki Paws
 PROPMOVER_TXT_500073,White Shiki Paws,White Shiki Paws
 PROPMOVER_TXT_500074,Black Shiki Paws,Black Shiki Paws
-PROPMOVER_TXT_110170,[Event] Giant Hundur Sharpfoot,[Event] Giant Hundur Sharpfoot
-PROPMOVER_TXT_110171,[Event] Giant Samoset,[Event] Giant Samoset
-PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[Event] Giant Kyouchish
-PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[Event] Giant Kanonicus
-PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[Event] Giant Mage Redcloud
-PROPMOVER_TXT_110175,[Event] Small Samoset,[Event] Small Samoset
-PROPMOVER_TXT_110176,[Event] Samoset,[Event] Samoset
-PROPMOVER_TXT_110177,[Event] Small Kyouchish,[Event] Small Kyouchish
-PROPMOVER_TXT_110178,[Event] Kyouchish,[Event] Kyouchish
-PROPMOVER_TXT_110179,[Event] Small Kanonicus,[Event] Small Kanonicus
-PROPMOVER_TXT_110180,[Event] Kanonicus,[Event] Kanonicus
-PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[Event] Small Mage Redcloud
-PROPMOVER_TXT_110182,[Event] Mage Redcloud,[Event] Mage Redcloud
-PROPMOVER_TXT_110183,[Event] Small Taiaha,[Event] Small Taiaha
-PROPMOVER_TXT_110184,[Event] Taiaha,[Event] Taiaha
-PROPMOVER_TXT_110185,[Event] Chief Keokuk,[Event] Chief Keokuk
+PROPMOVER_TXT_110170,[Event] Giant Hundur Sharpfoot,[Event] ジャイアント・ワークウルフ
+PROPMOVER_TXT_110171,[Event] Giant Samoset,[Event] ジャイアント・ライカンガード
+PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[Event] ジャイアント・ライカンセンチネル
+PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[Event] ジャイアント・ライカンアーチャー
+PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[Event] ジャイアント・ライカンソーサラー
+PROPMOVER_TXT_110175,[Event] Small Samoset,[Event] スモール・ライカンガード
+PROPMOVER_TXT_110176,[Event] Samoset,[Event] ライカンガード
+PROPMOVER_TXT_110177,[Event] Small Kyouchish,[Event] スモール・ライカンセンチネル
+PROPMOVER_TXT_110178,[Event] Kyouchish,[Event] ライカンセンチネル
+PROPMOVER_TXT_110179,[Event] Small Kanonicus,[Event] スモール・ライカンアーチャー
+PROPMOVER_TXT_110180,[Event] Kanonicus,[Event] ライカンアーチャー
+PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[Event] スモール・ライカンソーサラー
+PROPMOVER_TXT_110182,[Event] Mage Redcloud,[Event] ライカンソーサラー
+PROPMOVER_TXT_110183,[Event] Small Taiaha,[Event] スモール・ライカンウォーリアー
+PROPMOVER_TXT_110184,[Event] Taiaha,[Event] ライカンウォーリアー
+PROPMOVER_TXT_110185,[Event] Chief Keokuk,[Event] ライカンバルガ
 PROPMOVER_TXT_110186,Vroom,Vroom
-PROPMOVER_TXT_110187,Red Horse,Red Horse
+PROPMOVER_TXT_110187,Red Horse,レッドホース
 PROPMOVER_TXT_500075,Green Pawzer,Green Pawzer
 PROPMOVER_TXT_500076,Blue Pawzer,Blue Pawzer
 PROPMOVER_TXT_500077,Light Pawzer,Light Pawzer
 PROPMOVER_TXT_500078,Cyan Pawzer,Cyan Pawzer
 PROPMOVER_TXT_500079,Red Pawzer,Red Pawzer
 PROPMOVER_TXT_500080,Dark Pawzer,Dark Pawzer
-PROPMOVER_TXT_500081,US Muppet,US Muppet
-PROPMOVER_TXT_500082,UK Muppet,UK Muppet
-PROPMOVER_TXT_500083,DE Muppet,DE Muppet
-PROPMOVER_TXT_500084,RU Muppet,RU Muppet
-PROPMOVER_TXT_500085,CN Muppet,CN Muppet
-PROPMOVER_TXT_500086,KR Muppet,KR Muppet
-PROPMOVER_TXT_500087,MX Muppet,MX Muppet
-PROPMOVER_TXT_500088,BR Muppet,BR Muppet
-PROPMOVER_TXT_500089,TH Muppet,TH Muppet
-PROPMOVER_TXT_500090,PH Muppet,PH Muppet
-PROPMOVER_TXT_500091,JP Muppet,JP Muppet
-PROPMOVER_TXT_500092,FR Muppet,FR Muppet
-PROPMOVER_TXT_500093,Blue Pocket Shinobi,Blue Pocket Shinobi
-PROPMOVER_TXT_500094,Red Pocket Shinobi,Red Pocket Shinobi
-PROPMOVER_TXT_500095,Green Pocket Shinobi,Green Pocket Shinobi
-PROPMOVER_TXT_500096,Violet Pocket Shinobi,Violet Pocket Shinobi
-PROPMOVER_TXT_500097,Forest Pocket Shinobi,Forest Pocket Shinobi
-PROPMOVER_TXT_500098,White Pocket Shinobi,White Pocket Shinobi
+PROPMOVER_TXT_500081,US Muppet,USマペット
+PROPMOVER_TXT_500082,UK Muppet,UKマペット
+PROPMOVER_TXT_500083,DE Muppet,DEマペット
+PROPMOVER_TXT_500084,RU Muppet,RUマペット
+PROPMOVER_TXT_500085,CN Muppet,CNマペット
+PROPMOVER_TXT_500086,KR Muppet,KRマペット
+PROPMOVER_TXT_500087,MX Muppet,MXマペット
+PROPMOVER_TXT_500088,BR Muppet,BRマペット
+PROPMOVER_TXT_500089,TH Muppet,THマペット
+PROPMOVER_TXT_500090,PH Muppet,PHマペット
+PROPMOVER_TXT_500091,JP Muppet,JPマペット
+PROPMOVER_TXT_500092,FR Muppet,FRマペット
+PROPMOVER_TXT_500093,Blue Pocket Shinobi,ブルーポケット忍者
+PROPMOVER_TXT_500094,Red Pocket Shinobi,レッドポケット忍者
+PROPMOVER_TXT_500095,Green Pocket Shinobi,グリーンポケット忍者
+PROPMOVER_TXT_500096,Violet Pocket Shinobi,バイオレットポケット忍者
+PROPMOVER_TXT_500097,Forest Pocket Shinobi,フォレストポケット忍者
+PROPMOVER_TXT_500098,White Pocket Shinobi,ホワイトポケット忍者
 PROPMOVER_TXT_505001,[Forgotten] Small Drifter,[Forgotten] Small Drifter
 PROPMOVER_TXT_505002,[Forgotten] Drifter,[Forgotten] Drifter
 PROPMOVER_TXT_505003,[Forgotten] Captain Drifter,[Forgotten] Captain Drifter
@@ -1600,22 +1600,22 @@ PROPMOVER_TXT_505027,[Forgotten] Rifter,[Forgotten] Rifter
 PROPMOVER_TXT_505028,[Forgotten] Captain Rifter,[Forgotten] Captain Rifter
 PROPMOVER_TXT_505029,[Forgotten] Giant Rifter,[Forgotten] Giant Rifter
 PROPMOVER_TXT_505030,[Forgotten] Great Rifter,[Forgotten] Great Rifter
-PROPMOVER_TXT_002058,Mushbro,Mushbro
-PROPMOVER_TXT_002060,Blossom,Blossom
-PROPMOVER_TXT_002062,Oldroot,Oldroot
-PROPMOVER_TXT_002064,Minimusha,Minimusha
-PROPMOVER_TXT_002066,Lady Bloom,Lady Bloom
-PROPMOVER_TXT_002068,Nightmyst,Nightmyst
-PROPMOVER_TXT_002070,[Queen of Thorns] Entaness,[Queen of Thorns] Entaness
-PROPMOVER_TXT_003058,Magma Mushbro,Magma Mushbro
-PROPMOVER_TXT_003060,Icy Blossom,Icy Blossom
-PROPMOVER_TXT_003062,Decaying Oldroot,Decaying Oldroot
-PROPMOVER_TXT_003064,Venomous Minimusha,Venomous Minimusha
-PROPMOVER_TXT_003066,Angelic Lady Bloom,Angelic Lady Bloom
+PROPMOVER_TXT_002058,Mushbro,ラプラ
+PROPMOVER_TXT_002060,Blossom,フロミー
+PROPMOVER_TXT_002062,Oldroot,オールドルート
+PROPMOVER_TXT_002064,Minimusha,ミニムシュ
+PROPMOVER_TXT_002066,Lady Bloom,レディブルーム
+PROPMOVER_TXT_002068,Nightmyst,ナイトミスト
+PROPMOVER_TXT_002070,[Queen of Thorns] Entaness,クイーンエンプティネス
+PROPMOVER_TXT_003058,Magma Mushbro,マグマのラプラ
+PROPMOVER_TXT_003060,Icy Blossom,氷のフロミー
+PROPMOVER_TXT_003062,Decaying Oldroot,朽ちたオールドルート
+PROPMOVER_TXT_003064,Venomous Minimusha,毒のミニムシュ
+PROPMOVER_TXT_003066,Angelic Lady Bloom,天使のレディブルーム
 PROPMOVER_TXT_003067,[Eillun Farmer] Sprout,[Eillun Farmer] Sprout
 PROPMOVER_TXT_003068,[Eillun Farmer] Thorn,[Eillun Farmer] Thorn
 PROPMOVER_TXT_003069,[Eillun Farmer] Dr.Root,[Eillun Farmer] Dr.Root
-PROPMOVER_TXT_003070,Baby Okean,Baby Okean
+PROPMOVER_TXT_003070,Baby Okean,ベビーオケアノス
 PROPMOVER_TXT_500175,Condemned Fefern,Condemned Fefern
 PROPMOVER_TXT_500176,Condemned Wagsaac,Condemned Wagsaac
 PROPMOVER_TXT_500177,Condemned Mr. Pumpkin,Condemned Mr. Pumpkin
@@ -1637,13 +1637,13 @@ PROPMOVER_TXT_500192,Condemned Glaphan,Condemned Glaphan
 PROPMOVER_TXT_500193,Condemned Medumet,Condemned Medumet
 PROPMOVER_TXT_210000,Primal Warlord Caveman Chief,Primal Warlord Caveman Chief
 PROPMOVER_TXT_210001,Forsaken Temple Guardian,Forsaken Temple Guardian
-PROPMOVER_TXT_210002,Abyssal Great Kraken,Abyssal Great Kraken
-PROPMOVER_TXT_210003,Abyssal Kraken Spawn,Abyssal Kraken Spawn
-PROPMOVER_TXT_210004,Cursed Pyramid Guardian,Cursed Pyramid Guardian
-PROPMOVER_TXT_210005,Corrupted Crystal Demon Lord,Corrupted Crystal Demon Lord
-PROPMOVER_TXT_210006,Dominion Beast King Khan,Dominion Beast King Khan
-PROPMOVER_TXT_210007,Dread Ankou,Dread Ankou
-PROPMOVER_TXT_210008,Corrupted Crystal Fiend,Corrupted Crystal Fiend
+PROPMOVER_TXT_210002,Abyssal Great Kraken,深淵のグレート・クラーケン
+PROPMOVER_TXT_210003,Abyssal Kraken Spawn,深淵のクラーケンスパウン
+PROPMOVER_TXT_210004,Cursed Pyramid Guardian,呪われたピラミッド・ガーディアン
+PROPMOVER_TXT_210005,Corrupted Crystal Demon Lord,穢れたクリスタル・デーモンロード
+PROPMOVER_TXT_210006,Dominion Beast King Khan,支配の獣王カーン
+PROPMOVER_TXT_210007,Dread Ankou,恐怖の神獣ベヒモス
+PROPMOVER_TXT_210008,Corrupted Crystal Fiend,穢れたクリスタル・フィーンド
 PROPMOVER_TXT_210009,Pillar,Pillar
 PROPMOVER_TXT_210010,Tentacle,Tentacle
 PROPMOVER_TXT_505031,Musha,Musha
