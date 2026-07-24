@@ -11,7 +11,7 @@ UI_HOME_ALREADYACCOUNT,Already have an account?,すでにアカウントをお�
 UI_HOME_WEBSITE,Website,ウェブサイト
 UI_HOME_CREDITS,Credits,クレジット
 UI_HOME_OR,Or,または
-UI_HOME_LOGIN_DOTS,Email:,Email:
+UI_HOME_LOGIN_DOTS,Email:,メールアドレス：
 UI_HOME_PASSWORD,Password:,パスワード:
 UI_HOME_RECOVER,Forgot password?,パスワードを忘れた場合
 UI_SELECTSERVER_TITLE,Select Server,サーバーを選択
@@ -25,7 +25,7 @@ UI_SELECTSERVER_NAMETITLE,Character Name,キャラクター名
 UI_CHARLIST_TITLE,Characters,キャラクター
 UI_CHARLIST_PLAY,Play,プレイ
 UI_CHARLIST_NEW,New,新規
-UI_CHARLIST_DELETE,Delete,Delete
+UI_CHARLIST_DELETE,Delete,削除
 UI_DELETECHAR_TITLE,Delete Character,キャラクター削除
 UI_DELETECHAR_PASS,Password for deleting character\nEnter the password,キャラクターを削除するためのパスワード\nパスワードを入力
 UI_DELETECHAR_NOPASS,Confirm Deletion?,よろしいですか？
@@ -37,8 +37,8 @@ UI_MSGBOX_START,Start,スタート
 UI_MSGBOX_OK,Ok,OK
 UI_MSGBOX_RETRY,Retry,再試行
 UI_MSGBOX_CANCEL,Cancel,キャンセル
-UI_MSGBOX_YES,Yes,Yes
-UI_MSGBOX_NO,No,No
+UI_MSGBOX_YES,Yes,はい
+UI_MSGBOX_NO,No,いいえ
 UI_LOADINGSCREEN,"Loading, please wait...",ローディング中。お待ちください...
 UI_OPTION_TITLE,Options,オプション
 UI_OPTION_MUSIC,Music,BGM
@@ -46,7 +46,7 @@ UI_OPTION_SOUND,Sound,効果音
 UI_OPTION_TEXQUALITY,Textures,テクスチャ
 UI_OPTION_TEXTOON,Cartoon,カートゥーン（アニメ調）
 UI_OPTION_TEXHIGH,High,高
-UI_OPTION_TEXMID,Medium,Medium
+UI_OPTION_TEXMID,Medium,中
 UI_OPTION_TEXLOW,Low,低
 UI_OPTION_WEATHER,Weather,天気
 UI_OPTION_LANGUAGE,Language,言語
@@ -63,7 +63,7 @@ UI_OPTION_SHADOWS,Shadows,影の品質
 UI_OPTION_SHADOWS_MAXDIST,Maximum Distance,最大距離
 UI_OPTION_SHADOWS_MAXQUALITY,Maximum Quality,最高品質
 UI_OPTION_FULLSCREEN,Fullscreen,フルスクリーン
-UI_MOTION_TAB_MOT,Emotes,Emotes
+UI_MOTION_TAB_MOT,Emotes,エモート
 UI_MOTION_TAB_EMO,Emoticons,エモーション
 UI_REVIVAL_TITLE,Resurrection,リザレクション
 UI_REVIVAL_LODESTAR,Lodestar,ロードスター
@@ -117,7 +117,7 @@ UI_TOOLTIP_DEF_A,Defense:,防御:
 UI_TOOLTIP_ATTACK_SPEED,Attack speed: %s,攻撃速度：%s
 UI_TOOLTIP_REQ_JOB,Req Job:,職業:
 UI_TOOLTIP_REQ_LEVEL,Required Level: %d,必要レベル: %d
-UI_TOOLTIP_REQ,Requires %s,Requires %s
+UI_TOOLTIP_REQ,Requires %s,%sが必要
 UI_TOOLTIP_RESTORE_MP,Restore MP: %d,MP 治療量 : %d
 UI_TOOLTIP_CONSUME_MP,MP: %d,MP: %d
 UI_TOOLTIP_CONSUME_FP,FP: %d,FP: %d
@@ -135,7 +135,7 @@ UI_TOOLTIP_INV_MASK,Mask,マスク
 UI_TOOLTIP_INV_RID,Flying Item,飛行アイテム
 UI_TOOLTIP_INV_NECKLACE,Necklace,ネックレス
 UI_TOOLTIP_INV_RING,Ring,リング
-UI_TOOLTIP_INV_EARRING,Earring,Earring
+UI_TOOLTIP_INV_EARRING,Earring,イヤリング
 UI_TOOLTIP_INV_BULLET,"Ammunition (Arrows, Posters)",補助武器（矢、ポスター）
 UI_TOOLTIP_INV_CLOTHES_1,Fashion Hat,ファッションヘルメット
 UI_TOOLTIP_INV_CLOTHES_2,Fashion Clothes,ファッションスーツ
@@ -162,7 +162,7 @@ UI_OPTION_PARTY,Party and Guild Invites,パーティーとギルドの招待
 UI_OPTION_FRIEND,Friend Invites,フレンド追加
 UI_OPTION_SIEGE_CAPTION,Guild Siege Captions,ギルドコンバットキャプション
 UI_OPTION_DISABLE_PANG,Disable Tutorial Pang,チュートリアルパンを無効にする
-UI_OPTION_COUPLE,Couple Proposals,Couple Proposals
+UI_OPTION_COUPLE,Couple Proposals,カップルプロポーズ
 UI_INSTANTMSG_TITLE,Message,メッセージ
 UI_MESSAGE_SEND,Send,転送
 UI_SHOP_TITLE,Shop,商店
@@ -241,10 +241,10 @@ UI_TOOLTIP_DST_REFLECT_DAMAGE,Reflect Damage,ダメージ反射
 UI_TOOLTIP_DST_MP_DEC_RATE,MP Consumption Decrease,MP消費量の減少
 UI_TOOLTIP_DST_FP_DEC_RATE,FP Consumption Decrease,FP消費量の減少
 UI_TOOLTIP_DST_SPELL_RATE,Casting Speed,魔法キャスティングタイム
-UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,Action Speed
-UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,Projectile Speed
-UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,Disable Effect
-UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,Weaken Effect
+UI_TOOLTIP_DST_ACTION_SPEED,Action Speed,行動速度
+UI_TOOLTIP_DST_PROJ_SPEED,Projectile Speed,弾速
+UI_TOOLTIP_DST_DISABLE_EFF,Disable Effect,無力化効果
+UI_TOOLTIP_DST_WEAKEN_EFF,Weaken Effect,弱体化効果
 UI_TOOLTIP_DST_CRITICAL_BONUS,Critical Damage,クリティカルダメージ
 UI_TOOLTIP_DST_YOY_DMG,Attack Power (Yo-Yo),ヨーヨー攻撃力増加
 UI_TOOLTIP_DST_BOW_DMG,Attack Power (Bow),弓攻撃力増加
@@ -255,9 +255,9 @@ UI_TOOLTIP_ATTACKSPEED_RATE,Attack Speed Rate,攻撃速度
 UI_TOOLTIP_DST_DMG_GET,Lifesteal,ライフスティール
 UI_TOOLTIP_DST_HPDMG_UP,Attack power and HP,"攻撃力, HP増加"
 UI_TOOLTIP_DST_DEFHIRATE_DOWN,Defense power and accuracy decrease,防御力、命中率減少率
-UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,Death's Rush Chance
-UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,Ankou's Harvest
-UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,Muran's Wrath
+UI_TOOLTIP_DST_DEATHRUSH,Death's Rush Chance,デスラッシュ発動率
+UI_TOOLTIP_DST_ANKOUHARVEST,Ankou's Harvest,アンコウの収穫
+UI_TOOLTIP_DST_MURANWRATH,Muran's Wrath,ムランの怒り
 UI_TOOLTIP_LOCOMOTION,Movement,移動
 UI_TOOLTIP_RETURN_USE,Return to your former position.,以前移動した場所へ帰還します。
 UI_DISPLAY_BUFFS,Show/hide buffs,バフの表示/非表示
@@ -336,7 +336,7 @@ UI_OPTION_JOIN_NOTIFICATION,Message alarm,メッセージ通知
 UI_MESSENGER_MENU_MESSAGE,Message,メッセージ
 UI_MESSENGER_MENU_UNBLOCK,Unblock,拒否の解除
 UI_MESSENGER_MENU_BLOCK,Block,ブロック
-UI_MESSENGER_MENU_DELETE,Delete,Delete
+UI_MESSENGER_MENU_DELETE,Delete,削除
 UI_MESSENGER_MENU_MOVE,Move,移動
 UI_MESSENGER_MENU_TAGSEND,Send memo,置き手紙
 UI_MESSENGER_ADD_FRIEND,Add a new friend,新規友達の追加
@@ -348,11 +348,11 @@ UI_POST_TITLE,Mailbox,ポスト
 UI_POST_TAB_SEND,Send Mail,ファン･ギフト
 UI_POST_TAB_RECEIVE,Inbox,ファン・ボックス
 UI_OPTION_UISCALE,Scale,UIスケール
-UI_OPTION_TEXTSCALE,Font Size,Font Size
+UI_OPTION_TEXTSCALE,Font Size,フォントサイズ
 UI_IGNORELIST_TITLE,Ignore List,無視リスト
 UI_IGNORELIST_COUNT,Ignored Players: %d,無視リスト: %d
 UI_CHATFILTER_TITLE,Chat Filter,チャットフィルター
-UI_CHATFILTER_GENERAL,General,General
+UI_CHATFILTER_GENERAL,General,一般
 UI_CHATFILTER_WHISPER,Whispers,ささやき
 UI_CHATFILTER_SHOUT,Shouts,叫び
 UI_CHATFILTER_PARTY,Party,パーティー
@@ -360,7 +360,7 @@ UI_CHATFILTER_GUILD,Guild,ギルド
 UI_CHATFILTER_RESET_COLORS,Reset to Default,デフォルトをリセット
 UI_POSTSEND_TO,Recipient,To.
 UI_POSTSEND_TITLE,Title,タイトル
-UI_POSTSEND_GOLD,Penya,Penya
+UI_POSTSEND_GOLD,Penya,ペニャ
 UI_POSTSEND_PRICE,Mailing Fee: %d Penya,レンタル料: %d ペニャ
 UI_POSTSEND_SEND,Send,転送
 UI_ITEMSLOT_TITLE,Confirm Item Selection,アイテムの確認
@@ -372,10 +372,10 @@ UI_POST_UNKNOWN,Unknown,不明
 UI_POST_RECEIVE_DATE,Received on: %s,受信した日付：%s
 UI_POSTREAD_TITLE,Mail Message,ファン・ギフトの確認
 UI_POSTREAD_FROM,From,From.
-UI_POSTREAD_DELETE,Delete,Delete
+UI_POSTREAD_DELETE,Delete,削除
 UI_POSTREAD_DELETE_ALL,Delete all read mail,既読メールをすべて削除する
 UI_POSTREAD_DELETEALL_CONFIRM,Delete all read mail? Any attached items and Penya will also be deleted.,選択したメールを削除しますか？　アイテムやペニャも削除されます。
-UI_POSTREAD_REPLY,Reply,Reply
+UI_POSTREAD_REPLY,Reply,返信
 UI_POSTREAD_DELETETITLE,Delete Mail,メールを削除
 UI_POSTREAD_DELETECONFIRM,Delete this mail? Any attached items and Penya will also be deleted.,このメールを削除しますか？ギフト内にあるアイテムやペニャも削除されます。
 UI_POSTREAD_MAILEXPIRED,Mail Expired,メールの有効期限
@@ -394,7 +394,7 @@ UI_QUEST_GOLD2,Penya: %d~%d,ぺニャ : %d~%d
 UI_QUEST_GOLD3,Penya: ????,ぺニャ : ????
 UI_QUEST_EXP1,Experience Gained.,経験値獲得
 UI_QUEST_EXP2,Experience: %.2f%%,経験値: %.2f%%
-UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,Couple Experience: %.2f%%
+UI_QUEST_EXP_COUPLE,Couple Experience: %.2f%%,カップル経験値：%.2f%%
 UI_QUEST_SKILLPOINT,Skill Points,スキルポイント
 UI_QUEST_INVENTORYSLOT1,Inventory Space,インベントリスペース
 UI_QUEST_INVENTORYSLOT2,Inventory Space: %d,インベントリスペース: %d
@@ -439,12 +439,12 @@ UI_QUEST_DESTINATION_TITLE,Destination,目的地情報
 UI_MSGBOX_INFO,Information,情報
 UI_OPTION_UIALPHA,Opacity,不透明度
 UI_QUESTGOAL,Quest Goal,クエストの終着点
-UI_GUILD_TAB_INFO,Info,Info
+UI_GUILD_TAB_INFO,Info,情報
 UI_GUILD_TAB_MEMBER,Members,メンバー
 UI_GUILD_TAB_GRADE,Titles,称号
 UI_GUILD_TAB_WAR,Guild Duel,ギルド戦
 UI_GUILD_NAME,Name:,名称：
-UI_GUILD_NAME_BUTTON,Change Name,Change Name
+UI_GUILD_NAME_BUTTON,Change Name,名前を変更
 UI_GUILD_MASTER,Guild Master:,マスター:
 UI_GUILD_EXP,EXP:,経験値:
 UI_GUILD_PENYA,Penya:,ペニャ:
@@ -478,8 +478,8 @@ UI_GUILD_POWER_TITLE,Promote/Demote,タイトル
 UI_GUILD_POWER_RANK,Adjust Rank,順位
 UI_GUILD_POWER_JOIN,Invite,参加
 UI_GUILD_POWER_ITEM,Take Items,アイテム
-UI_GUILD_POWER_PENYA,Take Penya,Take Penya
-UI_GUILD_POWER_SPECTATE,Spectate,Spectate
+UI_GUILD_POWER_PENYA,Take Penya,ペニャを受け取る
+UI_GUILD_POWER_SPECTATE,Spectate,観戦
 UI_GUILD_POWER_TIP,Save changes,設定した内容を適用
 UI_GUILD_POWER_SAVE,Save,保存
 UI_GUILD_PAY_TIP,Set %s salary. (Paid automatically at 00:00),%s ペニャに設定（00:00に自動で支給されます。）
@@ -506,7 +506,7 @@ UI_GUILDBANK_CLOAK,Cloak,マント
 UI_GUILDBANK_ITEM,Items,アイテム
 UI_GUILDMERIT_TITLE,Guild Donation,ギルド貢献
 UI_GUILDMERIT_QUESTITEMS,Quest Items,戦利品支援
-UI_GUILDMERIT_PENYA,Penya,Penya
+UI_GUILDMERIT_PENYA,Penya,ペニャ
 UI_GUILDCOMBATBOARD_TITLE,Guild Siege Information,ギルドコンバットの情報
 UI_GUILDBANKLOG_TITLE,Guild Bank Log,ギルド倉庫のログ
 UI_GUILDBANKLOG_ADDITEM,Item Deposits,アイテム追加
@@ -548,7 +548,7 @@ UI_GUILD_WAR_TIMELEFT,Time Left:,残り時間:
 UI_OPTION_THEME,Theme,テーマ
 UI_HOME_PROLOGUE,Prologue,プロローグ
 UI_SKILL_PLUS_TIP,Increase Skill Level,スキルレベル上昇
-UI_SKILL_MAX_TIP,Maximize Skill Level,Maximize Skill Level
+UI_SKILL_MAX_TIP,Maximize Skill Level,スキルレベルを最大にする
 UI_SKILL_MINUS_TIP,Decrease Skill Level,スキルレベル減少
 UI_SKILL_RESET,Reset,リセット
 UI_SKILL_RESET_TIP,Discard all unconfirmed changes,スキルポイントの再配分（完了したスキルポイントは再配分不可）
@@ -566,7 +566,7 @@ UI_OPTION_EQUIP_VIEW,Equipment View,装備を見せる
 UI_OPTION_DUEL_REQUESTS,Duel Requests,デュエル申請
 UI_OPTION_DUEL_BETS,Duel Bets,デュエルベット
 UI_TRADE_TITLE,Trade,取引
-UI_TRADE_PENYA,Penya,Penya
+UI_TRADE_PENYA,Penya,ペニャ
 UI_DROP_FILTER_TITLE,Pickup Pet,拾いペット
 UI_DROP_FILTER_SETTINGS,Loot Filter Settings,拾いペットが拾うことができるアイテムを設定します。
 UI_DROP_FILTER_CAT_EQUIPMENT,Equipment,装備
@@ -583,7 +583,7 @@ UI_DROP_FILTER_CAT_MATERIAL,Materials,材料
 UI_DROP_FILTER_9,Food,フード類
 UI_DROP_FILTER_10,Vital Drinks,FPポーション
 UI_DROP_FILTER_11,Buffs,バフ
-UI_DROP_FILTER_12,Pets,Pets
+UI_DROP_FILTER_12,Pets,ペット
 UI_DROP_FILTER_13,Misc.,その他..
 UI_DROP_FILTER_CAT_ETC,Others,その他
 UI_DROP_FILTER_14,Common,一般(Common)
@@ -597,7 +597,7 @@ UI_TOOLTIP_USE,Use: %s,使用: %s
 UI_TOOLTIP_PERMANENTTIME,No Time Limit,時間制限無し
 UI_TOOLTIP_COOLTIME,Cooldown: %.2d:%.2d,再使用までの待機時間：%.2d:%.2d
 UI_RESURRECTION_TITLE,Confirm Resurrection,復活の確認
-UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Accept the resurrection?,Another player is trying to resurrect you (skill level %d). Accept the resurrection?
+UI_RESURRECTION_MESSAGE,Another player is trying to resurrect you (skill level %d). Accept the resurrection?,他のプレイヤーがあなたを復活させようとしています（スキルレベル%d）。復活を受け入れますか？
 UI_TOOLTIP_EQUIPSET,Set Effect,セット効果
 UI_TOOLTIP_BLOCKRATE,Block,ブロック
 UI_OPTION_FIELDVIEW_AUTO,Auto,自動
@@ -770,7 +770,7 @@ UI_GUILD_WAR_DECLARE_INPUT,Target Guild,相手ギルド
 UI_GUILD_WAR_REQUEST_TITLE,Guild Duel Request,ギルド戦のリクエスト
 UI_GUILD_WAR_REQUEST_MSG,"The guild leader of %s, %s, has declared a guild duel. Do you accept?",%s のギルドマスター %s がギルド戦を宣言しました。受けて立ちますか？
 UI_INDIRECTTALK_TITLE,Indirect conversation,間接的な話し合い
-UI_INDIRECTTALK_MOVER,Mover ID,Mover ID
+UI_INDIRECTTALK_MOVER,Mover ID,モンスターID
 UI_CREATEITEM_TITLE,Create Item,アイテム作成
 UI_CREATEITEM_TYPE,Type,種類
 UI_CREATEITEM_SEX,Sex,性別
@@ -818,7 +818,7 @@ UI_CHANGE_NAME_PET_INPUT,"Enter a new pet name, or leave it blank to reset to th
 UI_CHANGE_NAME_PET_LABEL,Pet Name:,ペットの名前:
 UI_NAVIGATOR_MARK,Mark:,マーク：
 UI_MAP_MARK_ADD,Add Mark,マークを付ける
-UI_MAP_MARK_DELETE,Delete,Delete
+UI_MAP_MARK_DELETE,Delete,削除
 UI_MAP_MARK_DELETE_ALL,Delete All,全てを削除する
 UI_MAP_MARK_PUT_CHAT,Link in Chat,チャットウィンドウに入れる
 UI_MAP_MARK_CHANGE_NAME,Set Name,名前変更
@@ -826,12 +826,12 @@ UI_MAP_MARK,Position,ポイント
 UI_MAP_MARK_NAME_TITLE,Set Map Mark Name,役職名変更
 UI_MAP_MARK_NAME_INPUT,Enter a new name for the mark:,変更する名前を入力して下さい。
 UI_TOOLTIP_EQUIPPED,[ Equipped ],[ 装備中 ]
-UI_TOOLTIP_ACTIVESELF,Also Cast on You,Also Cast on You
-UI_TOOLTIP_ACTIVETARGET,Also Cast on Target,Also Cast on Target
-UI_TOOLTIP_CHANGEIFHAS,If you have %s,If you have %s
-UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,If the target has %s
-UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%s Stacks Gained: %d
-UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%s Stacks Gained: %d / %d (PvP)
+UI_TOOLTIP_ACTIVESELF,Also Cast on You,自分にも発動
+UI_TOOLTIP_ACTIVETARGET,Also Cast on Target,対象にも発動
+UI_TOOLTIP_CHANGEIFHAS,If you have %s,%sを所持している場合
+UI_TOOLTIP_CHANGEIFHAS_TARGET,If the target has %s,対象が%sを所持している場合
+UI_TOOLTIP_GAINSTACKS,%s Stacks Gained: %d,%sスタック獲得数：%d
+UI_TOOLTIP_GAINSTACKS_PVP,%s Stacks Gained: %d / %d (PvP),%sスタック獲得数：%d / %d（PvP）
 UI_ITEM_LINK_TITLE,Linked Item Info.,関連する項目の情報
 UI_BEAUTY_SHOP_COUPON_TITLE,Use Coupon,交換権の使用
 UI_BEAUTY_SHOP_COUPON_MSG,You have a Free Coupon. Use it now?,フリーチケットをお持ちです。使いますか？
@@ -856,12 +856,12 @@ UI_GUILDBANK_CLOAK_TIP,Create a guild cloak with your guild logo on it (requires
 UI_GUILDBANK_LOG_TIP,Open the guild bank log,ギルド倉庫のログを開く
 UI_APP_DEBUG_TIP,Debug Window,デバッグウィンドウのオープン
 UI_APP_INFO_PANG_TIP,Summon Info-Pang.,インフォファンを登場させます。
-UI_APP_FAQ_TIP,View Frequently Asked Questions.,View Frequently Asked Questions.
+UI_APP_FAQ_TIP,View Frequently Asked Questions.,よくある質問を見る。
 UI_APP_TIPS_TIP,View gameplay tips.,簡単なTips集
 UI_APP_HELP_TIP,Open the help window.,ヘルプ
 UI_APP_GUILD_TIP,View and manage your guild.,ギルドウィンドウを表示します。
 UI_APP_PARTY_TIP,View and manage your party.,パーティーウィンドウを表示します。
-UI_APP_COUPLE_TIP,View and manage your couple.,View and manage your couple.
+UI_APP_COUPLE_TIP,View and manage your couple.,カップル情報の確認・管理。
 UI_APP_MESSENGER_TIP,View and manage your friends list.,フレンドリストを表示します
 UI_APP_ITEMDURATION_TIP,View the remaining duration of your active premium items.,キャッシュショップアイテムの使用期間が表示されます。
 UI_APP_CASHSHOP_TIP,Open the Flyff Shop to purchase premium items.,プレミアムショップを開きます。
@@ -875,7 +875,7 @@ UI_APP_STATUS_TIP,View your character's status.,キャラクターの状態
 UI_APP_CHAT_TIP,Show/hide the chat window.,チャットウィンドウを表示します。
 UI_APP_QUIT_TIP,Exit the game.,プログラムを終了します。
 UI_APP_SUPPORT_TIP,Open the customer support page in a new tab.,カスタマーサポートを開く
-UI_APP_PRIVACY_TIP,Open Privacy Settings.,Open Privacy Settings.
+UI_APP_PRIVACY_TIP,Open Privacy Settings.,プライバシー設定を開く。
 UI_APP_LOGOUT_TIP,Log out and return to the login screen.,接続終了
 UI_APP_OPTION_TIP,Open the game's options window.,オプション
 UI_APP_MAP_TIP,View the world map.,ワールドの全体地図が見れます。
@@ -943,7 +943,7 @@ UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered zone 8.,8番ゲートより入場�
 UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,入力したいエリアを選択します。
 UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",%d秒後、%sへ進入します。
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,ランダム
-UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
+UI_CHAT_ADMIN,[Admin] %s,[管理者] %s
 UI_GUILDCOMBAT_RATE,Guild Rankings,現在のランク:
 UI_GUILDCOMBAT_PERSON_RATE,Player Rankings,☆ 個人順位 ☆
 UI_TOOLTIP_EXPBOX,#b%s's EXP box#nb\nTime left: %s,#b%s の経験値ボックス#nb\n残り時間: %s
@@ -1007,10 +1007,10 @@ UI_PET_GRADE_7,S Tier,S級
 UI_PET_EXP_MAX,EXP: 99.99%,経験値: 99.99%
 UI_PET_EXP,EXP: %.2f%%,経験値:%.2f%%
 UI_TOOLTIP_ABILITY,Bonus,ボーナス
-UI_PET_HP,Energy: %d / %d,Energy: %d / %d
+UI_PET_HP,Energy: %d / %d,エネルギー：%d / %d
 UI_PET_LEVEL,Lv%d,Lv%d
 UI_PET_DEAD,(DEAD),（死亡）
-UI_PET_REROLL_TIER,Scroll-rerolled tier:,Scroll-rerolled tier:
+UI_PET_REROLL_TIER,Scroll-rerolled tier:,スクロールで再抽選したティア：
 UI_TARGET_CLEAR,Clear target,ターゲット解除
 UI_OPTION_TAB_UI,Interface,インターフェース
 UI_OPTION_AUTO_ATTACK,Auto Attack,自動攻撃
@@ -1031,11 +1031,11 @@ UI_TOOLTIP_COMBO_STEP,Starter,足跡
 UI_TOOLTIP_COMBO_CIRCLE,Link,サークル
 UI_TOOLTIP_COMBO_FINISH,Finisher,完了
 UI_TOOLTIP_BASE_DAMAGE,Base Damage: %d ~ %d,基本攻撃力: %d ~ %d
-UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,Damage Multiplier: %.2f
+UI_TOOLTIP_DMG_MUL,Damage Multiplier: %.2f,ダメージ倍率：%.2f
 UI_TOOLTIP_SCALE_ATTACK,Attack Scaling,攻撃スケーリング
 UI_TOOLTIP_SCALE_HEAL,Heal Scaling,回復スケーリング
 UI_TOOLTIP_SCALE_TIME,Time Scaling,タイムスケーリング
-UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,Dec. Charging Time Scaling
+UI_TOOLTIP_SCALE_CHARGE,Dec. Charging Time Scaling,チャージ時間減少率
 UI_TOOLTIP_SCALE_PARAM,Scaling,スケーリング
 UI_TOOLTIP_SCALE_PARAM_PER,per,あたり
 UI_TOOLTIP_SCALE_PARAM_MAX,max,最大
@@ -1043,19 +1043,19 @@ UI_TOOLTIP_PVP,PvP,PvP
 UI_TOOLTIP_PVE,PvE,対モンスター
 UI_TOOLTIP_AROUND,Around,周囲
 UI_TOOLTIP_BASE_HEAL,Base Heal: %d,回復の基準: %d
-UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,Base MP Heal: %d
-UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,Base FP Heal: %d
-UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,Base Time: %.2d:%.2d.%.3d
+UI_TOOLTIP_BASE_HEAL_MP,Base MP Heal: %d,基礎MP回復量：%d
+UI_TOOLTIP_BASE_HEAL_FP,Base FP Heal: %d,基礎FP回復量：%d
+UI_TOOLTIP_BASE_TIME,Base Time: %.2d:%.2d.%.3d,基礎時間：%.2d:%.2d.%.3d
 UI_TOOLTIP_BASE_TIME_PVP,/ %.2d:%.2d (PvP & Giants),/ %.2d:%.2d (PVP & ジャイアント)
 UI_TOOLTIP_PROBABILITY,Probability: %d%%,確率: %d%%
 UI_TOOLTIP_PROBABILITY_PVP,/ %d%% (PvP & Giants),/ %d%% (PVP & ジャイアント)
-UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,Knockdown Probability: %d%%
+UI_TOOLTIP_PROBABILITY_FLYBACK,Knockdown Probability: %d%%,ノックダウン確率：%d%%
 UI_TOOLTIP_COOLDOWN,Cooldown: %.2d:%.2d,クールダウン: %.2d:%.2d
-UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PvP),/ %.2d:%.2d (PvP)
+UI_TOOLTIP_COOLDOWN_PVP,/ %.2d:%.2d (PvP),/ %.2d:%.2d（PvP）
 UI_TOOLTIP_COOLDOWN_ONLY_PVP,Cooldown: %.2d:%.2d (PvP),クールダウン: %.2d:%.2d (PvP)
-UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),(After Expiry)
+UI_TOOLTIP_COOLDOWN_ONEND,(After Expiry),（効果終了後）
 UI_TOOLTIP_CASTING,Casting Time: %.2d:%.2d,魔法キャスティングタイム: %.2d:%.2d
-UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,Charging Time: %.2d:%.2d
+UI_TOOLTIP_CHARGING,Charging Time: %.2d:%.2d,チャージ時間：%.2d:%.2d
 UI_NEWCHAR_FACE,Face,顔
 UI_NEWCHAR_HAIR,Hair,ヘアー
 UI_NEWCHAR_HAIR_COLOR,Hair Color,ヘアカラー
@@ -1108,7 +1108,7 @@ UI_CONVERTSOULLINK_CONFIRM,This action cannot be undone.\nProceed?,変換され�
 UI_CONVERTSOULLINK_NOTAVAILABLE,This item cannot be converted.,このアイテムは変換できません。
 UI_GUILD_SCROLLGADD_CONFIRM,This scroll permanently increases your guild's member limit by 5. It only applies to your current guild and will not affect any guild you join later. Use it now?,この巻物を使用すると、ギルドに所属できるメンバーが永久に5人分増加します。現在のギルドでのみ機能します。新たに他のギルドへ入った場合は、効果はありません。使用しますか？
 UI_GUILD_TOOLTIP_EXP,EXP:,経験値:
-UI_GUILD_TOOLTIP_GOLD,Penya:,Penya:
+UI_GUILD_TOOLTIP_GOLD,Penya:,ペニャ：
 UI_GUILD_TOOLTIP_LEVEL,#bNext level: %d#nb,#b次のレベルまで %d#nb
 UI_CHANGECHANNEL_TITLE,Change Channel,チャンネルを変更
 UI_CHANGECHANNEL_MSG,Select channel:,チャンネルを選択:
@@ -1125,7 +1125,7 @@ UI_REPORT_REASON4,Insults,侮辱行為
 UI_REPORT_CONFIRM,Are you sure you want to report %s?\n\nAbuse of this feature may result in your account being banned.,%s を報告してもよろしいですか？\n\n理由のない報告をした場合、お使いのアカウントを処罰される可能性があります。
 UI_APP_ACHIEVEMENTS_TIP,View your achievements.,実績メニューを表示する。
 UI_ACHIEVEMENTS_TITLE,Achievements,実績
-UI_ACHIEVEMENTS_GENERAL_TAB,General,General
+UI_ACHIEVEMENTS_GENERAL_TAB,General,一般
 UI_ACHIEVEMENTS_MONSTERS_TAB,Monsters,モンスター
 UI_ACHIEVEMENTS_CONSUMABLES_TAB,Consumables,消耗品
 UI_ACHIEVEMENTS_TITLES_TAB,Titles & Badges,称号とバッジ
@@ -1133,13 +1133,13 @@ UI_ACHIEVEMENTS_EVENTS_TAB,Events,イベント
 UI_ACHIEVEMENTS_PLAYTIME_TAB,Play time,プレイ時間
 UI_ACHIEVEMENTS_CONNECTION_SERIES_TAB,Login Streak,連続接続
 UI_ACHIEVEMENTS_TOTAL_CONNECTION_TAB,Login Rewards,合計接続数
-UI_ACHIEVEMENTS_DESCRIPTION,Description,Description
+UI_ACHIEVEMENTS_DESCRIPTION,Description,説明
 UI_ACHIEVEMENTS_DESCRIPTION_BINDS,This achievement is bound to your account.,この実績はアカウントにリンクされています。
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETMONSTERS,Monster(s) to kill: %s.,倒すモンスター: %s
 UI_ACHIEVEMENTS_DESCRIPTION_TARGETITEMS,Item(s) to use: %s.,使用するアイテム: %s
 UI_ACHIEVEMENTS_REWARD,Reward List,報酬のリスト
 UI_ACHIEVEMENTS_REWARD_TITLE,Title: #b%s#nb,称号: #b%s#nb
-UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,Level %d
+UI_ACHIEVEMENTS_REWARD_LEVEL,Level %d,レベル%d
 UI_ACHIEVEMENTS_REWARD_CLAIMED,Claimed,受領済み
 UI_ACHIEVEMENTS_REWARD_GOLD,Penya:,ペニャ:
 UI_ACHIEVEMENTS_REWARD_ITEM,Item(s): %s,アイテム: %s
@@ -1176,13 +1176,13 @@ UI_TOOLTIP_RARITY_VERYRARE,Very Rare,とても珍しい(Very Rare)
 UI_TOOLTIP_RARITY_ULTIMATE,Ultimate,ｱﾙﾃｨﾏ
 UI_WORLD_CASTING,Casting,キャスト中
 UI_WORLD_HARVESTING,Harvesting,収穫
-UI_WORLD_OPENING,Opening,Opening
-UI_WORLD_CHARGING,Charging,Charging
+UI_WORLD_OPENING,Opening,開放中
+UI_WORLD_CHARGING,Charging,チャージ中
 UI_NAVIGATOR_LOCALTIME,Local Time,ローカル時刻
 UI_NAVIGATOR_SERVERTIME,Server Time,サーバー時刻
 UI_NAVIGATOR_MADRIGALTIME,Madrigal Time,マドリガル時間
 UI_UPGRADESAFE_STOP,Stop,停止
-UI_UPGRADESAFE_RESET,Reset,Reset
+UI_UPGRADESAFE_RESET,Reset,リセット
 UI_UPGRADESAFE_MATERIAL_NORMAL,Power Dice,パワーダイス
 UI_UPGRADESAFE_MATERIAL_ULTIMATE,Sunstone,サンストーン
 UI_UPGRADESAFE_MATERIAL_ELEMENT,Card,カード
@@ -1200,15 +1200,15 @@ UI_GROUPSEARCH_SORT,Sort:,並べ替え:
 UI_GROUPSEARCH_PARTYNAME,Party Name,パーティー名
 UI_GROUPSEARCH_GUILDNAME,Guild Name,ギルド名
 UI_GROUPSEARCH_LEADER,Leader,リーダー
-UI_GROUPSEARCH_MASTER,Master,Master
-UI_GROUPSEARCH_LEVEL,Level,Level
+UI_GROUPSEARCH_MASTER,Master,マスター
+UI_GROUPSEARCH_LEVEL,Level,レベル
 UI_GROUPSEARCH_MEMBERS,Members,メンバー
 UI_GROUPSEARCH_BUFFS,Buffs,バフ
 UI_GROUPSEARCH_LEADERLEVEL,Leader Level,リーダーレベル
 UI_GROUPSEARCH_LEADERNAME,Leader Name,リーダー名
 UI_GROUPSEARCH_MASTERLEVEL,Master Level,ギルドマスターレベル
 UI_GROUPSEARCH_MASTERNAME,Master Name,マスター名
-UI_GROUPSEARCH_ALL,All,All
+UI_GROUPSEARCH_ALL,All,すべて
 UI_GROUPSEARCH_FRIENDS,Friend Leaders,リーダーと友達
 UI_GROUPSEARCH_STRANGERS,Non-Friend Leaders,見知らぬリーダー
 UI_GROUPSEARCH_MASTERFRIENDS,Friend Masters,ギルドマスターと友達
@@ -1239,7 +1239,7 @@ UI_TOOLTIP_BOWRANGE,Bow Range,弓の距離
 UI_TOOLTIP_SKILLUP,Skill Damage,スキルダメージ
 UI_TOOLTIP_SKILLUP_1V1,1v1 Skill Damage,単体スキルダメージ
 UI_TOOLTIP_HEALUP,Healing,ヒール
-UI_TOOLTIP_SKILLRANGE,Skill Range,Skill Range
+UI_TOOLTIP_SKILLRANGE,Skill Range,スキル範囲
 UI_MAP_MENU,Menu,メニュー
 UI_MAP_MENU_TIP,Hide/Show the menu,メニュー表示/非表示
 UI_TOOLTIP_RESTOREUP,HP Restoration,HP自動回復
@@ -1257,7 +1257,7 @@ UI_SKILL_POINT_COST,Point Cost,必要SP
 UI_SKILL_ADD_COMBO,Add to Combo,コンボを追加
 UI_SKILL_COMBO,Combo Bar,コンボバー
 UI_CASHSHOP_PENYA_ONLY,Penya Only,ペニャのみ
-UI_CASHSHOP_PENYA,Penya,Penya
+UI_CASHSHOP_PENYA,Penya,ペニャ
 UI_CASHSHOP_PENYA_VIP,Penya (VIP),ペニャ(VIP)
 UI_CASHSHOP_BINDS,This item #bcannot be traded or sold#nb.,このアイテムは#b取引または販売できません#nb。
 UI_CASHSHOP_VIRTUAL,This purchase is #bnot an item#nb.,この購入は#bアイテムではありません#nb.
@@ -1267,7 +1267,7 @@ UI_TOOLTIP_DST_PVE_DMG_RATE,PvE Damage Reduction,PvEダメージ軽減
 UI_TOOLTIP_DST_DEFMAGIC_RATE,Magic Resistance,魔法抵抗
 UI_TOOLTIP_DST_PVP_DMG,PvP Damage,PvPダメージ
 UI_TOOLTIP_DST_PVE_DMG,PvE Damage,モンスターへのダメージ増加
-UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,Asalraalaikum Damage
+UI_TOOLTIP_DST_ASAL,Asalraalaikum Damage,アサルラーライクムダメージ
 UI_TOOLTIP_WALL_LIVES,Number of lives: %d,生命の数: %d
 UI_BUFF_REMOVE_TITLE,Cancel Buff,バフの解除
 UI_BUFF_REMOVE_QUESTION,Remove the buff #b%s#nb? This action cannot be undone.,#b%s#nb のバフを解除しますか？解除後は元に戻すことができません。
@@ -1276,13 +1276,13 @@ UI_TOOLTIP_CHANCESTUN_PVP,Stun Probability (PvP),スタンの確率 (PVP)
 UI_TOOLTIP_CHANCESTUN_PVE,Stun Probability (PvE),スタンの確率 (PVE)
 UI_TOOLTIP_CHANCEPOISON,Poison Probability,ポイズンの確率
 UI_TOOLTIP_CHANCESTEALHP,Steal HP Probability,HP吸収の確率
-UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,Steal MP Probability
-UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,Steal FP Probability
+UI_TOOLTIP_CHANCESTEALMP,Steal MP Probability,MP吸収確率
+UI_TOOLTIP_CHANCESTEALFP,Steal FP Probability,FP吸収確率
 UI_TOOLTIP_CHANCEBLEEDING,Bleeding Probability,出血の確率
 UI_OPTION_PARTY_MEMBERS_HP,Party Members HP,パーティーメンバーのHP
 UI_TOOLTIP_DOTTICK,DoT Tick: %s Seconds,継続ダメージ: %s 秒
-UI_TOOLTIP_MAXHIT,Max Targets: %d,Max Targets: %d
-UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PvP),Max Targets: %d / %d (PvP)
+UI_TOOLTIP_MAXHIT,Max Targets: %d,最大対象数：%d
+UI_TOOLTIP_MAXHIT_PVP,Max Targets: %d / %d (PvP),最大対象数：%d / %d（PvP）
 UI_PRIVATE_SHOP_OK,Shop,商店
 UI_PRIVATE_SHOP_OK_TIP,Open a Personal Shop,個人商店を開く
 UI_PRIVATE_SHOP_VENDOR,Vendor,売り子
@@ -1318,7 +1318,7 @@ UI_OPTION_ADVANCEDSHADERS,Advanced Shaders,高度なシェーダー
 UI_OPTION_BLOOM,Bloom,ブルーム
 UI_OPTION_DOF,Depth of Field,被写界深度
 UI_OPTION_SSAO,SSAO,SSAO
-UI_OPTION_VLIGHT,Volumetric Light,Volumetric Light
+UI_OPTION_VLIGHT,Volumetric Light,ボリュームライト
 UI_OPTION_WATERQUALITY,Water Quality,水質
 UI_OPTION_WATERQUALITY_TIP,Adjusts water reflection quality and resolution.,反射品質と解像度を変更します。
 UI_OPTION_BLOOMQUALITY,Bloom Quality,ブルーム品質
@@ -1343,7 +1343,7 @@ UI_BOUNTYINPUT_FEE,+%s%% Fee,+ %s%% 手数料
 UI_BOUNTYINPUT_TOTAL,%s Penya,%s ペニャ
 UI_BOUNTYINPUT_LABEL_NAME,Target,報奨
 UI_BOUNTYINPUT_LABEL_DURATION,Duration,期限
-UI_BOUNTYINPUT_LABEL_REWARD,Bounty,Bounty
+UI_BOUNTYINPUT_LABEL_REWARD,Bounty,懸賞金
 UI_BOUNTYINPUT_LABEL_TOTAL,Total,合計
 UI_BOUNTYINPUT_LABEL_COMMENT,Comment,コメント
 UI_BOUNTYLIST_TITLE,Bounty List,賞金首のリスト
@@ -1442,7 +1442,7 @@ UI_PARTY_EXPBONUS,EXP Bonus,経験値ボーナス
 UI_PARTY_EXPBONUS_TIP,"EXP bonus for party members. Active members are those participating in combat. Contributions include attacking, healing, and tanking.",パーティーでもらえる経験値ボーナスです。アクティブとは、現在戦闘に参加しているプレイヤーを指します。攻撃、回復、タンクが貢献に含まれます。
 UI_PARTY_EXPBONUS_ACTIVE,x Active,人がアクティブ
 UI_TOOLTIP_BLESSING_WARNING,Blessed items cannot be dropped or traded.,祝福されたアイテムは、ドロップや取引ができません。
-UI_TOOLTIP_BLESSING,Goddess Blessing,Goddess Blessing
+UI_TOOLTIP_BLESSING,Goddess Blessing,女神の祝福
 UI_OPTION_ONECLICKATTACK,Single Click to Attack,1クリックで攻撃
 UI_GEM_CREATE,Extract,抽出
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,コンバット戦闘力ランキング
@@ -1528,13 +1528,13 @@ UI_PET_REROLL_CONFIRM,#bThe pet in the window will be destroyed.#nb Proceed?,#b�
 UI_PET_TIER,Tier,等級
 UI_PET_USE_SKILL,Grace,グレイス
 UI_PET_SKILL_TOOLTIP,Use your pet's Grace skill. Consumes energy and depletes the Grace meter. You can drag this command from the Emotes window to a hotkey slot.,ペットのグレイススキルを使用してください。エネルギーを使ってプログレスバーを消費します。モーションウィンドウにドラッグ可能なキーがあります。
-UI_PET_RESTAT_TITLE,Pet Reroll,Pet Reroll
-UI_PET_RESTAT_BUTTON,Reroll,Reroll
-UI_PET_RESTAT_DISCARD,Discard,Discard
-UI_PET_RESTAT_KEEP,Keep,Keep
-UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.
-UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,Are you sure you want to discard this result?
-UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,Are you sure you want to keep this result?
+UI_PET_RESTAT_TITLE,Pet Reroll,ペットリロール
+UI_PET_RESTAT_BUTTON,Reroll,リロール
+UI_PET_RESTAT_DISCARD,Discard,破棄
+UI_PET_RESTAT_KEEP,Keep,保持
+UI_PET_RESTAT_CONFIRM_REROLL,Are you sure you want to reroll this tier? The resulting level could be higher or lower than the current level.,このティアを再抽選してもよろしいですか？結果のレベルは現在より高くなる場合も低くなる場合もあります。
+UI_PET_RESTAT_CONFIRM_DISCARD,Are you sure you want to discard this result?,この結果を破棄してもよろしいですか？
+UI_PET_RESTAT_CONFIRM_KEEP,Are you sure you want to keep this result?,この結果を保持してもよろしいですか？
 UI_TOOLTIP_DST_BLOCK_PENETRATE,Block Penetration,ブロック貫通力
 UI_ITEM_USE_CANDY,How many Pet Candies do you want to use?,ペットキャンディーを何個使いますか？
 UI_NAMEMISSING_TITLE,Name Missing,名前がありません
@@ -1582,11 +1582,11 @@ UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,レベル 80 GS 情報
 UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,レベル 60 GS 情報
 UI_GUILDCOMBAT_OFFER_TITLE1,Apply for Lv.80 Guild Siege,レベル 80 GS に申し込む
 UI_GUILDCOMBAT_OFFER_TITLE2,Apply for Lv.60 Guild Siege,レベル 60 GS に申し込む
-UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - Cancel Application
-UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,Do you want to withdraw from the Level 165 Guild Siege?
-UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,Do you join the Level 165 Guild Siege?
-UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,Level 165 GS Information
-UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,Apply for Level 165 GS
+UI_GUILDCOMBAT165_CANCEL_TITLE,Lv165 GS - Cancel Application,Lv165 GS - 申請キャンセル
+UI_GUILDCOMBAT165_CANCEL_MSG,Do you want to withdraw from the Level 165 Guild Siege?,レベル165ギルドコンバットから脱退しますか？
+UI_GUILDCOMBAT165_JOIN_MSG,Do you join the Level 165 Guild Siege?,レベル165ギルドコンバットに参加しますか？
+UI_GUILDCOMBATBOARD_TITLE3,Level 165 GS Information,レベル165GS情報
+UI_GUILDCOMBAT_OFFER_TITLE3,Apply for Level 165 GS,レベル165GSに申し込む
 UI_GUILDCOMBAT_OFFER_PRESENT1,Blue Chips\n- Winning Guild: 34 x number of participating guilds\n- Second Guild: 24 x number of participating guilds\n- Third Guild: 14 x number of participating guilds\n- Fourth Guild: 8 x number of participating guilds\n- Fifth Guild: 4 x number of participating guilds,ブルーチップ\n・優勝ギルド：34×参加ギルド数\n・第2ギルド：24×参加ギルド数\n・第3ギルド：14×参加ギルド数\n・第4ギルド：8×参加ギルド数\n・第5ギルド：4×参加ギルド数
 UI_GUILDCOMBAT_OFFER_PRESENT2,Blue Chips\n- Winning Guild: 32 x number of participating guilds\n- Second Guild: 22 x number of participating guilds\n- Third Guild: 12 x number of participating guilds\n- Fourth Guild: 7 x number of participating guilds\n- Fifth Guild: 3 x number of participating guilds,ブルーチップ\n・優勝ギルド：32×参加ギルド数\n・第2ギルド：22×参加ギルド数\n・第3ギルド：12×参加ギルド数\n・第4ギルド：7×参加ギルド数\n・第5ギルド：3×参加ギルド数
 UI_GUILDCOMBAT_STATE_TITLE1,Lv.80 Guild Siege Application Status,レベル 80 GS アプリケーション
@@ -1597,11 +1597,11 @@ UI_GUILDCOMBAT_RESULT_TITLE1,Lv.80 Guild Siege Results,レベル80ギルド＆�
 UI_GUILDCOMBAT_RESULT_TITLE2,Lv.60 Guild Siege Results,レベル60ギルド＆メンバーランキング
 UI_GUILDCOMBAT_RANKING_TITLE1,Lv.80 Guild Siege Player Rankings,レベル80ギルドメンバーランキング
 UI_GUILDCOMBAT_RANKING_TITLE2,Lv.60 Guild Siege Player Rankings,レベル60ギルドメンバーランキング
-UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds
-UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,Level 165 GS Applications
-UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,Level 165 GS Line Up
-UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,Level 165 Guild & Member Ranking
-UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,Level 165 Guild Member Ranking
+UI_GUILDCOMBAT_OFFER_PRESENT3,Blue Chips\n- Winning Guild: 40 x number of participating guilds\n- Second Guild: 30 x number of participating guilds\n- Third Guild: 20 x number of participating guilds\n- Fourth Guild: 10 x number of participating guilds\n- Fifth Guild: 6 x number of participating guilds,ブルーチップ\n- 優勝ギルド：参加ギルド数 × 40\n- 準優勝ギルド：参加ギルド数 × 30\n- 3位ギルド：参加ギルド数 × 20\n- 4位ギルド：参加ギルド数 × 10\n- 5位ギルド：参加ギルド数 × 6
+UI_GUILDCOMBAT_STATE_TITLE3,Level 165 GS Applications,レベル165GS申請状況
+UI_GUILDCOMBAT_SELECT_TITLE3,Level 165 GS Line Up,レベル165GSラインナップ
+UI_GUILDCOMBAT_RESULT_TITLE3,Level 165 Guild & Member Ranking,レベル165ギルド＆メンバーランキング
+UI_GUILDCOMBAT_RANKING_TITLE3,Level 165 Guild Member Ranking,レベル165ギルドメンバーランキング
 UI_OPTION_EVENTLIGHT,Event Light,イベントライト効果
 UI_LEVELREACH,Level Reach,レベル先行
 UI_LEVELREACH_DESC,"Reach new levels during the event period to receive rewards! Each level has a limited number of rewards, so hurry - first come, first served!",イベント期間中にいち早く一定レベルへ到達し報酬をゲットしよう！レベルごとに報酬の数に限りがありますので、お早めに！先着順ですよ！
@@ -1643,14 +1643,14 @@ UI_LEVELREACH_LVL163,Level 163,レベル163
 UI_LEVELREACH_LVL164,Level 164,レベル164
 UI_LEVELREACH_LVL165,Level 165,レベル165
 UI_LEVELREACH_LVL169,Level 169,レベル169
-UI_LEVELREACH_LVL170,Level 170,Level 170
+UI_LEVELREACH_LVL170,Level 170,レベル170
 UI_LEVELREACH_LVL172,Level 172,レベル172
 UI_LEVELREACH_LVL175,Level 175,レベル175
 UI_LEVELREACH_LVL178,Level 178,レベル178
-UI_LEVELREACH_LVL180,Level 180,Level 180
+UI_LEVELREACH_LVL180,Level 180,レベル180
 UI_LEVELREACH_LVL181,Level 181,レベル181
 UI_LEVELREACH_LVL184,Level 184,レベル184
-UI_LEVELREACH_LVL185,Level 185,Level 185
+UI_LEVELREACH_LVL185,Level 185,レベル185
 UI_LEVELREACH_LVL187,Level 187,レベル187
 UI_LEVELREACH_LVL190,Level 190,レベル190
 UI_GIANTHUNTING,Giant Hunting,ジャイアントハンティング
@@ -1662,9 +1662,9 @@ UI_WORLDCUP_RANK,Guild Rank: %d - Guild Points: %d - Your Points: %d,ギルド�
 UI_MSGBOX_COPY,Copy,コピー
 UI_MSGBOX_COPY_CONFIRM,Copied to Clipboard,クリップボードにコピーしました。
 UI_DUNGEON_TITLE,Dungeon,ダンジョン
-UI_DUNGEON_EASY,Easy,Easy
+UI_DUNGEON_EASY,Easy,イージー
 UI_DUNGEON_MEDIUM,Medium,中
-UI_DUNGEON_HARD,Hard,Hard
+UI_DUNGEON_HARD,Hard,ハード
 UI_DUNGEON_LOW_DROPS,Low Drop Rate,低ドロップ
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate,通常ドロップ
 UI_DUNGEON_HIGH_DROPS,Increased Drop Rate,ドロップ増加
@@ -1732,8 +1732,8 @@ UI_TICKETCHANNELSEL,Select a Layer,レイヤーを選択
 UI_TICKETCHANNEL,Layer,レイヤー 
 UI_TICKETLEAVE,Leave Area,エリアを離れる
 UI_TARGETITEMLEVEL,Required Target Level: %d,必要なターゲット レベル: %d
-UI_RECOMMENDEDLEVEL,Recommended Level: %s,Recommended Level: %s
-UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),(Stats x%.2f)
+UI_RECOMMENDEDLEVEL,Recommended Level: %s,推奨レベル：%s
+UI_RECOMMENDEDLEVEL_STATDOWN,(Stats x%.2f),（ステータス x%.2f）
 UI_DUNGEON_REQ_ITEM,Required Items:,必須項目:
 UI_DUNGEON_MAX_ENTRY_COUNT,Daily Entries: %d / %d,1 日あたりの最大入場者数: %d / %d
 UI_DROP_DISTRIBUTE_TITLE,Loot Distribution,戦利品の配布
@@ -1746,8 +1746,8 @@ UI_DROP_DISTRIBUTE_RESULT,%s was awarded the item.,%s がアイテムを獲得�
 UI_DROP_DISTRIBUTE_RESULT_MAIL,The item has been mailed to a player who is no longer available.,不在のプレイヤーにアイテムがポストへ転送されました。
 UI_DROP_DISTRIBUTE_CURRENT,Item: %d/%d,アイテム: %d/%d
 UI_TOOLTIP_MULTISTRIKE,Multistrike Chance,マルチストライクチャンス
-UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),Multistrike Chance (PvP)
-UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),Multistrike Chance (PvE)
+UI_TOOLTIP_PVP_MULTISTRIKE,Multistrike Chance (PvP),マルチストライクチャンス（PvP）
+UI_TOOLTIP_PVE_MULTISTRIKE,Multistrike Chance (PvE),マルチストライクチャンス（PvE）
 UI_BATTLEPASS_MISSION_KILLMONSTER_PK,Hunt Monsters Lv.%s+ on the PK Channel,PKチャンネルでモンスターLv.%s+を狩る
 UI_BATTLEPASS_MISSION_KILLMONSTER2_PK,Hunt %s on the PK Channel,PK チャネルで %s をハントします
 UI_BATTLEPASS_MISSION_CLEARDUNGEON,Clear Dungeon(s),ダンジョンをクリアする
@@ -1823,7 +1823,7 @@ UI_PVPCONTEST_REGISTEREDGUILDS,Registered Guilds (Count: %d),登録ギルド (�
 UI_PVPCONTEST_REGISTER,Register,登録
 UI_PVPCONTEST_LINEUP,Lineup,ラインナップ
 UI_PVPCONTEST_REMAKE_MAKEUP,Organize the lineup for FWC PvP Contest again?,FWC PVPコンテストのラインナップを再び整理したいですか?
-UI_PVPCONTEST_CONFIRM_LINEUP,Confirm the line up for FWC PvP Contest? You cannot change it after.,Confirm the line up for FWC PvP Contest? You cannot change it after.
+UI_PVPCONTEST_CONFIRM_LINEUP,Confirm the line up for FWC PvP Contest? You cannot change it after.,FWC PvPコンテストのラインナップを確定しますか？確定後は変更できません。
 UI_PVPCONTEST_SELECT_TITLE,Set Entry List for FWC PvP Contest,FWC PVPコンテストのエントリーリストを設定
 UI_PVPCONTEST_SELECT_CONNECTED,Connected Guild Members,コネクテッドギルドメンバー
 UI_PVPCONTEST_SELECT_ENTRANT,Entrant List,参加者リスト
@@ -1900,8 +1900,8 @@ UI_BATTLEPASS_INFO5,The Starter Pass does not expire and is available to all pla
 UI_QUEST_STARTABLE,Startable,スターテーブル
 UI_SUMMERPASS2023,Summer Pass,サマーパス
 UI_APP_SWITCHEQUIP_TIP,View and manage your equipment switches.,装備切り替えメニューを表示します。
-UI_APP_SWITCHEQUIP_DELETE,Delete,Delete
-UI_APP_SWITCHEQUIP_SAVE,Save,Save
+UI_APP_SWITCHEQUIP_DELETE,Delete,削除
+UI_APP_SWITCHEQUIP_SAVE,Save,保存
 UI_APP_SWITCHEQUIP_COPY,Copy Current Equipment,装備内容をコピー
 UI_APP_SWITCHEQUIP_USE,Use,使う
 UI_APP_SWITCHEQUIP_TITLE,Name ,名前
@@ -2013,9 +2013,9 @@ UI_RAINBOWRACE_POINTS,Rank %d / %d (%d points),ランク %d / %d (%d ポイン�
 UI_RAINBOWRACE_FARWARNING,You've received a speed penalty for leaving the track - return now or you'll be disqualified!,速度が低下！失格にならないよう、コース付近を飛行してください！
 UI_RAINBOWRACE_SPEEDMULTI,Current speed multiplier: %d,現在の速度乗数: %d
 UI_RAINBOWRACE_APP_TITLE,Rainbow Race Application,レインボーレースアプリケーション
-UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,Registering costs %lld Penya. Continue?
+UI_RAINBOWRACE_APP_CONFIRM,Registering costs %lld Penya. Continue?,登録には%lldペニャが必要です。続行しますか？
 UI_RAINBOWRACE_APP_CURRENT,Registered Applicants: %d,現在の参加申請人数:%d人
-UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,Application Fee: %lld Penya
+UI_RAINBOWRACE_APP_FEE,Application Fee: %lld Penya,申込手数料：%lldペニャ
 UI_RAINBOWRACE_APP_TIP,Register for the Rainbow Race,レインボーレースに申し込む。
 UI_RAINBOWRACE_RANKING_TIP,View the rankings of the previous race.,前走のランキングを見る。
 UI_RAINBOWRACE_APP_DISABLE_TIP,Registration is not currently open.,現在、募集期間はございません。
@@ -2030,7 +2030,7 @@ UI_ULTIMATE_RANDOMSTAT,Random Ultimate Stats,ランダムなステータス取�
 UI_RESTAT_TITLE,Re-Stat,リスターテル
 UI_RESTATC_DESC,Do you wish to apply the Fixed Stat upgrade to the following item?\n(%s),以下のアイテムに固定ステータスアップグレードを適用しますか?\n(%s)
 UI_RESTATR_DESC,Do you wish to apply the Random Stat upgrade to the following item?\n(%s),ランダムステータスアップグレードを次のアイテムに適用しますか?\n(%s)
-UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),Do you wish to apply the Random Special Option upgrade to the following item?\n(%s)
+UI_RESTATR2_DESC,Do you wish to apply the Random Special Option upgrade to the following item?\n(%s),以下のアイテムにランダム特殊オプション強化を適用しますか？\n(%s)
 UI_ITEM_UPGRADE_PUT,Please input an item which you want to upgrade.,アップグレードしたい項目を入力してください。
 UI_MATERIAL_ITEM_PUT,Please input a material item first.,最初に材料項目を入力してください。
 UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,このアイテムには使用できません。
@@ -2053,8 +2053,8 @@ UI_PLAYERHOUSINGBUY_TITLE,Select House Template,ハウステンプレートを�
 UI_PLAYERHOUSINGBUY_INFO,Select a template for your house.\n\n#b#cffff0000Changing your house template will remove all currently placed decorations and NPCs! Save them to a preset to restore them later.#nc#nb,ハウスのテンプレートを選択してください。 \n\n#b#cffff0000家のテンプレートを変更すると、現在の家からすべての装飾アイテムが撤去されます。再び同じ配置したい場合は、プリセットに保存してください。#nc#nb
 UI_PLAYERHOUSINGBUY_CONFIRM,Select Template,テンプレートを選択
 UI_PLAYERHOUSINGBUY_MSGBOX_INFO,"Select this template?\n#bNote:#nb If you already own a house, this action will remove all currently placed decorations and NPCs.",このテンプレートを選択してもよろしいですか? \n\n#bNote:#nb すでに家を所有している場合は、テンプレートが変更されますが、配置した装飾モデルはすべて削除されます。
-UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,Visit a Friend's House
-UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,Select a friend to visit. Only friends who are online and allow you to visit are listed here.
+UI_PLAYERHOUSINGVISIT_TITLE,Visit a Friend's House,フレンドの家を訪ねる
+UI_PLAYERHOUSINGVISIT_INFO,Select a friend to visit. Only friends who are online and allow you to visit are listed here.,訪問するフレンドを選択してください。オンラインかつ訪問を許可しているフレンドのみ表示されます。
 UI_MESSENGER_MENU_HOUSINGVISIT_ALLOW,Allow house visits,マイハウスへの訪問を許可
 UI_MESSENGER_MENU_HOUSINGVISIT_DENY,Deny house visits,マイハウスへの訪問を拒否
 UI_GACHA_DESC_HOUSING,You will receive the following housing objects.,以下のすべてのモデルのロックを解除して、家を飾ります。
@@ -2069,7 +2069,7 @@ UI_TOOLTIP_HOUSENPC,"When placed, this house NPC grants the following bonuses:",
 UI_HOUSINGSETUP_OBJECTS,Decorations,オブジェクト
 UI_HOUSINGSETUP_NPCS,NPCs,NPC
 UI_HOUSINGSETUP_FILTER_HDR,Filter,検索
-UI_HOUSINGSETUP_FILTER_HDR_ALL,All,All
+UI_HOUSINGSETUP_FILTER_HDR_ALL,All,すべて
 UI_HOUSINGSETUP_FILTER_TREE,Trees,ツリー
 UI_HOUSINGSETUP_FILTER_OTHER,Other,その他
 UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドハウスに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドハウスの所有権を獲得します。 \n\n#b#uNote:#nu#nb \n-一度に入札できるギルドハウスは1つだけです。\n-入札に費やしたペニャは、ギルドの銀行で利用可能でなければなりません。
@@ -2094,7 +2094,7 @@ UI_HOUSINGSETUP_MANAGE,Management,管理
 UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,このページでは、このワールドのハウジングプリセットを管理できます。プリセットをクリックすると、オブジェクト/NPCの配置をプレビューできます。  \n\n\n #b#uNote:#nb#nu プリセットを適用すると、現在の装飾/NPCがすべて削除されます。配置したNPCのみがプリセットリストに追加されます。期限切れのパックに含まれていた一部のモデル/NPCは、プリセットを適用するときに配置されない場合があります。
 UI_HOUSINGPRESET_HDR,Preset List,プリセットリスト
 UI_HOUSINGPRESET_NEW,New,新規
-UI_HOUSINGPRESET_DELETE,Delete,Delete
+UI_HOUSINGPRESET_DELETE,Delete,削除
 UI_HOUSINGPRESET_APPLY,Apply,適用
 UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,プリセット名
 UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,名前を設定する必要があります。
@@ -2148,7 +2148,7 @@ UI_BATTLEPASS_CHRISTMAS2023,Christmas Pass 2023,クリスマスパス 2023
 UI_HOME_LOGIN_EMAIL,Sign in with Email,メールでサインイン
 UI_HOME_LOGIN_EMAIL_TIP,Log in with your Flyff Universe account email or username,Flyff Universeのメールアドレスまたはユーザー名でログイン
 UI_SESSION_TITLE,Saved Sessions,保存済みセッション
-UI_SESSION_REMOVE,Remove,Remove
+UI_SESSION_REMOVE,Remove,削除
 UI_SESSION_REMOVEALL,Remove All,すべて削除
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,注意
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease review the following tips:,クライアントのパフォーマンスが低い状態です。\n下記2項目をご確認ください。
@@ -2157,7 +2157,7 @@ UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure hardware acceleration is enabled in 
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Settings,ゲーム設定に移動
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish a Rainbow Race,レインボーレースをクリアする
 UI_LOCKED_SLOT_TIP,"Additional inventory slots can be unlocked by completing certain quests or achievements, or by using an Extra Bag (available in the Flyff Shop).",クエスト、実績、またはキャッシュショップの追加バッグでアンロックできます。
-UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.
+UI_LOCKED_SLOT_TIP_COUPLE,Additional slots can be unlocked by increasing your couple level or proposing with a higher-grade couple ring.,カップルレベルを上げるか、より上位のカップルリングでプロポーズすることで、追加スロットを解放できます。
 UI_QUEST_SLOTS_COMMAND,Uncompleted quests that unlock inventory slots:,インベントリスロットをアンロックする未完了のクエスト:
 UI_ACHIEVEMENT_SLOTS_COMMAND,Unclaimed or incomplete achievements that unlock inventory slots:,インベントリスロットをアンロックする未取得または未完了の実績:
 UI_QUEST_KILL_MONSTER_COUNT,Defeat Monsters #cffc32f07#b%d/%d#nb#nc,モンスター討伐 #cffc32f07#b%d/%d#nb#nc
@@ -2187,7 +2187,7 @@ UI_UPGRADE_ITEMPACK,Upgrade,アップグレード
 UI_ITEMPACK_UPGRADE_TITLE,Item Pack Upgrade,アイテムパックのアップグレード
 UI_ITEMPACK_UPGRADE_DESC,"When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed.","When you open an egg, you can receive all of the items listed below.\nIf you successfully upgrade the egg, you will receive higher-ranked items. If the upgrade fails, the egg may be downgraded or destroyed."
 UI_ITEMPACK_UPGRADE_DESC_EMPTY,Drag and drop an upgradable item pack into the item slot.,アップグレード可能なアイテムパックをアイテムスロットにドラッグ&ドロップします。
-UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?
+UI_ITEMPACK_UPGRADE_CONFIRM,Successful upgrades increase the reward. Failed upgrades may downgrade or destroy the item.\nProceed?,強化に成功すると報酬が増加します。失敗するとアイテムが降格または破壊される場合があります。\n続行しますか？
 UI_TAB_EGG_USE_NAME,Egg Use Achievements Event,卵使用実績イベント
 UI_EGG_USE_EVENT,Egg Use,卵の使用
 UI_EGG_USE_EVENT_DESC,"Use eggs during the event to earn rewards.\nRewards are granted when the total number of eggs used reaches certain milestones.\nRewards are limited by egg color, so hurry - first come, first served!",イベント中に使用した卵の数が一定数に達すると報酬がもらえます。\n報酬はタマゴの色ごとに数に限りがありますのでお早めに。\n先着順!
@@ -2260,7 +2260,7 @@ UI_KALGAS_ASSAULT_RANK_ARTIFACT,Artifact,アーティファクト
 UI_KALGAS_ASSAULT_RANK_KILL,Kill,キル
 UI_KALGAS_ASSAULT_RANK_RANKING,Ranking,ランキング
 UI_KALGAS_ASSAULT_RANK_TEAM,Team,チーム
-UI_KALGAS_ASSAULT_RANK_NAME,Name,Name
+UI_KALGAS_ASSAULT_RANK_NAME,Name,名前
 UI_KALGAS_ASSAULT_RANK_POINT,Point,点
 UI_TOOLTIP_DST_BOSS_DMG,Boss Monster Damage,ボスモンスターダメージ
 UI_KALGAS_ASSAULT_KILL_COUNT,Kill Count: %d,キル数 : %d
@@ -2282,19 +2282,19 @@ UI_KALGAS_ASSAULT_READY,Kalgas Assault is about to start!,カルガスアサル�
 UI_KALGAS_ASSAULT_ENTRY_CLOSE_REMAINING,Kalgas Assault entry will close in %d minutes.,カルガス・アサルトのエントリーは %d 分後に締め切られます。
 UI_KALGAS_ASSAULT_PLAY_START_REMAINING,Kalgas Assault will start in %d minutes.,カルガス アサルトは %d 分後に開始されます。
 UI_RAINBOWRACE_TEAMSELECTION_DESC,"You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully.","You can form a team with a friend or a random player to compete in the race.\n\nOnce you select a team, it cannot be changed or canceled. Choose carefully."
-UI_RAINBOWRACE_RANDOMMATCHING,Random Match,Random Match
-UI_RAINBOWRACE_TEAMWITHFRIEND,Team Up with a Friend,Team Up with a Friend
-UI_RAINBOWRACE_TEAMINVITATION,Invite Friend,Invite Friend
+UI_RAINBOWRACE_RANDOMMATCHING,Random Match,ランダムマッチ
+UI_RAINBOWRACE_TEAMWITHFRIEND,Team Up with a Friend,フレンドとチームを組む
+UI_RAINBOWRACE_TEAMINVITATION,Invite Friend,フレンドを招待
 UI_RAINBOWRACE_FRIEND_LEVEL,Level,レベル
 UI_RAINBOWRACE_FRIEND_NAME,Name,名前
-UI_RAINBOWRACE_FRIEND_APPLICATION,Application,Application
-UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.
-UI_RAINBOWRACE_ITEM,Item,Item
-UI_RAINBOWRACE_SPEED,Speed,Speed
-UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?
-UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.
-UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.
-UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.
+UI_RAINBOWRACE_FRIEND_APPLICATION,Application,申込
+UI_RAINBOWRACE_INVITATION_CONFIRM,Participate in Rainbow Race Duo (%s) with %s? The application fee is %lld Penya.,%sと一緒にレインボーレース・ペア（%s）に参加しますか？申込手数料は%lldペニャです。
+UI_RAINBOWRACE_ITEM,Item,アイテム
+UI_RAINBOWRACE_SPEED,Speed,スピード
+UI_RAINBOWRACE_TEAM_INVITATION,%s invites you to participate in the Rainbow Race (Duo Team - %s).\nThe application fee is %lld Penya\nAccept?,%sがレインボーレース（ペアチーム - %s）への参加に招待しています。\n申込手数料は%lldペニャです\n承諾しますか？
+UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual - %s).\nYou have spent %lld Penya.,レインボーレース（個人 - %s）に登録しました。\n%lldペニャを消費しました。
+UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,レインボーレース（ペアチーム - %s）に登録しました。\n%lldペニャを消費しました。
+UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,%sと共にレインボーレース（ペアチーム - %s）に登録しました。\n%lldペニャを消費しました。
 UI_RAINBOWRACE_TITLE,Rainbow Race,レインボーレース
 UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),チーム(L)
 UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,リセット機器
@@ -2328,7 +2328,7 @@ UI_TOOLTIP_HOUSINGARTIFACT_NEAR_SPELLRATE,Guild Member Casting Speed Near Artifa
 UI_TOOLTIP_PVPBLOCK_RATE,PvP Melee/Range Block,PvP近接/レンジブロック
 UI_TOOLTIP_PVPCRITICALBONUS,PvP Critical Damage,PvPクリティカルダメージ
 UI_TOOLTIP_PVPCRITICALCHANCE,PvP Critical Chance,PvPクリティカルチャンス
-UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,Penya Drop Bonus
+UI_TOOLTIP_PENYA_RATE,Penya Drop Bonus,ペニャドロップボーナス
 UI_OPTION_UNDERWATER,Underwater Effect,水中効果
 UI_REVIVAL_LODELIGHT_CONFIRM,Resurrect at Lodelight?,ローディライトに復活してよろしいですか?
 UI_REVIVAL_LODESTAR_CONFIRM,Resurrect at Lodestar?,ロードスターに復活してよろしいですか?
@@ -2339,153 +2339,153 @@ UI_PURCHASE_INAPP_CANCELED,Purchase has been cancelled.,購入がキャンセル
 UI_PURCHASE_INAPP_ERROR,An error occurred. The purchase could not be completed.,エラーが発生し、購入が完了しませんでした。
 UI_TOOLTIP_MAGIC_CLOCK,Number of uses today: %d,本日の使用回数: %d
 UI_BATTLEPASS_MISSION_UPGRADE_GEAR_OR_ACC,Upgrade a Piece of Gear or an Accessory to +%s or Higher,装備またはアクセサリーのアップグレード+%s以上に到達する
-UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,Monster(s) to kill
-UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,Use the Scroll of Resurrection to resurrect yourself?
-UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,Catalyst
-UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,Manage notifications
-UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,Manage privacy
-UI_OPTION_ACCOUNT_TOS,Terms of Service,Terms of Service
+UI_ACHIEVEMENTS_TITLE_TARGETMONSTERS,Monster(s) to kill,討伐対象モンスター
+UI_REVIVAL_INSTANT_CONFIRM,Use the Scroll of Resurrection to resurrect yourself?,復活の巻物を使用して自分を復活させますか？
+UI_EVENT_ITEM_UPGRADE_MATERIAL,Catalyst,触媒
+UI_OPTION_ACCOUNT_MANAGE_NOTIFICATIONS,Manage notifications,通知設定
+UI_OPTION_ACCOUNT_MANAGE_PRIVACY,Manage privacy,プライバシー設定
+UI_OPTION_ACCOUNT_TOS,Terms of Service,利用規約
 UI_OPTION_ACCOUNT_PRIVACY,Privacy Policy,プライバシーポリシー
-UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,Membership Withdrawal
-UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,Customer Center
-UI_SERVICE_AGREEMENT_TITLE,Service agreement,Service agreement
-UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,(Required) Please enter your date of birth
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy
-UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,(Required) I agree
-UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,Check the Terms of Service
-UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,Check the Privacy Policy
-UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe
-UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,In-app push notifications
-UI_SERVICE_AGREEMENT_EMAIL,Email,Email
-UI_SERVICE_AGREEMENT_PHONE,Phone,Phone
-UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,Are you a California resident?
-UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,ZIPCODE
-UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,Check the California Privacy Statement
-UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,Agree All
-UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,Agreement error
-UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,Please enter a valid date of birth.
-UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,You must be at least 16 years old to play the game.
-UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,You must read and accept the terms of service and privacy policy to continue.
-UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,Please enter a valid zip code.
-UI_ROLL_AND_MOVE_START,START,START
-UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,Roll the dice
-UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,Completion Reward
-UI_TRADE_LOG_PUT,Added,Added
-UI_TRADE_LOG_PULL,Removed,Removed
-UI_TRADE_LOG_CONFIRM,Confirmed the trade.,Confirmed the trade.
-UI_TRADE_LOG_ACCEPT,Accepted the trade.,Accepted the trade.
-UI_TRADE_LIST_VIEW,Toggle list view,Toggle list view
+UI_OPTION_ACCOUNT_MEMBERSHIP_WITHDRAWAL,Membership Withdrawal,退会
+UI_OPTION_ACCOUNT_CUSTOMER_CENTER,Customer Center,カスタマーセンター
+UI_SERVICE_AGREEMENT_TITLE,Service agreement,サービス利用規約
+UI_SERVICE_AGREEMENT_BIRTHDATE,(Required) Please enter your date of birth,（必須）生年月日を入力してください
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS,I agree to the Terms of Service and acknowledge that I have read and understood the Privacy Policy,利用規約に同意し、プライバシーポリシーを読み理解したことを確認します
+UI_SERVICE_AGREEMENT_ACCEPT_TERMS_AGREE,(Required) I agree,（必須）同意する
+UI_SERVICE_AGREEMENT_TERMSOFSERVICE,Check the Terms of Service,利用規約を確認する
+UI_SERVICE_AGREEMENT_PRIVACY_POLICY,Check the Privacy Policy,プライバシーポリシーを確認する
+UI_SERVICE_AGREEMENT_ADVERTISEMENTS,(Optional) I agree to receive advertisements and updates about Flyff Universe and related services published on Flyff Universe,（任意）Flyff Universeおよび関連サービスに関する広告・最新情報の受け取りに同意します
+UI_SERVICE_AGREEMENT_NOTIFICATIONS,In-app push notifications,アプリ内プッシュ通知
+UI_SERVICE_AGREEMENT_EMAIL,Email,メール
+UI_SERVICE_AGREEMENT_PHONE,Phone,電話
+UI_SERVICE_AGREEMENT_CALIFORNIA_RESIDENT,Are you a California resident?,カリフォルニア州在住ですか？
+UI_SERVICE_AGREEMENT_ZIPCODE,ZIPCODE,郵便番号
+UI_SERVICE_AGREEMENT_CALIFORNIA_PRIVACY,Check the California Privacy Statement,カリフォルニア州プライバシー声明を確認する
+UI_SERVICE_AGREEMENT_AGREE_ALL,Agree All,すべてに同意
+UI_SERVICE_AGREEMENT_ERROR_TITLE,Agreement error,同意エラー
+UI_SERVICE_AGREEMENT_ERROR_BIRTH,Please enter a valid date of birth.,有効な生年月日を入力してください。
+UI_SERVICE_AGREEMENT_ERROR_AGE,You must be at least 16 years old to play the game.,このゲームをプレイするには16歳以上である必要があります。
+UI_SERVICE_AGREEMENT_ERROR_TERMS,You must read and accept the terms of service and privacy policy to continue.,続行するには、利用規約とプライバシーポリシーを読み、同意する必要があります。
+UI_SERVICE_AGREEMENT_ERROR_ZIPCODE,Please enter a valid zip code.,有効な郵便番号を入力してください。
+UI_ROLL_AND_MOVE_START,START,スタート
+UI_ROLL_AND_MOVE_ROLLBTN,Roll the dice,サイコロを振る
+UI_ROLL_AND_MOVE_COMPLETIONREWARD,Completion Reward,完了報酬
+UI_TRADE_LOG_PUT,Added,追加
+UI_TRADE_LOG_PULL,Removed,削除
+UI_TRADE_LOG_CONFIRM,Confirmed the trade.,取引を確定しました。
+UI_TRADE_LOG_ACCEPT,Accepted the trade.,取引を承諾しました。
+UI_TRADE_LIST_VIEW,Toggle list view,リスト表示切替
 UI_COUPON_TITLE,Coupon,クーポン
-UI_COUPON_ENTER,Please enter your coupon code.,Please enter your coupon code.
+UI_COUPON_ENTER,Please enter your coupon code.,クーポンコードを入力してください。
 UI_COUPON_CODE,Coupon Code,クーポンコード
-UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD
+UI_COUPON_DESCRIPTION,Coupon codes look like the following:\n    AAAA-BBBB-CCCC-DDDD,クーポンコードは以下のような形式です：\n    AAAA-BBBB-CCCC-DDDD
 UI_COUPON_CLAIM,Claim,もらう
-UI_COUPON_CODE_PAGE,Claim Coupon,Claim Coupon
-UI_COUPON_LOGS_PAGE,Used Coupons,Used Coupons
-UI_COUPON_LOGS_CODE,Code,Code
-UI_COUPON_LOGS_USETIME,Used at,Used at
-UI_COUPONGIFT_TITLE,Coupon Gift,Coupon Gift
+UI_COUPON_CODE_PAGE,Claim Coupon,クーポンを受け取る
+UI_COUPON_LOGS_PAGE,Used Coupons,使用済みクーポン
+UI_COUPON_LOGS_CODE,Code,コード
+UI_COUPON_LOGS_USETIME,Used at,使用日時
+UI_COUPONGIFT_TITLE,Coupon Gift,クーポンギフト
 UI_COUPONGIFT_NOTICE,"#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!","#cffff0000We have something for you!#nc\n\nThank you for playing the #b%s#nb version of Flyff Universe.\n\nAs a gift, we have sent you a coupon code to your post box.\nYou can redeem it from the #bEvents#nb menu at any time, on any server or character.\n\nEnjoy!"
-UI_MENU_REMOVE_SHORTCUT,Unpin,Unpin
+UI_MENU_REMOVE_SHORTCUT,Unpin,ピン留め解除
 UI_MENU_SAVE,Save changes,変更を保存
 UI_MENU_EDIT,Edit pinned menu items,編集メニュー
-UI_MENU_FULL,You cannot pin any more menu items.,You cannot pin any more menu items.
+UI_MENU_FULL,You cannot pin any more menu items.,これ以上メニュー項目をピン留めできません。
 UI_MENU_UNSPECIFIED,Unspecified,指定されていない
-UI_OPTION_KEYREPEAT,Holding Keys,Holding Keys
+UI_OPTION_KEYREPEAT,Holding Keys,キー長押し
 UI_DELETEACCOUNT_TITLE,Delete Account,アカウントを削除する
-UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,Password for deleting account\nEnter the password
+UI_DELETEACCOUNT_PASS,Password for deleting account\nEnter the password,アカウント削除用パスワード\nパスワードを入力してください
 UI_DELETEACCOUNT_NOPASS,Do you confirm?,よろしいですか？
 UI_DELETEACCOUNT_NOTICE,"When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies.","When you withdraw your membership, all data will be deleted and you will not be able to use the service, restore your account, or receive a refund for any remaining paid items or currencies."
-UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,Find items in Personal and Vendor shops.
-UI_SEARCHSHOP_RARITY,Rarity,Rarity
-UI_SEARCHSHOP_UPGRADE,Upgrade:,Upgrade:
-UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,Include Keyword
-UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,Exact Keyword
-UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,Distance to Shop
-UI_SEARCHSHOP_NBITEMS,Total # of items: %d,Total # of items: %d
-UI_SEARCHSHOP_NOSHOP,No shops match your search.,No shops match your search.
-UI_PARTY_READY_CHECK,Ready,Ready
-UI_PARTY_READY_CHECK_TIP,Start a ready check for the party,Start a ready check for the party
-UI_PARTY_READY_CHECK_TEXT,Start a ready check for the party?,Start a ready check for the party?
+UI_APP_SEARCHSHOP_TIP,Find items in Personal and Vendor shops.,個人ショップ・販売NPCからアイテムを検索。
+UI_SEARCHSHOP_RARITY,Rarity,レア度
+UI_SEARCHSHOP_UPGRADE,Upgrade:,強化値：
+UI_SEARCHSHOP_INCLUDEKEYWORK,Include Keyword,キーワードを含む
+UI_SEARCHSHOP_EXACTKEYWORK,Exact Keyword,完全一致キーワード
+UI_SEARCHSHOP_SORTDISTANCE,Distance to Shop,ショップまでの距離
+UI_SEARCHSHOP_NBITEMS,Total # of items: %d,アイテム総数：%d
+UI_SEARCHSHOP_NOSHOP,No shops match your search.,条件に一致するショップが見つかりません。
+UI_PARTY_READY_CHECK,Ready,準備完了
+UI_PARTY_READY_CHECK_TIP,Start a ready check for the party,パーティーの準備確認を開始
+UI_PARTY_READY_CHECK_TEXT,Start a ready check for the party?,パーティーの準備確認を開始しますか？
 UI_PARTY_READY_PROMPT,Are you ready?,点呼！準備はいいかー！？
-UI_PARTY_READY_INFO1,has not responded yet.,has not responded yet.
-UI_PARTY_READY_INFO2,is ready!,is ready!
-UI_PARTY_READY_INFO3,is not ready.,is not ready.
-UI_PARTY_EDIT_NAME,Edit the party name,Edit the party name
-UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),Item Level (1 - %d)
-UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),Item Level (%d - 1)
-UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),Upgrade Level (0 - 20)
-UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),Upgrade Level (20 - 0)
-UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),Seller Name (A - Z)
-UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),Seller Name (Z - A)
-UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),Shop Name (A - Z)
-UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),Shop Name (Z - A)
-UI_SEARCHSHOP_SELLER,Seller,Seller
-UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),Item Name (A - Z)
-UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),Item Name (Z - A)
-UI_SEARCHSHOP_CHANNEL_ASC,Channel (1 - %u),Channel (1 - %u)
-UI_SEARCHSHOP_CHANNEL_DESC,Channel (%u - 1),Channel (%u - 1)
-UI_SEARCHSHOP_LOCATION,Show Location,Show Location
-UI_SEARCHSHOP_MESSAGE,Message Seller,Message Seller
-UI_SEARCHSHOP_TELEPORT,Teleport (%d / %d),Teleport (%d / %d)
+UI_PARTY_READY_INFO1,has not responded yet.,まだ応答していません。
+UI_PARTY_READY_INFO2,is ready!,準備完了！
+UI_PARTY_READY_INFO3,is not ready.,準備未完了。
+UI_PARTY_EDIT_NAME,Edit the party name,パーティー名を編集
+UI_SEARCHSHOP_ITEMLEVEL_ASC,Item Level (1 - %d),アイテムレベル（1〜%d）
+UI_SEARCHSHOP_ITEMLEVEL_DESC,Item Level (%d - 1),アイテムレベル（%d〜1）
+UI_SEARCHSHOP_UPGRADELEVEL_ASC,Upgrade Level (0 - 20),強化レベル（0〜20）
+UI_SEARCHSHOP_UPGRADELEVEL_DESC,Upgrade Level (20 - 0),強化レベル（20〜0）
+UI_SEARCHSHOP_PLAYERNAME_ASC,Seller Name (A - Z),販売者名（A〜Z）
+UI_SEARCHSHOP_PLAYERNAME_DESC,Seller Name (Z - A),販売者名（Z〜A）
+UI_SEARCHSHOP_SHOPNAME_ASC,Shop Name (A - Z),ショップ名（A〜Z）
+UI_SEARCHSHOP_SHOPNAME_DESC,Shop Name (Z - A),ショップ名（Z〜A）
+UI_SEARCHSHOP_SELLER,Seller,販売者
+UI_SEARCHSHOP_ITEMNAME_ASC,Item Name (A - Z),アイテム名（A〜Z）
+UI_SEARCHSHOP_ITEMNAME_DESC,Item Name (Z - A),アイテム名（Z〜A）
+UI_SEARCHSHOP_CHANNEL_ASC,Channel (1 - %u),チャンネル（1〜%u）
+UI_SEARCHSHOP_CHANNEL_DESC,Channel (%u - 1),チャンネル（%u〜1）
+UI_SEARCHSHOP_LOCATION,Show Location,位置を表示
+UI_SEARCHSHOP_MESSAGE,Message Seller,販売者にメッセージ
+UI_SEARCHSHOP_TELEPORT,Teleport (%d / %d),テレポート（%d / %d）
 UI_PURCHASE_INAPP_NOTICE,Notice,お知らせ
 UI_PURCHASE_INAPP_PURCHASE,Purchase,購入
-UI_PURCHASE_INAPP_SELECT,Please select an offer to purchase.,Please select an offer to purchase.
-UI_PURCHASE_INAPP_EMPTY,There are currently no offers available.,There are currently no offers available.
-UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc
+UI_PURCHASE_INAPP_SELECT,Please select an offer to purchase.,購入するオファーを選択してください。
+UI_PURCHASE_INAPP_EMPTY,There are currently no offers available.,現在利用可能なオファーはありません。
+UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_500_AOS,Offer Summary:\n    #cffc32f07#b500 fCoins#nb#nc,オファー概要：\n    #cffc32f07#b500 fCoins#nb#nc
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_1000_AOS,"Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)","Purchase this offer and receive #b#u50 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b1,000 fCoins#nb#nc\n    +50 fCoins (Free)"
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_2000_AOS,"Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)","Purchase this offer and receive #b#u150 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b2,000 fCoins#nb#nc\n    +150 fCoins (Free)"
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_3000_AOS,"Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)","Purchase this offer and receive #b#u300 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b3,000 fCoins#nb#nc\n    +300 fCoins (Free)"
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_5000_AOS,"Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)","Purchase this offer and receive #b#u625 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b5,000 fCoins#nb#nc\n    +625 fCoins (Free)"
 UI_PURCHASE_INAPP_OFFER_DESC_WCN_FU_FCOIN_10000_AOS,"Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)","Purchase this offer and receive #b#u1500 fCoins#nu#nb for free!\n\nOffer Summary:\n    #cffc32f07#b10,000 fCoins#nb#nc\n    +1,500 fCoins (Free)"
-UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,Halloween Pumpkin Hunt
-UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,Completion Reward
-UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,Pumpkins Destroyed
-UI_SEARCHSHOP_PLAYERNAME,Player Name,Player Name
-UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvP Manual Match
+UI_EVENT_HALLOWEEN_2024,Halloween Pumpkin Hunt,ハロウィン・パンプキンハント
+UI_PUMPKIN_HUNT,Halloween Pumpkin Hunt,ハロウィン・パンプキンハント
+UI_PUMPKIN_HUNT_REWARD_TITLE,Completion Reward,完了報酬
+UI_PUMPKIN_HUNT_DESC,Pumpkins Destroyed,破壊したカボチャ数
+UI_SEARCHSHOP_PLAYERNAME,Player Name,プレイヤー名
+UI_PVPCONTEST_MANUALMATCH_TITLE,PvP Manual Match,PvPマニュアルマッチ
 UI_PVPCONTEST_MANUALMATCH_PLAYERNAME,Name,名前
-UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,Invite to Team 1
-UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,Invite to Team 2
-UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Spectators,Invite to Spectators
-UI_PVPCONTEST_MANUALMATCH_START,Start Match,Start Match
-UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,Team 1
-UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,Team 2
-UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Spectators,Spectators
-UI_PVPCONTEST_MANUALMATCH_READY,Ready,Ready
+UI_PVPCONTEST_MANUALMATCH_INVITE1,Invite to Team 1,チーム1に招待
+UI_PVPCONTEST_MANUALMATCH_INVITE2,Invite to Team 2,チーム2に招待
+UI_PVPCONTEST_MANUALMATCH_INVITE3,Invite to Spectators,観戦者として招待
+UI_PVPCONTEST_MANUALMATCH_START,Start Match,試合開始
+UI_PVPCONTEST_MANUALMATCH_TEAM1,Team 1,チーム1
+UI_PVPCONTEST_MANUALMATCH_TEAM2,Team 2,チーム2
+UI_PVPCONTEST_MANUALMATCH_OBSERVERS,Spectators,観戦者
+UI_PVPCONTEST_MANUALMATCH_READY,Ready,準備完了
 UI_BATTLEPASS_BONUS,Bonus,ボーナス
 UI_MATOURNAMENT_RANKING_POINTS_TOOLTIP,Points,ポイント
 UI_MATOURNAMENT_RANKING_RANK,Rank,順位
-UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,Team Name
-UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,Lives
+UI_MATOURNAMENT_RANKING_TEAMNAME,Team Name,チーム名
+UI_MATOURNAMENT_RANKING_BACKUP_POINTS_TOOLTIP,Lives,残機
 UI_MATOURNAMENT_TYPE_PRELIMINARY,Preliminary,予備的
-UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,Backup Match
+UI_MATOURNAMENT_TYPE_BACKUP,Backup Match,補欠試合
 UI_MATOURNAMENT_TYPE_FINAL16,Round of 16,ベスト16
 UI_MATOURNAMENT_TYPE_QUATERFINAL,Quarter Final,準々決勝
 UI_MATOURNAMENT_TYPE_SEMIFINAL,Semi Final,準決勝
 UI_MATOURNAMENT_TYPE_THIRDPLACE,Third Place,3位
-UI_MATOURNAMENT_TYPE_FINAL,Final,Final
-UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,Win
-UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,Lose
+UI_MATOURNAMENT_TYPE_FINAL,Final,決勝
+UI_MATOURNAMENT_MATCH_RESULT_WIN,Win,勝利
+UI_MATOURNAMENT_MATCH_RESULT_LOSE,Lose,敗北
 UI_MATOURNAMENT_MATCH_RESULT_DRAW,Draw,ドロー
-UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You have no matches for this day.,You have no matches for this day.
-UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type: %s,Type: %s
-UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team: %s,Other Team: %s
-UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time: %s,Play Time: %s
-UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result: %s,Result: %s
+UI_MATOURNAMENT_MATCH_RESULT_NORECORD,You have no matches for this day.,この日の試合記録はありません。
+UI_MATOURNAMENT_DAILY_RESULT_TYPE,Type: %s,種別：%s
+UI_MATOURNAMENT_DAILY_RESULT_OTHERTEAM,Other Team: %s,対戦相手：%s
+UI_MATOURNAMENT_DAILY_RESULT_PLAYTIME,Play Time: %s,プレイ時間：%s
+UI_MATOURNAMENT_DAILY_RESULT_RESULT,Result: %s,結果：%s
 UI_MATOURNAMENT_CALENDAR_TODAY,(Today),(今日)
 UI_MATOURNAMENT_WEEK_RESULT_NONE,NONE,なし
 UI_MATOURNAMENT_WEEK_RESULT_REGISTRATION,REG,REG
 UI_MATOURNAMENT_WEEK_RESULT_PRELIMINARY,PRE,PRE
 UI_MATOURNAMENT_WEEK_RESULT_FINAL16,FINAL 16,FINAL 16
 UI_MATOURNAMENT_WEEK_RESULT_QUATERFINAL,FINAL 8,FINAL 8
-UI_MATOURNAMENT_TITLE,Madrigal Tournament Registration Board,Madrigal Tournament Registration Board
+UI_MATOURNAMENT_TITLE,Madrigal Tournament Registration Board,マドリガルトーナメント登録掲示板
 UI_MATOURNAMENT_REGISTRATIONCOST,Registration fee:,登録料:
 UI_MATOURNAMENT_MAXPARTICIPATINGPLAYERS,Maximum players per team: ,参加人数: 
 UI_MATOURNAMENT_REGISTEREDGUILDS,Registered guilds (%d):,登録ギルド (数: %d)
 UI_MATOURNAMENT_REGISTER,Register,登録
 UI_MATOURNAMENT_INFO,"Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s.","Get a chance to win great riches in the Madrigal Tournament!\nJoin individually or as a party. For party battles, you can register with a party of up to 4 players. Registration is available Monday through %s from 00:00:00 to %s."
-UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,Registered teams (%d):
+UI_MATOURNAMENT_REGISTEREDTEAMS,Registered teams (%d):,登録チーム数（%d）：
 UI_MATOURNAMENT_JOINWAR_RANDOM,Random,ランダム
 UI_MATOURNAMENT_JOINWAR_TITLE,Select Entry Zone,復活の場所
 UI_MATOURNAMENT_JOINWAR_1_TIP,You have entered zone 1.,1番ゲートより入場します。
@@ -2494,264 +2494,264 @@ UI_MATOURNAMENT_JOINWAR_3_TIP,You have entered zone 3.,3番ゲートより入場
 UI_MATOURNAMENT_JOINWAR_4_TIP,You have entered zone 4.,4番ゲートより入場します。
 UI_MATOURNAMENT_JOINWAR_SELECT,Select the zone you wish to enter.,入力したいエリアを選択します。
 UI_MATOURNAMENT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
-UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,Madrigal Tournament Contest Ranking
-UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,Top 50 Ranking
-UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,Final Tournament
-UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,Backup Match
-UI_MATOURNAMENT_RANKING_CALENDAR,Schedule,Schedule
+UI_MATOURNAMENT_RANKING_TITLE,Madrigal Tournament Contest Ranking,マドリガルトーナメント大会ランキング
+UI_MATOURNAMENT_RANKING_RANKING,Top 50 Ranking,上位50ランキング
+UI_MATOURNAMENT_RANKING_FINALTOURNAMENT,Final Tournament,決勝トーナメント
+UI_MATOURNAMENT_RANKING_BACKUP,Backup Match,補欠試合
+UI_MATOURNAMENT_RANKING_CALENDAR,Schedule,スケジュール
 UI_MATOURNAMENT_RANKING_DESC,"This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!","This contains all the ranking data for the current Madrigal Tournament.\nIf only one team has showed up in the preliminary's ranking, then that means it had no opponent!"
 UI_MATOURNAMENT_REWARD_RANK,Rank,順位
 UI_MATOURNAMENT_REWARD_REWARD,Reward,懸賞金
-UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,Quarter Finals
-UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,Round of 16
-UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,Participation
-UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,Madrigal Tournament Reward
-UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Minimum participant level:,Minimum participant level:
-UI_MSGBOX_RECIEVE,Receive,Receive
-UI_MATOURNAMENT_RANKING_CALENDAR_INFO,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.
-UI_MATOURNAMENT_RANKING_TOP50_INFO,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.
-UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.
-UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,Madrigal Tournament Bidding
+UI_MATOURNAMENT_REWARD_GRADE_QUARTERFINAL,Quarter Finals,準々決勝
+UI_MATOURNAMENT_REWARD_GRADE_FINAL16,Round of 16,ベスト16
+UI_MATOURNAMENT_REWARD_GRADE_PARTICIPATION,Participation,参加
+UI_MATOURNAMENT_REWARD_TITLE,Madrigal Tournament Reward,マドリガルトーナメント報酬
+UI_MATOURNAMENT_REGISTRATION_MINLEVEL,Minimum participant level:,参加最低レベル：
+UI_MSGBOX_RECIEVE,Receive,受け取る
+UI_MATOURNAMENT_RANKING_CALENDAR_INFO,Match results and participation history for the Madrigal Tournament for this week and the previous three weeks.\nClick a date to view match details for that day.,今週と過去3週間分のマドリガルトーナメントの試合結果と参加履歴です。\n日付をクリックすると、その日の試合詳細が確認できます。
+UI_MATOURNAMENT_RANKING_TOP50_INFO,Top 50 ranked teams in the Madrigal Tournament and their points. The top 16 teams advance to the finals.,マドリガルトーナメントの上位50チームとそのポイントです。上位16チームが決勝トーナメントに進出します。
+UI_MATOURNAMENT_RANKING_TOURNAMENT_INFO,Finals bracket for the Madrigal Tournament. The top 16 teams are seeded by ranking. Teams without an opponent advance by forfeit.,マドリガルトーナメントの決勝トーナメント表です。上位16チームはランキングに応じてシードされます。対戦相手がいないチームは不戦勝で勝ち上がります。
+UI_MATOURNAMENT_BETTING_TITLE,Madrigal Tournament Bidding,マドリガルトーナメント入札
 UI_MATOURNAMENT_BETTING_DESC,"Place bids in the Madrigal Tournament and view the current top bids.\nYou can place a bid on only one team, and the bid amount can be increased at any time.\nBidding closes on %s %s. The expected payout is shown if the bid is successful.","Place bids in the Madrigal Tournament and view the current top bids.\nYou can place a bid on only one team, and the bid amount can be increased at any time.\nBidding closes on %s %s. The expected payout is shown if the bid is successful."
 UI_MATOURNAMENT_BETTING_RANK,Rank,順位
 UI_MATOURNAMENT_BETTING_GOLD,Penya,ペニャ
-UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
-UI_MATOURNAMENT_BETTING_WARNING,Enter the bid amount.,Enter the bid amount.
-UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
+UI_MATOURNAMENT_BETTING_DATE,Last Date,最終日
+UI_MATOURNAMENT_BETTING_WARNING,Enter the bid amount.,入札額を入力してください。
+UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,入札ペニャ
 UI_MATOURNAMENT_BETTING_NOREWARD,None,無し
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,アルティマジュエルの削除
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,削除
 UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
-UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,Fuse Ultimate Gems
-UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,Insert ultimate gems to use as materials.
-UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.
-UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,The material gems will be consumed.\nProceed?
+UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Gems,アルティマジュエルの融合
+UI_ULTIMATE_JEWEL_REGISTER,Insert ultimate gems to use as materials.,材料として使用するアルティマジュエルを入れてください。
+UI_ULTIMATE_JEWEL_INFO,Fuse 3 to 6 ultimate gems to receive 1 higher-grade ultimate gem.,アルティマジュエルを3〜6個融合すると、1個の上位グレードのアルティマジュエルを獲得できます。
+UI_ULTIMATE_JEWEL_CONFIRM,The material gems will be consumed.\nProceed?,素材ジェムが消費されます。\n続行しますか？
 UI_ULTIMATE_JEWEL_COMPOSE_PROB,Success: #b%s#nb,成功: #b%s#nb
-UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,Create Ultimate Gem
-UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,Insert Ultimate Jewel Gemstone materials.
+UI_ULTIMATE_JEWEL_UPGRADE_TITLE,Create Ultimate Gem,アルティマジュエルを作成
+UI_UPGRADE_ULTIMATE_JEWEL_REGISTER,Insert Ultimate Jewel Gemstone materials.,アルティマジュエル素材を入れてください。
 UI_UPGRADE_ULTIMATE_JEWEL_INFO,"※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure.","※ Insert an Ultimate Jewel Gemstone for a chance to obtain either a first-grade jewel or a jewel piece. Using a Cutting Knife (purchasable from the Flyff Shop) guarantees the extraction of jewel pieces or first-grade jewels from a gemstone.\n※ Insert 10 jewel pieces for a chance to create a first-grade jewel. If creation fails, some jewel pieces will be returned. Using a Mana Stone (purchasable from the Flyff Shop) guarantees that all jewel pieces will be recovered on failure."
-UI_COUPLE_PROPOSAL,Couple Proposal,Couple Proposal
-UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%s is proposing to you! Accept their proposal request and become a couple?
-UI_COUPLE_RING_REPLACE,Ring Replacement,Ring Replacement
-UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,Your partner is proposing to change the ring to the following ring. Accept?
-UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,Your partner must be online.
-UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,Break up response deadline: %s
-UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,Break up notification time: %s
-UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,Next Couple EXP: %s
-UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),No Passive EXP (Partner Offline)
-UI_COUPLE_BREAKUP,Break Up,Break Up
-UI_COUPLE_BREAKUP_FORCE,Break Up (F),Break Up (F)
+UI_COUPLE_PROPOSAL,Couple Proposal,カップルプロポーズ
+UI_COUPLE_PROPOSAL_TEXT,%s is proposing to you! Accept their proposal request and become a couple?,%sがあなたにプロポーズしています！プロポーズを受け入れ、カップルになりますか？
+UI_COUPLE_RING_REPLACE,Ring Replacement,リングの交換
+UI_COUPLE_RING_REPLACE_TEXT,Your partner is proposing to change the ring to the following ring. Accept?,パートナーが以下の指輪への交換を提案しています。承諾しますか？
+UI_COUPLE_PARTNER_OFFLINE,Your partner must be online.,パートナーがオンラインである必要があります。
+UI_COUPLE_BREAKUP_DEADLINE,Break up response deadline: %s,破局回答期限：%s
+UI_COUPLE_BREAKUP_NOTI,Break up notification time: %s,破局通知時刻：%s
+UI_COUPLE_NEXTEXP_TIME,Next Couple EXP: %s,次回カップル経験値：%s
+UI_COUPLE_NEXTEXP_OFFLINE,No Passive EXP (Partner Offline),パッシブ経験値なし（パートナーオフライン）
+UI_COUPLE_BREAKUP,Break Up,破局
+UI_COUPLE_BREAKUP_FORCE,Break Up (F),破局（強制）
 UI_COUPLE_TELEPORT,Teleport,テレポート
-UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.
+UI_COUPLE_TELEPORT_TEXT,Teleport to your partner's location? Teleportation is not possible if your partner is in an inaccessible area.,パートナーの位置にテレポートしますか？パートナーが立ち入れないエリアにいる場合、テレポートはできません。
 UI_COUPLE_CHEER,Cheer,応援
-UI_COUPLE_FORM_DATE,Established On,Established On
-UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,Available Storage Slots
-UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,Maximum Daily Teleports
-UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,Maximum Daily Cheers
-UI_COUPLE_MAX_POINTS,Maximum Couple Points,Maximum Couple Points
-UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,Couple Quests Completed
-UI_COUPLE_SINGLE,You are single.,You are single.
-UI_COUPLE_TABPARTNER,Partner,Partner
+UI_COUPLE_FORM_DATE,Established On,成立日
+UI_COUPLE_STORAGE_AVAIL,Available Storage Slots,使用可能な保管スロット数
+UI_COUPLE_MAX_TELEPORTS,Maximum Daily Teleports,1日のテレポート上限回数
+UI_COUPLE_MAX_CHEERS,Maximum Daily Cheers,1日の応援上限回数
+UI_COUPLE_MAX_POINTS,Maximum Couple Points,カップルポイント上限
+UI_COUPLE_TOTAL_QUESTS,Couple Quests Completed,完了したカップルクエスト数
+UI_COUPLE_SINGLE,You are single.,パートナーがいません
+UI_COUPLE_TABPARTNER,Partner,パートナー
 UI_COUPLE_BREAKUP_TEXT,"If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?","If you break up with your partner, all items in couple storage will be permanently lost, and couple functions will no longer be available. Proceed?"
 UI_COUPLE_BREAKUP_FORCE_TEXT,"Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?","Forcing a breakup will permanently delete all items in couple storage, and couple functions will no longer be available. Proceed?"
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?","Your partner has requested a breakup. If you accept, all items in couple storage will be permanently lost, and you will no longer have access to couple functions. Accept?"
-UI_COUPLE_PROPOSE,Propose,Propose
-UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,Send a couple proposal using the inserted couple ring.
-UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,Required Couple Level: %d
-UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,Required Couple Points: %d
-UI_COUPLEBANK_TITLE,Couple Storage,Couple Storage
+UI_COUPLE_PROPOSE,Propose,プロポーズ
+UI_COUPLE_PROPOSE_INFO,Send a couple proposal using the inserted couple ring.,装着したカップルリングでプロポーズを送信します。
+UI_TOOLTIP_COUPLE_LEVEL,Required Couple Level: %d,必要カップルレベル：%d
+UI_TOOLTIP_COUPLE_POINTS,Required Couple Points: %d,必要カップルポイント：%d
+UI_COUPLEBANK_TITLE,Couple Storage,カップル倉庫
 UI_ULTIMATE_JEWEL_TOPAZ,Topaz,トパ―ズ
 UI_ULTIMATE_JEWEL_RUBY,Ruby,ルビー
 UI_ULTIMATE_JEWEL_SAPPHIRE,Sapphire,サファイア
 UI_ULTIMATE_JEWEL_EMERALD,Emerald,エメラルド
 UI_ULTIMATE_JEWEL_DIAMOND,Diamond,ダイヤモンド
 UI_ULTIMATE_JEWEL_AMETHYST,Amethyst,アメジスト
-UI_ULTIMATE_JEWEL_ONYX,Onyx,Onyx
-UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,Create Rainbow Ultimate Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.
-UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Dismantle Rainbow Jewel
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,You can dismantle the Rainbow Jewel to get Ultimate Jewel.
+UI_ULTIMATE_JEWEL_ONYX,Onyx,オニキス
+UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Create Rainbow Ultimate Jewel,レインボーアルティマジュエルを作成
+UI_RAINBOW_ULTIMATE_JEWEL_INFO,Combine one of each jewel type of the same grade to obtain a Rainbow Jewel of that grade.,同じグレードの各ジュエルタイプを1個ずつ組み合わせると、そのグレードのレインボージュエルを獲得できます。
+UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,レインボージュエルの解体
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,レインボージュエルを解体すると、アルティマジュエルを獲得できます。
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","If you fail, you will lose your item."
-UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,Wardrobe items can only be worn by #bone#nb NPC at a time.
+UI_HOUSINGWARDROBE_INFO,Wardrobe items can only be worn by #bone#nb NPC at a time.,ワードローブアイテムは、一度に#b1体#nbのNPCにしか着せられません。
 UI_HOUSINGWARDROBE_CONFIRM,Equip,装備する
-UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?
-UI_HOUSINGWARDROBE_USEDBY,Worn by %s,Worn by %s
-UI_HOUSINGWARDROBE_UNEQUIP,Unequip,Unequip
-UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,Unequip Item?
-UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,Unequip this item from the NPC?
-UI_HOUSINGSETUP_PETS,Pets,Pets
+UI_HOUSINGWARDROBE_CONFIRMMESSAGE,The selected NPC will wear the chosen costume item. Only one NPC can wear the same costume item at a time. Proceed?,選択したNPCが選んだコスチュームアイテムを着用します。同じコスチュームアイテムは一度に1体のNPCしか着用できません。続行しますか？
+UI_HOUSINGWARDROBE_USEDBY,Worn by %s,%sが着用中
+UI_HOUSINGWARDROBE_UNEQUIP,Unequip,解除
+UI_HOUSINGWARDROBE_MSGBOX_TITLE,Unequip Item?,アイテムを解除しますか？
+UI_HOUSINGWARDROBE_MSGBOX_CONFIRM,Unequip this item from the NPC?,このNPCからアイテムを解除しますか？
+UI_HOUSINGSETUP_PETS,Pets,ペット
 UI_HOUSING_PETTRAINING_INFO,"You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your housing inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
-UI_PETTRAINING_PET,Pet to Train,Pet to Train
+UI_PETTRAINING_PET,Pet to Train,訓練するペット
 UI_PETTRAINING_CANDY,Pet Candy,ペットキャンディー
-UI_PETTRAINING_INTERVALS,Feeding Interval,Feeding Interval
+UI_PETTRAINING_INTERVALS,Feeding Interval,餌やり間隔
 UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?","#bThe selected pet cannot be used while in training. #cffff0000If you stop the training, the pet will be returned.#nb#nc Proceed?"
-UI_PETTRAINING_TOTALTRAINING,Total Training Time,Total Training Time
+UI_PETTRAINING_TOTALTRAINING,Total Training Time,総訓練時間
 UI_PETTRAINING_CLAIM,Claim,もらう
-UI_PETTRAINING_NEXTCANDY,Next Candy In,Next Candy In
-UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?
-UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?
+UI_PETTRAINING_NEXTCANDY,Next Candy In,次のキャンディまで
+UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,ペット訓練を中止しようとしています。ペットは現在の進行状況のままハウジングインベントリに戻されます。続行しますか？
+UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,ペット訓練を中止しようとしています。ペットは現在の進行状況のままインベントリに戻されます。続行しますか？
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
-UI_COUPLE_RING_TP,Teleports: %d,Teleports: %d
-UI_COUPLE_RING_CHEER,Cheers: %d,Cheers: %d
-UI_COUPLE_RING_SLOTS,Storage Slots: %d,Storage Slots: %d
-UI_COUPLE_MOTION_TITLE,Couple Emotes,Couple Emotes
-UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,Your partner would like to perform the %s emote with you. Accept?
-UI_APP_LIFE_TIP,View and manage life skills.,View and manage life skills.
-UI_LIFE_GATHERING_TAB,Gathering,Gathering
-UI_LIFE_PRODUCTION_TAB,Production,Production
-UI_LIFE_TITLE,Life,Life
-UI_LIFE_MASTERY_EFFECT,Mastery Details,Mastery Details
-UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,Identified Resources
-UI_LIFE_HARVESTING_INFORMATION,Resource Information,Resource Information
-UI_LIFE_EXPERTBTN,Set as Expertise,Set as Expertise
-UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc","Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc"
+UI_COUPLE_RING_TP,Teleports: %d,テレポート回数：%d
+UI_COUPLE_RING_CHEER,Cheers: %d,応援回数：%d
+UI_COUPLE_RING_SLOTS,Storage Slots: %d,保管スロット数：%d
+UI_COUPLE_MOTION_TITLE,Couple Emotes,カップルエモート
+UI_COUPLE_MOTION_REQUEST,Your partner would like to perform the %s emote with you. Accept?,パートナーが「%s」エモートを一緒にしたいそうです。承諾しますか？
+UI_APP_LIFE_TIP,View and manage life skills.,ライフスキルの確認・管理。
+UI_LIFE_GATHERING_TAB,Gathering,採集
+UI_LIFE_PRODUCTION_TAB,Production,制作
+UI_LIFE_TITLE,Life,ライフスキル
+UI_LIFE_MASTERY_EFFECT,Mastery Details,マスタリー詳細
+UI_LIFE_IDENTIFIED_HARVESTING,Identified Resources,判明済みの資源
+UI_LIFE_HARVESTING_INFORMATION,Resource Information,資源情報
+UI_LIFE_EXPERTBTN,Set as Expertise,専門分野に設定
+UI_LIFE_MASTERY_EFFECT_DESC,"Gathering Success Rate +%d%%\nGathering Great Success Rate +%d%%\n%sIf less than 100 Mastery is obtained, 10%% mastery is decreased on Monday 00:00(Expert) Gathering Great Success Rate +10%%#nc",採集成功率 +%d%%\n採集大成功率 +%d%%\n%s獲得マスタリーが100未満の場合、月曜0時にマスタリーが10%%減少します（専門）採集大成功率 +10%%#nc
 UI_LIFE_MASTERY,Mastery,マスタリー
-UI_LIFE_EXPERT_TIME,Change Expertise In: %s,Change Expertise In: %s
+UI_LIFE_EXPERT_TIME,Change Expertise In: %s,専門分野変更まで：%s
 UI_REPAIR_TITLE,Repair,修理
-UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),Do you wish to repair %s?\n(%s)
-UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),Do you wish to repair %s?\n(%s%%)
-UI_LIFE_FISHING_MINIGAME,Minigame,Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,Auto-Skip Minigame
-UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
-UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?
-UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Bait Selection
-UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.
-UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,Gather Herbs #cffc32f07#b%d/%d#nb#nc
-UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,Guess which bait the fish will bite.
-UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%)
-UI_SEC,%d sec,%d sec
+UI_REPAIR_DESC_DEFAULT,Do you wish to repair %s?\n(%s),%sを修理しますか？\n(%s)
+UI_REPAIR_DESC_PERCENT,Do you wish to repair %s?\n(%s%%),%sを修理しますか？\n(%s%%)
+UI_LIFE_FISHING_MINIGAME,Minigame,ミニゲーム
+UI_LIFE_FISHING_SKIP_MINIGAME,Auto-Skip Minigame,ミニゲーム自動スキップ
+UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,ミニゲームをスキップすると、勝利による釣り成功率上昇を得られません。続行しますか？
+UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,Skipping the minigame means you will not gain the fishing success increase from winning. Proceed?,ミニゲームをスキップすると、勝利による釣り成功率上昇を得られません。続行しますか？
+UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,餌の選択
+UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait to use for fishing. The selected bait affects the rarity of fish you can catch.,釣りに使う餌を選択してください。選んだ餌によって釣れる魚のレア度が変わります。
+UI_QUEST_GATHERING_HERB,Gather Herbs #cffc32f07#b%d/%d#nb#nc,薬草採取 #cffc32f07#b%d/%d#nb#nc
+UI_LIFE_FISHING_GUESS,Guess which bait the fish will bite.,魚がどの餌に食いつくか当ててみよう。
+UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Guessing correctly increases your fishing success rate.\n(Current success rate: %.1f%%),正解すると釣りの成功率が上昇します。\n（現在の成功率：%.1f%%）
+UI_SEC,%d sec,%d秒
 UI_CONFIRM,Confirm,確認
-UI_LIFE_FISHING_TIME,Fishing Time:,Fishing Time:
-UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
-UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,Number of Fish Caught:
-UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,Number of Trophy Fish Caught:
-UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,Success Rate:
-UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d hrs %d min %d sec
-UI_TIMES,%d time(s),%d time(s)
-UI_LIFE_FISHING_STATUS,Fishing Status,Fishing Status
-UI_WAITING,Waiting,Waiting
+UI_LIFE_FISHING_TIME,Fishing Time:,釣り時間：
+UI_LIFE_FISHING_NUMBEROF_ATTEMPTS,Number of Attempts:,試行回数：
+UI_LIFE_FISHING_NUMBEROF_FISH_CAUGHT,Number of Fish Caught:,釣った魚の数：
+UI_LIFE_FISHING_NUMBEROF_LARGEFISH_CAUGHT,Number of Trophy Fish Caught:,トロフィーフィッシュの捕獲数：
+UI_LIFE_FISHING_SUCCESS_RATE,Success Rate:,成功率：
+UI_LIFE_FISHING_TIME_FORMAT,%d hrs %d min %d sec,%d時間%d分%d秒
+UI_TIMES,%d time(s),%d回
+UI_LIFE_FISHING_STATUS,Fishing Status,釣りステータス
+UI_WAITING,Waiting,待機中
 UI_LIFE_RECIPEBTN,Recipes,関連レシピを見る
 UI_LIFE_RECIPES,Recipes,レシピ
 UI_LIFE_RECIPES_CATEGORY,Category,カテゴリ
 UI_LIFE_RECIPES_DETAILS,Recipe,詳細
-UI_LIFE_RECIPES_GRADE,Grade,Grade
+UI_LIFE_RECIPES_GRADE,Grade,グレード
 UI_LIFE_RECIPES_NOSELECTED,No recipe selected,レシピが選択されていません
-UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:
-UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,Required Mastery: %d\nRequired Ingredients:
-UI_LIFE_PRODUCTION_TITLE,Production,Production
-UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,Success Rate
-UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,Production Time Per Cycle
-UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],Required Mastery: %d\nRequired Title: [%s]
-UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,Required Mastery: %d
-UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,Required Mastery:
-UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,Required Title:
-UI_LIFE_RECIPE_CATEGORY_0,Ingredients,Ingredients
-UI_LIFE_RECIPE_CATEGORY_1,Drinks,Drinks
-UI_LIFE_RECIPE_CATEGORY_2,Pills,Pills
+UI_LIFE_RECIPES_TEXT_INFO,Required Mastery: %d\nRequired Title: [%s]\nRequired Ingredients:,必要マスタリー：%d\n必要称号：[%s]\n必要材料：
+UI_LIFE_RECIPES_TEXT_INFO_NOTITLE,Required Mastery: %d\nRequired Ingredients:,必要マスタリー：%d\n必要材料：
+UI_LIFE_PRODUCTION_TITLE,Production,制作
+UI_LIFE_PRODUCTION_SUCCESS_RATE,Success Rate,成功率
+UI_LIFE_PRODUCTION_TIME,Production Time Per Cycle,1回あたりの制作時間
+UI_LIFE_PRODUCTION_REQUIREMENTS,Required Mastery: %d\nRequired Title: [%s],必要マスタリー：%d\n必要称号：[%s]
+UI_LIFE_PRODUCTION_REQUIREMENTS_NOTITLE,Required Mastery: %d,必要マスタリー：%d
+UI_LIFE_PRODUCTION_REQ_MASTERY,Required Mastery:,必要マスタリー：
+UI_LIFE_PRODUCTION_REQ_TITLE,Required Title:,必要称号：
+UI_LIFE_RECIPE_CATEGORY_0,Ingredients,材料
+UI_LIFE_RECIPE_CATEGORY_1,Drinks,飲み物
+UI_LIFE_RECIPE_CATEGORY_2,Pills,錠剤
 UI_ALL,All,全て
-UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.","Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made."
-UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,Production is currently in progress.
-UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,Remaining Time
-UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,Duration is reduced.
-UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,Common herb found throughout the world. Yields Common herbs.
-UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,Common herb with a typical appearance. Yields Common-Uncommon herbs.
-UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,Tree commonly found throughout the world. Yields Common logs.
-UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,Tree with a typical appearance. Yields Common-Uncommon logs.
-UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
-UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,Rock with a typical appearance. Yields Common-Uncommon ores.
-UI_PRODUCTION_INGREDIENT,Ingredients,Ingredients
+UI_LIFE_PRODUCTION_INFORMATION,"Add material items to produce. If no recipe is selected, a hidden recipe will be attempted. When producing randomly, only one production attempt will be made.",制作する材料アイテムを追加してください。レシピが選択されていない場合、隠しレシピが試行されます。ランダム制作の場合、制作は1回のみ試行されます。
+UI_LIFE_PRODUCTION_PROGRESS_INFORMATION,Production is currently in progress.,現在制作中です。
+UI_LIFE_PRODUCTION_PROGRESS_REMAINING,Remaining Time,残り時間
+UI_LIFE_PRODUCTION_DUTAION_REDUCTION,Duration is reduced.,制作時間が短縮されます。
+UI_LIFE_MASTERY_ORDINALY_HERB,Common herb found throughout the world. Yields Common herbs.,世界中で見られる一般的な薬草。コモン品質の薬草が採取できます。
+UI_LIFE_MASTERY_REGULAR_HERB,Common herb with a typical appearance. Yields Common-Uncommon herbs.,ありふれた外見の薬草。コモン〜アンコモン品質の薬草が採取できます。
+UI_LIFE_MASTERY_ORDINALY_TREE,Tree commonly found throughout the world. Yields Common logs.,世界中で見られる一般的な木。コモン品質の木材が採取できます。
+UI_LIFE_MASTERY_REGULAR_TREE,Tree with a typical appearance. Yields Common-Uncommon logs.,ありふれた外見の木。コモン〜アンコモン品質の木材が採取できます。
+UI_LIFE_MASTERY_ORDINALY_ORE,Rock commonly found throughout the world. Yields Common ores.,世界中で見られる一般的な岩石。コモン品質の鉱石が採取できます。
+UI_LIFE_MASTERY_REGULAR_ORE,Rock with a typical appearance. Yields Common-Uncommon ores.,ありふれた外見の岩石。コモン〜アンコモン品質の鉱石が採取できます。
+UI_PRODUCTION_INGREDIENT,Ingredients,材料
 UI_PRODUCTION_FOOD,Food,フード類
 UI_PRODUCTION_BUFF,Buffs,バフ
-UI_PRODUCTION_DRINK,Drinks,Drinks
-UI_PRODUCTION_REFRESHER,Refreshers,Refreshers
-UI_PRODUCTION_PILL,Pills,Pills
-UI_PRODUCTION_FURNITURE,Furniture,Furniture
+UI_PRODUCTION_DRINK,Drinks,飲み物
+UI_PRODUCTION_REFRESHER,Refreshers,リフレッシャー
+UI_PRODUCTION_PILL,Pills,錠剤
+UI_PRODUCTION_FURNITURE,Furniture,家具
 UI_PRODUCTION_ACCESSORY,Accessories,アクセサリー
 UI_PRODUCTION_COUPLERING,Couple Ring,ペアリング
-UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,Creator: %s
-UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,Quality: %s
-UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,Stackable: %dx
-UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,Durability: %d/%d
+UI_TOOLTIP_PRODUCTION_CREATOR,Creator: %s,制作者：%s
+UI_TOOLTIP_PRODUCTION_QUALITY,Quality: %s,品質：%s
+UI_TOOLTIP_BUFF_STACKABLE,Stackable: %dx,重複可能：%d回
+UI_TOOLTIP_TOOL_DURABILITY,Durability: %d/%d,耐久度：%d/%d
 UI_TOOLTIP_PRODUCTION_GRADE_D,D,D
 UI_TOOLTIP_PRODUCTION_GRADE_C,C,C
 UI_TOOLTIP_PRODUCTION_GRADE_B,B,B
 UI_TOOLTIP_PRODUCTION_GRADE_A,A,A
 UI_TOOLTIP_PRODUCTION_GRADE_OVER_A,A+,A+
-UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00","If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00"
-UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,Gathering Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert) Gathering Great Success Rate +%d%%,(Expert) Gathering Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,Woodcutting Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert) Woodcutting Great Success Rate +%d%%,(Expert) Woodcutting Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,Mining Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_MINING_EXPERT,(Expert) Mining Great Success Rate +%d%%,(Expert) Mining Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,Fishing Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_FISHING_EXPERT,(Expert) Fishing Great Success Rate +%d%%,(Expert) Fishing Great Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,Alchemy Success Rate +%d%%
-UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,Alchemy Great Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,Cooking Success Rate +%d%%
-UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,Cooking Great Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,Smithing Success Rate +%d%%
-UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,Smithing Great Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,Carpentry Success Rate +%d%%
-UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,Carpentry Great Success Rate +%d%%
-UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,(Expert) Earn unbound item for Great Success
-UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,Production Time:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,Number of Attempts:
-UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,Number of Successes:
-UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,Success Rate:
-UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,Product Upgrade
-UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,Please insert the material items.
-UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1
-UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,Shop Refresh
-UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?
-UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,Use %s to refresh the shop inventory
-UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,Buy with %s
-UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,Mastery Rankings
+UI_LIFE_MASTERY_DECREASE,"If less than %d Mastery is gained, Mastery will decrease by %d%% on Monday at 00:00",獲得マスタリーが%d未満の場合、月曜0時にマスタリーが%d%%減少します
+UI_LIFE_MASTERY_HERBGATHERING_SUCCESS,Gathering Success Rate +%d%%,採集成功率 +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_GREATSUCCESS,Gathering Great Success Rate +%d%%,採集大成功率 +%d%%
+UI_LIFE_MASTERY_HERBGATHERING_EXPERT,(Expert) Gathering Great Success Rate +%d%%,（専門）採集大成功率 +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_SUCCESS,Woodcutting Success Rate +%d%%,伐採成功率 +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_GREATSUCCESS,Woodcutting Great Success Rate +%d%%,伐採大成功率 +%d%%
+UI_LIFE_MASTERY_WOODCUTTING_EXPERT,(Expert) Woodcutting Great Success Rate +%d%%,（専門）伐採大成功率 +%d%%
+UI_LIFE_MASTERY_MINING_SUCCESS,Mining Success Rate +%d%%,採掘成功率 +%d%%
+UI_LIFE_MASTERY_MINING_GREATSUCCESS,Mining Great Success Rate +%d%%,採掘大成功率 +%d%%
+UI_LIFE_MASTERY_MINING_EXPERT,(Expert) Mining Great Success Rate +%d%%,（専門）採掘大成功率 +%d%%
+UI_LIFE_MASTERY_FISHING_SUCCESS,Fishing Success Rate +%d%%,釣り成功率 +%d%%
+UI_LIFE_MASTERY_FISHING_GREATSUCCESS,Fishing Great Success Rate +%d%%,釣り大成功率 +%d%%
+UI_LIFE_MASTERY_FISHING_EXPERT,(Expert) Fishing Great Success Rate +%d%%,（専門）釣り大成功率 +%d%%
+UI_LIFE_MASTERY_ALCHEMY_SUCCESS,Alchemy Success Rate +%d%%,錬金術成功率 +%d%%
+UI_LIFE_MASTERY_ALCHEMY_GREATSUCCESS,Alchemy Great Success Rate +%d%%,錬金術大成功率 +%d%%
+UI_LIFE_MASTERY_COOKING_SUCCESS,Cooking Success Rate +%d%%,料理成功率 +%d%%
+UI_LIFE_MASTERY_COOKING_GREATSUCCESS,Cooking Great Success Rate +%d%%,料理大成功率 +%d%%
+UI_LIFE_MASTERY_SMITHING_SUCCESS,Smithing Success Rate +%d%%,鍛冶成功率 +%d%%
+UI_LIFE_MASTERY_SMITHING_GREATSUCCESS,Smithing Great Success Rate +%d%%,鍛冶大成功率 +%d%%
+UI_LIFE_MASTERY_CARPENTRY_SUCCESS,Carpentry Success Rate +%d%%,木工成功率 +%d%%
+UI_LIFE_MASTERY_CARPENTRY_GREATSUCCESS,Carpentry Great Success Rate +%d%%,木工大成功率 +%d%%
+UI_LIFE_MASTERY_PRODUCTION_EXPERT,(Expert) Earn unbound item for Great Success,（専門）大成功時に譲渡可能アイテムを獲得
+UI_LIFE_PRODUCTION_STATUS_TIME,Production Time:,制作時間：
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_ATTEMPTS,Number of Attempts:,試行回数：
+UI_LIFE_PRODUCTION_STATUS_NUMBEROF_SUCCESSES,Number of Successes:,成功回数：
+UI_LIFE_PRODUCTION_STATUS_SUCCESS_RATE,Success Rate:,成功率：
+UI_LIFE_REPRODUCTION_TITLE,Product Upgrade,プロダクトアップグレード
+UI_LIFE_REPRODUCTION_REGISTER_ITEM,Please insert the material items.,材料アイテムを入れてください。
+UI_LIFE_REPRODUCTION_INFO,Exchange lower-tier production items for a chance to obtain a higher-tier version of the item.\nExchange ratio: D:C = 10:1 • C:B = 15:1 • B:A = 20:1,下位グレードの制作アイテムを交換し、上位グレードのアイテムを入手できる可能性があります。\n交換比率：D:C = 10:1 • C:B = 15:1 • B:A = 20:1
+UI_LIFE_SHOP_REFRESH_TITLE,Shop Refresh,ショップ更新
+UI_LIFE_WANDERING_SHOP_REFRESH_MSG,Use a Wandering Merchant Refresh Ticket to refresh the shop inventory?,Wandering Merchant Refresh Ticketを使用して、ショップの在庫を更新しますか？
+UI_LIFE_SHOP_REFRESH_BUTTON_TOOLTIP,Use %s to refresh the shop inventory,%sを使用してショップの在庫を更新
+UI_LIFE_WANDERING_SHOP_TOGGLE_PRICE,Buy with %s,%sで購入
+UI_LIFE_MASTERY_RANKING_TITLE,Mastery Rankings,マスタリーランキング
 UI_LIFE_MASTERY_RANKING_RANK,Rank,順位
 UI_LIFE_MASTERY_RANKING_CHARNAME,Character Name,キャラクター名
 UI_LIFE_MASTERY_RANKING_JOB,Job,職業
-UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,Mastery Points
+UI_LIFE_MASTERY_RANKING_POINT,Mastery Points,マスタリーポイント
 UI_LIFE_MASTERY_RANKING_CLOSE,Close,閉じる
-UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,Mastery Ranking Rewards
+UI_LIFE_MASTERY_RANKING_REWARD_TITLE,Mastery Ranking Rewards,マスタリーランキング報酬
 UI_LIFE_MASTERY_RANKING_REWARD_CLAIM_REWARD,Claim Rewards,報酬を受け取る
 UI_LIFE_MASTERY_RANKING_REWARD_DESC_ITEM_COUNT,%s x %d,%s x %d
-UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d","[%s]Title, %s x %d"
-UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,Rewards
-UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,Achievement titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,Independent titles
-UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,remaining time: \n%d day(s) %d:%d:%d
-UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,Herb with a unique fragrance. Yields Common-Rare herbs.
-UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,Rare herb that is difficult to find. Yields Common-Very Rare herbs.
-UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,Legendary herb known to few. Yields Rare-Very Rare herbs.
-UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,Tree with a unique appearance. Yields Common-Rare logs.
-UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,Rare tree that is difficult to find. Yields Common-Very Rare logs.
-UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,Legendary tree known to few. Yields Rare-Very Rare logs.
-UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,Rock with a unique appearance. Yields Common-Rare ores.
-UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,Rare rock that is difficult to find. Yields Common-Very Rare ores.
-UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,Legendary rock known to few. Yields Rare-Very Rare ores.
-UI_LIFE_PRODUCTION_START,Production Start,Production Start
-UI_LIFE_CRAFT_START,Start,Start
-UI_LIFE_CRAFT_STOP,Stop,Stop
-UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d sec\n(%d%% reduction applied)
-UI_LIFE_CRAFT_RESET,Reset,Reset
-UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc"
-UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc","Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc"
-UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,Mine Ore #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,Cut Trees #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,Catch Fish #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_COOKING,Cook Food #cffc32f07#b%d/%d#nb#nc,Cook Food #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,Perform Alchemy #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,Perform Carpentry #cffc32f07#b%d/%d#nb#nc
-UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,Smith Items #cffc32f07#b%d/%d#nb#nc
-UI_CHAT_COPYNAME,Copy name,Copy name
-UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.
-UI_RAINBOWRACE_ENTER_CONFIRM,Enter the Rainbow Race now?,Enter the Rainbow Race now?
+UI_LIFE_MASTERY_RANKING_REWARD_DESC_TITLE_ITEM_COUNT,"[%s]Title, %s x %d",[%s]称号、%s x %d
+UI_LIFE_MASTERY_RANKING_REWARD_REWARD,Rewards,報酬
+UI_ACHIEVEMENTS_TITLE_TITLE,Achievement titles,実績称号
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_TITLE,Independent titles,個別称号
+UI_ACHIEVEMENTS_INDEPENDENTTITLE_REMAININGTIME,remaining time: \n%d day(s) %d:%d:%d,残り時間：\n%d日 %d:%d:%d
+UI_LIFE_MASTERY_UNIQUE_HERB,Herb with a unique fragrance. Yields Common-Rare herbs.,独特の香りを持つ薬草。コモン〜レア品質の薬草が採取できます。
+UI_LIFE_MASTERY_RARE_HERB,Rare herb that is difficult to find. Yields Common-Very Rare herbs.,見つけるのが難しい希少な薬草。コモン〜ベリーレア品質の薬草が採取できます。
+UI_LIFE_MASTERY_LEGENDARY_HERB,Legendary herb known to few. Yields Rare-Very Rare herbs.,ごく一部にしか知られていない伝説の薬草。レア〜ベリーレア品質の薬草が採取できます。
+UI_LIFE_MASTERY_UNIQUE_TREE,Tree with a unique appearance. Yields Common-Rare logs.,独特な外見の木。コモン〜レア品質の木材が採取できます。
+UI_LIFE_MASTERY_RARE_TREE,Rare tree that is difficult to find. Yields Common-Very Rare logs.,見つけるのが難しい希少な木。コモン〜ベリーレア品質の木材が採取できます。
+UI_LIFE_MASTERY_LEGENDARY_TREE,Legendary tree known to few. Yields Rare-Very Rare logs.,ごく一部にしか知られていない伝説の木。レア〜ベリーレア品質の木材が採取できます。
+UI_LIFE_MASTERY_UNIQUE_ORE,Rock with a unique appearance. Yields Common-Rare ores.,独特な外見の岩石。コモン〜レア品質の鉱石が採取できます。
+UI_LIFE_MASTERY_RARE_ORE,Rare rock that is difficult to find. Yields Common-Very Rare ores.,見つけるのが難しい希少な岩石。コモン〜ベリーレア品質の鉱石が採取できます。
+UI_LIFE_MASTERY_LEGENDARY_ORE,Legendary rock known to few. Yields Rare-Very Rare ores.,ごく一部にしか知られていない伝説の岩石。レア〜ベリーレア品質の鉱石が採取できます。
+UI_LIFE_PRODUCTION_START,Production Start,制作開始
+UI_LIFE_CRAFT_START,Start,開始
+UI_LIFE_CRAFT_STOP,Stop,停止
+UI_LIFE_CRAFT_SEC_REDUCTION,%d sec\n(%d%% reduction applied),%d秒\n（%d%%短縮適用）
+UI_LIFE_CRAFT_RESET,Reset,リセット
+UI_LIFE_PRODUCTION_MSGBOX_TEXT,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s#nc",制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s#nc
+UI_LIFE_PRODUCTION_MSGBOX_TEXT_UNKNOWN,"Once production starts, it cannot be canceled. Proceed?\n\n#cffffc000Production time: %s~%s#nc",制作を開始すると、キャンセルできません。続行しますか？\n\n#cffffc000制作時間：%s~%s#nc
+UI_QUEST_GATHERING_MINING,Mine Ore #cffc32f07#b%d/%d#nb#nc,鉱石採掘 #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_WOODCUTTING,Cut Trees #cffc32f07#b%d/%d#nb#nc,伐採 #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_GATHERING_FISHING,Catch Fish #cffc32f07#b%d/%d#nb#nc,釣り #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_COOKING,Cook Food #cffc32f07#b%d/%d#nb#nc,料理 #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_ALCHEMY,Perform Alchemy #cffc32f07#b%d/%d#nb#nc,錬金術 #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_CARPENTRY,Perform Carpentry #cffc32f07#b%d/%d#nb#nc,木工 #cffc32f07#b%d/%d#nb#nc
+UI_QUEST_PRODUCTION_SMITHING,Smith Items #cffc32f07#b%d/%d#nb#nc,鍛冶 #cffc32f07#b%d/%d#nb#nc
+UI_CHAT_COPYNAME,Copy name,名前をコピー
+UI_RAINBOWRACE_WRONG_CHANNEL_1,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPlease enter through the Rainbow Race Officer NPC located in %s Darken.\n\nPress OK to move to %s.,レインボーレースは%d分後に開始します。\n現在のチャンネルではレインボーレースに参加できません。\n\n%sダーコンにいるレインボーレース担当官NPCから参加してください。\n\nOKを押すと%sへ移動します。
+UI_RAINBOWRACE_WRONG_CHANNEL_2,The Rainbow Race will begin in %d minutes.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,レインボーレースは%d分後に開始します。\n現在のチャンネルではレインボーレースに参加できません。\n\nOKを押すと%sへ移動します。
+UI_RAINBOWRACE_WRONG_CHANNEL_3,The Rainbow Race has started.\nYou cannot participate in the Rainbow Race in the current channel.\n\nPress OK to move to %s.,レインボーレースが開始しました。\n現在のチャンネルではレインボーレースに参加できません。\n\nOKを押すと%sへ移動します。
+UI_RAINBOWRACE_ENTER_CONFIRM,Enter the Rainbow Race now?,今すぐレインボーレースに参加しますか？
 UI_CREATENPC_TITLE,Create NPC,Create NPC
 UI_CREATENPC_AGRESSIVE,Aggressive,Aggressive
 UI_CREATENPC_NOWNER,No Owner,No Owner
@@ -2759,63 +2759,63 @@ UI_CREATENPC_NOEXPLOSS,No Exp Loss,No Exp Loss
 UI_CREATEITEM_FLAGS,Flags,Flags
 UI_CREATEITEM_TIME,Time (Sec),Time (Sec)
 UI_CREATEITEM_CHARGED,Charged,激しい
-UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,Alchemy Success Rate
-UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,Cooking Success Rate
-UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,Carpentry Success Rate
-UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,Smithing Success Rate
-UI_HOUSINGSETUP_GATHERING,Gathering,Gathering
-UI_HOUSINGSETUP_NEXTHARVEST,Ready in:,Ready in:
-UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,Ready to Harvest
-UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,Harvest Cooldown
-UI_HOUSINGSETUP_HARVESTCOUNT,Harvests: %d/%d,Harvests: %d/%d
-UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,Infinite Harvests
-UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,Harvest Cooldown:
-UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,Growth Time:
-UI_QUEST_MOTION,Emote: %s,Emote: %s
-UI_TOOLTIP_REQ_QUEST,Required Quest: %s,Required Quest: %s
+UI_TOOLTIP_ALCHEMY_SUCCESS_RATE,Alchemy Success Rate,錬金術成功率
+UI_TOOLTIP_COOKING_SUCCESS_RATE,Cooking Success Rate,料理成功率
+UI_TOOLTIP_CARPENTRY_SUCCESS_RATE,Carpentry Success Rate,木工成功率
+UI_TOOLTIP_SMITHING_SUCCESS_RATE,Smithing Success Rate,鍛冶成功率
+UI_HOUSINGSETUP_GATHERING,Gathering,採取
+UI_HOUSINGSETUP_NEXTHARVEST,Ready in:,収穫まで：
+UI_HOUSINGSETUP_HARVESTREADY,Ready to Harvest,収穫可能
+UI_GACHA_HOUSINGGATHERING,Harvest Cooldown,収穫クールタイム
+UI_HOUSINGSETUP_HARVESTCOUNT,Harvests: %d/%d,収穫回数：%d/%d
+UI_HOUSINGSETUP_HARVESTCOUNTINFINITE,Infinite Harvests,収穫回数無制限
+UI_TOOLTIP_HARVESTCOOLTIME,Harvest Cooldown:,収穫クールダウン：
+UI_HOUSINGSETUP_HARVESTCOOLTIME,Growth Time:,成長時間：
+UI_QUEST_MOTION,Emote: %s,エモート：%s
+UI_TOOLTIP_REQ_QUEST,Required Quest: %s,必要クエスト：%s
 UI_TOOLTIP_PVE_DMG_FLAT,PvE Damage,モンスターへのダメージ増加
-UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE Dmg Resist
+UI_TOOLTIP_PVEINCOMINGDMG_FLAT,PvE Dmg Resist,PvE被ダメージ軽減
 UI_GENERALAWAKE_START,Start,スタート
-UI_GENERALAWAKE_HEADERITEM,Item to Awake:,Item to Awake:
-UI_GENERALAWAKESLOT_INDEX,Stat %d,Stat %d
-UI_SEARCHSHOP_TELEPORT_TITLE,Shop Teleport,Shop Teleport
-UI_SEARCHSHOP_TELEPORT_CONFIRM,Teleport to the shop?,Teleport to the shop?
-UI_PRIVATE_SHOP_ADS,Shop Advertisement:,Shop Advertisement:
-UI_SEARCHSHOP_ADVERTISED,Advertised,Advertised
-UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,Your Shop Advertisement item will be consumed.
-UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,Your Shop Advertisement item cannot be reused.
+UI_GENERALAWAKE_HEADERITEM,Item to Awake:,覚醒対象アイテム：
+UI_GENERALAWAKESLOT_INDEX,Stat %d,ステータス%d
+UI_SEARCHSHOP_TELEPORT_TITLE,Shop Teleport,ショップテレポート
+UI_SEARCHSHOP_TELEPORT_CONFIRM,Teleport to the shop?,このショップにテレポートしますか？
+UI_PRIVATE_SHOP_ADS,Shop Advertisement:,ショップ広告：
+UI_SEARCHSHOP_ADVERTISED,Advertised,宣伝中
+UI_PRIVATE_SHOP_ADSOPEN,Your Shop Advertisement item will be consumed.,ショップ広告アイテムが消費されます。
+UI_PRIVATE_SHOP_ADSCLOSE,Your Shop Advertisement item cannot be reused.,ショップ広告アイテムは再利用できません。
 UI_GENERALAWAKE_TITLEGODDESSBLESSING,Blessing of the Goddess,女神の祝福
-UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,Blessing of the Demon
-UI_TOOLTIP_FREEBLESSING,Demon Blessing,Demon Blessing
-UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,Pet Inventory Slots
-UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,Use Blessing?
-UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.
+UI_GENERALAWAKE_TITLEDEMONBLESSING,Blessing of the Demon,悪魔の祝福
+UI_TOOLTIP_FREEBLESSING,Demon Blessing,デーモンの祝福
+UI_CHARINFO_HOUSING_SLOTS,Pet Inventory Slots,ペットインベントリ枠
+UI_GENERALAWAKE_SOULBIND_TITLE,Use Blessing?,祝福を使用しますか？
+UI_GENERALAWAKE_SOULBIND,Applying a blessing will make the item soul-linked while the blessing is active. Proceed? Blessings of the Goddess can be removed by Jewel Manager NPCs.,祝福を付与すると、祝福が有効な間そのアイテムはソウルリンクされます。続行しますか？女神の祝福はジュエルマネージャーNPCで解除できます。
 UI_RECIPE_NOT_FULL,"The recipe is not fully understood, so only one of each ingredient is used.","The recipe is not fully understood, so only one of each ingredient is used."
-UI_CHRISTMAS_INVANSION_MISSION,Quest completed,Quest completed
-UI_TELEPORT_ARENA,Exit the arena?,Exit the arena?
-UI_NEWYEARPASS_2025,2025 New Year Pass,2025 New Year Pass
-UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,Gather %s #cffc32f07#b%d/%d#nb#nc
+UI_CHRISTMAS_INVANSION_MISSION,Quest completed,クエスト完了
+UI_TELEPORT_ARENA,Exit the arena?,アリーナから退出しますか？
+UI_NEWYEARPASS_2025,2025 New Year Pass,2025年 新年パス
+UI_QUEST_GATHERING,Gather %s #cffc32f07#b%d/%d#nb#nc,%sを集める #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_GATHERING_YEAROFSNAKE2025,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
-UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,You ran out of blessings.
-UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,Weekly Ranking
-UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,Permanent Ranking
-UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,Title:
+UI_GENERALAWAKE_NOMATERIAL,You ran out of blessings.,祝福が不足しています。
+UI_LIFE_MASTERY_RANKING_TABWEEKLY,Weekly Ranking,週間ランキング
+UI_LIFE_MASTERY_RANKING_TABPERMANENT,Permanent Ranking,通算ランキング
+UI_LIFE_MASTERY_RANKINGREWARD_TITLE,Title:,称号：
 UI_LIFE_MASTERY_RANKING_CURRENTRANK,Current rank: ,現在のランク:
-UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,unranked.
-UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,Spring Points: %d Pts
-UI_QUEST_PT_JAN2024_2,Spring Points: ????,Spring Points: ????
-UI_EVENT_JAN2024_NAME,Spring Point Exchange,Spring Point Exchange
-UI_JAN2024_POINT_NAME,Spring Points,Spring Points
-UI_POINTS,%d Pts,%d Pts
+UI_LIFE_MASTERY_RANKING_CURRENTRANK_UNRANKED,unranked.,ランク外
+UI_QUEST_PT_JAN2024_1,Spring Points: %d Pts,スプリングポイント：%dpt
+UI_QUEST_PT_JAN2024_2,Spring Points: ????,スプリングポイント：????
+UI_EVENT_JAN2024_NAME,Spring Point Exchange,春ポイント交換
+UI_JAN2024_POINT_NAME,Spring Points,春ポイント
+UI_POINTS,%d Pts,%dポイント
 UI_QUEST_ATTEMPT_GATHERING,"Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc","Gather Resources (Herbs, Logs, Ore, Berries) #cffc32f07#b%d/%d#nb#nc"
-UI_STANDBY,Standby,Standby
-UI_DEAD,Dead,Dead
-UI_NOW_SPECTATING,Spectating %s,Spectating %s
-UI_EASTER_EGG_MISSION,Gather Easter Eggs,Gather Easter Eggs
-UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,Rock commonly found throughout the world. Yields Common ores.
-UI_TARGET_HEALTH,Health: ,Health: 
-UI_TARGET_PENYA,- Penya: ,- Penya: 
-UI_ACHIEVEMENTS_LIFE_TAB,Life,Life
+UI_STANDBY,Standby,待機中
+UI_DEAD,Dead,死亡
+UI_NOW_SPECTATING,Spectating %s,%sを観戦中
+UI_EASTER_EGG_MISSION,Gather Easter Eggs,イースターエッグを集める
+UI_LIFE_MASTERY_CHROMA_ORE,Rock commonly found throughout the world. Yields Common ores.,世界中で見られる一般的な岩石。コモン品質の鉱石が採取できます。
+UI_TARGET_HEALTH,Health: ,HP：
+UI_TARGET_PENYA,- Penya: ,・ペニャ：
+UI_ACHIEVEMENTS_LIFE_TAB,Life,ライフ
 UI_MENU_REFRESH,Refresh,更新
 UI_MENU_MESSAGE,Message,メッセージ
 UI_MENU_SUMMON,Summon,召喚
@@ -2832,10 +2832,10 @@ UI_MENU_BAN_IP,Ban IP,Ban IP
 UI_MENU_KICK_IP,Kick IP,Kick IP
 UI_MENU_MUTE_SHA,Mute Sha,Mute Sha
 UI_APP_INSPECTION,Inspection,Inspection
-UI_TARGET_PLAYERS_KILLED,- Players killed: ,- Players killed: 
-UI_TARGET_PK_VALUE,- PK Value : ,- PK Value : 
-UI_TARGET_PLAYER_ID,- PlayerID: #,- PlayerID: #
-UI_PUBLISHED_BY,Published by ,Published by 
+UI_TARGET_PLAYERS_KILLED,- Players killed: ,・撃破プレイヤー数：
+UI_TARGET_PK_VALUE,- PK Value : ,・PK値：
+UI_TARGET_PLAYER_ID,- PlayerID: #,・プレイヤーID：#
+UI_PUBLISHED_BY,Published by ,発行：
 UI_ALL_RIGHTS_RESERVED,. All rights reserved.,. All rights reserved.
 UI_QUEST_DISTANCE_M,m,m
 UI_QUEST_DISTANCE_KM,km,km
@@ -3109,279 +3109,279 @@ UI_ATTR_LANDSCAPE,Landscapes: ,Landscapes:
 UI_ATTR_PING,Ping: ,Ping: 
 UI_ATTR_FPS,FPS: ,FPS: 
 UI_CCU,CCU,CCU
-UI_APP_ACCOUNT_TIP,Manage your account,Manage your account
-UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3rd Anniversary Pass
-UI_BATTLEPASS_REPEAT,Repeat,Repeat
-UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,Failure: #b%s#nb
-UI_UPGRADE_BREAK_PROB,Break: #b%s#nb,Break: #b%s#nb
-UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,Upgrade Attempts Left: %d
-UI_BATTLEPASS_MISSION_FIELDBOSS,Participate in a Field Boss Battle: %s,Participate in a Field Boss Battle: %s
-UI_QUEST_CONSUMABLE_ITEM_COUNT,Use Consumable Items #cffc32f07#b%d/%d#nb#nc,Use Consumable Items #cffc32f07#b%d/%d#nb#nc
-UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,Personal statue created
+UI_APP_ACCOUNT_TIP,Manage your account,アカウントを管理
+UI_3RD_ANNIV_PASS,3rd Anniversary Pass,3周年記念パス
+UI_BATTLEPASS_REPEAT,Repeat,繰り返し
+UI_UPGRADE_FAILURE_PROB,Failure: #b%s#nb,失敗率：#b%s#nb
+UI_UPGRADE_BREAK_PROB,Break: #b%s#nb,破壊率：#b%s#nb
+UI_TOOLTIP_UPGRADEATTEMPT_REMAINING,Upgrade Attempts Left: %d,強化残り回数：%d
+UI_BATTLEPASS_MISSION_FIELDBOSS,Participate in a Field Boss Battle: %s,フィールドボス戦に参加：%s
+UI_QUEST_CONSUMABLE_ITEM_COUNT,Use Consumable Items #cffc32f07#b%d/%d#nb#nc,消耗品使用 #cffc32f07#b%d/%d#nb#nc
+UI_ACHIEVEMENTS_REWARD_STATUE,Personal statue created,個人像を作成
 UI_FORCEWEEKLYLIFESTYLERESET,forceweeklylifestylereset,forceweeklylifestylereset
-UI_SHOP_REFRESH_IN,Refreshes in,Refreshes in
-UI_DAYS_MON,Mon,Mon
-UI_DAYS_TUE,Tue,Tue
-UI_DAYS_WED,Wed,Wed
-UI_DAYS_THU,Thu,Thu
-UI_DAYS_FRI,Fri,Fri
-UI_DAYS_SAT,Sat,Sat
-UI_DAYS_SUN,Sun,Sun
+UI_SHOP_REFRESH_IN,Refreshes in,更新まで
+UI_DAYS_MON,Mon,月
+UI_DAYS_TUE,Tue,火
+UI_DAYS_WED,Wed,水
+UI_DAYS_THU,Thu,木
+UI_DAYS_FRI,Fri,金
+UI_DAYS_SAT,Sat,土
+UI_DAYS_SUN,Sun,日
 UI_SEARCHPARTY_LEVEL,Lv.,Lv.
-UI_RANKING_UNIT1,st,st
-UI_RANKING_UNIT2,nd,nd
-UI_RANKING_UNIT3,rd,rd
-UI_RANKING_UNIT4,th,th
+UI_RANKING_UNIT1,st,位
+UI_RANKING_UNIT2,nd,位
+UI_RANKING_UNIT3,rd,位
+UI_RANKING_UNIT4,th,位
 UI_KALGAS_BLACK,Black,ブラック
 UI_KALGAS_WHITE,White,ホワイト
 UI_KALGAS_TEAM,Team,チーム
 UI_WARDROBE_NONE,None,無し
-UI_ACHIEVEMENT_SLOTS_N,slot(s),slot(s)
+UI_ACHIEVEMENT_SLOTS_N,slot(s),枠
 UI_STATUS_LEVEL,Lv.%d,Lv.%d
-UI_BOSSRAID_JOIN_TITLE,Enter Boss Raid Area,Enter Boss Raid Area
-UI_BOSSRAID_JOIN_CONFIRM,Join the Boss Raid?,Join the Boss Raid?
-UI_BOSSRAID_BOSS_APPEAR_NOTICE,The monster will appear in %d minutes and %d seconds,The monster will appear in %d minutes and %d seconds
-UI_BOSSRAID_BOSS_APPEAR_NOTICE_MIN,The monster will appear in %d minutes,The monster will appear in %d minutes
-UI_BOSSRAID_BOSS_APPEAR_NOTICE_SEC,The monster will appear in %d seconds,The monster will appear in %d seconds
-UI_PVPMATCHRECAP_TITLE,Match Data,Match Data
-UI_PVPMATCHRECAP_TITLE_2,Match Result,Match Result
+UI_BOSSRAID_JOIN_TITLE,Enter Boss Raid Area,ボスレイドエリアに入る
+UI_BOSSRAID_JOIN_CONFIRM,Join the Boss Raid?,ボスレイドに参加しますか？
+UI_BOSSRAID_BOSS_APPEAR_NOTICE,The monster will appear in %d minutes and %d seconds,モンスターは%d分%d秒後に出現します
+UI_BOSSRAID_BOSS_APPEAR_NOTICE_MIN,The monster will appear in %d minutes,モンスターは%d分後に出現します
+UI_BOSSRAID_BOSS_APPEAR_NOTICE_SEC,The monster will appear in %d seconds,モンスターは%d秒後に出現します
+UI_PVPMATCHRECAP_TITLE,Match Data,試合データ
+UI_PVPMATCHRECAP_TITLE_2,Match Result,試合結果
 UI_PVPMATCHRECAP_NAME,Name,名前
 UI_PVPMATCHRECAP_JOB,Job,職業
 UI_PVPMATCHRECAP_LEVEL,Level,レベル
-UI_PVPMATCHRECAP_WINNER,Winner,Winner
-UI_PVPMATCHRECAP_LOSER,Loser,Loser
+UI_PVPMATCHRECAP_WINNER,Winner,勝者
+UI_PVPMATCHRECAP_LOSER,Loser,敗者
 UI_PVPMATCHRECAP_TOTAL,Total,合計
-UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,Revolutionary's Secret Journal
+UI_REVOLUTIONARYS_SECRETJOURNAL_TITLE,Revolutionary's Secret Journal,革命家の秘密の日誌
 UI_REVOLUTIONARYS_SECRETJOURNAL_DESC,"The journal's pages were lost during attacks by monsters from across the world.\nIf you help recover them, you will surely be rewarded.","The journal's pages were lost during attacks by monsters from across the world.\nIf you help recover them, you will surely be rewarded."
-UI_BTN_ADD_ALL,Add all,Add all
-UI_FULL_COLLECTION_REWARD,Full Collection Reward,Full Collection Reward
-UI_ADD_ALL_CONFIRM,The letters will be registered automatically from top to bottom. Continue?,The letters will be registered automatically from top to bottom. Continue?
-UI_TRADE_CONFIRM_BLOCK,An item or Penya has been removed. Please wait %d seconds.,An item or Penya has been removed. Please wait %d seconds.
-UI_OPTION_MAIL_MODE,Allow Mails From,Allow Mails From
-UI_OPTION_MAIL_EVERYONE,Everyone,Everyone
-UI_OPTION_MAIL_FRIENDS,Friends,Friends
-UI_OPTION_MAIL_SYSTEM,System Only,System Only
-UI_OPTION_WHISPER_MODE,Allow Whispers From,Allow Whispers From
-UI_OPTION_WHISPER_NONE,No One,No One
-UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,Dungeon Free Entry
-UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWC Championship Pass
-UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,Use Consumable Items
-UI_BATTLEPASS_MISSION_GETITEM,Obtain %s,Obtain %s
-UI_TOOLTIP_TITLE_FWC_COIN,Betting Coin Blessing,Betting Coin Blessing
-UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,Increased FWC Coin drop
+UI_BTN_ADD_ALL,Add all,すべて追加
+UI_FULL_COLLECTION_REWARD,Full Collection Reward,コンプリート報酬
+UI_ADD_ALL_CONFIRM,The letters will be registered automatically from top to bottom. Continue?,上から順に自動で文字が登録されます。続行しますか？
+UI_TRADE_CONFIRM_BLOCK,An item or Penya has been removed. Please wait %d seconds.,アイテムまたはペニャが削除されました。%d秒お待ちください。
+UI_OPTION_MAIL_MODE,Allow Mails From,メール受信許可
+UI_OPTION_MAIL_EVERYONE,Everyone,全員
+UI_OPTION_MAIL_FRIENDS,Friends,フレンド
+UI_OPTION_MAIL_SYSTEM,System Only,システムのみ
+UI_OPTION_WHISPER_MODE,Allow Whispers From,ささやき受信許可
+UI_OPTION_WHISPER_NONE,No One,誰にも許可しない
+UI_TOOLTIP_DUNGEON_ENTRY,Dungeon Free Entry,ダンジョン無料入場
+UI_FWC_PASS_2025,2025 FWC Championship Pass,2025 FWCチャンピオンシップパス
+UI_BATTLEPASS_MISSION_CONSUMABLE_ITEM,Use Consumable Items,消耗品アイテムを使用
+UI_BATTLEPASS_MISSION_GETITEM,Obtain %s,%sを獲得
+UI_TOOLTIP_TITLE_FWC_COIN,Betting Coin Blessing,ベッティングコインの祝福
+UI_TOOLTIP_FWC_COIN_DROPS,Increased FWC Coin drop,FWCコインドロップ増加
 UI_ADDATTRIBUTE_START,Start,スタート
-UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,Item to be upgraded
-UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,You ran out of materials.
-UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,Upgrade Item?
-UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Proceed?,Upgrading this item will make the item soul-bound. Proceed?
-UI_OPTION_PVPMATCH_CAPTION,PvP Match/Contest Captions,PvP Match/Contest Captions
+UI_ADDATTRIBUTE_HEADERITEM,Item to be upgraded,強化対象アイテム
+UI_ADDATTRIBUTE_NOMATERIAL,You ran out of materials.,素材が不足しています。
+UI_ADDATTRIBUTE_SOULBIND_TITLE,Upgrade Item?,アイテムを強化しますか？
+UI_ADDATTRIBUTE_SOULBIND,Upgrading this item will make the item soul-bound. Proceed?,このアイテムを強化すると、ソウルバインドされます。続行しますか？
+UI_OPTION_PVPMATCH_CAPTION,PvP Match/Contest Captions,PvPマッチ/コンテストキャプション
 UI_PTS_POPUP_DESC,"You are eligible to apply as a tester for the Public Test Server using the form below. This server is used to test upcoming features. For more information, please visit our website.","You are eligible to apply as a tester for the Public Test Server using the form below. This server is used to test upcoming features. For more information, please visit our website."
-UI_PTS_POPUP_TITLE,Public Test Server Form,Public Test Server Form
-UI_PTS_POPUP_HIDE,Do not show this again,Do not show this again
-UI_TAB_FWC_PREDICTION_RULE,Rule,Rule
-UI_TAB_FWC_PREDICTION_PREDICTION,Prediction,Prediction
+UI_PTS_POPUP_TITLE,Public Test Server Form,パブリックテストサーバーフォーム
+UI_PTS_POPUP_HIDE,Do not show this again,次回から表示しない
+UI_TAB_FWC_PREDICTION_RULE,Rule,ルール
+UI_TAB_FWC_PREDICTION_PREDICTION,Prediction,予想
 UI_TAB_FWC_RANKING,Ranking,ランキング
-UI_REMAINING_FWCCOIN,Remaining FWC Coin,Remaining FWC Coin
+UI_REMAINING_FWCCOIN,Remaining FWC Coin,残りFWCコイン
 UI_TIMELEFT,Time left,残り時間
-UI_GUILDICON,Guild Icon,Guild Icon
+UI_GUILDICON,Guild Icon,ギルドアイコン
 UI_GUILDNAME,Guild Name,ギルド名
-UI_TOTALBETAMOUNT,Total Bet Amount,Total Bet Amount
-UI_MYBET,My Bet,My Bet
-UI_ACTION,Action,Action
-UI_BTN_ADDBET,Add Bet,Add Bet
-UI_TITLE_ADDBET,Add Bet,Add Bet
+UI_TOTALBETAMOUNT,Total Bet Amount,合計ベット額
+UI_MYBET,My Bet,自分のベット
+UI_ACTION,Action,アクション
+UI_BTN_ADDBET,Add Bet,ベットを追加
+UI_TITLE_ADDBET,Add Bet,ベットを追加
 UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ","* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  "
-UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,Enter Bet Amount:
-UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s
-UI_TITLE_GUILDINFO,Guild Info,Guild Info
+UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,ベット額を入力：
+UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,このベットを確定しますか？\nギルド名：%s\nコイン枚数：%s
+UI_TITLE_GUILDINFO,Guild Info,ギルド情報
 UI_BTN_MEMBERS,Members,メンバー
 UI_CHARACTERNAME,Name,名前
 UI_JOB,Job,職業
 UI_SERVER,Server,サーバ分類
-UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,Total Server\nFWC Coin Spent
-UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,My FWC Coin Spent
+UI_TOTALSERVER_FWCCOIN_SPENT,Total Server\nFWC Coin Spent,サーバー全体の\nFWCコイン使用量
+UI_MY_FWCCOIN_SPENT,My FWC Coin Spent,自分のFWCコイン使用量
 UI_RANK,Rank,順位
-UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,Total FWC Coin Spent
-UI_OPTION_IMAGE_TITLE,Banner Titles,Banner Titles
-UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,Right-Hand Weapon Attack
-UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,Left-Hand Weapon Attack
-UI_PARTS_SHIELD_DEF,Shield Defense,Shield Defense
-UI_SKILL_SYNERGY,Synergy,Synergy
-UI_SKILL_SYNERGY_PER,per level %d+,per level %d+
-UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,Rear Dark Illusion Damage
-UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,Critical Mark Chance
-UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),Complete #cffc32f07#b%d/%d#nb#nc daily quest(s)
-UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,Increased Damage per Disable Debuff
-UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,Increased Damage per Weaken Debuff
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),Reduced Damage Taken per Debuff (Max 8)
-UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(Disable)
-UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(Weaken)
-UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(Immobility)
-UI_ACTIVE_SKILLS,Active Skills,Active Skills
-UI_PASSIVE_SKILLS,Passive Skills,Passive Skills
-UI_MASTER_SKILLS,Master Variations,Master Variations
-UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,Boss Incoming Damage
-UI_TOOLTIP_DMG_TICK,Damage Tick,Damage Tick
-UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP Threshold: %d%%
-UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,HP Threshold: Below %d%%
+UI_TOTAL_FWCCOIN_SPENT,Total FWC Coin Spent,合計FWCコイン使用量
+UI_OPTION_IMAGE_TITLE,Banner Titles,バナータイトル
+UI_RIGHT_WEAPON_ATK,Right-Hand Weapon Attack,右手武器攻撃力
+UI_LEFT_WEAPON_ATK,Left-Hand Weapon Attack,左手武器攻撃力
+UI_PARTS_SHIELD_DEF,Shield Defense,シールド防御力
+UI_SKILL_SYNERGY,Synergy,シナジー
+UI_SKILL_SYNERGY_PER,per level %d+,レベル%d+ごと
+UI_TOOLTIP_BEHIND_DARK_DAMAGE,Rear Dark Illusion Damage,背後からの暗黒幻影ダメージ
+UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,クリティカルマーク付与率
+UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),デイリークエスト #cffc32f07#b%d/%d#nb#nc 件達成
+UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,無力化デバフごとのダメージ増加
+UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,弱体化デバフごとのダメージ増加
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),デバフごとの被ダメージ減少（最大8）
+UI_TOOLTIP_DISABLE_DEBUFF,(Disable),（無力化）
+UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),（弱体化）
+UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),（行動不能）
+UI_ACTIVE_SKILLS,Active Skills,アクティブスキル
+UI_PASSIVE_SKILLS,Passive Skills,パッシブスキル
+UI_MASTER_SKILLS,Master Variations,マスターバリエーション
+UI_TOOLTIP_BOSSINCOMING_DMG,Boss Incoming Damage,ボスからの被ダメージ
+UI_TOOLTIP_DMG_TICK,Damage Tick,ダメージティック
+UI_TOOLTIP_HP_THRESHOLD,HP Threshold: %d%%,HP閾値：%d%%
+UI_TOOLTIP_HP_THRESHOLD_NEG,HP Threshold: Below %d%%,HP閾値：%d%%未満
 UI_TOOLTIP_PIT_CRIT,Pitted Critical Damage,Pitted Critical Damage
-UI_TOOLTIP_TRAP_RANGE,Trap Range,Trap Range
-UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,Damage Within 3M
-UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,Damage Further Than 5M
+UI_TOOLTIP_TRAP_RANGE,Trap Range,トラップ範囲
+UI_TOOLTIP_CLOSE_DMG,Damage Within 3M,3M以内のダメージ
+UI_TOOLTIP_FAR_DMG,Damage Further Than 5M,5M以上先のダメージ
 UI_DUNGEON_MODLEVEL,Lv.%d,Lv.%d
-UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\nCurrent bonuses:
-UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,Auto Attack Stack Chance
-UI_TOOLTIP_YOYORANGE,Yo-Yo Range,Yo-Yo Range
+UI_DUNGEON_MODIFIERS_DESC,\n\nCurrent bonuses:,\n\n現在のボーナス：
+UI_TOOLTIP_AUTO_STACKS,Auto Attack Stack Chance,通常攻撃スタック付与率
+UI_TOOLTIP_YOYORANGE,Yo-Yo Range,ヨーヨー範囲
 UI_TOOLTIP_REQ_HP_RATE,HP: %d (%d%%),HP: %d (%d%%)
-UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,HP Consumption Decrease
-UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,Recover HP on Bleeding Kill
-UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,Left Hand Damage
-UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,Damage Reduction by HP
-UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,3rd Job Cooldown Reduction
-UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,3rd Job Skill Damage
-UI_TOOLTIP_DST_HYMN_CD_REDUCT,Hymn Cooldown Reduction,Hymn Cooldown Reduction
-UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,Hymn Damage Reduction
-UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,Hymn Walking Speed
-UI_ENCHANT_SAME_JEWEL_TITLE,Same Jewel Type Insertion,Same Jewel Type Insertion
+UI_TOOLTIP_DST_HP_DEC_RATE,HP Consumption Decrease,HP消費量減少
+UI_TOOLTIP_DST_BLEED_RECOVER,Recover HP on Bleeding Kill,出血状態の敵撃破時にHP回復
+UI_TOOLTIP_DST_LEFT_HAND_DMG,Left Hand Damage,左手ダメージ
+UI_TOOLTIP_DST_LOW_HP_DMG_REDUCT,Damage Reduction by HP,HPに応じたダメージ軽減
+UI_TOOLTIP_DST_SPEC_CD_REDUCT,3rd Job Cooldown Reduction,3次職クールダウン減少
+UI_TOOLTIP_DST_SPEC_DMG,3rd Job Skill Damage,3次職スキルダメージ
+UI_TOOLTIP_DST_HYMN_CD_REDUCT,Hymn Cooldown Reduction,賛美歌クールダウン減少
+UI_TOOLTIP_DST_HYMN_DMG_REDUCT,Hymn Damage Reduction,賛美歌ダメージ軽減
+UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,賛美歌移動速度
+UI_ENCHANT_SAME_JEWEL_TITLE,Same Jewel Type Insertion,同種ジュエル挿入
 UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?","The same jewel type is already inserted. Inserting another has a #cffff0000%d%%#nc chance to succeed. If it fails, the jewel will be destroyed. Proceed?"
-UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,Register ultimate jewel.
-UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.
-UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,Tier %d Jewel
-UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,The jewel will be randomly converted to another jewel of the same tier. Continue?
+UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,アルティマジュエルを登録してください。
+UI_JEWELCONVERSION_INFO,You can convert ultimate jewels using a Scroll of Jewel Conversion. The jewel's tier determines which scroll is required.,ジュエル変換の巻物を使用してアルティマジュエルを変換できます。必要な巻物はジュエルのティアによって異なります。
+UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,ティア%d ジュエル
+UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted to another jewel of the same tier. Continue?,このジュエルは同じティアの別のジュエルにランダムで変換されます。続行しますか？
 UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory.","Synthesizing 3 jewels of the same tier, regardless of type, guarantees a random higher-tier jewel. The jewels used in the process are consumed, and the resulting jewel is placed in your inventory."
-UI_JEWELSYNTHESIS_TIER,Tier %d,Tier %d
-UI_JEWELSYNTHESIS_SELECT,Batch Synthesis: Select Target Tier,Batch Synthesis: Select Target Tier
-UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Proceed with synthesis?,Jewels used as materials will be removed when synthesized. Proceed with synthesis?
-UI_JEWELSYNTHESIS_BATCH,You will receive the following from batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nProceed with batch jewel synthesis?,You will receive the following from batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nProceed with batch jewel synthesis?
-UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Tier %d Jewel: %d
-UI_TOOLTIP_SWD,Sword,Sword
-UI_TOOLTIP_AXE,Axe,Axe
-UI_TOOLTIP_CHE,Stick,Stick
-UI_TOOLTIP_KNU,Knuckle,Knuckle
+UI_JEWELSYNTHESIS_TIER,Tier %d,ティア%d
+UI_JEWELSYNTHESIS_SELECT,Batch Synthesis: Select Target Tier,一括合成：対象ティアを選択
+UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Proceed with synthesis?,素材として使用したジュエルは合成時に消費されます。合成を実行しますか？
+UI_JEWELSYNTHESIS_BATCH,You will receive the following from batch jewel synthesis:\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nProceed with batch jewel synthesis?,一括ジュエル合成で以下を獲得します：\n#cff00b0f0%s#nc\n#cffff0000ペニャ消費：%s#nc\n一括ジュエル合成を実行しますか？
+UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,ティア%d ジュエル：%d
+UI_TOOLTIP_SWD,Sword,剣
+UI_TOOLTIP_AXE,Axe,斧
+UI_TOOLTIP_CHE,Stick,スティック
+UI_TOOLTIP_KNU,Knuckle,ナックル
 UI_TOOLTIP_WAN,Wand,ワンド
 UI_TOOLTIP_STA,Staff,スタッフ
-UI_TOOLTIP_YOY,Yo-Yo,Yo-Yo
-UI_TOOLTIP_BOW,Bow,Bow
-UI_TOOLTIP_MAGICBOTH,Wand or Staff,Wand or Staff
-UI_TOOLTIP_YOBO,Yo-Yo or Bow,Yo-Yo or Bow
-UI_TOOLTIP_SWAXE,Sword or Axe,Sword or Axe
+UI_TOOLTIP_YOY,Yo-Yo,ヨーヨー
+UI_TOOLTIP_BOW,Bow,弓
+UI_TOOLTIP_MAGICBOTH,Wand or Staff,ワンドまたはスタッフ
+UI_TOOLTIP_YOBO,Yo-Yo or Bow,ヨーヨーまたは弓
+UI_TOOLTIP_SWAXE,Sword or Axe,剣または斧
 UI_TOOLTIP_UNKNOWN_WEAPON,Weapon,武器
-UI_TOOLTIP_SKILLLOCK,Locks:,Locks:
-UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,Additional Skill Page
-UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,Switch skill pages
-UI_SKILL_CHANGEPAGE_TITLE,Switch Skill Page,Switch Skill Page
-UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,Additional Nen Chance
-UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Half Nen Consumption Chance
-UI_TOOLTIP_DST_STEALMP,MP Steal,MP Steal
-UI_TOOLTIP_DST_STEALFP,FP Steal,FP Steal
-UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%s Stacks: %d
-UI_OPTION_QUICKCAST,Quick Cast,Quick Cast
-UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,Forcemaster Aura Effect
-UI_DUNGEONTIMERECAP_TITLE,Dungeon Result,Dungeon Result
+UI_TOOLTIP_SKILLLOCK,Locks:,ロック：
+UI_ACHIEVEMENTS_SKILL_PAGE,Additional Skill Page,追加スキルページ
+UI_SKILL_CHANGEPAGE_TOOLTIP,Switch skill pages,スキルページを切り替え
+UI_SKILL_CHANGEPAGE_TITLE,Switch Skill Page,スキルページ切り替え
+UI_TOOLTIP_DST_NEN_CHANCE,Additional Nen Chance,追加Nen発動率
+UI_TOOLTIP_DST_NEN_HALF,Half Nen Consumption Chance,Nen消費半減率
+UI_TOOLTIP_DST_STEALMP,MP Steal,MP吸収
+UI_TOOLTIP_DST_STEALFP,FP Steal,FP吸収
+UI_TOOLTIP_REQ_SKILLSTACKS,%s Stacks: %d,%sスタック：%d
+UI_OPTION_QUICKCAST,Quick Cast,クイックキャスト
+UI_TOOLTIP_DST_FM_AURA_EFF,Forcemaster Aura Effect,フォースマスターオーラ効果
+UI_DUNGEONTIMERECAP_TITLE,Dungeon Result,ダンジョン結果
 UI_DUNGEONTIMERECAP_TIME,Time:,時間:
 UI_DUNGEONTIMERECAP_CLOSE,Close,閉じる
-UI_DUNGEONTIMERECAP_HELP_1,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.
-UI_DUNGEONTIMERECAP_HELP_2,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.
-UI_DUNGEONTIMERECAP_HELP_3,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.
-UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,Damage from Poisoned Enemies
-UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,Damage against Poisoned Enemies
-UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,Chance to Cleanse Toxins on Stealth
-UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,Suffocate Stack Chance
-UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,Damage from Burned Enemies
-UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,Damage from Watered Enemies
-UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,Damage from Suffocated Enemies
-UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,Damage from Shocked Enemies
-UI_TOOLTIP_HP_SHIELD,Max. Health Shield,Max. Health Shield
-UI_TOOLTIP_AA_DMG,Auto Attack Damage,Auto Attack Damage
-UI_LEVELCHANGE_NONE,No available jobs at this level,No available jobs at this level
-UI_SKILL_PAGE_SELECT,Select your skill page:,Select your skill page:
-UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,Monsters EXP Gain
-UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,Monsters EXP/Drop Gain
+UI_DUNGEONTIMERECAP_HELP_1,You reach Gold Tier if you arrive at the boss room within %d minutes. The strongest boss appears in Gold Tier.,ボス部屋に%d分以内に到達するとゴールドティアになります。ゴールドティアでは最強のボスが出現します。
+UI_DUNGEONTIMERECAP_HELP_2,You reach Silver Tier if you arrive at the boss room between %d and %d minutes. A stronger version of the normal boss appears in Silver Tier.,ボス部屋に%d分から%d分の間に到達するとシルバーティアになります。シルバーティアでは通常より強化されたボスが出現します。
+UI_DUNGEONTIMERECAP_HELP_3,You reach Bronze Tier if you arrive at the boss room after %d minutes. The normal boss appears in Bronze Tier.,ボス部屋に%d分より後に到達するとブロンズティアになります。ブロンズティアでは通常のボスが出現します。
+UI_TOOLTIP_VS_POISON_DEF,Damage from Poisoned Enemies,中毒状態の敵から受けるダメージ
+UI_TOOLTIP_VS_POISON_ATK,Damage against Poisoned Enemies,中毒状態の敵へのダメージ
+UI_TOOLTIP_STEALTH_CLEANSE,Chance to Cleanse Toxins on Stealth,ステルス時に毒を解除する確率
+UI_TOOLTIP_SUFFOCATE_STACKS,Suffocate Stack Chance,窒息スタック付与率
+UI_TOOLTIP_VS_BURN_DEF,Damage from Burned Enemies,火傷状態の敵から受けるダメージ
+UI_TOOLTIP_VS_WATER_DEF,Damage from Watered Enemies,水濡れ状態の敵から受けるダメージ
+UI_TOOLTIP_VS_SUFFOCATE_DEF,Damage from Suffocated Enemies,窒息状態の敵から受けるダメージ
+UI_TOOLTIP_VS_SHOCK_DEF,Damage from Shocked Enemies,感電状態の敵から受けるダメージ
+UI_TOOLTIP_HP_SHIELD,Max. Health Shield,最大HPシールド
+UI_TOOLTIP_AA_DMG,Auto Attack Damage,通常攻撃ダメージ
+UI_LEVELCHANGE_NONE,No available jobs at this level,このレベルで転職可能な職業はありません
+UI_SKILL_PAGE_SELECT,Select your skill page:,スキルページを選択：
+UI_TOOLTIP_DST_MOBEXP,Monsters EXP Gain,モンスター経験値獲得量
+UI_TOOLTIP_DST_MOBEXPDROP,Monsters EXP/Drop Gain,モンスター経験値/ドロップ獲得量
 UI_TOOLTIP_TENACITY,Tenacity,Tenacity
-UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,Soul Uplift
-UI_15UPDATE_PASS,1.5 Update Pass,1.5 Update Pass
-UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,Debuff Duration
-UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,Same-Type Ultimate Jewel Insertion Chance
-UI_NEWYEARPASS_2026,2026 New Year Pass,2026 New Year Pass
-UI_TOOLTIP_WARDROBE_YES,In your wardrobe,あなたのワードローブの中で
-UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,あなたのワードローブにはない
-UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,Reach pet EXP 99.99%
+UI_TOOLTIP_DST_SOULUPLIFT,Soul Uplift,ソウルアップリフト
+UI_15UPDATE_PASS,1.5 Update Pass,1.5アップデートパス
+UI_TOOLTIP_DEBUFFDURATION,Debuff Duration,デバフ持続時間
+UI_TOOLTIP_DST_SAME_JEWEL_RATE,Same-Type Ultimate Jewel Insertion Chance,同種アルティマジュエル装着率
+UI_NEWYEARPASS_2026,2026 New Year Pass,2026年 新年パス
+UI_TOOLTIP_WARDROBE_YES,In your wardrobe,ワードローブにあります
+UI_TOOLTIP_WARDROBE_NO,Not in your wardrobe,ワードローブにありません
+UI_QUEST_PET_LEVEL,Reach pet EXP 99.99%,ペット経験値99.99%到達
 UI_DEBUG_DEVICE_ADVERTISING_ID,Advertising ID: ,Advertising ID: 
 UI_DEBUG_DEVICE_EEA,EEA: ,EEA: 
 UI_DEBUG_DEVICE_AD_PERSONALIZATION,Ad Personalization: ,Ad Personalization: 
 UI_DEBUG_DEVICE_AD_USER_DATA,Ad User Data: ,Ad User Data: 
-UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,Ultimate Upgrade Rate
-UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,Retrieve the Birthday Banner!
+UI_TOOLTIP_DST_ULTIMATEUPGRADERATE,Ultimate Upgrade Rate,アルティマ強化成功率
+UI_4TH_ANNIV_ACHIEVEMENT_TITLE,Retrieve the Birthday Banner!,誕生日バナーを回収せよ！
 UI_4TH_ANNIV_ACHIEVEMENT_DESC,"The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded.","The banner was torn to shreds during a monster attack!\nIf you find the pieces and bring them back, I'll make sure you're rewarded."
-UI_ITEM_EXCHANGE_TITLE,Item Exchange,Item Exchange
+UI_ITEM_EXCHANGE_TITLE,Item Exchange,アイテム交換
 UI_ITEM_EXCHANGE_INFO_2033,"By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A].","By consuming Penya, you can exchange a specific Banner Fragment alphabet item you own into another fragment based on set probabilities.\nThere is a low chance to obtain a Golden Ticket item, which grants a [4th Anniversary Supply Box A]."
-UI_4TH_ANNIV_PASS,4th Anniversary Pass,4th Anniversary Pass
-UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4th Anniversary Boss Instance Event
-UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,Server Hunting Carnival
-UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!
-UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,Donate Penya to receive server wide buffs!
-UI_APP_LORD_TIP,Manage lord skills as the lord.,Manage lord skills as the lord.
-UI_APP_LORD_TARGETNAME,Enter the target's name,Enter the target's name
-UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.
-UI_DONATION_NEXTEVENT,Next Event:,Next Event:
-UI_DONATION_CURRENTEVENT,Current Event:,Current Event:
-UI_DONATION_MINDONATION,Minimum Donation:,Minimum Donation:
-UI_DONATION_GOAL,Goal,Goal
-UI_DONATION_BUFF,Buff,Buff
-UI_DONATION_DONATOR,Donator,Donator
-UI_DONATION_DONATE,Donate,Donate
-UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.
-UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5 Update Pass
-UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,Attend Madrigal Tournament
-UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,Donate %s penya
-UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,Apply %s Theme
+UI_4TH_ANNIV_PASS,4th Anniversary Pass,4周年記念パス
+UI_EVENT_4TH_ANNIV_FIELDBOSS,4th Anniversary Boss Instance Event,4周年記念ボスインスタンスイベント
+UI_ACHIEVEMENT_LYCANHUNTING_TITLE,Server Hunting Carnival,サーバー討伐カーニバル
+UI_ACHIEVEMENT_LYCANHUNTING_DESC,Hunt monsters in the Kaillun region during the event to reach the goals for each stage! All players on the server can receive rewards every time a goal is achieved!,イベント期間中にカイルルン地域でモンスターを討伐し、各段階の目標を達成しよう！目標達成のたびに、サーバー内の全プレイヤーが報酬を受け取れます！
+UI_APP_DONATION_TIP,Donate Penya to receive server wide buffs!,ペニャを寄付してサーバー全体バフを獲得しよう！
+UI_APP_LORD_TIP,Manage lord skills as the lord.,ロードとしてロードスキルを管理。
+UI_APP_LORD_TARGETNAME,Enter the target's name,対象の名前を入力
+UI_APP_LORD_INFO,Manage the skills and benefits available to you as the Lord of Madrigal! Press any of the following skills to use them.,マドリガルのロードとして使用できるスキルと恩恵を管理しましょう！以下のスキルを押すと使用できます。
+UI_DONATION_NEXTEVENT,Next Event:,次回イベント：
+UI_DONATION_CURRENTEVENT,Current Event:,現在のイベント：
+UI_DONATION_MINDONATION,Minimum Donation:,最小寄付額：
+UI_DONATION_GOAL,Goal,目標
+UI_DONATION_BUFF,Buff,バフ
+UI_DONATION_DONATOR,Donator,寄付者
+UI_DONATION_DONATE,Donate,寄付する
+UI_DONATION_MSG,Enter the amount you want to donate for the #b%s#nb buff. Please note that donation cannot be refunded.,#b%s#nbバフのために寄付したい金額を入力してください。寄付は返金できませんのでご注意ください。
+UI_155UPDATE_PASS,1.5.5 Update Pass,1.5.5アップデートパス
+UI_BATTLEPASS_MISSION_MADRIGALTOURNAMENT,Attend Madrigal Tournament,マドリガルトーナメントに参加
+UI_BATTLEPASS_MISSION_DONATE,Donate %s penya,ペニャ%sを寄付
+UI_BATTLEPASS_MISSION_SETTHEME,Apply %s Theme,%sテーマを適用
 UI_BATTLEPASS_MISSION_USEITEM2,"Use %s, %s","Use %s, %s"
 UI_BATTLEPASS_MISSION_USEITEM3,"Use %s, %s, %s","Use %s, %s, %s"
-UI_DONATION_TOTALDONATION,Total Donation:,Total Donation:
-UI_DONATION_MYDONATION,My Donation:,My Donation:
-UI_DONATION_RANKING,Donation Ranking,Donation Ranking
-UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,Current Lord: #b%s#nb
-UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,Would you like to start the battle?\nEntering will consume an entry attempt.
-UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,Would you like to leave the current floor?
-UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,Would you like to challenge the next floor?
-UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,You’ve defeated the Boss!\nMove on to the next floor!
-UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,You’ve defeated the Boss!
-UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,You’ve failed!
-UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle Floors
-UI_MYSTCASTLE_RANKING,Ranking,Ranking
+UI_DONATION_TOTALDONATION,Total Donation:,総寄付額：
+UI_DONATION_MYDONATION,My Donation:,自分の寄付額：
+UI_DONATION_RANKING,Donation Ranking,寄付ランキング
+UI_DONATION_CURRENTLORD,Current Lord: #b%s#nb,現在のロード：#b%s#nb
+UI_MYSTCASTLE_BATTLE_START,Would you like to start the battle?\nEntering will consume an entry attempt.,戦闘を開始しますか？\n入場すると挑戦回数を1回消費します。
+UI_MYSTCASTLE_BATTLE_LEAVE,Would you like to leave the current floor?,現在の階層から退出しますか？
+UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,次の階層に挑戦しますか？
+UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,ボスを撃破しました！\n次の階層へ進みましょう！
+UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,ボスを撃破しました！
+UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,失敗しました！
+UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle 階層一覧
+UI_MYSTCASTLE_RANKING,Ranking,ランキング
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
-UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\nFloor
-UI_MYSTCASTLE_LIST_CLEAR,Clear,Clear
-UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s Floor BOSS:\n    %s
-UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,Entrance: %s\nMinimum Level: %d\nClear Time: %s
-UI_MYSTCASTLE_PARTY,Party,Party
-UI_MYSTCASTLE_SOLO,Solo,Solo
-UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,Clear Rewards
-UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,Free Entrance Used %d/%d
-UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,Ranking Settlement in progress
-UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,Overall Ranking
-UI_MYSTCASTLE_RANK_JOB,Job Ranking,Job Ranking
-UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),Overall Ranking (Last Week)
-UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),Job Ranking (Last Week)
-UI_MYSTCASTLE_MY_RANKING,My Ranking:,My Ranking:
-UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,My Ranking: No current ranking information.
-UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle Ranking
-UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,Ranking
-UI_MYSTCASTLE_RANK_COL_JOB,Job,Job
-UI_MYSTCASTLE_RANK_COL_NAME,Character Name,Character Name
-UI_MYSTCASTLE_RANK_COL_LEVEL,Level,Level
-UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,Cleared Floors
-UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,Clear Time
-UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle Rewards
-UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,Floor
-UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,Boss
-UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,Reward
-UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,Ranking Rewards by Class
-UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,Quant
-UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),Within Top %d%%\n(Excluding above ranks)
-UI_MYSTCASTLE_REWARD_OTHERS,Others,Others
-UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)","Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)"
-UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,Floor Clear Reward
-UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,Ranking Reward
-UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
-UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,Touch anywhere to type!
+UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\n階
+UI_MYSTCASTLE_LIST_CLEAR,Clear,クリア
+UI_MYSTCASTLE_FLOOR_INFO_BOSS,%s Floor BOSS:\n    %s,%s階 ボス：\n    %s
+UI_MYSTCASTLE_FLOOR_INFO_DETAIL,Entrance: %s\nMinimum Level: %d\nClear Time: %s,入場：%s\n最低レベル：%d\nクリアタイム：%s
+UI_MYSTCASTLE_PARTY,Party,パーティー
+UI_MYSTCASTLE_SOLO,Solo,ソロ
+UI_MYSTCASTLE_CLEAR_REWARD,Clear Rewards,クリア報酬
+UI_MYSTCASTLE_FREE_ENTRANCE_USED,Free Entrance Used %d/%d,無料入場使用回数 %d/%d
+UI_MYSTCASTLE_BLOCK_TIME,Ranking Settlement in progress,ランキング集計中
+UI_MYSTCASTLE_RANK_OVERALL,Overall Ranking,総合ランキング
+UI_MYSTCASTLE_RANK_JOB,Job Ranking,職業別ランキング
+UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),総合ランキング（先週）
+UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),職業別ランキング（先週）
+UI_MYSTCASTLE_MY_RANKING,My Ranking:,自分の順位：
+UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,自分の順位：現在ランキング情報がありません。
+UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle ランキング
+UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,ランキング
+UI_MYSTCASTLE_RANK_COL_JOB,Job,職業
+UI_MYSTCASTLE_RANK_COL_NAME,Character Name,キャラクター名
+UI_MYSTCASTLE_RANK_COL_LEVEL,Level,レベル
+UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,クリア階層数
+UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,クリアタイム
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle 報酬
+UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,階層
+UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,ボス
+UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,報酬
+UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,職業別ランキング報酬
+UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,数量
+UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),上位%d%%以内\n（それ以上の順位を除く）
+UI_MYSTCASTLE_REWARD_OTHERS,Others,その他
+UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)",現在クリアした階層と同じ\nレベルのMysterious Boxを入手\n（最後にクリアした階層が4の\n場合、Mysterious Box Lv2を入手）
+UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,階層クリア報酬
+UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,ランキング報酬
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,入場すると Mysterious Castle リトライクーポンを1枚消費します。続行しますか？
+UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,どこでもタップして入力！
