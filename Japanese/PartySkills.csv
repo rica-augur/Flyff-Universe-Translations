@@ -6,7 +6,7 @@ PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a tar
 PROPTROUPESKILL_TXT_000004,Retreat,リトリート
 PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,団員たちに後退するよう知らせます。[ポイント消費：0]
 PROPTROUPESKILL_TXT_000008,Precision,プリシジョン
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,周囲のパーティーメンバーに応じて、全パーティーメンバーの次の攻撃のクリティカル率が0.5%ずつ増加します。
 PROPTROUPESKILL_TXT_000010,Linked Attack,リンクアタック
 PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,周囲のパーティーメンバーに応じて、パーティーリーダーのダメージが5%ずつ増加します。
 PROPTROUPESKILL_TXT_000012,Lucky Drop,フォーチュンドロップ
