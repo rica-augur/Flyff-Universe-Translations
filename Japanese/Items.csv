@@ -21088,7 +21088,7 @@ PROPITEM_TXT_201161,Spring Picnic Green Set (M),春のピクニックグリー�
 PROPITEM_TXT_201162,The Spring Picnic Green Set for male characters.,男性キャラクター用の春のピクニックグリーンセット
 PROPITEM_TXT_201163,Spring Picnic Green Set (F),春のピクニックグリーンセット(F)
 PROPITEM_TXT_201164,The Spring Picnic Green Set for female characters.,女性キャラクター用の春のピクニックグリーンセット
-PROPITEM_TXT_134677,Violet Peakyturtle Vendor Shop,Violet Peakyturtle Vendor Shop
+PROPITEM_TXT_134677,Violet Peakyturtle Vendor Shop,バイオレットピーキータートルの売り子
 PROPITEM_TXT_827590,Spring Picnic 10% Orange Set,春のピクニック 10%オレンジセット
 PROPITEM_TXT_827591,Spring Picnic Orange Bag,春のピクニックオレンジバッグ
 PROPITEM_TXT_827592,Spring Picnic Orange Hat (M),春のピクニックオレンジハット(M)
@@ -21328,31 +21328,31 @@ PROPITEM_TXT_827825,Shaman Wutangka hair,Shaman Wutangka hair
 PROPITEM_TXT_827826,"A sacred headdress woven with animal fur and adorned with ritual markings. Worn by the shamans of the Wutangka, it channels the primal spirits of The Wilds, granting visions and mystical power.","A sacred headdress woven with animal fur and adorned with ritual markings. Worn by the shamans of the Wutangka, it channels the primal spirits of The Wilds, granting visions and mystical power."
 PROPITEM_TXT_827827,Racoon Red Scarf,Racoon Red Scarf
 PROPITEM_TXT_827828,"A rugged yet cozy red scarf, once worn by daring adventurers braving The Wild. Its warm fabric and rustic charm make it a symbol of both resilience and style.","A rugged yet cozy red scarf, once worn by daring adventurers braving The Wild. Its warm fabric and rustic charm make it a symbol of both resilience and style."
-PROPITEM_TXT_134678,2025 Giant Monster Box Lv1,2025 Giant Monster Box Lv1
-PROPITEM_TXT_134679,2025 Giant Monster Box Lv2,2025 Giant Monster Box Lv2
-PROPITEM_TXT_134680,2025 Giant Monster Box Lv3,2025 Giant Monster Box Lv3
-PROPITEM_TXT_134681,2025 General Monster Box Lv1,2025 General Monster Box Lv1
-PROPITEM_TXT_134682,2025 General Monster Box Lv2,2025 General Monster Box Lv2
-PROPITEM_TXT_134683,2025 General Monster Box Lv3,2025 General Monster Box Lv3
-PROPITEM_TXT_134684,[Event] 2025 Spring Monster Ball Lv1,[Event] 2025 Spring Monster Ball Lv1
-PROPITEM_TXT_134685,[Event] 2025 Spring Monster Ball Lv2,[Event] 2025 Spring Monster Ball Lv2
-PROPITEM_TXT_134686,[Event] 2025 Spring Monster Ball Lv3,[Event] 2025 Spring Monster Ball Lv3
-PROPITEM_TXT_134687,[Event] Chroma Pickaxe,[Event] Chroma Pickaxe
-PROPITEM_TXT_134688,A Pickaxe for an event to use in Ore mining. You can use it to harvest [Event] Easter Egg.,A Pickaxe for an event to use in Ore mining. You can use it to harvest [Event] Easter Egg.
-PROPITEM_TXT_134689,[Event] Easter Egg,[Event] Easter Egg
-PROPITEM_TXT_134690,Event item you have mined. You can use it to obtain [Event] Easter Gift Box.,Event item you have mined. You can use it to obtain [Event] Easter Gift Box.
-PROPITEM_TXT_134691,[Event] Easter Gift Box A,[Event] Easter Gift Box A
-PROPITEM_TXT_134692,"Final Reward for the Easter Event!\nYou can earn Scroll of Production Boost x2, Scroll of Success x3, and Chroma Pickaxe x1","Final Reward for the Easter Event!\nYou can earn Scroll of Production Boost x2, Scroll of Success x3, and Chroma Pickaxe x1"
-PROPITEM_TXT_134693,[Event] Easter Gift Box B,[Event] Easter Gift Box B
-PROPITEM_TXT_134694,"Third Reward for the Easter Event!\nYou can earn Scroll of Multi-Shop x20, Scroll of Resurrection x5, Activation x5, and Spring Buff Lucky Box x5","Third Reward for the Easter Event!\nYou can earn Scroll of Multi-Shop x20, Scroll of Resurrection x5, Activation x5, and Spring Buff Lucky Box x5"
-PROPITEM_TXT_134695,[Event] Easter Gift Box C,[Event] Easter Gift Box C
+PROPITEM_TXT_134678,2025 Giant Monster Box Lv1,2025巨大モンスターボックス Lv1
+PROPITEM_TXT_134679,2025 Giant Monster Box Lv2,2025巨大モンスターボックス Lv2
+PROPITEM_TXT_134680,2025 Giant Monster Box Lv3,2025巨大モンスターボックス Lv3
+PROPITEM_TXT_134681,2025 General Monster Box Lv1,2025将軍モンスターボックス Lv1
+PROPITEM_TXT_134682,2025 General Monster Box Lv2,2025将軍モンスターボックス Lv2
+PROPITEM_TXT_134683,2025 General Monster Box Lv3,2025将軍モンスターボックス Lv3
+PROPITEM_TXT_134684,[Event] 2025 Spring Monster Ball Lv1,[イベント]2025春のモンスターボール Lv1
+PROPITEM_TXT_134685,[Event] 2025 Spring Monster Ball Lv2,[イベント]2025春のモンスターボール Lv2
+PROPITEM_TXT_134686,[Event] 2025 Spring Monster Ball Lv3,[イベント]2025春のモンスターボール Lv3
+PROPITEM_TXT_134687,[Event] Chroma Pickaxe,[イベント]彩色のつるはし
+PROPITEM_TXT_134688,A Pickaxe for an event to use in Ore mining. You can use it to harvest [Event] Easter Egg.,イベント用の鉱石採掘つるはし。[イベント]イースターエッグを収穫するのに使用できます。
+PROPITEM_TXT_134689,[Event] Easter Egg,[イベント]イースターエッグ
+PROPITEM_TXT_134690,Event item you have mined. You can use it to obtain [Event] Easter Gift Box.,採掘して手に入れたイベントアイテム。[イベント]イースターギフトボックスの入手に使用できます。
+PROPITEM_TXT_134691,[Event] Easter Gift Box A,[イベント]イースターギフトボックスA
+PROPITEM_TXT_134692,"Final Reward for the Easter Event!\nYou can earn Scroll of Production Boost x2, Scroll of Success x3, and Chroma Pickaxe x1",イースターイベント最終報酬！\n生産促進の巻物x2、成功の巻物x3、彩色のつるはしx1を獲得できます
+PROPITEM_TXT_134693,[Event] Easter Gift Box B,[イベント]イースターギフトボックスB
+PROPITEM_TXT_134694,"Third Reward for the Easter Event!\nYou can earn Scroll of Multi-Shop x20, Scroll of Resurrection x5, Activation x5, and Spring Buff Lucky Box x5",イースターイベント第3報酬！\nマルチショップの巻物x20、復活の巻物x5、アクティビションx5、スプリングバフラッキーボックスx5を獲得できます
+PROPITEM_TXT_134695,[Event] Easter Gift Box C,[イベント]イースターギフトボックスC
 PROPITEM_TXT_134696,"Second Reward for the Easter Event!\nYou can earn Scroll of Amplification ES x5, Flask Box x10, Upcut Stone x10, and Gold Pill x30",イースターイベントの2回目の報酬！\n戦神の巻物ESx5、秘薬ボックスx10、パワーストーンx10、金の秘薬x30を獲得できます
-PROPITEM_TXT_134697,[Event] Easter Gift Box D,[Event] Easter Gift Box D
-PROPITEM_TXT_134698,"First Reward for the Easter Event!\nYou can earn [Housing] Ordinary Tree Seed 1 Day x5, [Housing] Ordinary Ore Deposit 1 Day x5, [Housing] Ordinary Herb Seed 1 Day x5, Premium Repair Hammer x5, and Spring Buff Lucky Box x5","First Reward for the Easter Event!\nYou can earn [Housing] Ordinary Tree Seed 1 Day x5, [Housing] Ordinary Ore Deposit 1 Day x5, [Housing] Ordinary Herb Seed 1 Day x5, Premium Repair Hammer x5, and Spring Buff Lucky Box x5"
-PROPITEM_TXT_134699,[Event] Easter Gift Box E,[Event] Easter Gift Box E
-PROPITEM_TXT_134700,Daily reward box for Easter. You can obtain 1 item at random.,Daily reward box for Easter. You can obtain 1 item at random.
-PROPITEM_TXT_134701,Chroma Pickaxe,Chroma Pickaxe
-PROPITEM_TXT_134702,A pickaxe that can be used for mining even more ores. Mining success rate: 50%,A pickaxe that can be used for mining even more ores. Mining success rate: 50%
+PROPITEM_TXT_134697,[Event] Easter Gift Box D,[イベント]イースターギフトボックスD
+PROPITEM_TXT_134698,"First Reward for the Easter Event!\nYou can earn [Housing] Ordinary Tree Seed 1 Day x5, [Housing] Ordinary Ore Deposit 1 Day x5, [Housing] Ordinary Herb Seed 1 Day x5, Premium Repair Hammer x5, and Spring Buff Lucky Box x5",イースターイベント最初の報酬！\n[ハウジング]オーディナリーツリーの種 1日x5、[ハウジング]オーディナリー鉱石鉱床 1日x5、[ハウジング]オーディナリーハーブの種 1日x5、プレミアム修理ハンマーx5、スプリングバフラッキーボックスx5を獲得できます
+PROPITEM_TXT_134699,[Event] Easter Gift Box E,[イベント]イースターギフトボックスE
+PROPITEM_TXT_134700,Daily reward box for Easter. You can obtain 1 item at random.,イースターのデイリー報酬ボックス。ランダムで1個のアイテムを入手できます。
+PROPITEM_TXT_134701,Chroma Pickaxe,彩色のつるはし
+PROPITEM_TXT_134702,A pickaxe that can be used for mining even more ores. Mining success rate: 50%,さらに多くの鉱石を採掘できるつるはし。採掘成功率：50%
 PROPITEM_TXT_827829,Ruby Yukata 10% Red Set,ルビー浴衣 10%レッドセット
 PROPITEM_TXT_827830,Ruby Yukata Red Wings,ルビー浴衣レッドウィング
 PROPITEM_TXT_827831,Ruby Yukata Red Sunglasses,ルビー浴衣レッドサングラス
@@ -21853,74 +21853,74 @@ PROPITEM_TXT_828323,Extra Bag (3 days),Extra Bag (3 days)
 PROPITEM_TXT_828324,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 3 days.,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 3 days.
 PROPITEM_TXT_828325,Bank Extra Bag (3 Days),Bank Extra Bag (3 Days)
 PROPITEM_TXT_828326,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time. Lasts 3 days.,Expands the bank space limit by 24 items for current character. You can only use 1 at the same time. Lasts 3 days.
-PROPITEM_TXT_134703,3rd Anniversary Roulette Ticket,3rd Anniversary Roulette Ticket
-PROPITEM_TXT_134704,This is a ticket to spin the 3rd anniversary roulette. Good luck to you.,This is a ticket to spin the 3rd anniversary roulette. Good luck to you.
-PROPITEM_TXT_134705,3rd Anniversary Random Box,3rd Anniversary Random Box
-PROPITEM_TXT_134706,A box that contains many useful items.,A box that contains many useful items.
-PROPITEM_TXT_134707,Concoction (B) Select Box,Concoction (B) Select Box
-PROPITEM_TXT_134708,A lucky box filled with variety Concoction (B) items. You can choose 1 item from it.,A lucky box filled with variety Concoction (B) items. You can choose 1 item from it.
-PROPITEM_TXT_134709,Cut Jade (B) Select Box,Cut Jade (B) Select Box
-PROPITEM_TXT_134710,A lucky box filled with variety Cut Jade (B) items. You can choose 1 item from it.,A lucky box filled with variety Cut Jade (B) items. You can choose 1 item from it.
-PROPITEM_TXT_134711,3rd Anniversary Pass,3rd Anniversary Pass
-PROPITEM_TXT_134712,This purchase will give you access to many advantages until the end of the 3rd Anniversary Pass season,This purchase will give you access to many advantages until the end of the 3rd Anniversary Pass season
-PROPITEM_TXT_134713,3rd Anniversary Egg I,3rd Anniversary Egg I
-PROPITEM_TXT_134714,3rd Anniversary Egg II,3rd Anniversary Egg II
-PROPITEM_TXT_134715,3rd Anniversary Egg III,3rd Anniversary Egg III
-PROPITEM_TXT_134716,3rd Anniversary Egg IV,3rd Anniversary Egg IV
-PROPITEM_TXT_134717,3rd Anniversary Egg V,3rd Anniversary Egg V
-PROPITEM_TXT_134718,3rd Anniversary Egg VI,3rd Anniversary Egg VI
-PROPITEM_TXT_134719,3rd Anniversary Egg VII,3rd Anniversary Egg VII
-PROPITEM_TXT_134720,3rd Anniversary Egg VIII,3rd Anniversary Egg VIII
-PROPITEM_TXT_134721,Silverwork (B) Select Box,Silverwork (B) Select Box
-PROPITEM_TXT_134722,A box containing a silverwork buff item. You can choose 1 item to receive.,A box containing a silverwork buff item. You can choose 1 item to receive.
-PROPITEM_TXT_134723,3rd Anniversary Lucky Box I,3rd Anniversary Lucky Box I
-PROPITEM_TXT_134724,3rd Anniversary Lucky Box II,3rd Anniversary Lucky Box II
-PROPITEM_TXT_134725,3rd Anniversary Lucky Box III,3rd Anniversary Lucky Box III
-PROPITEM_TXT_134726,A box with a gift for our third anniversary. Open it to see what's inside.,A box with a gift for our third anniversary. Open it to see what's inside.
-PROPITEM_TXT_134727,3rd Anniversary Boat,3rd Anniversary Boat
-PROPITEM_TXT_134728,Cake Boat Celebrating 3rd Anniversary,Cake Boat Celebrating 3rd Anniversary
-PROPITEM_TXT_134729,Baby Pang,Baby Pang
-PROPITEM_TXT_134730,Cute Baby Pang that follows its owner around and picks up,Cute Baby Pang that follows its owner around and picks up
-PROPITEM_TXT_134731,Candle Weapon Sword,Candle Weapon Sword
-PROPITEM_TXT_134732,Candle Weapon Axe,Candle Weapon Axe
-PROPITEM_TXT_134733,Candle Weapon Big Sword,Candle Weapon Big Sword
-PROPITEM_TXT_134734,Candle Weapon Big Axe,Candle Weapon Big Axe
-PROPITEM_TXT_134735,Candle Weapon Stick,Candle Weapon Stick
-PROPITEM_TXT_134736,Candle Weapon Knuckle,Candle Weapon Knuckle
-PROPITEM_TXT_134737,Candle Weapon Bow,Candle Weapon Bow
-PROPITEM_TXT_134738,Candle Weapon Yo-Yo,Candle Weapon Yo-Yo
-PROPITEM_TXT_134739,Candle Weapon Staff,Candle Weapon Staff
-PROPITEM_TXT_134740,Candle Weapon Wand,Candle Weapon Wand
-PROPITEM_TXT_134741,Candle Weapon Shield,Candle Weapon Shield
-PROPITEM_TXT_134742,Candle Weapon Force Gem,Candle Weapon Force Gem
-PROPITEM_TXT_134743,Candle Weapon Book,Candle Weapon Book
-PROPITEM_TXT_134744,Candle Weapon Selection Box,Candle Weapon Selection Box
-PROPITEM_TXT_134745,A box containing a Candle Weapon item. You can choose 1 item to receive.,A box containing a Candle Weapon item. You can choose 1 item to receive.
-PROPITEM_TXT_134746,3rd Anniversary Egg Upgrade Ticket,3rd Anniversary Egg Upgrade Ticket
-PROPITEM_TXT_134747,3rd Anniversary Random Box Package,3rd Anniversary Random Box Package
+PROPITEM_TXT_134703,3rd Anniversary Roulette Ticket,3周年記念ルーレットチケット
+PROPITEM_TXT_134704,This is a ticket to spin the 3rd anniversary roulette. Good luck to you.,3周年記念ルーレットを回すためのチケットです。幸運を祈ります。
+PROPITEM_TXT_134705,3rd Anniversary Random Box,3周年記念ランダムボックス
+PROPITEM_TXT_134706,A box that contains many useful items.,便利なアイテムがたくさん入ったボックスです。
+PROPITEM_TXT_134707,Concoction (B) Select Box,調合薬 (B) 選択ボックス
+PROPITEM_TXT_134708,A lucky box filled with variety Concoction (B) items. You can choose 1 item from it.,様々な調合薬 (B) が入ったラッキーボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_134709,Cut Jade (B) Select Box,翡翠 (B) 選択ボックス
+PROPITEM_TXT_134710,A lucky box filled with variety Cut Jade (B) items. You can choose 1 item from it.,様々な翡翠 (B) が入ったラッキーボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_134711,3rd Anniversary Pass,3周年記念パス
+PROPITEM_TXT_134712,This purchase will give you access to many advantages until the end of the 3rd Anniversary Pass season,この購入により、3周年記念パスシーズン終了まで様々な特典が利用可能になります
+PROPITEM_TXT_134713,3rd Anniversary Egg I,3周年記念エッグ I
+PROPITEM_TXT_134714,3rd Anniversary Egg II,3周年記念エッグ II
+PROPITEM_TXT_134715,3rd Anniversary Egg III,3周年記念エッグ III
+PROPITEM_TXT_134716,3rd Anniversary Egg IV,3周年記念エッグ IV
+PROPITEM_TXT_134717,3rd Anniversary Egg V,3周年記念エッグ V
+PROPITEM_TXT_134718,3rd Anniversary Egg VI,3周年記念エッグ VI
+PROPITEM_TXT_134719,3rd Anniversary Egg VII,3周年記念エッグ VII
+PROPITEM_TXT_134720,3rd Anniversary Egg VIII,3周年記念エッグ VIII
+PROPITEM_TXT_134721,Silverwork (B) Select Box,銀細工 (B) 選択ボックス
+PROPITEM_TXT_134722,A box containing a silverwork buff item. You can choose 1 item to receive.,銀細工のバフアイテムが入ったボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_134723,3rd Anniversary Lucky Box I,3周年記念ラッキーボックス I
+PROPITEM_TXT_134724,3rd Anniversary Lucky Box II,3周年記念ラッキーボックス II
+PROPITEM_TXT_134725,3rd Anniversary Lucky Box III,3周年記念ラッキーボックス III
+PROPITEM_TXT_134726,A box with a gift for our third anniversary. Open it to see what's inside.,3周年を記念したギフトが入ったボックスです。開けて中身を確かめてください。
+PROPITEM_TXT_134727,3rd Anniversary Boat,3周年記念ボート
+PROPITEM_TXT_134728,Cake Boat Celebrating 3rd Anniversary,3周年記念を祝うケーキボート
+PROPITEM_TXT_134729,Baby Pang,ベビーパン
+PROPITEM_TXT_134730,Cute Baby Pang that follows its owner around and picks up,主人について回りアイテムを拾ってくれる、かわいいベビーパン
+PROPITEM_TXT_134731,Candle Weapon Sword,キャンドルウェポン ソード
+PROPITEM_TXT_134732,Candle Weapon Axe,キャンドルウェポン アックス
+PROPITEM_TXT_134733,Candle Weapon Big Sword,キャンドルウェポン ビッグソード
+PROPITEM_TXT_134734,Candle Weapon Big Axe,キャンドルウェポン ビッグアックス
+PROPITEM_TXT_134735,Candle Weapon Stick,キャンドルウェポン スティック
+PROPITEM_TXT_134736,Candle Weapon Knuckle,キャンドルウェポン ナックル
+PROPITEM_TXT_134737,Candle Weapon Bow,キャンドルウェポン ボウ
+PROPITEM_TXT_134738,Candle Weapon Yo-Yo,キャンドルウェポン ヨーヨー
+PROPITEM_TXT_134739,Candle Weapon Staff,キャンドルウェポン スタッフ
+PROPITEM_TXT_134740,Candle Weapon Wand,キャンドルウェポン ワンド
+PROPITEM_TXT_134741,Candle Weapon Shield,キャンドルウェポン シールド
+PROPITEM_TXT_134742,Candle Weapon Force Gem,キャンドルウェポン フォースジェム
+PROPITEM_TXT_134743,Candle Weapon Book,キャンドルウェポン ブック
+PROPITEM_TXT_134744,Candle Weapon Selection Box,キャンドルウェポン選択ボックス
+PROPITEM_TXT_134745,A box containing a Candle Weapon item. You can choose 1 item to receive.,キャンドルウェポンアイテムが入ったボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_134746,3rd Anniversary Egg Upgrade Ticket,3周年記念エッグアップグレードチケット
+PROPITEM_TXT_134747,3rd Anniversary Random Box Package,3周年記念ランダムボックスパッケージ
 PROPITEM_TXT_134748,"A package containing 1X 3rd Anniversary Roulette Ticket, 1X 3rd Anniversary Random Box.\nAll items are Soul-Linked.",3周年記念ルーレットチケットx1、3周年記念ランダムボックスx1が含まれたパッケージ。\n全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_134749,3rd Anniversary Infinite Skill Package,3rd Anniversary Infinite Skill Package
+PROPITEM_TXT_134749,3rd Anniversary Infinite Skill Package,3周年記念インフィニットスキルパッケージ
 PROPITEM_TXT_134750,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 10X Vital Drink X or Refresher Hold, 10X Activation.\nAll items are Soul-Linked.",3周年記念ルーレットチケットx2、3周年記念エッグIx3、スタミナドリンクX または 魔力ドリンクゴールドx10、アクティビションx10が含まれたパッケージ。\n全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_134751,3rd Anniversary Upgrade Package,3rd Anniversary Upgrade Package
+PROPITEM_TXT_134751,3rd Anniversary Upgrade Package,3周年記念アップグレードパッケージ
 PROPITEM_TXT_134752,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 5X Smelting Scroll Box, 2X Scroll of Weapon Bonus, 6X Stat Scroll Box.\nAll items are Soul-Linked.",3周年記念ルーレットチケットx2、3周年記念エッグIx3、精錬編の巻物ボックスx5、武器ボーナスの巻物x2、ステータススクロールボックスx6が含まれたパッケージ。\n全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_134753,Mechamochi Box,Mechamochi Box
-PROPITEM_TXT_134754,A reward found on a Mecamochi! Open it before the end of the event period,A reward found on a Mecamochi! Open it before the end of the event period
-PROPITEM_TXT_134755,I am PANG!,I am PANG!
-PROPITEM_TXT_134757,I am PANG! (M),I am PANG! (M)
+PROPITEM_TXT_134753,Mechamochi Box,モコモチボックス
+PROPITEM_TXT_134754,A reward found on a Mecamochi! Open it before the end of the event period,モコモチから見つかった報酬！イベント期間終了前に開けてください
+PROPITEM_TXT_134755,I am PANG!,アイアムパン！
+PROPITEM_TXT_134757,I am PANG! (M),アイアムパン！(M)
 PROPITEM_TXT_134758,I am PANG! Set for male characters.,男性キャラクター用のアイム・パン！セット
-PROPITEM_TXT_134759,I am PANG! (F),I am PANG! (F)
+PROPITEM_TXT_134759,I am PANG! (F),アイアムパン！(F)
 PROPITEM_TXT_134760,I am PANG! Set for female characters.,女性キャラクター用のアイム・パン！セット
-PROPITEM_TXT_134761,I am PANG! Cap (M),I am PANG! Cap (M)
-PROPITEM_TXT_134762,I am PANG! Suit (M),I am PANG! Suit (M)
-PROPITEM_TXT_134763,I am PANG! Shoes (M),I am PANG! Shoes (M)
-PROPITEM_TXT_134764,I am PANG! Hands (M),I am PANG! Hands (M)
-PROPITEM_TXT_134765,I am PANG! Cap (F),I am PANG! Cap (F)
-PROPITEM_TXT_134766,I am PANG! Suit (F),I am PANG! Suit (F)
-PROPITEM_TXT_134767,I am PANG! Shoes (F),I am PANG! Shoes (F)
-PROPITEM_TXT_134768,I am PANG! Hands (F),I am PANG! Hands (F)
-PROPITEM_TXT_134769,"Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful.","Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful."
-PROPITEM_TXT_134770,"To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it.","To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it."
-PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,Congratulations You've reached the highest level. Break the eggs and get your rewards.
+PROPITEM_TXT_134761,I am PANG! Cap (M),アイアムパン！キャップ(M)
+PROPITEM_TXT_134762,I am PANG! Suit (M),アイアムパン！スーツ(M)
+PROPITEM_TXT_134763,I am PANG! Shoes (M),アイアムパン！シューズ(M)
+PROPITEM_TXT_134764,I am PANG! Hands (M),アイアムパン！グローブ(M)
+PROPITEM_TXT_134765,I am PANG! Cap (F),アイアムパン！キャップ(F)
+PROPITEM_TXT_134766,I am PANG! Suit (F),アイアムパン！スーツ(F)
+PROPITEM_TXT_134767,I am PANG! Shoes (F),アイアムパン！シューズ(F)
+PROPITEM_TXT_134768,I am PANG! Hands (F),アイアムパン！グローブ(F)
+PROPITEM_TXT_134769,"Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful.",3周年記念エッグのアップグレードに必要なアイテムです。\n失敗するとドロップまたは破壊されることがあるのでご注意ください。
+PROPITEM_TXT_134770,"To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it.",次のレベルにアップグレードするには、3周年記念エッグアップグレードチケットが必要です。\nこれ以上アップグレードしたくない場合は、開封してください。
+PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,おめでとうございます。最高レベルに到達しました。エッグを割って報酬を受け取ってください。
 PROPITEM_TXT_900010,Easter Bunny 2025 10% Pink Set,イースターバニー2025 10%ピンクセット
 PROPITEM_TXT_900011,Easter Bunny 2025 Pink Backpack,イースターバニー2025ピンクバックパック
 PROPITEM_TXT_900012,Easter Bunny 2025 Pink Band-aid,イースターバニー2025ピンクバンドエイド
@@ -22387,44 +22387,44 @@ PROPITEM_TXT_900474,3rd Anniversary Egg Upgrade Package,3rd Anniversary Egg Upgr
 PROPITEM_TXT_900475,A package containing 30x 3rd Anniversary Egg I and 200x Anniversary Egg Upgrade Ticket. All items are also linked.,3周年記念エッグIx30、記念エッグアップグレードチケットx200が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900476,Revolutionary Secret Journal,Revolutionary Secret Journal
 PROPITEM_TXT_900477,*Quest Start Item* A secret journal cherished by the revolutionary. Use it to reveal their goals.\n*Deleted after the event ends on July 24.,*Quest Start Item* A secret journal cherished by the revolutionary. Use it to reveal their goals.\n*Deleted after the event ends on July 24.
-PROPITEM_TXT_134774,Secret Letter,Secret Letter
-PROPITEM_TXT_134775,"Dropped by monsters. When used, grants a random alphabet item.","Dropped by monsters. When used, grants a random alphabet item."
-PROPITEM_TXT_134776,Letter Bag,Letter Bag
-PROPITEM_TXT_134777,"Stores only items obtained from ""Secret Letter"". After the event ends, only item retrieval is available.","Stores only items obtained from ""Secret Letter"". After the event ends, only item retrieval is available."
-PROPITEM_TXT_134778,Torn Letter A,Torn Letter A
-PROPITEM_TXT_134779,"Received at random from ""Secret Letter"". Faintly marked with ""A"".","Received at random from ""Secret Letter"". Faintly marked with ""A""."
-PROPITEM_TXT_134780,Torn Letter B,Torn Letter B
-PROPITEM_TXT_134781,"Received at random from ""Secret Letter"". Faintly marked with ""B"".","Received at random from ""Secret Letter"". Faintly marked with ""B""."
-PROPITEM_TXT_134782,Torn Letter C,Torn Letter C
-PROPITEM_TXT_134783,"Received at random from ""Secret Letter"". Faintly marked with ""C"".","Received at random from ""Secret Letter"". Faintly marked with ""C""."
-PROPITEM_TXT_134784,Torn Letter D,Torn Letter D
-PROPITEM_TXT_134785,"Received at random from ""Secret Letter"". Faintly marked with ""D"".","Received at random from ""Secret Letter"". Faintly marked with ""D""."
-PROPITEM_TXT_134786,Torn Letter E,Torn Letter E
-PROPITEM_TXT_134787,"Received at random from ""Secret Letter"". Faintly marked with ""E"".","Received at random from ""Secret Letter"". Faintly marked with ""E""."
-PROPITEM_TXT_134788,Torn Letter I,Torn Letter I
-PROPITEM_TXT_134789,"Received at random from ""Secret Letter"". Faintly marked with ""I"".","Received at random from ""Secret Letter"". Faintly marked with ""I""."
-PROPITEM_TXT_134790,Torn Letter L,Torn Letter L
-PROPITEM_TXT_134791,"Received at random from ""Secret Letter"". Faintly marked with ""L"".","Received at random from ""Secret Letter"". Faintly marked with ""L""."
-PROPITEM_TXT_134792,Torn Letter N,Torn Letter N
-PROPITEM_TXT_134793,"Received at random from ""Secret Letter"". Faintly marked with ""N"".","Received at random from ""Secret Letter"". Faintly marked with ""N""."
-PROPITEM_TXT_134794,Torn Letter P,Torn Letter P
-PROPITEM_TXT_134795,"Received at random from ""Secret Letter"". Faintly marked with ""P"".","Received at random from ""Secret Letter"". Faintly marked with ""P""."
-PROPITEM_TXT_134796,Torn Letter S,Torn Letter S
-PROPITEM_TXT_134797,"Received at random from ""Secret Letter"". Faintly marked with ""S"".","Received at random from ""Secret Letter"". Faintly marked with ""S""."
-PROPITEM_TXT_134798,Torn Letter T,Torn Letter T
-PROPITEM_TXT_134799,"Received at random from ""Secret Letter"". Faintly marked with ""T"".","Received at random from ""Secret Letter"". Faintly marked with ""T""."
-PROPITEM_TXT_134800,Undamaged Letter,Undamaged Letter
-PROPITEM_TXT_134801,"Received at random from ""Secret Letter"". Can replace other alphabet items.","Received at random from ""Secret Letter"". Can replace other alphabet items."
-PROPITEM_TXT_134802,[Event] Revolution Supply Box A,[Event] Revolution Supply Box A
+PROPITEM_TXT_134774,Secret Letter,秘密の手紙
+PROPITEM_TXT_134775,"Dropped by monsters. When used, grants a random alphabet item.",モンスターがドロップします。使用するとランダムでアルファベットアイテムを獲得できます。
+PROPITEM_TXT_134776,Letter Bag,手紙袋
+PROPITEM_TXT_134777,"Stores only items obtained from ""Secret Letter"". After the event ends, only item retrieval is available.",「秘密の手紙」から入手したアイテムのみを保管します。イベント終了後はアイテムの取り出しのみ可能です。
+PROPITEM_TXT_134778,Torn Letter A,破れた手紙 A
+PROPITEM_TXT_134779,"Received at random from ""Secret Letter"". Faintly marked with ""A"".",「秘密の手紙」からランダムで入手。「A」の文字がかすかに見える。
+PROPITEM_TXT_134780,Torn Letter B,破れた手紙 B
+PROPITEM_TXT_134781,"Received at random from ""Secret Letter"". Faintly marked with ""B"".",「秘密の手紙」からランダムで入手。「B」の文字がかすかに見える。
+PROPITEM_TXT_134782,Torn Letter C,破れた手紙 C
+PROPITEM_TXT_134783,"Received at random from ""Secret Letter"". Faintly marked with ""C"".",「秘密の手紙」からランダムで入手。「C」の文字がかすかに見える。
+PROPITEM_TXT_134784,Torn Letter D,破れた手紙 D
+PROPITEM_TXT_134785,"Received at random from ""Secret Letter"". Faintly marked with ""D"".",「秘密の手紙」からランダムで入手。「D」の文字がかすかに見える。
+PROPITEM_TXT_134786,Torn Letter E,破れた手紙 E
+PROPITEM_TXT_134787,"Received at random from ""Secret Letter"". Faintly marked with ""E"".",「秘密の手紙」からランダムで入手。「E」の文字がかすかに見える。
+PROPITEM_TXT_134788,Torn Letter I,破れた手紙 I
+PROPITEM_TXT_134789,"Received at random from ""Secret Letter"". Faintly marked with ""I"".",「秘密の手紙」からランダムで入手。「I」の文字がかすかに見える。
+PROPITEM_TXT_134790,Torn Letter L,破れた手紙 L
+PROPITEM_TXT_134791,"Received at random from ""Secret Letter"". Faintly marked with ""L"".",「秘密の手紙」からランダムで入手。「L」の文字がかすかに見える。
+PROPITEM_TXT_134792,Torn Letter N,破れた手紙 N
+PROPITEM_TXT_134793,"Received at random from ""Secret Letter"". Faintly marked with ""N"".",「秘密の手紙」からランダムで入手。「N」の文字がかすかに見える。
+PROPITEM_TXT_134794,Torn Letter P,破れた手紙 P
+PROPITEM_TXT_134795,"Received at random from ""Secret Letter"". Faintly marked with ""P"".",「秘密の手紙」からランダムで入手。「P」の文字がかすかに見える。
+PROPITEM_TXT_134796,Torn Letter S,破れた手紙 S
+PROPITEM_TXT_134797,"Received at random from ""Secret Letter"". Faintly marked with ""S"".",「秘密の手紙」からランダムで入手。「S」の文字がかすかに見える。
+PROPITEM_TXT_134798,Torn Letter T,破れた手紙 T
+PROPITEM_TXT_134799,"Received at random from ""Secret Letter"". Faintly marked with ""T"".",「秘密の手紙」からランダムで入手。「T」の文字がかすかに見える。
+PROPITEM_TXT_134800,Undamaged Letter,無傷の手紙
+PROPITEM_TXT_134801,"Received at random from ""Secret Letter"". Can replace other alphabet items.",「秘密の手紙」からランダムで入手。他のアルファベットアイテムの代わりに使用できます。
+PROPITEM_TXT_134802,[Event] Revolution Supply Box A,[イベント]レボリューション物資ボックスA
 PROPITEM_TXT_134803,"This is the final reward of the Revolutionary Secret Journal event!\nYou can obtain: Revolutionary Random Box x2, Blessing of the Goddess x1, Amplification ES Scroll Select Box x1.",「革命の秘密の日記」イベントの最終報酬です！\n獲得できるアイテム：革命ランダムボックスx2、女神の祝福x1、戦神の巻物ES選択ボックスx1。
-PROPITEM_TXT_134804,[Event] Revolution Supply Box B,[Event] Revolution Supply Box B
-PROPITEM_TXT_134805,"This is the second reward of the Revolutionary Secret Journal event!\nYou can obtain: Feed Bag (1 Day) x1, Potion Box x1, Scroll of General Shop x1, Wandering Merchant Refresh Ticket x5.","This is the second reward of the Revolutionary Secret Journal event!\nYou can obtain: Feed Bag (1 Day) x1, Potion Box x1, Scroll of General Shop x1, Wandering Merchant Refresh Ticket x5."
-PROPITEM_TXT_134806,[Event] Revolution Supply Box C,[Event] Revolution Supply Box C
+PROPITEM_TXT_134804,[Event] Revolution Supply Box B,[イベント]レボリューション物資ボックスB
+PROPITEM_TXT_134805,"This is the second reward of the Revolutionary Secret Journal event!\nYou can obtain: Feed Bag (1 Day) x1, Potion Box x1, Scroll of General Shop x1, Wandering Merchant Refresh Ticket x5.",レボリューション秘密の日誌イベントの第2報酬です！\nフィードバッグ(1日)x1、ポーションボックスx1、雑貨店の巻物x1、行商人リフレッシュチケットx5を獲得できます。
+PROPITEM_TXT_134806,[Event] Revolution Supply Box C,[イベント]レボリューション物資ボックスC
 PROPITEM_TXT_134807,"This is the first reward of the Revolutionary Secret Journal event!\nYou can obtain: Upcut Stone x1, Grilled Eel x1, Scroll of Amplification ES x1, Scroll of Food Shop x3.",「革命の秘密の日記」イベントの1回目の報酬です！\n獲得できるアイテム：パワーストーンx1、グリルド・イールx1、戦神の巻物ESx1、食料品店の巻物x3。
-PROPITEM_TXT_134808,[Event] Revolution Random Box,[Event] Revolution Random Box
-PROPITEM_TXT_134809,This is a random box received for completing all of the Revolutionary's quests.\nYou can obtain one random item from a variety of options.,This is a random box received for completing all of the Revolutionary's quests.\nYou can obtain one random item from a variety of options.
-PROPITEM_TXT_134810,[Event] Revolutionary’s Gift Box,[Event] Revolutionary’s Gift Box
-PROPITEM_TXT_134811,This is a random box obtainable from the Revolutionary Supply Box A. You can obtain one random item from a variety of options.,This is a random box obtainable from the Revolutionary Supply Box A. You can obtain one random item from a variety of options.
+PROPITEM_TXT_134808,[Event] Revolution Random Box,[イベント]レボリューションランダムボックス
+PROPITEM_TXT_134809,This is a random box received for completing all of the Revolutionary's quests.\nYou can obtain one random item from a variety of options.,レボリューショナリーのクエストを全て完了すると受け取れるランダムボックスです。\n様々なアイテムの中からランダムで1つ入手できます。
+PROPITEM_TXT_134810,[Event] Revolutionary’s Gift Box,[イベント]レボリューショナリーのギフトボックス
+PROPITEM_TXT_134811,This is a random box obtainable from the Revolutionary Supply Box A. You can obtain one random item from a variety of options.,レボリューション物資ボックスAから入手できるランダムボックスです。様々なアイテムの中からランダムで1つ入手できます。
 PROPITEM_TXT_900588,Orange Flumos,Orange Flumos
 PROPITEM_TXT_900589,"A tiny obsidian plush sparked by ancient flame. Silent but loyal, Flumos follows his master and picks up everything in his path.","A tiny obsidian plush sparked by ancient flame. Silent but loyal, Flumos follows his master and picks up everything in his path."
 PROPITEM_TXT_900590,Purple Flumos,Purple Flumos
@@ -22548,8 +22548,8 @@ PROPITEM_TXT_900709,Obsidian Flame 2% Black Set (F),オブシディアンフレ�
 PROPITEM_TXT_900710,The Obsidian Flame 2% Black Set for female characters.,女性キャラクター用のオブシディアンフレイム 2%ブラックセット
 PROPITEM_TXT_900711,Obsidian Flame Costume Lucky Box,オブシディアンフレイムコスチュームラッキーボックス
 PROPITEM_TXT_900712,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_134772,[Event] Experiment Material Box,[Event] Experiment Material Box
-PROPITEM_TXT_134773,"A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients.","A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients."
+PROPITEM_TXT_134772,[Event] Experiment Material Box,[イベント]実験材料ボックス
+PROPITEM_TXT_134773,"A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients.",実験に必要な材料がたくさん入ったボックスです。町長に届けてください。町長に渡さず自分で開けると、良い材料が手に入るかもしれません。
 PROPITEM_TXT_900713,Obsidian Flame Orange Sword,オブシディアンフレイムオレンジソード
 PROPITEM_TXT_900714,Obsidian Flame Orange Axe,オブシディアンフレイムオレンジアクス
 PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,オブシディアンフレイムオレンジビッグソード
@@ -23243,14 +23243,14 @@ PROPITEM_TXT_901403,Rose Pink Yukata (M) Costume Set,うさうさ浴衣(ロー�
 PROPITEM_TXT_901404,The Rose Pink Yukata Set for male characters.,男の子用のうさうさ浴衣(ローズピンク)セット
 PROPITEM_TXT_901405,Rose Pink Yukata (F) Costume Set,うさうさ浴衣(ローズピンク)コスチュームセット(女の子用)
 PROPITEM_TXT_901406,The Rose Pink Yukata Set for female characters.,女の子用のうさうさ浴衣(ローズピンク)セット
-PROPITEM_TXT_134812,FWC Coin,FWC Coin
-PROPITEM_TXT_134813,Betting currency,Betting currency
-PROPITEM_TXT_134814,2025 FWC Championship Pass,2025 FWC Championship Pass
-PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season
-PROPITEM_TXT_134816,FWC Bonus Playtime Coupon,FWC Bonus Playtime Coupon
-PROPITEM_TXT_134817,Unlocks bonus FWC playtime rewards. Can only be used once per day.,Unlocks bonus FWC playtime rewards. Can only be used once per day.
-PROPITEM_TXT_134818,Blessing of the FWC coin,Blessing of the FWC coin
-PROPITEM_TXT_134819,Increased probability of FWC Coin appearance by +1~15%,Increased probability of FWC Coin appearance by +1~15%
+PROPITEM_TXT_134812,FWC Coin,FWCコイン
+PROPITEM_TXT_134813,Betting currency,賭け通貨
+PROPITEM_TXT_134814,2025 FWC Championship Pass,2025 FWCチャンピオンシップパス
+PROPITEM_TXT_134815,This purchase will give you access to many advantages until the end of the 2025 FWC Championship Pass season,この購入により、2025 FWCチャンピオンシップパスシーズン終了まで様々な特典が利用可能になります
+PROPITEM_TXT_134816,FWC Bonus Playtime Coupon,FWCボーナスプレイタイムクーポン
+PROPITEM_TXT_134817,Unlocks bonus FWC playtime rewards. Can only be used once per day.,FWCボーナスプレイタイム報酬を解放します。1日1回のみ使用可能です。
+PROPITEM_TXT_134818,Blessing of the FWC coin,FWCコインの祝福
+PROPITEM_TXT_134819,Increased probability of FWC Coin appearance by +1~15%,FWCコインの出現確率が+1～15%上昇します
 PROPITEM_TXT_901407,Nobility 10% Blue Set,貴族 10%ブルーセット
 PROPITEM_TXT_901408,Nobility Blue Cloak,貴族ブルーマント
 PROPITEM_TXT_901409,Nobility Blue Hat (M),貴族ブルーハット(M)
@@ -23354,34 +23354,34 @@ PROPITEM_TXT_901506,Autumn Buff Lucky Box,Autumn Buff Lucky Box
 PROPITEM_TXT_901507,"This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple.","This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple."
 PROPITEM_TXT_901508,Autumn Harvesting Pack,Autumn Harvesting Pack
 PROPITEM_TXT_901509,"A package containing 20x Autumn Buff Lucky Box, 5x Scroll of Amplification, 5x Flask Box and 5x Vital Drink X or Refresher Hold. All items are also linked.",オータムバフラッキーボックスx20、戦神の巻物x5、秘薬ボックスx5、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_134821,FWC Snack Select Box,FWC Snack Select Box
-PROPITEM_TXT_134822,A Select Box filled with FWC snack items. You can choose 1 item from it,A Select Box filled with FWC snack items. You can choose 1 item from it
-PROPITEM_TXT_134823,2025 FWC PopCorn Select box,2025 FWC PopCorn Select box
-PROPITEM_TXT_134824,A Select Box filled with variety FWC buff items. You can choose 1 item from it,A Select Box filled with variety FWC buff items. You can choose 1 item from it
-PROPITEM_TXT_134825,FWC Red Hot Fries,FWC Red Hot Fries
+PROPITEM_TXT_134821,FWC Snack Select Box,FWCスナック選択ボックス
+PROPITEM_TXT_134822,A Select Box filled with FWC snack items. You can choose 1 item from it,FWCスナックアイテムが入った選択ボックスです。1つ選んで受け取れます
+PROPITEM_TXT_134823,2025 FWC PopCorn Select box,2025 FWCポップコーン選択ボックス
+PROPITEM_TXT_134824,A Select Box filled with variety FWC buff items. You can choose 1 item from it,様々なFWCバフアイテムが入った選択ボックスです。1つ選んで受け取れます
+PROPITEM_TXT_134825,FWC Red Hot Fries,FWCレッドホットフライ
 PROPITEM_TXT_134826,Recovers 9999 HP,"HPが9,999回復するハイパーな食べ物"
-PROPITEM_TXT_134827,FWC BBQ Fries,FWC BBQ Fries
+PROPITEM_TXT_134827,FWC BBQ Fries,FWC BBQフライ
 PROPITEM_TXT_134828,Recovers 9999 FP,"FPが9,999回復するハイパーな食べ物"
-PROPITEM_TXT_134829,FWC Sparkling Lemon Water,FWC Sparkling Lemon Water
+PROPITEM_TXT_134829,FWC Sparkling Lemon Water,FWCスパークリングレモンウォーター
 PROPITEM_TXT_134830,Recovers 9999 MP,"MPが9,999回復するハイパーな食べ物"
-PROPITEM_TXT_134831,FWC Special combo,FWC Special combo
-PROPITEM_TXT_134832,20% HP recovered upon use,20% HP recovered upon use
-PROPITEM_TXT_134833,2025 FWC Red PopCorn,2025 FWC Red PopCorn
-PROPITEM_TXT_134834,This 2025 FWC Red PopCorn will grant you +25 STR for 30 minutes.,This 2025 FWC Red PopCorn will grant you +25 STR for 30 minutes.
-PROPITEM_TXT_134835,2025 FWC Green PopCorn,2025 FWC Green PopCorn
-PROPITEM_TXT_134836,This 2025 FWC Green PopCorn will grant you +25 DEX for 30 minutes.,This 2025 FWC Green PopCorn will grant you +25 DEX for 30 minutes.
-PROPITEM_TXT_134837,2025 FWC Blue PopCorn,2025 FWC Blue PopCorn
-PROPITEM_TXT_134838,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 minutes.,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 minutes.
-PROPITEM_TXT_134839,2025 FWC Yellow PopCorn,2025 FWC Yellow PopCorn
-PROPITEM_TXT_134840,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes.,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes.
-PROPITEM_TXT_134841,Fortune Pang,Fortune Pang
-PROPITEM_TXT_134842,Pick up pet,Pick up pet
+PROPITEM_TXT_134831,FWC Special combo,FWCスペシャルコンボ
+PROPITEM_TXT_134832,20% HP recovered upon use,使用するとHPが20%回復
+PROPITEM_TXT_134833,2025 FWC Red PopCorn,2025 FWCレッドポップコーン
+PROPITEM_TXT_134834,This 2025 FWC Red PopCorn will grant you +25 STR for 30 minutes.,この2025 FWCレッドポップコーンは、30分間力+25を付与します。
+PROPITEM_TXT_134835,2025 FWC Green PopCorn,2025 FWCグリーンポップコーン
+PROPITEM_TXT_134836,This 2025 FWC Green PopCorn will grant you +25 DEX for 30 minutes.,この2025 FWCグリーンポップコーンは、30分間敏捷+25を付与します。
+PROPITEM_TXT_134837,2025 FWC Blue PopCorn,2025 FWCブルーポップコーン
+PROPITEM_TXT_134838,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 minutes.,この2025 FWCブルーポップコーンは、30分間知能+25を付与します。
+PROPITEM_TXT_134839,2025 FWC Yellow PopCorn,2025 FWCイエローポップコーン
+PROPITEM_TXT_134840,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes.,この2025 FWCイエローポップコーンは、30分間体力+25を付与します。
+PROPITEM_TXT_134841,Fortune Pang,フォーチュンパン
+PROPITEM_TXT_134842,Pick up pet,ピックアップペット
 PROPITEM_TXT_134843,Obsidian Flame Weapon Skin Select Box,オブシディアンフレイムウェポンスキンセレクトボックス
-PROPITEM_TXT_134844,Pick your favorite colour from the Obsidian Flame weapon collection.,Pick your favorite colour from the Obsidian Flame weapon collection.
-PROPITEM_TXT_134845,Autumn Upgrade Package A,Autumn Upgrade Package A
+PROPITEM_TXT_134844,Pick your favorite colour from the Obsidian Flame weapon collection.,オブシディアンフレイム武器コレクションからお好きな色を選んでください。
+PROPITEM_TXT_134845,Autumn Upgrade Package A,オータムアップグレードパッケージA
 PROPITEM_TXT_134846,"A package containing 20x Scroll of SProtect, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.",鍛冶屋の心得・精錬編x20、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_134847,Champion Coin,Champion Coin
-PROPITEM_TXT_134848,Prize exchange currency,Prize exchange currency
+PROPITEM_TXT_134847,Champion Coin,チャンピオンコイン
+PROPITEM_TXT_134848,Prize exchange currency,賞品交換通貨
 PROPITEM_TXT_901510,Firefighter 2025 10% Orange Set,消防士2025 10%オレンジセット
 PROPITEM_TXT_901511,Firefighter 2025 Orange Oxygen tank,消防士2025オレンジ酸素タンク
 PROPITEM_TXT_901512,Firefighter 2025 Orange Hat (M),消防士2025オレンジハット(M)
@@ -24007,44 +24007,44 @@ PROPITEM_TXT_902131,Orange Spelly,Orange Spelly
 PROPITEM_TXT_902132,Blue Spelly,Blue Spelly
 PROPITEM_TXT_902133,Purple Spelly,Purple Spelly
 PROPITEM_TXT_902134,"Spelly tried to cast a spell once… now it floats with balloons instead. It may not be the best wizard, but it sure knows how to fly! Maximum Speed: 64 km/h.","Spelly tried to cast a spell once… now it floats with balloons instead. It may not be the best wizard, but it sure knows how to fly! Maximum Speed: 64 km/h."
-PROPITEM_TXT_134849,[Event] Halloween Dungeon Lucky Box,[Event] Halloween Dungeon Lucky Box
-PROPITEM_TXT_134850,A reward from the 2025 Halloween event dungeon!,A reward from the 2025 Halloween event dungeon!
-PROPITEM_TXT_134851,Longwing Vendor Shop,Longwing Vendor Shop
-PROPITEM_TXT_134852,This cute Enchanted Longwing manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),This cute Enchanted Longwing manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days)
-PROPITEM_TXT_134853,2025 FWC Flame Bilari Helmet (F),2025 FWC Flame Bilari Helmet (F)
+PROPITEM_TXT_134849,[Event] Halloween Dungeon Lucky Box,[イベント]ハロウィンダンジョンラッキーボックス
+PROPITEM_TXT_134850,A reward from the 2025 Halloween event dungeon!,2025ハロウィンイベントダンジョンからの報酬！
+PROPITEM_TXT_134851,Longwing Vendor Shop,ロングウィングの売り子
+PROPITEM_TXT_134852,This cute Enchanted Longwing manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),このかわいいエンチャントされたロングウィングは、あなたの代わりに個人商店を開いてくれます。使用後はダブルクリックでショップを閉じることができ、アイテムが戻ってきます。(7日間)
+PROPITEM_TXT_134853,2025 FWC Flame Bilari Helmet (F),2025 FWCフレイムビラリ ヘルメット(F)
 PROPITEM_TXT_134854,,
-PROPITEM_TXT_134855,2025 FWC Flame Bilari Suit (F),2025 FWC Flame Bilari Suit (F)
+PROPITEM_TXT_134855,2025 FWC Flame Bilari Suit (F),2025 FWCフレイムビラリ スーツ(F)
 PROPITEM_TXT_134856,,
-PROPITEM_TXT_134857,2025 FWC Flame Bilari Gauntlet (F),2025 FWC Flame Bilari Gauntlet (F)
+PROPITEM_TXT_134857,2025 FWC Flame Bilari Gauntlet (F),2025 FWCフレイムビラリ ガントレット(F)
 PROPITEM_TXT_134858,,
-PROPITEM_TXT_134859,2025 FWC Flame Bilari Boots (F),2025 FWC Flame Bilari Boots (F)
+PROPITEM_TXT_134859,2025 FWC Flame Bilari Boots (F),2025 FWCフレイムビラリ ブーツ(F)
 PROPITEM_TXT_134860,,
-PROPITEM_TXT_134861,2025 FWC Flame Bileire Helmet (M),2025 FWC Flame Bileire Helmet (M)
+PROPITEM_TXT_134861,2025 FWC Flame Bileire Helmet (M),2025 FWCフレイムビレイア ヘルメット(M)
 PROPITEM_TXT_134862,,
-PROPITEM_TXT_134863,2025 FWC Flame Bileire Suit (M),2025 FWC Flame Bileire Suit (M)
+PROPITEM_TXT_134863,2025 FWC Flame Bileire Suit (M),2025 FWCフレイムビレイア スーツ(M)
 PROPITEM_TXT_134864,,
-PROPITEM_TXT_134865,2025 FWC Flame Bileire Gauntlet (M),2025 FWC Flame Bileire Gauntlet (M)
+PROPITEM_TXT_134865,2025 FWC Flame Bileire Gauntlet (M),2025 FWCフレイムビレイア ガントレット(M)
 PROPITEM_TXT_134866,,
-PROPITEM_TXT_134867,2025 FWC Flame Bileire Boots (M),2025 FWC Flame Bileire Boots (M)
+PROPITEM_TXT_134867,2025 FWC Flame Bileire Boots (M),2025 FWCフレイムビレイア ブーツ(M)
 PROPITEM_TXT_134868,,
 PROPITEM_TXT_134869,2025 FWC Flame Bilari Costume Set (F),2025FWCフレイムビラリコスチュームセット(F)
 PROPITEM_TXT_134870,The 2025 FWC Flame Bilari Costume Set for female characters.,女性キャラクター用の2025FWCフレイムビラリコスチュームセット
 PROPITEM_TXT_134871,2025 FWC Flame Bileire Costume Set (M),2025FWCフレイムビレイアコスチュームセット(M)
 PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,男性キャラクター用の2025FWCフレイムビレイアコスチュームセット
-PROPITEM_TXT_134873,FWC Red Wings,FWC Red Wings
-PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,2025 FWC Flame Lusaka Sword
-PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,2025 FWC Flame Lusaka Axe
-PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWC Flame Lusaka Big Sword
-PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,2025 FWC Flame Lusaka Big Axe
-PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,2025 FWC Flame Lusaka Stick
-PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,2025 FWC Flame Lusaka Knuckle
-PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,2025 FWC Flame Lusaka Bow
-PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,2025 FWC Flame Lusaka Yo-Yo
-PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,2025 FWC Flame Lusaka Staff
-PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWC Flame Lusaka Wand
-PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWC Flame Lusaka Shield
-PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWC Flame Lusaka Weapon Select Box
-PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,This box contains the 2025 FWC Flame Lusaka Weapons.
+PROPITEM_TXT_134873,FWC Red Wings,FWCレッドウィング
+PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,2025 FWCフレイムルサカの剣
+PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,2025 FWCフレイムルサカの斧
+PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWCフレイムルサカの大剣
+PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,2025 FWCフレイムルサカの両手斧
+PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,2025 FWCフレイムルサカのスティック
+PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,2025 FWCフレイムルサカのナックル
+PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,2025 FWCフレイムルサカの弓
+PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,2025 FWCフレイムルサカのヨーヨー
+PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,2025 FWCフレイムルサカのスタッフ
+PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWCフレイムルサカのワンド
+PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWCフレイムルサカの盾
+PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWCフレイムルサカ武器選択ボックス
+PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,このボックスには2025 FWCフレイムルサカの武器が入っています。
 PROPITEM_TXT_155000,Blinkwing of Eillun,ブリンクウイング（エルリウン）
 PROPITEM_TXT_155001,Teleport to Eillun,エルリウンへ移動できるブリンクウイング
 PROPITEM_TXT_155002,Fragment of ???,???の欠片
@@ -24763,54 +24763,54 @@ PROPITEM_TXT_134947,Revenis Set (F),ブラッディー・エーエンヌセッ�
 PROPITEM_TXT_134948,A package that includes a complete Female Ringmaster Set for level 120.,レベル120用の女性用リングマスターセット一式が含まれたパッケージ。
 PROPITEM_TXT_134949,Revenio Set (M),ブラッディー・エーエンヌセット (M)
 PROPITEM_TXT_134950,A package that includes a complete Male Ringmaster Set for level 120.,レベル120用の男性用リングマスターセット一式が含まれたパッケージ。
-PROPITEM_TXT_134951,Billposter Equipment Set (75),Billposter Equipment Set (75)
-PROPITEM_TXT_134952,Blade Equipment Set (75),Blade Equipment Set (75)
-PROPITEM_TXT_134953,Elementor Equipment Set (75),Elementor Equipment Set (75)
-PROPITEM_TXT_134954,Jester Equipment Set (75),Jester Equipment Set (75)
-PROPITEM_TXT_134955,Knight Equipment Set (75),Knight Equipment Set (75)
-PROPITEM_TXT_134956,Psykeeper Equipment Set (75),Psykeeper Equipment Set (75)
-PROPITEM_TXT_134957,Ranger Equipment Set (75),Ranger Equipment Set (75)
-PROPITEM_TXT_134958,Ringmaster Equipment Set (75),Ringmaster Equipment Set (75)
-PROPITEM_TXT_134959,Billposter Equipment Set (120),Billposter Equipment Set (120)
-PROPITEM_TXT_134960,Blade Equipment Set (120),Blade Equipment Set (120)
-PROPITEM_TXT_134961,Elementor Equipment Set (120),Elementor Equipment Set (120)
-PROPITEM_TXT_134962,Jester Equipment Set (120),Jester Equipment Set (120)
-PROPITEM_TXT_134963,Knight Equipment Set (120),Knight Equipment Set (120)
-PROPITEM_TXT_134964,Psykeeper Equipment Set (120),Psykeeper Equipment Set (120)
-PROPITEM_TXT_134965,Ranger Equipment Set (120),Ranger Equipment Set (120)
-PROPITEM_TXT_134966,Ringmaster Equipment Set (120),Ringmaster Equipment Set (120)
-PROPITEM_TXT_134967,Select which Gender you want to receive,Select which Gender you want to receive
-PROPITEM_TXT_134968,[Limited] Equipment Set Lucky Box,[Limited] Equipment Set Lucky Box
-PROPITEM_TXT_134969,A limited Equipment lucky box. May the odds be ever in your favor!,A limited Equipment lucky box. May the odds be ever in your favor!
-PROPITEM_TXT_134970,[Limited] Weapon Lucky Box,[Limited] Weapon Lucky Box
-PROPITEM_TXT_134971,A limited Weapon lucky box. May the odds be ever in your favor!,A limited Weapon lucky box. May the odds be ever in your favor!
-PROPITEM_TXT_134972,[Limited] Enhancement Lucky Box,[Limited] Enhancement Lucky Box
-PROPITEM_TXT_134973,A limited Enhancement lucky box. May the odds be ever in your favor!,A limited Enhancement lucky box. May the odds be ever in your favor!
-PROPITEM_TXT_134974,Lucky Box Scroll of AProtect (1-100),Lucky Box Scroll of AProtect (1-100)
-PROPITEM_TXT_134975,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.
-PROPITEM_TXT_134976,Lucky Box Scroll of SProtect (1-100),Lucky Box Scroll of SProtect (1-100)
-PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.
-PROPITEM_TXT_134978,Lucky Box Scroll of GProtect (1-100),Lucky Box Scroll of GProtect (1-100)
-PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.
-PROPITEM_TXT_134980,Lucky Box Scroll of EProtect (1-100),Lucky Box Scroll of EProtect (1-100)
-PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.
-PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),Lucky Box Scroll of XProtect (1-100)
-PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.
-PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),Lucky Box Scroll of Ultimate Bonus (1-10)
-PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.
-PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),Lucky Box Scroll of Ultimate Power (1-100)
-PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.
-PROPITEM_TXT_134988,Lucky Box Blessing of the Goddess and the Demon (1-100),Lucky Box Blessing of the Goddess and the Demon (1-100)
-PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.
-PROPITEM_TXT_134990,Cloak of Equilibrium,Cloak of Equilibrium
-PROPITEM_TXT_134991,"A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.","A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only."
-PROPITEM_TXT_134992,Cloak of Ascension,Cloak of Ascension
-PROPITEM_TXT_134993,"A magnificent cloak that grants powerful strength for a limited time. Provides a strong buff that aids in combat and growth. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.","A magnificent cloak that grants powerful strength for a limited time. Provides a strong buff that aids in combat and growth. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only."
+PROPITEM_TXT_134951,Billposter Equipment Set (75),ビルポスター装備セット (75)
+PROPITEM_TXT_134952,Blade Equipment Set (75),ブレード装備セット (75)
+PROPITEM_TXT_134953,Elementor Equipment Set (75),エレメンター装備セット (75)
+PROPITEM_TXT_134954,Jester Equipment Set (75),ジェスター装備セット (75)
+PROPITEM_TXT_134955,Knight Equipment Set (75),ナイト装備セット (75)
+PROPITEM_TXT_134956,Psykeeper Equipment Set (75),サイキーパー装備セット (75)
+PROPITEM_TXT_134957,Ranger Equipment Set (75),レンジャー装備セット (75)
+PROPITEM_TXT_134958,Ringmaster Equipment Set (75),リングマスター装備セット (75)
+PROPITEM_TXT_134959,Billposter Equipment Set (120),ビルポスター装備セット (120)
+PROPITEM_TXT_134960,Blade Equipment Set (120),ブレード装備セット (120)
+PROPITEM_TXT_134961,Elementor Equipment Set (120),エレメンター装備セット (120)
+PROPITEM_TXT_134962,Jester Equipment Set (120),ジェスター装備セット (120)
+PROPITEM_TXT_134963,Knight Equipment Set (120),ナイト装備セット (120)
+PROPITEM_TXT_134964,Psykeeper Equipment Set (120),サイキーパー装備セット (120)
+PROPITEM_TXT_134965,Ranger Equipment Set (120),レンジャー装備セット (120)
+PROPITEM_TXT_134966,Ringmaster Equipment Set (120),リングマスター装備セット (120)
+PROPITEM_TXT_134967,Select which Gender you want to receive,受け取りたい性別を選択してください
+PROPITEM_TXT_134968,[Limited] Equipment Set Lucky Box,[限定]装備ラッキーボックス
+PROPITEM_TXT_134969,A limited Equipment lucky box. May the odds be ever in your favor!,限定の装備ラッキーボックスです。幸運が味方しますように！
+PROPITEM_TXT_134970,[Limited] Weapon Lucky Box,[限定]武器ラッキーボックス
+PROPITEM_TXT_134971,A limited Weapon lucky box. May the odds be ever in your favor!,限定の武器ラッキーボックスです。幸運が味方しますように！
+PROPITEM_TXT_134972,[Limited] Enhancement Lucky Box,[限定]強化ラッキーボックス
+PROPITEM_TXT_134973,A limited Enhancement lucky box. May the odds be ever in your favor!,限定の強化ラッキーボックスです。幸運が味方しますように！
+PROPITEM_TXT_134974,Lucky Box Scroll of AProtect (1-100),ラッキーボックス 鍛冶屋の心得・アクセサリー編の巻物 (1-100)
+PROPITEM_TXT_134975,Opening this box gives you a chance to receive 1 to 100 Scroll of AProtect.,このボックスを開けると、鍛冶屋の心得・アクセサリー編の巻物を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134976,Lucky Box Scroll of SProtect (1-100),ラッキーボックス 鍛冶屋の心得・精錬編の巻物 (1-100)
+PROPITEM_TXT_134977,Opening this box gives you a chance to receive 1 to 100 Scroll of SProtect.,このボックスを開けると、鍛冶屋の心得・精錬編の巻物を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134978,Lucky Box Scroll of GProtect (1-100),ラッキーボックス 鍛冶屋の心得・ソケット作成編の巻物 (1-100)
+PROPITEM_TXT_134979,Opening this box gives you a chance to receive 1 to 100 Scroll of GProtect.,このボックスを開けると、鍛冶屋の心得・ソケット作成編の巻物を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134980,Lucky Box Scroll of EProtect (1-100),ラッキーボックス カード破壊防止の巻物 (1-100)
+PROPITEM_TXT_134981,Opening this box gives you a chance to receive 1 to 100 Scroll of EProtect.,このボックスを開けると、カード破壊防止の巻物を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134982,Lucky Box Scroll of XProtect (1-100),ラッキーボックス 鍛冶屋の心得・アルティマの巻物 (1-100)
+PROPITEM_TXT_134983,Opening this box gives you a chance to receive 1 to 100 Scroll of XProtect.,このボックスを開けると、鍛冶屋の心得・アルティマの巻物を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134984,Lucky Box Scroll of Ultimate Bonus (1-10),ラッキーボックス アルティメットボーナスの巻物 (1-10)
+PROPITEM_TXT_134985,Opening this box gives you a chance to receive 1 to 10 Scroll of Ultimate Bonus.,このボックスを開けると、アルティメットボーナスの巻物を1～10個獲得できるチャンスがあります。
+PROPITEM_TXT_134986,Lucky Box Scroll of Ultimate Power (1-100),ラッキーボックス 究極の力の巻物 (1-100)
+PROPITEM_TXT_134987,Opening this box gives you a chance to receive 1 to 100 Scroll of Ultimate Power.,このボックスを開けると、究極の力の巻物を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134988,Lucky Box Blessing of the Goddess and the Demon (1-100),ラッキーボックス 女神と悪魔の祝福 (1-100)
+PROPITEM_TXT_134989,Opening this box gives you a chance to receive 1 to 100 Blessing of the Goddess or the Demon.,このボックスを開けると、女神または悪魔の祝福を1～100個獲得できるチャンスがあります。
+PROPITEM_TXT_134990,Cloak of Equilibrium,均衡のマント
+PROPITEM_TXT_134991,"A magnificent cloak that grants powerful strength for a limited time. A well-balanced cloak that enhances overall abilities. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.",一定時間、強力な力を与える豪華なマント。全体の能力をバランスよく高めてくれます。このマントのオプションは1.5アップデート以降削除され、見た目だけのコスチュームアイテムとなります。
+PROPITEM_TXT_134992,Cloak of Ascension,昇華のマント
+PROPITEM_TXT_134993,"A magnificent cloak that grants powerful strength for a limited time. Provides a strong buff that aids in combat and growth. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only.",一定時間、強力な力を与える豪華なマント。戦闘や成長を助ける強力なバフを提供します。このマントのオプションは1.5アップデート以降削除され、見た目だけのコスチュームアイテムとなります。
 PROPITEM_TXT_134994,[20~160] Amplification ES Scroll Select Box,[20~160]戦神の巻物ES選択ボックス
 PROPITEM_TXT_134995,Select which Amplification Scroll you want!,欲しい戦神の巻物を選択してください。
-PROPITEM_TXT_134996,Equilibrium Package,Equilibrium Package
+PROPITEM_TXT_134996,Equilibrium Package,均衡のパッケージ
 PROPITEM_TXT_134997,"A package containing 1x Cloak of Equilibrium, 5x Power Scroll, 7x Def-Upcut Stone, 7x Upcut Stone, 6x Elemental Attack Stone Select Box and +6 Elemental Defense Stone Select Box. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.",均衡のマントx1、豪傑のスクロール(B)x5、ディフェンスストーンx7、パワーストーンx7、エレメンタルアタックストーンセレクトボックスx6、エレメンタルディフェンスストーンセレクトボックスx6が含まれたパッケージ。1.5アップデート以降、マントのオプションは削除され、見た目のみのアイテムとなります。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_134998,Ascension Package,Ascension Package
+PROPITEM_TXT_134998,Ascension Package,昇華のパッケージ
 PROPITEM_TXT_134999,"A package containing 20x Scroll of Amplification ES, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.",戦神の巻物ESx20、昇天のマントx1、ピックアップブーストスクロール(7日)x1が含まれたパッケージ。1.5アップデート以降、マントのオプションは削除され、見た目のみのアイテムとなります。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_135000,Advanced Ascension Package,Advanced Ascension Package
 PROPITEM_TXT_135001,"A package containing 1x New Amplification ES Scroll Select Box, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). All items are Soul-Linked.",新・戦神の巻物ES選択ボックスx1、昇天のマントx1、ピックアップブーストスクロール(7日)x1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
