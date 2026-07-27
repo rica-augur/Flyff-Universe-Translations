@@ -24812,7 +24812,7 @@ PROPITEM_TXT_134996,Equilibrium Package,均衡のパッケージ
 PROPITEM_TXT_134997,"A package containing 1x Cloak of Equilibrium, 5x Power Scroll, 7x Def-Upcut Stone, 7x Upcut Stone, 6x Elemental Attack Stone Select Box and +6 Elemental Defense Stone Select Box. The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.",均衡のマントx1、豪傑のスクロール(B)x5、ディフェンスストーンx7、パワーストーンx7、エレメンタルアタックストーンセレクトボックスx6、エレメンタルディフェンスストーンセレクトボックスx6が含まれたパッケージ。1.5アップデート以降、マントのオプションは削除され、見た目のみのアイテムとなります。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_134998,Ascension Package,昇華のパッケージ
 PROPITEM_TXT_134999,"A package containing 20x Scroll of Amplification ES, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). The options on the cloak will be removed after the 1.5 update, leaving them as cosmetic items only. All items are Soul-Linked.",戦神の巻物ESx20、昇天のマントx1、ピックアップブーストスクロール(7日)x1が含まれたパッケージ。1.5アップデート以降、マントのオプションは削除され、見た目のみのアイテムとなります。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_135000,Advanced Ascension Package,Advanced Ascension Package
+PROPITEM_TXT_135000,Advanced Ascension Package,アドバンスド昇天パッケージ
 PROPITEM_TXT_135001,"A package containing 1x New Amplification ES Scroll Select Box, 1x Cloak of Ascension and 1x Scroll of PickUp Boost (7days). All items are Soul-Linked.",新・戦神の巻物ES選択ボックスx1、昇天のマントx1、ピックアップブーストスクロール(7日)x1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_155622,[Event] 2025 Thanksgiving Gift Box,[イベント]2025感謝祭ギフトボックス
 PROPITEM_TXT_155623,Shop Advertisement Random Box,ショップ広告ランダムボックス
@@ -24949,24 +24949,24 @@ PROPITEM_TXT_155823,Scroll of Weapon Bonus (2nd Jobs),武器ボーナスの巻�
 PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,この巻物は武器にランダムで2次職のスキルボーナスを付与します。既にボーナスが付いている場合は上書きされます。
 PROPITEM_TXT_155825,Scroll of Weapon Bonus (3rd Jobs),武器ボーナスの巻物（3次職）
 PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,この巻物は武器にランダムで3次職のスキルボーナスを付与します。既にボーナスが付いている場合は上書きされます。
-PROPITEM_TXT_135002,1.5 Update Pass,1.5 Update Pass
-PROPITEM_TXT_135003,This purchase will give you access to many advantages until the end of the 1.5 Update Pass season,This purchase will give you access to many advantages until the end of the 1.5 Update Pass season
-PROPITEM_TXT_135004,Hellhound,Hellhound
-PROPITEM_TXT_135005,A Hellhound that follows its master around and picks up dropped items,A Hellhound that follows its master around and picks up dropped items
-PROPITEM_TXT_135006,3 Days Scroll of Party Skill,3 Days Scroll of Party Skill
-PROPITEM_TXT_135007,3 Days Scroll of Combined Party Effects,3 Days Scroll of Combined Party Effects
-PROPITEM_TXT_135008,Scroll of Pickup Range (3 days),Scroll of Pickup Range (3 days)
-PROPITEM_TXT_135009,1.5 Update Lucky Box,1.5 Update Lucky Box
-PROPITEM_TXT_135010,Ankou,Ankou
-PROPITEM_TXT_135011,A Ankou that follows its master around and picks up dropped items,A Ankou that follows its master around and picks up dropped items
-PROPITEM_TXT_135012,Demonic Ankou,Demonic Ankou
-PROPITEM_TXT_135013,A Demonic Ankou that follows its master around and picks up dropped items,A Demonic Ankou that follows its master around and picks up dropped items
-PROPITEM_TXT_135014,Jewel (1) Select Box,Jewel (1) Select Box
-PROPITEM_TXT_135015,Jewel (2) Select Box,Jewel (2) Select Box
-PROPITEM_TXT_135016,Jewel (3) Select Box,Jewel (3) Select Box
-PROPITEM_TXT_135017,Select which Jewel you want!,Select which Jewel you want!
-PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,Scroll of increased Jewel synthesis chance Select Box
-PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,Select which Jewel Synthesis Chance Scroll you want!
+PROPITEM_TXT_135002,1.5 Update Pass,1.5アップデートパス
+PROPITEM_TXT_135003,This purchase will give you access to many advantages until the end of the 1.5 Update Pass season,この購入により、1.5アップデートパスシーズン終了まで様々な特典が利用可能になります
+PROPITEM_TXT_135004,Hellhound,ヘルハウンド
+PROPITEM_TXT_135005,A Hellhound that follows its master around and picks up dropped items,ヘルハウンドを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
+PROPITEM_TXT_135006,3 Days Scroll of Party Skill,パーティスキルの巻物（3日）
+PROPITEM_TXT_135007,3 Days Scroll of Combined Party Effects,パーティーコンボの巻物（3日間）
+PROPITEM_TXT_135008,Scroll of Pickup Range (3 days),ピックアップ範囲スクロール(3日)
+PROPITEM_TXT_135009,1.5 Update Lucky Box,1.5アップデートラッキーボックス
+PROPITEM_TXT_135010,Ankou,ベヒモス
+PROPITEM_TXT_135011,A Ankou that follows its master around and picks up dropped items,ベヒモスを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
+PROPITEM_TXT_135012,Demonic Ankou,デーモンベヒモス
+PROPITEM_TXT_135013,A Demonic Ankou that follows its master around and picks up dropped items,デーモンベヒモスを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
+PROPITEM_TXT_135014,Jewel (1) Select Box,ジュエル (1) 選択ボックス
+PROPITEM_TXT_135015,Jewel (2) Select Box,ジュエル (2) 選択ボックス
+PROPITEM_TXT_135016,Jewel (3) Select Box,ジュエル (3) 選択ボックス
+PROPITEM_TXT_135017,Select which Jewel you want!,受け取りたいジュエルを選択してください！
+PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,ジュエル合成確率上昇の巻物選択ボックス
+PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,受け取りたいジュエル合成確率上昇の巻物を選択してください！
 PROPITEM_TXT_902176,Muran Sword,Muran Sword
 PROPITEM_TXT_902177,Muran Axe,Muran Axe
 PROPITEM_TXT_902178,Muran Big Sword,Muran Big Sword
@@ -24987,10 +24987,10 @@ PROPITEM_TXT_902192,"Muran Guardian Lion was born to rule the skies. With wings 
 PROPITEM_TXT_902193,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.
 PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.
 PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulses with stolen life.,A crystallized fragment of the death god's essence. It pulses with stolen life.
-PROPITEM_TXT_135020,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)","Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)"
-PROPITEM_TXT_135021,Pet's pickup range is increased by 100% for 3 days,Pet's pickup range is increased by 100% for 3 days
+PROPITEM_TXT_135020,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)",パーティ経験値の獲得率が50％上昇し、パーティスキルが強化され距離の制限がなくなり（ラージと同じ効果）、パーティスキルを重ね掛けし効果時間を合算することが可能になり、パーティーのレベルアップ時に獲得できるパーティーポイントが2倍になります。パーティリーダーが発動している時に効果を発揮します。(ログアウト時間は減少します。3日間持続）
+PROPITEM_TXT_135021,Pet's pickup range is increased by 100% for 3 days,ペットのピックアップ範囲が3日間100%増加します
 PROPITEM_TXT_135022,A package containing a random costume in celebration of Black Friday! You can only receive one random item.,ブラックフライデーを記念したランダムコスチュームが含まれたパッケージ！ランダムアイテムを1つだけ受け取れます。
-PROPITEM_TXT_135023,2025 Black Friday Costume Lucky Box,2025 Black Friday Costume Lucky Box
+PROPITEM_TXT_135023,2025 Black Friday Costume Lucky Box,2025ブラックフライデーコスチュームラッキーボックス
 PROPITEM_TXT_135024,A package containing various items in celebration of v1.5 update! You can only receive one random item.,v1.5アップデートを記念した様々なアイテムが含まれたパッケージ！ランダムアイテムを1つだけ受け取れます。
 PROPITEM_TXT_902196,Thanksgiving 2025 10% Blue Set,感謝祭2025 10%ブルーセット
 PROPITEM_TXT_902197,Thanksgiving 2025 Blue Flower,感謝祭2025ブルーフラワー
@@ -25105,36 +25105,36 @@ PROPITEM_TXT_902305,Christmas Gingy Pet Select Box,Christmas Gingy Pet Select Bo
 PROPITEM_TXT_902306,This box holds all Gingy you could wish for. Pick your favorite color !,This box holds all Gingy you could wish for. Pick your favorite color !
 PROPITEM_TXT_902307,Candy Select Box,Candy Select Box
 PROPITEM_TXT_902308,This box holds all the Love Candy you could wish for. Pick your favorite color !,This box holds all the Love Candy you could wish for. Pick your favorite color !
-PROPITEM_TXT_135025,First reward for the Christmas Invasion!\nYou can earn 5 2025 Santa's Present and 5 Christmas Cookie.,First reward for the Christmas Invasion!\nYou can earn 5 2025 Santa's Present and 5 Christmas Cookie.
+PROPITEM_TXT_135025,First reward for the Christmas Invasion!\nYou can earn 5 2025 Santa's Present and 5 Christmas Cookie.,クリスマス・インベイジョンの1回目の報酬！\n2025サンタさんのプレゼントx5、クリスマスクッキーx5を獲得できます。
 PROPITEM_TXT_135026,Final reward for the Christmas Invasion!\nYou can earn 1 Dark Christmas Adventurer Dark Gold Set.,クリスマス・インベイジョンの最終報酬！\nダーククリスマスアドベンチャーダークゴールドセットx1を獲得できます。
-PROPITEM_TXT_135027,[Event] 2025 Santa's Present,[Event] 2025 Santa's Present
-PROPITEM_TXT_135028,Snow Effect (7 Days),Snow Effect (7 Days)
-PROPITEM_TXT_135029,A cold snow aura will appear on your character. Lasts 7 days. It can be accumulated to increase its duration.,A cold snow aura will appear on your character. Lasts 7 days. It can be accumulated to increase its duration.
+PROPITEM_TXT_135027,[Event] 2025 Santa's Present,[イベント]2025サンタさんのプレゼント
+PROPITEM_TXT_135028,Snow Effect (7 Days),スノーエフェクト(7日)
+PROPITEM_TXT_135029,A cold snow aura will appear on your character. Lasts 7 days. It can be accumulated to increase its duration.,冷たい雪のオーラがキャラクターに現れます。所要時間は7日。蓄積することで持続時間を延ばすことができます。
 PROPITEM_TXT_135030,Dark Christmas Adventurer Dark Gold Set,ダーククリスマスアドベンチャーダークゴールドセット
 PROPITEM_TXT_135031,Dark Christmas Adventurer Dark Gold Set (M),ダーククリスマスアドベンチャーダークゴールドセット(M)
 PROPITEM_TXT_135032,The Dark Christmas Adventurer Dark Gold Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーダークゴールドセット
 PROPITEM_TXT_135033,Dark Christmas Adventurer Dark Gold Set (F),ダーククリスマスアドベンチャーダークゴールドセット(F)
 PROPITEM_TXT_135034,The Dark Christmas Adventurer Dark Gold Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーダークゴールドセット
-PROPITEM_TXT_135035,Dark Christmas Adventurer Dark Gold Wings,Dark Christmas Adventurer Dark Gold Wings
-PROPITEM_TXT_135036,Dark Christmas Adventurer Dark Gold Hat (M),Dark Christmas Adventurer Dark Gold Hat (M)
-PROPITEM_TXT_135037,Dark Christmas Adventurer Dark Gold Suit (M),Dark Christmas Adventurer Dark Gold Suit (M)
-PROPITEM_TXT_135038,Dark Christmas Adventurer Dark Gold Shoes (M),Dark Christmas Adventurer Dark Gold Shoes (M)
-PROPITEM_TXT_135039,Dark Christmas Adventurer Dark Gold Hat (F),Dark Christmas Adventurer Dark Gold Hat (F)
-PROPITEM_TXT_135040,Dark Christmas Adventurer Dark Gold Suit (F),Dark Christmas Adventurer Dark Gold Suit (F)
-PROPITEM_TXT_135041,Dark Christmas Adventurer Dark Gold Shoes (F),Dark Christmas Adventurer Dark Gold Shoes (F)
-PROPITEM_TXT_135042,2026 New year Lucky Box,2026 New year Lucky Box
-PROPITEM_TXT_135043,A Lucky Box filled with good luck for the 2026 new year!\nYou'll get 1 random item from a variety of different items,A Lucky Box filled with good luck for the 2026 new year!\nYou'll get 1 random item from a variety of different items
-PROPITEM_TXT_135044,2026 Rice Cake Soup Select Box,2026 Rice Cake Soup Select Box
-PROPITEM_TXT_135045,2026 Red Rice Cake Soup,2026 Red Rice Cake Soup
-PROPITEM_TXT_135046,2026 Green Rice Cake Soup,2026 Green Rice Cake Soup
-PROPITEM_TXT_135047,2026 Blue Rice Cake Soup,2026 Blue Rice Cake Soup
-PROPITEM_TXT_135048,2026 Yellow Rice Cake Soup,2026 Yellow Rice Cake Soup
-PROPITEM_TXT_135049,[Event] 2026 New Year Gift Box 1,[Event] 2026 New Year Gift Box 1
+PROPITEM_TXT_135035,Dark Christmas Adventurer Dark Gold Wings,ダーククリスマスアドベンチャーダークゴールドウィング
+PROPITEM_TXT_135036,Dark Christmas Adventurer Dark Gold Hat (M),ダーククリスマスアドベンチャーダークゴールドハット(M)
+PROPITEM_TXT_135037,Dark Christmas Adventurer Dark Gold Suit (M),ダーククリスマスアドベンチャーダークゴールドスーツ(M)
+PROPITEM_TXT_135038,Dark Christmas Adventurer Dark Gold Shoes (M),ダーククリスマスアドベンチャーダークゴールドシューズ(M)
+PROPITEM_TXT_135039,Dark Christmas Adventurer Dark Gold Hat (F),ダーククリスマスアドベンチャーダークゴールドハット(F)
+PROPITEM_TXT_135040,Dark Christmas Adventurer Dark Gold Suit (F),ダーククリスマスアドベンチャーダークゴールドスーツ(F)
+PROPITEM_TXT_135041,Dark Christmas Adventurer Dark Gold Shoes (F),ダーククリスマスアドベンチャーダークゴールドシューズ(F)
+PROPITEM_TXT_135042,2026 New year Lucky Box,2026 新年ラッキーボックス
+PROPITEM_TXT_135043,A Lucky Box filled with good luck for the 2026 new year!\nYou'll get 1 random item from a variety of different items,2026年の新年を祝う幸運が詰まったラッキーボックス！\nさまざまなアイテムの中からランダムで1つ獲得できます
+PROPITEM_TXT_135044,2026 Rice Cake Soup Select Box,2026 お雑煮選択ボックス
+PROPITEM_TXT_135045,2026 Red Rice Cake Soup,2026 赤いお雑煮
+PROPITEM_TXT_135046,2026 Green Rice Cake Soup,2026 緑のお雑煮
+PROPITEM_TXT_135047,2026 Blue Rice Cake Soup,2026 青いお雑煮
+PROPITEM_TXT_135048,2026 Yellow Rice Cake Soup,2026 黄色いお雑煮
+PROPITEM_TXT_135049,[Event] 2026 New Year Gift Box 1,[イベント]2026新年ギフトボックス1
 PROPITEM_TXT_135050,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES and 5x Repair Hammer.",新年イベントの1回目の報酬！\nパワーストーンx5、グリルド・イールx1、戦神の巻物ESx1、修理ハンマーx5を獲得できます。
-PROPITEM_TXT_135051,[Event] 2026 New Year Gift Box 2,[Event] 2026 New Year Gift Box 2
+PROPITEM_TXT_135051,[Event] 2026 New Year Gift Box 2,[イベント]2026新年ギフトボックス2
 PROPITEM_TXT_135052,"Second reward for New Year Event!\nYou can earn 2x Flask Box, 5x Scroll of Velocity, 1x Scroll of Gprotect/Power Scroll and New Amplification ES Scroll Select Box.",新年イベントの2回目の報酬！\n秘薬ボックスx2、神風の巻物x5、鍛冶屋の心得・ソケット作成編/豪傑のスクロール(B)x1、新・戦神の巻物ES選択ボックスを獲得できます。
-PROPITEM_TXT_135053,[Event] 2026 New Year Gift Box 3,[Event] 2026 New Year Gift Box 3
-PROPITEM_TXT_135054,"Third reward for New Year Event!\nYou can earn 1x Noble Jockey Red Set, 4x Elemental Attack Stone Select Box, 4x Elemental Defense Stone Select Box, 2x Scroll of Element Change and 1x Extra Bag (30 Days).","Third reward for New Year Event!\nYou can earn 1x Noble Jockey Red Set, 4x Elemental Attack Stone Select Box, 4x Elemental Defense Stone Select Box, 2x Scroll of Element Change and 1x Extra Bag (30 Days)."
+PROPITEM_TXT_135053,[Event] 2026 New Year Gift Box 3,[イベント]2026新年ギフトボックス3
+PROPITEM_TXT_135054,"Third reward for New Year Event!\nYou can earn 1x Noble Jockey Red Set, 4x Elemental Attack Stone Select Box, 4x Elemental Defense Stone Select Box, 2x Scroll of Element Change and 1x Extra Bag (30 Days).",新年イベントの3回目の報酬！\nノーブルジョッキーレッドセットx1、エレメンタルアタックストーンセレクトボックスx4、エレメンタルディフェンスストーンセレクトボックスx4、属性変更の巻物x2、魔法の携帯バッグ(30日)x1を獲得できます。
 PROPITEM_TXT_135055,White Stripes Red Set,ホワイトストライプレッドセット
 PROPITEM_TXT_135056,White Stripes Red Hat (M),ホワイトストライプレッドハット(M)
 PROPITEM_TXT_135057,White Stripes Red Suit (M),ホワイトストライプレッドスーツ(M)
@@ -25156,19 +25156,19 @@ PROPITEM_TXT_135072,White Stripes 5% Red Suit (F),女性キャラクター用の
 PROPITEM_TXT_135073,White Stripes 5% Red Shoes (F),女性キャラクター用のホワイトストライプ 5%レッドシューズ
 PROPITEM_TXT_135074,White Stripes 10% Red Set (F),ホワイトストライプ 10%レッドセット(F)
 PROPITEM_TXT_135075,The White Stripes 10% Red Set for female characters.,女性キャラクター用のホワイトストライプ 10%レッドセット
-PROPITEM_TXT_135076,2026 Gold Fortune Pouch,2026 Gold Fortune Pouch
-PROPITEM_TXT_135077,A Gold Fortune Pouch to wish you a happy new year in 2026.,A Gold Fortune Pouch to wish you a happy new year in 2026.
-PROPITEM_TXT_135078,2026 Silver Fortune Pouch,2026 Silver Fortune Pouch
-PROPITEM_TXT_135079,A Silver Fortune Pouch to wish you a happy new year in 2026.,A Silver Fortune Pouch to wish you a happy new year in 2026.
-PROPITEM_TXT_135080,2026 Bronze Fortune Pouch,2026 Bronze Fortune Pouch
-PROPITEM_TXT_135081,A Bronze Fortune Pouch to wish you a happy new year in 2026.,A Bronze Fortune Pouch to wish you a happy new year in 2026.
-PROPITEM_TXT_135082,2026 New Year Fortune Pouch,2026 New Year Fortune Pouch
-PROPITEM_TXT_135083,A Fortune Pouch to wish you a happy new year in 2026.,A Fortune Pouch to wish you a happy new year in 2026.
-PROPITEM_TXT_135084,2026 New Year Lottery Coin,2026 New Year Lottery Coin
-PROPITEM_TXT_135085,2026 New Year Pass,2026 New Year Pass
-PROPITEM_TXT_135086,This purchase will give you access to many advantages until the end of the 2026 New Year Pass season,This purchase will give you access to many advantages until the end of the 2026 New Year Pass season
-PROPITEM_TXT_135087,Baby Red Horse,Baby Red Horse
-PROPITEM_TXT_135088,Cute Red Baby Horse that follows its owner around and picks up,Cute Red Baby Horse that follows its owner around and picks up
+PROPITEM_TXT_135076,2026 Gold Fortune Pouch,2026 ゴールド福袋
+PROPITEM_TXT_135077,A Gold Fortune Pouch to wish you a happy new year in 2026.,2026年の新年を祝うゴールド福袋。
+PROPITEM_TXT_135078,2026 Silver Fortune Pouch,2026 シルバー福袋
+PROPITEM_TXT_135079,A Silver Fortune Pouch to wish you a happy new year in 2026.,2026年の新年を祝うシルバー福袋。
+PROPITEM_TXT_135080,2026 Bronze Fortune Pouch,2026 ブロンズ福袋
+PROPITEM_TXT_135081,A Bronze Fortune Pouch to wish you a happy new year in 2026.,2026年の新年を祝うブロンズ福袋。
+PROPITEM_TXT_135082,2026 New Year Fortune Pouch,2026 新年福袋
+PROPITEM_TXT_135083,A Fortune Pouch to wish you a happy new year in 2026.,2026年の新年を祝う福袋。
+PROPITEM_TXT_135084,2026 New Year Lottery Coin,2026 新年抽選コイン
+PROPITEM_TXT_135085,2026 New Year Pass,2026 新年パス
+PROPITEM_TXT_135086,This purchase will give you access to many advantages until the end of the 2026 New Year Pass season,この購入により、2026新年パスシーズン終了まで様々な特典が利用可能になります
+PROPITEM_TXT_135087,Baby Red Horse,ベビーレッドホース
+PROPITEM_TXT_135088,Cute Red Baby Horse that follows its owner around and picks up,主人について回り、アイテムを拾ってくれるキュートなレッドベビーホース
 PROPITEM_TXT_902309,PPXP 2025 Door Prize,PPXP 2025 Door Prize
 PROPITEM_TXT_902310,"A special package containing various items including Cloak of Philippines, Scrolls, Stones, Boxes and more.","A special package containing various items including Cloak of Philippines, Scrolls, Stones, Boxes and more."
 PROPITEM_TXT_902311,2026 Special Lucky Box,2026 Special Lucky Box
@@ -25526,13 +25526,13 @@ PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),Noble Jockey Red Shoes (F)
 PROPITEM_TXT_902664,Noble Jockey Red Costume Set (F),ノーブルジョッキーレッドコスチュームセット(F)
 PROPITEM_TXT_902665,The Noble Jockey Red Set for male characters.,男性キャラクター用のノーブルジョッキーレッドセット
 PROPITEM_TXT_902666,The Noble Jockey Red Set for female characters.,女性キャラクター用のノーブルジョッキーレッドセット
-PROPITEM_TXT_135089,[Lv 120~190] 2026 Valentine's Day Reward Box A,[Lv 120~190] 2026 Valentine's Day Reward Box A
-PROPITEM_TXT_135090,[Lv 80~119] 2026 Valentine's Day Reward Box A,[Lv 80~119] 2026 Valentine's Day Reward Box A
-PROPITEM_TXT_135091,[Lv 20~79] 2026 Valentine's Day Reward Box A,[Lv 20~79] 2026 Valentine's Day Reward Box A
-PROPITEM_TXT_135092,2026 Valentine's Day Reward Box B,2026 Valentine's Day Reward Box B
-PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 Valentine's Day Reward Box C
-PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 Valentine's Day Reward Box D
-PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] Pet Random Box
+PROPITEM_TXT_135089,[Lv 120~190] 2026 Valentine's Day Reward Box A,[Lv 120~190] 2026 バレンタインデー報酬ボックスA
+PROPITEM_TXT_135090,[Lv 80~119] 2026 Valentine's Day Reward Box A,[Lv 80~119] 2026 バレンタインデー報酬ボックスA
+PROPITEM_TXT_135091,[Lv 20~79] 2026 Valentine's Day Reward Box A,[Lv 20~79] 2026 バレンタインデー報酬ボックスA
+PROPITEM_TXT_135092,2026 Valentine's Day Reward Box B,2026 バレンタインデー報酬ボックスB
+PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 バレンタインデー報酬ボックスC
+PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 バレンタインデー報酬ボックスD
+PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] ペットランダムボックス
 PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,2026 MyCard New Year Promotion Box A
 PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.",グリルド・イールx3、戦神の巻物ESx3、ポーションボックスx3、パワーストーンx3、スタミナドリンクXまたは魔力ドリンクゴールドx3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,2026 MyCard New Year Promotion Box B
@@ -25678,8 +25678,8 @@ PROPITEM_TXT_902808,Button Mark 2% Black Set (F),ボタンマーク 2%ブラッ�
 PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,女性キャラクター用のボタンマーク 2%ブラックセット
 PROPITEM_TXT_902810,Button Mark Costume Lucky Box,ボタンマークコスチュームラッキーボックス
 PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_135096,Yetti's Precious Box,Yetti's Precious Box
-PROPITEM_TXT_135097,Reconnaissance Set Select Box,Reconnaissance Set Select Box
+PROPITEM_TXT_135096,Yetti's Precious Box,イエティのお宝ボックス
+PROPITEM_TXT_135097,Reconnaissance Set Select Box,ミリタリー衣装セット選択ボックス
 PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190]戦神の巻物ES選択ボックス
 PROPITEM_TXT_902812,Heart Punk 10% Pink Set,ハートパンク 10%ピンクセット
 PROPITEM_TXT_902813,Heart Punk Pink Aibag,ハートパンクピンクエアバッグ
@@ -25884,7 +25884,7 @@ PROPITEM_TXT_903011,Oni-Style Kimono Black Shoes (F),鬼柄着物ブラックシ
 PROPITEM_TXT_903012,Oni-Style Kimono 2% Black Set (F),鬼柄着物 2%ブラックセット(F)
 PROPITEM_TXT_903013,The Oni-Style Kimono 2% Black Set for female characters.,女性キャラクター用の鬼柄着物 2%ブラックセット
 PROPITEM_TXT_903014,Oni-Style Kimono Costume Lucky Box,鬼柄着物コスチュームラッキーボックス
-PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903015,This box contains a Oni-Style Kimono Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの鬼柄着物セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903016,2026 Valentine 10% Red Set,2026バレンタイン 10%レッドセット
 PROPITEM_TXT_903017,2026 Valentine Red Cloak,2026バレンタインレッドマント
 PROPITEM_TXT_903018,2026 Valentine Red Glasses,2026バレンタインレッドメガネ
@@ -25990,152 +25990,152 @@ PROPITEM_TXT_903117,2026 Valentine Brown Shoes (F),2026バレンタインブラ�
 PROPITEM_TXT_903118,2026 Valentine 2% Brown Set (F),2026バレンタイン 2%ブラウンセット(F)
 PROPITEM_TXT_903119,The 2026 Valentine 2% Brown Set for female characters.,女性キャラクター用の2026バレンタイン 2%ブラウンセット
 PROPITEM_TXT_903120,2026 Valentine Costume Lucky Box,2026バレンタインコスチュームラッキーボックス
-PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903122,2026 Lunar New Year Coupon,2026 Lunar New Year Coupon
+PROPITEM_TXT_903121,This box contains a 2026 Valentine Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの2026バレンタインセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_903122,2026 Lunar New Year Coupon,2026旧正月クーポン
 PROPITEM_TXT_903123,"A package containing 5x Server Shout, 5x Channel Shout, 1x Transy, 1x Item Transy B, 26x Sulnal Bomb, 1x Trans Random Box, 1x Flyffer's Flying Select Box (15 days) and 2026 Rice Cake Soup Select Box. All items are also linked.",サーバーシャウトx5、チャンネルシャウトx5、トランシーx1、FMチェンジャー(レッド/B)x1、スルナルボムx26、トランスランダムボックスx1、フリファーズフライングセレクトボックス(15日)x1、2026お雑煮セレクトボックスが含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),Flyffer's Flying Select Box (15 days)
-PROPITEM_TXT_903125,"This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!","This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!"
-PROPITEM_TXT_903126,Lovable Chocolatier Red Sword,Lovable Chocolatier Red Sword
-PROPITEM_TXT_903127,Lovable Chocolatier Red Axe,Lovable Chocolatier Red Axe
-PROPITEM_TXT_903128,Lovable Chocolatier Red Big Sword,Lovable Chocolatier Red Big Sword
-PROPITEM_TXT_903129,Lovable Chocolatier Red Big Axe,Lovable Chocolatier Red Big Axe
-PROPITEM_TXT_903130,Lovable Chocolatier Red Stick,Lovable Chocolatier Red Stick
-PROPITEM_TXT_903131,Lovable Chocolatier Red Knuckle,Lovable Chocolatier Red Knuckle
-PROPITEM_TXT_903132,Lovable Chocolatier Red Bow,Lovable Chocolatier Red Bow
-PROPITEM_TXT_903133,Lovable Chocolatier Red Yo-Yo,Lovable Chocolatier Red Yo-Yo
-PROPITEM_TXT_903134,Lovable Chocolatier Red Staff,Lovable Chocolatier Red Staff
-PROPITEM_TXT_903135,Lovable Chocolatier Red Wand,Lovable Chocolatier Red Wand
-PROPITEM_TXT_903136,Lovable Chocolatier Red Shield,Lovable Chocolatier Red Shield
-PROPITEM_TXT_903137,Lovable Chocolatier Red Force Gem,Lovable Chocolatier Red Force Gem
-PROPITEM_TXT_903138,Lovable Chocolatier Red Book,Lovable Chocolatier Red Book
+PROPITEM_TXT_903124,Flyffer's Flying Select Box (15 days),フリファーズフライングセレクトボックス(15日)
+PROPITEM_TXT_903125,"This mysterious box contains 18 unique flying mounts, each crafted for true adventurers of Madrigal. Open it and choose your favorite one!",この不思議な箱には、マドリガルの真の冒険者のために作られた18種類のユニークな飛行機が入っています。開けてお気に入りの1つをお選びください！
+PROPITEM_TXT_903126,Lovable Chocolatier Red Sword,ラブリーショコラティエレッド・ソード
+PROPITEM_TXT_903127,Lovable Chocolatier Red Axe,ラブリーショコラティエレッド・アクス
+PROPITEM_TXT_903128,Lovable Chocolatier Red Big Sword,ラブリーショコラティエレッド・ビッグソード
+PROPITEM_TXT_903129,Lovable Chocolatier Red Big Axe,ラブリーショコラティエレッド・ビッグアクス
+PROPITEM_TXT_903130,Lovable Chocolatier Red Stick,ラブリーショコラティエレッド・スティック
+PROPITEM_TXT_903131,Lovable Chocolatier Red Knuckle,ラブリーショコラティエレッド・ナックル
+PROPITEM_TXT_903132,Lovable Chocolatier Red Bow,ラブリーショコラティエレッド・ボウ
+PROPITEM_TXT_903133,Lovable Chocolatier Red Yo-Yo,ラブリーショコラティエレッド・ヨーヨー
+PROPITEM_TXT_903134,Lovable Chocolatier Red Staff,ラブリーショコラティエレッド・スタッフ
+PROPITEM_TXT_903135,Lovable Chocolatier Red Wand,ラブリーショコラティエレッド・ワンド
+PROPITEM_TXT_903136,Lovable Chocolatier Red Shield,ラブリーショコラティエレッド・シールド
+PROPITEM_TXT_903137,Lovable Chocolatier Red Force Gem,ラブリーショコラティエレッド・フォースジェム
+PROPITEM_TXT_903138,Lovable Chocolatier Red Book,ラブリーショコラティエレッド・ブック
 PROPITEM_TXT_903139,Lovable Chocolatier Red Weapon Set,ラブリーショコラティエレッドウェポンセット
-PROPITEM_TXT_903140,Select which Lovable Chocolatier Red Weapon you want to receive!,Select which Lovable Chocolatier Red Weapon you want to receive!
-PROPITEM_TXT_903141,Lovable Chocolatier Purple Sword,Lovable Chocolatier Purple Sword
-PROPITEM_TXT_903142,Lovable Chocolatier Purple Axe,Lovable Chocolatier Purple Axe
-PROPITEM_TXT_903143,Lovable Chocolatier Purple Big Sword,Lovable Chocolatier Purple Big Sword
-PROPITEM_TXT_903144,Lovable Chocolatier Purple Big Axe,Lovable Chocolatier Purple Big Axe
-PROPITEM_TXT_903145,Lovable Chocolatier Purple Stick,Lovable Chocolatier Purple Stick
-PROPITEM_TXT_903146,Lovable Chocolatier Purple Knuckle,Lovable Chocolatier Purple Knuckle
-PROPITEM_TXT_903147,Lovable Chocolatier Purple Bow,Lovable Chocolatier Purple Bow
-PROPITEM_TXT_903148,Lovable Chocolatier Purple Yo-Yo,Lovable Chocolatier Purple Yo-Yo
-PROPITEM_TXT_903149,Lovable Chocolatier Purple Staff,Lovable Chocolatier Purple Staff
-PROPITEM_TXT_903150,Lovable Chocolatier Purple Wand,Lovable Chocolatier Purple Wand
-PROPITEM_TXT_903151,Lovable Chocolatier Purple Shield,Lovable Chocolatier Purple Shield
-PROPITEM_TXT_903152,Lovable Chocolatier Purple Force Gem,Lovable Chocolatier Purple Force Gem
-PROPITEM_TXT_903153,Lovable Chocolatier Purple Book,Lovable Chocolatier Purple Book
+PROPITEM_TXT_903140,Select which Lovable Chocolatier Red Weapon you want to receive!,受け取りたいラブリーショコラティエレッド武器を選択してください！
+PROPITEM_TXT_903141,Lovable Chocolatier Purple Sword,ラブリーショコラティエパープル・ソード
+PROPITEM_TXT_903142,Lovable Chocolatier Purple Axe,ラブリーショコラティエパープル・アクス
+PROPITEM_TXT_903143,Lovable Chocolatier Purple Big Sword,ラブリーショコラティエパープル・ビッグソード
+PROPITEM_TXT_903144,Lovable Chocolatier Purple Big Axe,ラブリーショコラティエパープル・ビッグアクス
+PROPITEM_TXT_903145,Lovable Chocolatier Purple Stick,ラブリーショコラティエパープル・スティック
+PROPITEM_TXT_903146,Lovable Chocolatier Purple Knuckle,ラブリーショコラティエパープル・ナックル
+PROPITEM_TXT_903147,Lovable Chocolatier Purple Bow,ラブリーショコラティエパープル・ボウ
+PROPITEM_TXT_903148,Lovable Chocolatier Purple Yo-Yo,ラブリーショコラティエパープル・ヨーヨー
+PROPITEM_TXT_903149,Lovable Chocolatier Purple Staff,ラブリーショコラティエパープル・スタッフ
+PROPITEM_TXT_903150,Lovable Chocolatier Purple Wand,ラブリーショコラティエパープル・ワンド
+PROPITEM_TXT_903151,Lovable Chocolatier Purple Shield,ラブリーショコラティエパープル・シールド
+PROPITEM_TXT_903152,Lovable Chocolatier Purple Force Gem,ラブリーショコラティエパープル・フォースジェム
+PROPITEM_TXT_903153,Lovable Chocolatier Purple Book,ラブリーショコラティエパープル・ブック
 PROPITEM_TXT_903154,Lovable Chocolatier Purple Weapon Set,ラブリーショコラティエパープルウェポンセット
-PROPITEM_TXT_903155,Select which Lovable Chocolatier Purple Weapon you want to receive!,Select which Lovable Chocolatier Purple Weapon you want to receive!
-PROPITEM_TXT_903156,Lovable Chocolatier Yellow Sword,Lovable Chocolatier Yellow Sword
-PROPITEM_TXT_903157,Lovable Chocolatier Yellow Axe,Lovable Chocolatier Yellow Axe
-PROPITEM_TXT_903158,Lovable Chocolatier Yellow Big Sword,Lovable Chocolatier Yellow Big Sword
-PROPITEM_TXT_903159,Lovable Chocolatier Yellow Big Axe,Lovable Chocolatier Yellow Big Axe
-PROPITEM_TXT_903160,Lovable Chocolatier Yellow Stick,Lovable Chocolatier Yellow Stick
-PROPITEM_TXT_903161,Lovable Chocolatier Yellow Knuckle,Lovable Chocolatier Yellow Knuckle
-PROPITEM_TXT_903162,Lovable Chocolatier Yellow Bow,Lovable Chocolatier Yellow Bow
-PROPITEM_TXT_903163,Lovable Chocolatier Yellow Yo-Yo,Lovable Chocolatier Yellow Yo-Yo
-PROPITEM_TXT_903164,Lovable Chocolatier Yellow Staff,Lovable Chocolatier Yellow Staff
-PROPITEM_TXT_903165,Lovable Chocolatier Yellow Wand,Lovable Chocolatier Yellow Wand
-PROPITEM_TXT_903166,Lovable Chocolatier Yellow Shield,Lovable Chocolatier Yellow Shield
-PROPITEM_TXT_903167,Lovable Chocolatier Yellow Force Gem,Lovable Chocolatier Yellow Force Gem
-PROPITEM_TXT_903168,Lovable Chocolatier Yellow Book,Lovable Chocolatier Yellow Book
+PROPITEM_TXT_903155,Select which Lovable Chocolatier Purple Weapon you want to receive!,受け取りたいラブリーショコラティエパープル武器を選択してください！
+PROPITEM_TXT_903156,Lovable Chocolatier Yellow Sword,ラブリーショコラティエイエロー・ソード
+PROPITEM_TXT_903157,Lovable Chocolatier Yellow Axe,ラブリーショコラティエイエロー・アクス
+PROPITEM_TXT_903158,Lovable Chocolatier Yellow Big Sword,ラブリーショコラティエイエロー・ビッグソード
+PROPITEM_TXT_903159,Lovable Chocolatier Yellow Big Axe,ラブリーショコラティエイエロー・ビッグアクス
+PROPITEM_TXT_903160,Lovable Chocolatier Yellow Stick,ラブリーショコラティエイエロー・スティック
+PROPITEM_TXT_903161,Lovable Chocolatier Yellow Knuckle,ラブリーショコラティエイエロー・ナックル
+PROPITEM_TXT_903162,Lovable Chocolatier Yellow Bow,ラブリーショコラティエイエロー・ボウ
+PROPITEM_TXT_903163,Lovable Chocolatier Yellow Yo-Yo,ラブリーショコラティエイエロー・ヨーヨー
+PROPITEM_TXT_903164,Lovable Chocolatier Yellow Staff,ラブリーショコラティエイエロー・スタッフ
+PROPITEM_TXT_903165,Lovable Chocolatier Yellow Wand,ラブリーショコラティエイエロー・ワンド
+PROPITEM_TXT_903166,Lovable Chocolatier Yellow Shield,ラブリーショコラティエイエロー・シールド
+PROPITEM_TXT_903167,Lovable Chocolatier Yellow Force Gem,ラブリーショコラティエイエロー・フォースジェム
+PROPITEM_TXT_903168,Lovable Chocolatier Yellow Book,ラブリーショコラティエイエロー・ブック
 PROPITEM_TXT_903169,Lovable Chocolatier Yellow Weapon Set,ラブリーショコラティエイエローウェポンセット
-PROPITEM_TXT_903170,Select which Lovable Chocolatier Yellow Weapon you want to receive!,Select which Lovable Chocolatier Yellow Weapon you want to receive!
-PROPITEM_TXT_903171,Lovable Chocolatier Orange Sword,Lovable Chocolatier Orange Sword
-PROPITEM_TXT_903172,Lovable Chocolatier Orange Axe,Lovable Chocolatier Orange Axe
-PROPITEM_TXT_903173,Lovable Chocolatier Orange Big Sword,Lovable Chocolatier Orange Big Sword
-PROPITEM_TXT_903174,Lovable Chocolatier Orange Big Axe,Lovable Chocolatier Orange Big Axe
-PROPITEM_TXT_903175,Lovable Chocolatier Orange Stick,Lovable Chocolatier Orange Stick
-PROPITEM_TXT_903176,Lovable Chocolatier Orange Knuckle,Lovable Chocolatier Orange Knuckle
-PROPITEM_TXT_903177,Lovable Chocolatier Orange Bow,Lovable Chocolatier Orange Bow
-PROPITEM_TXT_903178,Lovable Chocolatier Orange Yo-Yo,Lovable Chocolatier Orange Yo-Yo
-PROPITEM_TXT_903179,Lovable Chocolatier Orange Staff,Lovable Chocolatier Orange Staff
-PROPITEM_TXT_903180,Lovable Chocolatier Orange Wand,Lovable Chocolatier Orange Wand
-PROPITEM_TXT_903181,Lovable Chocolatier Orange Shield,Lovable Chocolatier Orange Shield
-PROPITEM_TXT_903182,Lovable Chocolatier Orange Force Gem,Lovable Chocolatier Orange Force Gem
-PROPITEM_TXT_903183,Lovable Chocolatier Orange Book,Lovable Chocolatier Orange Book
+PROPITEM_TXT_903170,Select which Lovable Chocolatier Yellow Weapon you want to receive!,受け取りたいラブリーショコラティエイエロー武器を選択してください！
+PROPITEM_TXT_903171,Lovable Chocolatier Orange Sword,ラブリーショコラティエオレンジ・ソード
+PROPITEM_TXT_903172,Lovable Chocolatier Orange Axe,ラブリーショコラティエオレンジ・アクス
+PROPITEM_TXT_903173,Lovable Chocolatier Orange Big Sword,ラブリーショコラティエオレンジ・ビッグソード
+PROPITEM_TXT_903174,Lovable Chocolatier Orange Big Axe,ラブリーショコラティエオレンジ・ビッグアクス
+PROPITEM_TXT_903175,Lovable Chocolatier Orange Stick,ラブリーショコラティエオレンジ・スティック
+PROPITEM_TXT_903176,Lovable Chocolatier Orange Knuckle,ラブリーショコラティエオレンジ・ナックル
+PROPITEM_TXT_903177,Lovable Chocolatier Orange Bow,ラブリーショコラティエオレンジ・ボウ
+PROPITEM_TXT_903178,Lovable Chocolatier Orange Yo-Yo,ラブリーショコラティエオレンジ・ヨーヨー
+PROPITEM_TXT_903179,Lovable Chocolatier Orange Staff,ラブリーショコラティエオレンジ・スタッフ
+PROPITEM_TXT_903180,Lovable Chocolatier Orange Wand,ラブリーショコラティエオレンジ・ワンド
+PROPITEM_TXT_903181,Lovable Chocolatier Orange Shield,ラブリーショコラティエオレンジ・シールド
+PROPITEM_TXT_903182,Lovable Chocolatier Orange Force Gem,ラブリーショコラティエオレンジ・フォースジェム
+PROPITEM_TXT_903183,Lovable Chocolatier Orange Book,ラブリーショコラティエオレンジ・ブック
 PROPITEM_TXT_903184,Lovable Chocolatier Orange Weapon Set,ラブリーショコラティエオレンジウェポンセット
-PROPITEM_TXT_903185,Select which Lovable Chocolatier Orange Weapon you want to receive!,Select which Lovable Chocolatier Orange Weapon you want to receive!
-PROPITEM_TXT_903186,Lovable Chocolatier Blue Sword,Lovable Chocolatier Blue Sword
-PROPITEM_TXT_903187,Lovable Chocolatier Blue Axe,Lovable Chocolatier Blue Axe
-PROPITEM_TXT_903188,Lovable Chocolatier Blue Big Sword,Lovable Chocolatier Blue Big Sword
-PROPITEM_TXT_903189,Lovable Chocolatier Blue Big Axe,Lovable Chocolatier Blue Big Axe
-PROPITEM_TXT_903190,Lovable Chocolatier Blue Stick,Lovable Chocolatier Blue Stick
-PROPITEM_TXT_903191,Lovable Chocolatier Blue Knuckle,Lovable Chocolatier Blue Knuckle
-PROPITEM_TXT_903192,Lovable Chocolatier Blue Bow,Lovable Chocolatier Blue Bow
-PROPITEM_TXT_903193,Lovable Chocolatier Blue Yo-Yo,Lovable Chocolatier Blue Yo-Yo
-PROPITEM_TXT_903194,Lovable Chocolatier Blue Staff,Lovable Chocolatier Blue Staff
-PROPITEM_TXT_903195,Lovable Chocolatier Blue Wand,Lovable Chocolatier Blue Wand
-PROPITEM_TXT_903196,Lovable Chocolatier Blue Shield,Lovable Chocolatier Blue Shield
-PROPITEM_TXT_903197,Lovable Chocolatier Blue Force Gem,Lovable Chocolatier Blue Force Gem
-PROPITEM_TXT_903198,Lovable Chocolatier Blue Book,Lovable Chocolatier Blue Book
+PROPITEM_TXT_903185,Select which Lovable Chocolatier Orange Weapon you want to receive!,受け取りたいラブリーショコラティエオレンジ武器を選択してください！
+PROPITEM_TXT_903186,Lovable Chocolatier Blue Sword,ラブリーショコラティエブルー・ソード
+PROPITEM_TXT_903187,Lovable Chocolatier Blue Axe,ラブリーショコラティエブルー・アクス
+PROPITEM_TXT_903188,Lovable Chocolatier Blue Big Sword,ラブリーショコラティエブルー・ビッグソード
+PROPITEM_TXT_903189,Lovable Chocolatier Blue Big Axe,ラブリーショコラティエブルー・ビッグアクス
+PROPITEM_TXT_903190,Lovable Chocolatier Blue Stick,ラブリーショコラティエブルー・スティック
+PROPITEM_TXT_903191,Lovable Chocolatier Blue Knuckle,ラブリーショコラティエブルー・ナックル
+PROPITEM_TXT_903192,Lovable Chocolatier Blue Bow,ラブリーショコラティエブルー・ボウ
+PROPITEM_TXT_903193,Lovable Chocolatier Blue Yo-Yo,ラブリーショコラティエブルー・ヨーヨー
+PROPITEM_TXT_903194,Lovable Chocolatier Blue Staff,ラブリーショコラティエブルー・スタッフ
+PROPITEM_TXT_903195,Lovable Chocolatier Blue Wand,ラブリーショコラティエブルー・ワンド
+PROPITEM_TXT_903196,Lovable Chocolatier Blue Shield,ラブリーショコラティエブルー・シールド
+PROPITEM_TXT_903197,Lovable Chocolatier Blue Force Gem,ラブリーショコラティエブルー・フォースジェム
+PROPITEM_TXT_903198,Lovable Chocolatier Blue Book,ラブリーショコラティエブルー・ブック
 PROPITEM_TXT_903199,Lovable Chocolatier Blue Weapon Set,ラブリーショコラティエブルーウェポンセット
-PROPITEM_TXT_903200,Select which Lovable Chocolatier Blue Weapon you want to receive!,Select which Lovable Chocolatier Blue Weapon you want to receive!
-PROPITEM_TXT_903201,Lovable Chocolatier Green Sword,Lovable Chocolatier Green Sword
-PROPITEM_TXT_903202,Lovable Chocolatier Green Axe,Lovable Chocolatier Green Axe
-PROPITEM_TXT_903203,Lovable Chocolatier Green Big Sword,Lovable Chocolatier Green Big Sword
-PROPITEM_TXT_903204,Lovable Chocolatier Green Big Axe,Lovable Chocolatier Green Big Axe
-PROPITEM_TXT_903205,Lovable Chocolatier Green Stick,Lovable Chocolatier Green Stick
-PROPITEM_TXT_903206,Lovable Chocolatier Green Knuckle,Lovable Chocolatier Green Knuckle
-PROPITEM_TXT_903207,Lovable Chocolatier Green Bow,Lovable Chocolatier Green Bow
-PROPITEM_TXT_903208,Lovable Chocolatier Green Yo-Yo,Lovable Chocolatier Green Yo-Yo
-PROPITEM_TXT_903209,Lovable Chocolatier Green Staff,Lovable Chocolatier Green Staff
-PROPITEM_TXT_903210,Lovable Chocolatier Green Wand,Lovable Chocolatier Green Wand
-PROPITEM_TXT_903211,Lovable Chocolatier Green Shield,Lovable Chocolatier Green Shield
-PROPITEM_TXT_903212,Lovable Chocolatier Green Force Gem,Lovable Chocolatier Green Force Gem
-PROPITEM_TXT_903213,Lovable Chocolatier Green Book,Lovable Chocolatier Green Book
+PROPITEM_TXT_903200,Select which Lovable Chocolatier Blue Weapon you want to receive!,受け取りたいラブリーショコラティエブルー武器を選択してください！
+PROPITEM_TXT_903201,Lovable Chocolatier Green Sword,ラブリーショコラティエグリーン・ソード
+PROPITEM_TXT_903202,Lovable Chocolatier Green Axe,ラブリーショコラティエグリーン・アクス
+PROPITEM_TXT_903203,Lovable Chocolatier Green Big Sword,ラブリーショコラティエグリーン・ビッグソード
+PROPITEM_TXT_903204,Lovable Chocolatier Green Big Axe,ラブリーショコラティエグリーン・ビッグアクス
+PROPITEM_TXT_903205,Lovable Chocolatier Green Stick,ラブリーショコラティエグリーン・スティック
+PROPITEM_TXT_903206,Lovable Chocolatier Green Knuckle,ラブリーショコラティエグリーン・ナックル
+PROPITEM_TXT_903207,Lovable Chocolatier Green Bow,ラブリーショコラティエグリーン・ボウ
+PROPITEM_TXT_903208,Lovable Chocolatier Green Yo-Yo,ラブリーショコラティエグリーン・ヨーヨー
+PROPITEM_TXT_903209,Lovable Chocolatier Green Staff,ラブリーショコラティエグリーン・スタッフ
+PROPITEM_TXT_903210,Lovable Chocolatier Green Wand,ラブリーショコラティエグリーン・ワンド
+PROPITEM_TXT_903211,Lovable Chocolatier Green Shield,ラブリーショコラティエグリーン・シールド
+PROPITEM_TXT_903212,Lovable Chocolatier Green Force Gem,ラブリーショコラティエグリーン・フォースジェム
+PROPITEM_TXT_903213,Lovable Chocolatier Green Book,ラブリーショコラティエグリーン・ブック
 PROPITEM_TXT_903214,Lovable Chocolatier Green Weapon Set,ラブリーショコラティエグリーンウェポンセット
-PROPITEM_TXT_903215,Select which Lovable Chocolatier Green Weapon you want to receive!,Select which Lovable Chocolatier Green Weapon you want to receive!
-PROPITEM_TXT_903216,Lovable Chocolatier Magenta Sword,Lovable Chocolatier Magenta Sword
-PROPITEM_TXT_903217,Lovable Chocolatier Magenta Axe,Lovable Chocolatier Magenta Axe
-PROPITEM_TXT_903218,Lovable Chocolatier Magenta Big Sword,Lovable Chocolatier Magenta Big Sword
-PROPITEM_TXT_903219,Lovable Chocolatier Magenta Big Axe,Lovable Chocolatier Magenta Big Axe
-PROPITEM_TXT_903220,Lovable Chocolatier Magenta Stick,Lovable Chocolatier Magenta Stick
-PROPITEM_TXT_903221,Lovable Chocolatier Magenta Knuckle,Lovable Chocolatier Magenta Knuckle
-PROPITEM_TXT_903222,Lovable Chocolatier Magenta Bow,Lovable Chocolatier Magenta Bow
-PROPITEM_TXT_903223,Lovable Chocolatier Magenta Yo-Yo,Lovable Chocolatier Magenta Yo-Yo
-PROPITEM_TXT_903224,Lovable Chocolatier Magenta Staff,Lovable Chocolatier Magenta Staff
-PROPITEM_TXT_903225,Lovable Chocolatier Magenta Wand,Lovable Chocolatier Magenta Wand
-PROPITEM_TXT_903226,Lovable Chocolatier Magenta Shield,Lovable Chocolatier Magenta Shield
-PROPITEM_TXT_903227,Lovable Chocolatier Magenta Force Gem,Lovable Chocolatier Magenta Force Gem
-PROPITEM_TXT_903228,Lovable Chocolatier Magenta Book,Lovable Chocolatier Magenta Book
+PROPITEM_TXT_903215,Select which Lovable Chocolatier Green Weapon you want to receive!,受け取りたいラブリーショコラティエグリーン武器を選択してください！
+PROPITEM_TXT_903216,Lovable Chocolatier Magenta Sword,ラブリーショコラティエマゼンタ・ソード
+PROPITEM_TXT_903217,Lovable Chocolatier Magenta Axe,ラブリーショコラティエマゼンタ・アクス
+PROPITEM_TXT_903218,Lovable Chocolatier Magenta Big Sword,ラブリーショコラティエマゼンタ・ビッグソード
+PROPITEM_TXT_903219,Lovable Chocolatier Magenta Big Axe,ラブリーショコラティエマゼンタ・ビッグアクス
+PROPITEM_TXT_903220,Lovable Chocolatier Magenta Stick,ラブリーショコラティエマゼンタ・スティック
+PROPITEM_TXT_903221,Lovable Chocolatier Magenta Knuckle,ラブリーショコラティエマゼンタ・ナックル
+PROPITEM_TXT_903222,Lovable Chocolatier Magenta Bow,ラブリーショコラティエマゼンタ・ボウ
+PROPITEM_TXT_903223,Lovable Chocolatier Magenta Yo-Yo,ラブリーショコラティエマゼンタ・ヨーヨー
+PROPITEM_TXT_903224,Lovable Chocolatier Magenta Staff,ラブリーショコラティエマゼンタ・スタッフ
+PROPITEM_TXT_903225,Lovable Chocolatier Magenta Wand,ラブリーショコラティエマゼンタ・ワンド
+PROPITEM_TXT_903226,Lovable Chocolatier Magenta Shield,ラブリーショコラティエマゼンタ・シールド
+PROPITEM_TXT_903227,Lovable Chocolatier Magenta Force Gem,ラブリーショコラティエマゼンタ・フォースジェム
+PROPITEM_TXT_903228,Lovable Chocolatier Magenta Book,ラブリーショコラティエマゼンタ・ブック
 PROPITEM_TXT_903229,Lovable Chocolatier Magenta Weapon Set,ラブリーショコラティエマゼンタウェポンセット
-PROPITEM_TXT_903230,Select which Lovable Chocolatier Magenta Weapon you want to receive!,Select which Lovable Chocolatier Magenta Weapon you want to receive!
-PROPITEM_TXT_903231,Lovable Chocolatier Brown Sword,Lovable Chocolatier Brown Sword
-PROPITEM_TXT_903232,Lovable Chocolatier Brown Axe,Lovable Chocolatier Brown Axe
-PROPITEM_TXT_903233,Lovable Chocolatier Brown Big Sword,Lovable Chocolatier Brown Big Sword
-PROPITEM_TXT_903234,Lovable Chocolatier Brown Big Axe,Lovable Chocolatier Brown Big Axe
-PROPITEM_TXT_903235,Lovable Chocolatier Brown Stick,Lovable Chocolatier Brown Stick
-PROPITEM_TXT_903236,Lovable Chocolatier Brown Knuckle,Lovable Chocolatier Brown Knuckle
-PROPITEM_TXT_903237,Lovable Chocolatier Brown Bow,Lovable Chocolatier Brown Bow
-PROPITEM_TXT_903238,Lovable Chocolatier Brown Yo-Yo,Lovable Chocolatier Brown Yo-Yo
-PROPITEM_TXT_903239,Lovable Chocolatier Brown Staff,Lovable Chocolatier Brown Staff
-PROPITEM_TXT_903240,Lovable Chocolatier Brown Wand,Lovable Chocolatier Brown Wand
-PROPITEM_TXT_903241,Lovable Chocolatier Brown Shield,Lovable Chocolatier Brown Shield
-PROPITEM_TXT_903242,Lovable Chocolatier Brown Force Gem,Lovable Chocolatier Brown Force Gem
-PROPITEM_TXT_903243,Lovable Chocolatier Brown Book,Lovable Chocolatier Brown Book
+PROPITEM_TXT_903230,Select which Lovable Chocolatier Magenta Weapon you want to receive!,受け取りたいラブリーショコラティエマゼンタ武器を選択してください！
+PROPITEM_TXT_903231,Lovable Chocolatier Brown Sword,ラブリーショコラティエブラウン・ソード
+PROPITEM_TXT_903232,Lovable Chocolatier Brown Axe,ラブリーショコラティエブラウン・アクス
+PROPITEM_TXT_903233,Lovable Chocolatier Brown Big Sword,ラブリーショコラティエブラウン・ビッグソード
+PROPITEM_TXT_903234,Lovable Chocolatier Brown Big Axe,ラブリーショコラティエブラウン・ビッグアクス
+PROPITEM_TXT_903235,Lovable Chocolatier Brown Stick,ラブリーショコラティエブラウン・スティック
+PROPITEM_TXT_903236,Lovable Chocolatier Brown Knuckle,ラブリーショコラティエブラウン・ナックル
+PROPITEM_TXT_903237,Lovable Chocolatier Brown Bow,ラブリーショコラティエブラウン・ボウ
+PROPITEM_TXT_903238,Lovable Chocolatier Brown Yo-Yo,ラブリーショコラティエブラウン・ヨーヨー
+PROPITEM_TXT_903239,Lovable Chocolatier Brown Staff,ラブリーショコラティエブラウン・スタッフ
+PROPITEM_TXT_903240,Lovable Chocolatier Brown Wand,ラブリーショコラティエブラウン・ワンド
+PROPITEM_TXT_903241,Lovable Chocolatier Brown Shield,ラブリーショコラティエブラウン・シールド
+PROPITEM_TXT_903242,Lovable Chocolatier Brown Force Gem,ラブリーショコラティエブラウン・フォースジェム
+PROPITEM_TXT_903243,Lovable Chocolatier Brown Book,ラブリーショコラティエブラウン・ブック
 PROPITEM_TXT_903244,Lovable Chocolatier Brown Weapon Set,ラブリーショコラティエブラウンウェポンセット
-PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,Select which Lovable Chocolatier Brown Weapon you want to receive!
-PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,Lovable Chocolatier Weapon Skin Box
-PROPITEM_TXT_903247,Select your favorite color!,Select your favorite color!
-PROPITEM_TXT_903248,Waist Stretching Emote,Waist Stretching Emote
-PROPITEM_TXT_903249,All-in-One Pet Package,All-in-One Pet Package
+PROPITEM_TXT_903245,Select which Lovable Chocolatier Brown Weapon you want to receive!,受け取りたいラブリーショコラティエブラウン武器を選択してください！
+PROPITEM_TXT_903246,Lovable Chocolatier Weapon Skin Box,ラブリーショコラティエウェポンスキンボックス
+PROPITEM_TXT_903247,Select your favorite color!,お好きな色を選んでください！
+PROPITEM_TXT_903248,Waist Stretching Emote,ウエストストレッチングエモート
+PROPITEM_TXT_903249,All-in-One Pet Package,オールインワンペットパッケージ
 PROPITEM_TXT_903250,"A package containing 1x Feed Bag (7 Days), 3x Pet Reroll Scroll and 3x Pet Transmute. All items are also linked.",フィードバッグ(7日)x1、ペット再抽選の巻物x3、ペット変身x3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903251,Spring Hunting Package,Spring Hunting Package
+PROPITEM_TXT_903251,Spring Hunting Package,スプリングハンティングパッケージ
 PROPITEM_TXT_903252,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.",戦神の巻物ESx5、復活の巻物x5、街戻りの巻物x5、神風の巻物x5、アクティビションx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903253,Elixir Select Box A,Elixir Select Box A
-PROPITEM_TXT_903254,Select which Elixir you want to receive!,Select which Elixir you want to receive!
-PROPITEM_TXT_903255,Spring Exp Power Package,Spring Exp Power Package
+PROPITEM_TXT_903253,Elixir Select Box A,エリクサーセレクトボックスA
+PROPITEM_TXT_903254,Select which Elixir you want to receive!,受け取りたいエリクサーを選択してください！
+PROPITEM_TXT_903255,Spring Exp Power Package,スプリング経験値パワーパッケージ
 PROPITEM_TXT_903256,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.",[20~160]戦神の巻物ES選択ボックスx3、豪傑のスクロール(B)x3、ポーションボックスx3、秘薬ボックスx3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903257,Guardian Easter Bunny Pet Select Box,Guardian Easter Bunny Pet Select Box
-PROPITEM_TXT_903258,Select which Guardian Easter Bunny Pet you want to receive!,Select which Guardian Easter Bunny Pet you want to receive!
-PROPITEM_TXT_903259,Jeff's 2026 Easter Egg,Jeff's 2026 Easter Egg
-PROPITEM_TXT_903260,Good luck Adventurer !,Good luck Adventurer !
-PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,Pixel Rabbit Pet Select Box
-PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,Select which Pixel Rabbit Pet you want to receive!
-PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,PlayPark Community Gathering Giveaway
+PROPITEM_TXT_903257,Guardian Easter Bunny Pet Select Box,ガーディアンイースターバニーペットセレクトボックス
+PROPITEM_TXT_903258,Select which Guardian Easter Bunny Pet you want to receive!,受け取りたいガーディアンイースターバニーペットを選択してください！
+PROPITEM_TXT_903259,Jeff's 2026 Easter Egg,ジェフの2026イースターエッグ
+PROPITEM_TXT_903260,Good luck Adventurer !,幸運を、冒険者よ！
+PROPITEM_TXT_903261,Pixel Rabbit Pet Select Box,ピクセルラビットペットセレクトボックス
+PROPITEM_TXT_903262,Select which Pixel Rabbit Pet you want to receive!,受け取りたいピクセルラビットペットを選択してください！
+PROPITEM_TXT_903263,PlayPark Community Gathering Giveaway,PlayParkコミュニティギャザリング記念品
 PROPITEM_TXT_903264,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Ice Crown Weapons Skin Box, 1x Casual Set Select Box, 1x Madrigal Flying Selection Box (30 days) and 1x Madrigal PickupPet Selection Box (30 days). All items are also linked.",戦神の巻物ESx5、パワーストーンx5、豪傑のスクロール(B)x5、秘薬ボックスx10、ポーションボックスx10、魔法の携帯バッグ(30日)x1、フィードバッグ(7日)x1、アイスクラウンウェポンスキンボックスx1、カジュアルセットセレクトボックスx1、マドリガルフライングセレクションボックス(30日)x1、マドリガルピックアップペットセレクションボックス(30日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903265,Casual Set Select Box,カジュアルセットセレクトボックス
-PROPITEM_TXT_903266,Select which Gender you want to receive!,Select which Gender you want to receive!
+PROPITEM_TXT_903266,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_903267,Lucky Clover 10% Green Set,ラッキークローバー 10%グリーンセット
 PROPITEM_TXT_903268,Lucky Clover Green Bag,ラッキークローバーグリーンバッグ
 PROPITEM_TXT_903269,Lucky Clover Green Beard,ラッキークローバーグリーンヒゲ
@@ -26241,8 +26241,8 @@ PROPITEM_TXT_903368,Lucky Clover Black Shoes (F),ラッキークローバーブ�
 PROPITEM_TXT_903369,Lucky Clover 2% Black Set (F),ラッキークローバー 2%ブラックセット(F)
 PROPITEM_TXT_903370,The Lucky Clover 2% Black Set for female characters.,女性キャラクター用のラッキークローバー 2%ブラックセット
 PROPITEM_TXT_903371,Lucky Clover Costume Lucky Box,ラッキークローバーコスチュームラッキーボックス
-PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark All-Stars 2026 Door Prize
+PROPITEM_TXT_903372,This box contains a Lucky Clover Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのラッキークローバーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_903373,PlayPark All-Stars 2026 Door Prize,PlayPark オールスターズ 2026 ドア賞品
 PROPITEM_TXT_903374,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (7 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.",戦神の巻物ESx10、パワーストーンx10、豪傑のスクロール(B)x10、秘薬ボックスx20、ポーションボックスx20、魔法の携帯バッグ(30日)x1、フィードバッグ(7日)x1、カードディスク(7日)x1、ピックアップブーストスクロール(7日)x1、メテオバイク(イエロー)(30日)x1、ベビータイガー(30日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903375,Lotus Blossom 10% Cyan Set,蓮の花 10%シアンセット
 PROPITEM_TXT_903376,Lotus Blossom Cyan Ribbon,蓮の花シアンリボン
@@ -26335,26 +26335,26 @@ PROPITEM_TXT_903462,Lotus Blossom Black Hands (F),蓮の花ブラックグロー
 PROPITEM_TXT_903463,Lotus Blossom 2% Black Set (F),蓮の花 2%ブラックセット(F)
 PROPITEM_TXT_903464,The Lotus Blossom 2% Black Set for female characters.,女性キャラクター用の蓮の花 2%ブラックセット
 PROPITEM_TXT_903465,Lotus Blossom Costume Lucky Box,蓮の花コスチュームラッキーボックス
-PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903466,This box contains a Lotus Blossom Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの蓮の花セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903467,Lotus Blossom Gold Skyblade ,蓮の花ゴールドスカイブレード
 PROPITEM_TXT_903468,Lotus Blossom Silver Skyblade,蓮の花シルバースカイブレード
 PROPITEM_TXT_903469,Lotus Blossom Black Skyblade,蓮の花ブラックスカイブレード
-PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.","A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h."
-PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[Event] 2026 Spring Monster Ball Lv1
-PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[Event] 2026 Spring Monster Ball Lv2
-PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[Event] 2026 Spring Monster Ball Lv3
-PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[Event] 2026 Spring Monster Ball Lv4
-PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\nRetrieval is scheduled for a limited time after the event ends.","A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\nRetrieval is scheduled for a limited time after the event ends."
-PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[Event] 2026 Giant Monster Box Lv1
-PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[Event] 2026 Giant Monster Box Lv2
-PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[Event] 2026 Giant Monster Box Lv3
-PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[Event] 2026 Giant Monster Box Lv4
-PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[Event] 2026 General Monster Box Lv1
-PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[Event] 2026 General Monster Box Lv2
-PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[Event] 2026 General Monster Box Lv3
-PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[Event] 2026 General Monster Box Lv4
-PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!
-PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Box obtained by hunting a Lv4 General monster. Test your Luck today!!
+PROPITEM_TXT_903470,"A divine skyblade imbued with ancient martial power, allowing its wielder to travel the skies. Maximum Speed: 64 km/h.",古の武術の力を宿した神聖な空飛ぶ刃。使い手を空へと誘う。最高速度：64km/h。
+PROPITEM_TXT_135099,[Event] 2026 Spring Monster Ball Lv1,[イベント]2026春のモンスターボール Lv1
+PROPITEM_TXT_135100,[Event] 2026 Spring Monster Ball Lv2,[イベント]2026春のモンスターボール Lv2
+PROPITEM_TXT_135101,[Event] 2026 Spring Monster Ball Lv3,[イベント]2026春のモンスターボール Lv3
+PROPITEM_TXT_135102,[Event] 2026 Spring Monster Ball Lv4,[イベント]2026春のモンスターボール Lv4
+PROPITEM_TXT_135103,"A Monster Ball that summons a top-tier monster. Be careful when using it, as giant monsters occasionally appear.\nRetrieval is scheduled for a limited time after the event ends.",最上級のモンスターを召喚できるモンスターボール。使用する際は、稀に巨大モンスターが出現することがあるのでご注意ください。\n回収はイベント終了後、一定期間限定で行われる予定です。
+PROPITEM_TXT_135104,[Event] 2026 Giant Monster Box Lv1,[イベント]2026巨大モンスターボックス Lv1
+PROPITEM_TXT_135105,[Event] 2026 Giant Monster Box Lv2,[イベント]2026巨大モンスターボックス Lv2
+PROPITEM_TXT_135106,[Event] 2026 Giant Monster Box Lv3,[イベント]2026巨大モンスターボックス Lv3
+PROPITEM_TXT_135107,[Event] 2026 Giant Monster Box Lv4,[イベント]2026巨大モンスターボックス Lv4
+PROPITEM_TXT_135108,[Event] 2026 General Monster Box Lv1,[イベント]2026将軍モンスターボックス Lv1
+PROPITEM_TXT_135109,[Event] 2026 General Monster Box Lv2,[イベント]2026将軍モンスターボックス Lv2
+PROPITEM_TXT_135110,[Event] 2026 General Monster Box Lv3,[イベント]2026将軍モンスターボックス Lv3
+PROPITEM_TXT_135111,[Event] 2026 General Monster Box Lv4,[イベント]2026将軍モンスターボックス Lv4
+PROPITEM_TXT_135112,Box obtained by hunting a Lv4 Giant monster. Test your Luck today!!,Lv4巨大モンスターを狩って入手できるボックス。今日の運試しをしてみよう！！
+PROPITEM_TXT_135113,Box obtained by hunting a Lv4 General monster. Test your Luck today!!,Lv4将軍モンスターを狩って入手できるボックス。今日の運試しをしてみよう！！
 PROPITEM_TXT_828327,[Event] Spring Buff Lucky Box,[Event] Spring Buff Lucky Box
 PROPITEM_TXT_828328,[Event] Green Clover,[Event] Green Clover
 PROPITEM_TXT_828329,[Event] Blue Clover,[Event] Blue Clover
@@ -26498,7 +26498,7 @@ PROPITEM_TXT_903588,Street Bunny Black Hands (F),ストリートバニーブラ�
 PROPITEM_TXT_903589,Street Bunny 2% Black Set (F),ストリートバニー 2%ブラックセット(F)
 PROPITEM_TXT_903590,The Street Bunny 2% Black Set for female characters.,女性キャラクター用のストリートバニー 2%ブラックセット
 PROPITEM_TXT_903591,Street Bunny Costume Lucky Box,ストリートバニーコスチュームラッキーボックス
-PROPITEM_TXT_903592,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903592,This box contains a Street Bunny Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのストリートバニーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903593,Idol 2026 10% Blue Set,アイドル2026 10%ブルーセット
 PROPITEM_TXT_903594,Idol 2026 Blue Headset,アイドル2026ブルーヘッドセット
 PROPITEM_TXT_903595,Idol 2026 Blue Hat (M),アイドル2026ブルーハット(M)
@@ -26584,23 +26584,23 @@ PROPITEM_TXT_903674,Idol 2026 White Hands (F),アイドル2026ホワイトグロ
 PROPITEM_TXT_903675,Idol 2026 2% White Set (F),アイドル2026 2%ホワイトセット(F)
 PROPITEM_TXT_903676,The Idol 2026 2% White Set for female characters.,女性キャラクター用のアイドル2026 2%ホワイトセット
 PROPITEM_TXT_903677,Idol 2026 Costume Lucky Box,アイドル2026コスチュームラッキーボックス
-PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903679,Yellow Nala,Yellow Nala
-PROPITEM_TXT_903680,White Nala,White Nala
-PROPITEM_TXT_903681,Blue Nala,Blue Nala
-PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.","Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h."
-PROPITEM_TXT_903683,[FWC 2026 Support Kit],[FWC 2026 Support Kit]
-PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ","A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. "
-PROPITEM_TXT_903685,Extra Bag (7 days),Extra Bag (7 days)
-PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.
-PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,FWC 2026 Mycard Promotion Box A
+PROPITEM_TXT_903678,This box contains a Idol 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのアイドル2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_903679,Yellow Nala,イエローナラ
+PROPITEM_TXT_903680,White Nala,ホワイトナラ
+PROPITEM_TXT_903681,Blue Nala,ブルーナラ
+PROPITEM_TXT_903682,"Nala charges ahead with wild enthusiasm and fearless resolve. More eager than cautious, this striped companion carries its rider into adventure with unmatched energy and loyal determination. Maximum Speed: 64 km/h.",ナラは荒々しい情熱と恐れを知らぬ決意で突き進む。慎重さより気迫を優先するこの縞模様の相棒は、比類なきエネルギーと忠実な決意で乗り手を冒険へと導く。最高速度：64km/h。
+PROPITEM_TXT_903683,[FWC 2026 Support Kit],[FWC 2026 サポートキット]
+PROPITEM_TXT_903684,"A kit containing 1x Lifestyle Bag Select Box (15 Days), 2x Extra Bag (7 Days), 2x Scroll of Resurrection, 2x Scroll of Velocity, 3x Def-Upcut Stone and 3x Power Scroll. All items are Soul-Linked. ",ライフスタイルバッグセレクトボックス(15日)x1、魔法の携帯バッグ(7日)x2、復活の巻物x2、神風の巻物x2、ディフェンスストーンx3、豪傑のスクロール(B)x3が含まれたキットです。全てのアイテムはプレイヤーに帰属されています。
+PROPITEM_TXT_903685,Extra Bag (7 days),魔法の携帯バッグ(7日)
+PROPITEM_TXT_903686,Expands item carrying limit by 24 items for characters. You can only use 2 at the same time. Lasts 7 days.,キャラクターのアイテム所持数上限を24個拡張。同時に使用できるのは2個までです。使用期限は7日間。
+PROPITEM_TXT_903687,FWC 2026 Mycard Promotion Box A,FWC 2026 MyCardプロモーションボックスA
 PROPITEM_TXT_903688,"A package containing 10x Blinkwing of Madrigal, 5x Flask Box, 5x Upcut Stone, 5x Vital Drink X or Refresher Hold, 5x Activition, 5x Grilled Eel and 1x [20~140] Amplification ES Scroll Select Box. All items are also linked.",ブリンクウイング（マドリガル）x10、秘薬ボックスx5、パワーストーンx5、スタミナドリンクXまたは魔力ドリンクゴールドx5、アクティビションx5、グリルド・イールx5、[20~140]戦神の巻物ES選択ボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,FWC 2026 Mycard Promotion Box B
+PROPITEM_TXT_903689,FWC 2026 Mycard Promotion Box B,FWC 2026 MyCardプロモーションボックスB
 PROPITEM_TXT_903690,"A package containing 3x Scroll of Velocity, 2x Elemental Attack Stone Select Box, 2x Balloon Select Box(6h), 5x Power Scroll, 1x Extra Bag (15 days), 3x [20~160] Amplification ES Scroll Select Box, 1x Rose Pink Yukata Costume Set Select Box and 1x Lucky Neko Weapon Set. All items are also linked.",神風の巻物x3、エレメンタルアタックストーンセレクトボックスx2、バルーンセレクトボックス(6時間)x2、豪傑のスクロール(B)x5、魔法の携帯バッグ(15日)x1、[20~160]戦神の巻物ES選択ボックスx3、ローズピンク浴衣コスチュームセットセレクトボックスx1、ラッキーネコウェポンセットx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 Mycard Promotion Box C
+PROPITEM_TXT_903691,FWC 2026 Mycard Promotion Box C,FWC 2026 MyCardプロモーションボックスC
 PROPITEM_TXT_903692,"A package containing 4x Elemental Attack Stone Select Box, 5x Flask Box, 2x Power Scroll, 1x Pet Reroll Scroll, 1x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box, 1x Magical Kid Red Weapon Set and 1x Fantasy Guardian 10% Red Set. All items are also linked.",エレメンタルアタックストーンセレクトボックスx4、秘薬ボックスx5、豪傑のスクロール(B)x2、ペット再抽選の巻物x1、魔法の携帯バッグ(30日)x1、[20~160]戦神の巻物ES選択ボックスx4、マジカルキッドレッドウェポンセットx1、ファンタジーガーディアン10%レッドセットx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,Rose Pink Yukata Costume Set Select Box
-PROPITEM_TXT_903694,Select which Gender you want to receive!,Select which Gender you want to receive!
+PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,ローズピンク浴衣コスチュームセットセレクトボックス
+PROPITEM_TXT_903694,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[イベント]2026スプリングギフトボックス
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),マドリガルフライングセレクションボックス（15日）
 PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWC ゴールデンカータナ アルティメット
@@ -26678,105 +26678,105 @@ PROPITEM_TXT_155900,2026 FWC Golden Verashan Helmet,2026 FWCゴールデンヴ�
 PROPITEM_TXT_155901,2026 FWC Golden Verashan Suit,2026 FWCゴールデンヴェラシャンスーツ
 PROPITEM_TXT_155902,2026 FWC Golden Verashan Gauntlets,2026 FWCゴールデンヴェラシャンガントレット
 PROPITEM_TXT_155903,2026 FWC Golden Verashan Boots,2026 FWCゴールデンヴェラシャンブーツ
-PROPITEM_TXT_903695,FWC Convenience Pack,FWC Convenience Pack
+PROPITEM_TXT_903695,FWC Convenience Pack,FWCコンビニエンスパック
 PROPITEM_TXT_903696,"A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked.",ブリンクウイング（マドリガル）x10、神風の巻物x10、復活の巻物x5、アクティビションx5、ポーションボックスx3、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903697,FWC Hunter's Pack,FWC Hunter's Pack
+PROPITEM_TXT_903697,FWC Hunter's Pack,FWCハンターズパック
 PROPITEM_TXT_903698,"A package containing 5x Scroll of Amplification ES, 5x Power Scroll, 5x Flask Box and 2x Grilled Eel. All items are also linked.",戦神の巻物ESx5、豪傑のスクロール(B)x5、秘薬ボックスx5、グリルド・イールx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903699,Hyper Pickup Pet Package (15 Days),Hyper Pickup Pet Package (15 Days)
+PROPITEM_TXT_903699,Hyper Pickup Pet Package (15 Days),ハイパーピックアップペットパッケージ(15日)
 PROPITEM_TXT_903700,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Scroll of PickUp Boost (15 days) and 1x Scroll of PickUp Range (15 Days). All items are also linked.",マドリガルピックアップペットセレクションボックス(15日)x1、ピックアップブーストスクロール（15日）x1、ピックアップ範囲スクロール(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903701,School Life Costume Select Box 3,School Life Costume Select Box 3
-PROPITEM_TXT_903702,Select your favorite School Life Costume,Select your favorite School Life Costume
-PROPITEM_TXT_903703,Japanese Piggy Pet Select Box,Japanese Piggy Pet Select Box
-PROPITEM_TXT_903704,Select your favorite Japanese Piggy Pet,Select your favorite Japanese Piggy Pet
-PROPITEM_TXT_903705,Flying Sheep Pet Select Box,Flying Sheep Pet Select Box
-PROPITEM_TXT_903706,Select your favorite Flying Sheep Pet,Select your favorite Flying Sheep Pet
-PROPITEM_TXT_903707,Madrigal PickupPet Selection Box (15 Days),Madrigal PickupPet Selection Box (15 Days)
-PROPITEM_TXT_903708,Select your favorite Pickup Pet (15 Days),Select your favorite Pickup Pet (15 Days)
-PROPITEM_TXT_903709,Thumbs Up Emote,Thumbs Up Emote
-PROPITEM_TXT_135114,4th Anniversary Banner,4th Anniversary Banner
-PROPITEM_TXT_135115,A banner for the 4th Anniversary event. Collect and register missing letters to receive rewards.,A banner for the 4th Anniversary event. Collect and register missing letters to receive rewards.
-PROPITEM_TXT_135116,Torn Banner,Torn Banner
-PROPITEM_TXT_135117,"A banner torn to pieces by monsters.\nWhen used, you will receive a random letter item.\nCollect as many as you can to earn rewards.","A banner torn to pieces by monsters.\nWhen used, you will receive a random letter item.\nCollect as many as you can to earn rewards."
-PROPITEM_TXT_135118,Collection Bag,Collection Bag
-PROPITEM_TXT_135119,"A bag provided for collecting banner pieces.\nIt can only store items obtained from ""Torn Banner.""\nAt the end of the event, you can only retrieve the items stored in the bag.","A bag provided for collecting banner pieces.\nIt can only store items obtained from ""Torn Banner.""\nAt the end of the event, you can only retrieve the items stored in the bag."
-PROPITEM_TXT_135120,Banner Fragment A,Banner Fragment A
-PROPITEM_TXT_135121,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""A"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""A"" written on it."
-PROPITEM_TXT_135122,Banner Fragment B,Banner Fragment B
-PROPITEM_TXT_135123,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""B"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""B"" written on it."
-PROPITEM_TXT_135124,Banner Fragment D,Banner Fragment D
-PROPITEM_TXT_135125,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""D"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""D"" written on it."
-PROPITEM_TXT_135126,Banner Fragment E,Banner Fragment E
-PROPITEM_TXT_135127,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""E"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""E"" written on it."
-PROPITEM_TXT_135128,Banner Fragment F,Banner Fragment F
-PROPITEM_TXT_135129,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""F"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""F"" written on it."
-PROPITEM_TXT_135130,Banner Fragment H,Banner Fragment H
-PROPITEM_TXT_135131,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""H"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""H"" written on it."
-PROPITEM_TXT_135132,Banner Fragment I,Banner Fragment I
-PROPITEM_TXT_135133,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""I"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""I"" written on it."
-PROPITEM_TXT_135134,Banner Fragment L,Banner Fragment L
-PROPITEM_TXT_135135,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""L"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""L"" written on it."
-PROPITEM_TXT_135136,Banner Fragment O,Banner Fragment O
-PROPITEM_TXT_135137,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""O"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""O"" written on it."
-PROPITEM_TXT_135138,Banner Fragment P,Banner Fragment P
-PROPITEM_TXT_135139,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""P"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""P"" written on it."
-PROPITEM_TXT_135140,Banner Fragment R,Banner Fragment R
-PROPITEM_TXT_135141,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""R"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""R"" written on it."
-PROPITEM_TXT_135142,Banner Fragment T,Banner Fragment T
-PROPITEM_TXT_135143,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""T"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""T"" written on it."
-PROPITEM_TXT_135144,Banner Fragment V,Banner Fragment V
-PROPITEM_TXT_135145,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""V"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""V"" written on it."
-PROPITEM_TXT_135146,Banner Fragment Y,Banner Fragment Y
-PROPITEM_TXT_135147,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""Y"" written on it.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""Y"" written on it."
-PROPITEM_TXT_135148,Complete Banner,Complete Banner
-PROPITEM_TXT_135149,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt can substitute for other letters.","An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt can substitute for other letters."
-PROPITEM_TXT_135150,Golden Ticket,Golden Ticket
-PROPITEM_TXT_135151,An item that can only be obtained with a certain probability through exchange with the Event NPC.\nIt offers a chance to receive valuable rewards.,An item that can only be obtained with a certain probability through exchange with the Event NPC.\nIt offers a chance to receive valuable rewards.
-PROPITEM_TXT_135152,[Event] 4th Anniversary Supply Box A,[Event] 4th Anniversary Supply Box A
-PROPITEM_TXT_135153,[Event] 4th Anniversary Supply Box B,[Event] 4th Anniversary Supply Box B
-PROPITEM_TXT_135154,[Event] 4th Anniversary Supply Box C,[Event] 4th Anniversary Supply Box C
-PROPITEM_TXT_135155,[Event] 4th Anniversary Supply Box D,[Event] 4th Anniversary Supply Box D
-PROPITEM_TXT_135156,A 4th Anniversary Supply Box containing various rewards depending on its grade.,A 4th Anniversary Supply Box containing various rewards depending on its grade.
-PROPITEM_TXT_135157,[Event] 4th Anniversary Random Box,[Event] 4th Anniversary Random Box
-PROPITEM_TXT_135158,A lucky box that grants random rewards when used.,A lucky box that grants random rewards when used.
-PROPITEM_TXT_135159,4th Anniversary Pass,4th Anniversary Pass
-PROPITEM_TXT_135160,This purchase will give you access to many advantages until the end of the 4th Anniversary Pass season,This purchase will give you access to many advantages until the end of the 4th Anniversary Pass season
-PROPITEM_TXT_135161,4th Anniversary Lucky Box I,4th Anniversary Lucky Box I
-PROPITEM_TXT_135162,4th Anniversary Lucky Box II,4th Anniversary Lucky Box II
-PROPITEM_TXT_135163,4th Anniversary Lucky Box III,4th Anniversary Lucky Box III
-PROPITEM_TXT_135164,4th Anniversary Lucky Box IV,4th Anniversary Lucky Box IV
-PROPITEM_TXT_135165,A box with a gift for our fourth anniversary. Open it to see what's inside.,A box with a gift for our fourth anniversary. Open it to see what's inside.
-PROPITEM_TXT_135166,Feed Bag (3 day),Feed Bag (3 day)
-PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 day when used.,Does not reduce the energy of Raised pets for 3 day when used.
-PROPITEM_TXT_135168,Party Toy Sword,Party Toy Sword
-PROPITEM_TXT_135169,Party Toy Axe,Party Toy Axe
-PROPITEM_TXT_135170,Party Toy Big Sword,Party Toy Big Sword
-PROPITEM_TXT_135171,Party Toy Big Axe,Party Toy Big Axe
-PROPITEM_TXT_135172,Party Toy Stick,Party Toy Stick
-PROPITEM_TXT_135173,Party Toy Knuckle,Party Toy Knuckle
-PROPITEM_TXT_135174,Party Toy Bow,Party Toy Bow
-PROPITEM_TXT_135175,Party Toy Yo-Yo,Party Toy Yo-Yo
-PROPITEM_TXT_135176,Party Toy Staff,Party Toy Staff
-PROPITEM_TXT_135177,Party Toy Wand,Party Toy Wand
-PROPITEM_TXT_135178,Party Toy Shield,Party Toy Shield
-PROPITEM_TXT_135179,Party Toy Force Gem,Party Toy Force Gem
-PROPITEM_TXT_135180,Party Toy Book,Party Toy Book
+PROPITEM_TXT_903701,School Life Costume Select Box 3,スクールライフコスチュームセレクトボックス3
+PROPITEM_TXT_903702,Select your favorite School Life Costume,お好きなスクールライフコスチュームをお選びください
+PROPITEM_TXT_903703,Japanese Piggy Pet Select Box,貯金箱ペットセレクトボックス
+PROPITEM_TXT_903704,Select your favorite Japanese Piggy Pet,お好きな貯金箱ペットをお選びください
+PROPITEM_TXT_903705,Flying Sheep Pet Select Box,空飛ぶ羊ペットセレクトボックス
+PROPITEM_TXT_903706,Select your favorite Flying Sheep Pet,お好きな空飛ぶ羊ペットをお選びください
+PROPITEM_TXT_903707,Madrigal PickupPet Selection Box (15 Days),マドリガルピックアップペットセレクションボックス(15日)
+PROPITEM_TXT_903708,Select your favorite Pickup Pet (15 Days),お好きなピックアップペット(15日)をお選びください
+PROPITEM_TXT_903709,Thumbs Up Emote,サムズアップエモート
+PROPITEM_TXT_135114,4th Anniversary Banner,4周年記念バナー
+PROPITEM_TXT_135115,A banner for the 4th Anniversary event. Collect and register missing letters to receive rewards.,4周年記念イベントのバナー。欠けている文字を集めて登録すると報酬がもらえます。
+PROPITEM_TXT_135116,Torn Banner,破れたバナー
+PROPITEM_TXT_135117,"A banner torn to pieces by monsters.\nWhen used, you will receive a random letter item.\nCollect as many as you can to earn rewards.",モンスターによって粉々に引き裂かれたバナー。\n使用すると、ランダムな文字アイテムを1つ受け取れます。\nできるだけ多く集めて報酬を獲得しましょう。
+PROPITEM_TXT_135118,Collection Bag,収集バッグ
+PROPITEM_TXT_135119,"A bag provided for collecting banner pieces.\nIt can only store items obtained from ""Torn Banner.""\nAt the end of the event, you can only retrieve the items stored in the bag.",バナーの欠片を集めるために提供される袋。\n「破れたバナー」から入手したアイテムのみ保管できます。\nイベント終了時には、袋に保管されたアイテムのみ受け取ることができます。
+PROPITEM_TXT_135120,Banner Fragment A,バナーの欠片 A
+PROPITEM_TXT_135121,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""A"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「A」が書かれている。
+PROPITEM_TXT_135122,Banner Fragment B,バナーの欠片 B
+PROPITEM_TXT_135123,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""B"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「B」が書かれている。
+PROPITEM_TXT_135124,Banner Fragment D,バナーの欠片 D
+PROPITEM_TXT_135125,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""D"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「D」が書かれている。
+PROPITEM_TXT_135126,Banner Fragment E,バナーの欠片 E
+PROPITEM_TXT_135127,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""E"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「E」が書かれている。
+PROPITEM_TXT_135128,Banner Fragment F,バナーの欠片 F
+PROPITEM_TXT_135129,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""F"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「F」が書かれている。
+PROPITEM_TXT_135130,Banner Fragment H,バナーの欠片 H
+PROPITEM_TXT_135131,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""H"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「H」が書かれている。
+PROPITEM_TXT_135132,Banner Fragment I,バナーの欠片 I
+PROPITEM_TXT_135133,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""I"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「I」が書かれている。
+PROPITEM_TXT_135134,Banner Fragment L,バナーの欠片 L
+PROPITEM_TXT_135135,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""L"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「L」が書かれている。
+PROPITEM_TXT_135136,Banner Fragment O,バナーの欠片 O
+PROPITEM_TXT_135137,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""O"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「O」が書かれている。
+PROPITEM_TXT_135138,Banner Fragment P,バナーの欠片 P
+PROPITEM_TXT_135139,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""P"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「P」が書かれている。
+PROPITEM_TXT_135140,Banner Fragment R,バナーの欠片 R
+PROPITEM_TXT_135141,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""R"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「R」が書かれている。
+PROPITEM_TXT_135142,Banner Fragment T,バナーの欠片 T
+PROPITEM_TXT_135143,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""T"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「T」が書かれている。
+PROPITEM_TXT_135144,Banner Fragment V,バナーの欠片 V
+PROPITEM_TXT_135145,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""V"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「V」が書かれている。
+PROPITEM_TXT_135146,Banner Fragment Y,バナーの欠片 Y
+PROPITEM_TXT_135147,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt faintly has the letter ""Y"" written on it.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\nうっすらと文字「Y」が書かれている。
+PROPITEM_TXT_135148,Complete Banner,完成のバナー
+PROPITEM_TXT_135149,"An item that can be obtained randomly with a certain probability when using a ""Torn Banner.""\nIt can substitute for other letters.",「破れたバナー」使用時に、一定確率でランダムに入手できるアイテム。\n他の文字の代わりとして使用できる。
+PROPITEM_TXT_135150,Golden Ticket,ゴールデンチケット
+PROPITEM_TXT_135151,An item that can only be obtained with a certain probability through exchange with the Event NPC.\nIt offers a chance to receive valuable rewards.,イベントNPCとの交換を通じて、一定確率でのみ入手できるアイテム。\n貴重な報酬を受け取れるチャンスがあります。
+PROPITEM_TXT_135152,[Event] 4th Anniversary Supply Box A,[イベント]4周年記念サプライボックスA
+PROPITEM_TXT_135153,[Event] 4th Anniversary Supply Box B,[イベント]4周年記念サプライボックスB
+PROPITEM_TXT_135154,[Event] 4th Anniversary Supply Box C,[イベント]4周年記念サプライボックスC
+PROPITEM_TXT_135155,[Event] 4th Anniversary Supply Box D,[イベント]4周年記念サプライボックスD
+PROPITEM_TXT_135156,A 4th Anniversary Supply Box containing various rewards depending on its grade.,グレードに応じて様々な報酬が入った4周年記念サプライボックス。
+PROPITEM_TXT_135157,[Event] 4th Anniversary Random Box,[イベント]4周年記念ランダムボックス
+PROPITEM_TXT_135158,A lucky box that grants random rewards when used.,使用するとランダムな報酬がもらえるラッキーボックス。
+PROPITEM_TXT_135159,4th Anniversary Pass,4周年記念パス
+PROPITEM_TXT_135160,This purchase will give you access to many advantages until the end of the 4th Anniversary Pass season,この購入により、4周年記念パスシーズン終了まで様々な特典が利用可能になります
+PROPITEM_TXT_135161,4th Anniversary Lucky Box I,4周年記念ラッキーボックス I
+PROPITEM_TXT_135162,4th Anniversary Lucky Box II,4周年記念ラッキーボックス II
+PROPITEM_TXT_135163,4th Anniversary Lucky Box III,4周年記念ラッキーボックス III
+PROPITEM_TXT_135164,4th Anniversary Lucky Box IV,4周年記念ラッキーボックス IV
+PROPITEM_TXT_135165,A box with a gift for our fourth anniversary. Open it to see what's inside.,4周年を記念したギフトが入ったボックス。開けて中身を確認してみましょう。
+PROPITEM_TXT_135166,Feed Bag (3 day),フィードバッグ(3日)
+PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 day when used.,使用時、飼育されたペットのエネルギーを3日減少しないようになります。
+PROPITEM_TXT_135168,Party Toy Sword,パーティトイソード
+PROPITEM_TXT_135169,Party Toy Axe,パーティトイアクス
+PROPITEM_TXT_135170,Party Toy Big Sword,パーティトイビッグソード
+PROPITEM_TXT_135171,Party Toy Big Axe,パーティトイビッグアクス
+PROPITEM_TXT_135172,Party Toy Stick,パーティトイスティック
+PROPITEM_TXT_135173,Party Toy Knuckle,パーティトイナックル
+PROPITEM_TXT_135174,Party Toy Bow,パーティトイボウ
+PROPITEM_TXT_135175,Party Toy Yo-Yo,パーティトイヨーヨー
+PROPITEM_TXT_135176,Party Toy Staff,パーティトイスタッフ
+PROPITEM_TXT_135177,Party Toy Wand,パーティトイワンド
+PROPITEM_TXT_135178,Party Toy Shield,パーティトイシールド
+PROPITEM_TXT_135179,Party Toy Force Gem,パーティトイフォースジェム
+PROPITEM_TXT_135180,Party Toy Book,パーティトイブック
 PROPITEM_TXT_135181,Party Toy Weapon Set,パーティトイウェポンセット
-PROPITEM_TXT_135182,Select which Party Toy Weapon you want to receive!,Select which Party Toy Weapon you want to receive!
+PROPITEM_TXT_135182,Select which Party Toy Weapon you want to receive!,受け取りたいパーティトイ武器を選択してください！
 PROPITEM_TXT_135183,Neigh-Sayer Set,ネイセイヤーセット
 PROPITEM_TXT_135184,Neigh-Sayer Set (M),ネイセイヤーセット(M)
 PROPITEM_TXT_135185,The Neigh-Sayer Set for male characters.,男性キャラクター用のネイセイヤーセット
-PROPITEM_TXT_135186,Neigh-Sayer Hat (M),Neigh-Sayer Hat (M)
-PROPITEM_TXT_135187,Neigh-Sayer Suit (M),Neigh-Sayer Suit (M)
-PROPITEM_TXT_135188,Neigh-Sayer Shoes (M),Neigh-Sayer Shoes (M)
-PROPITEM_TXT_135189,Neigh-Sayer Hands (M),Neigh-Sayer Hands (M)
+PROPITEM_TXT_135186,Neigh-Sayer Hat (M),ネイセイヤーハット(M)
+PROPITEM_TXT_135187,Neigh-Sayer Suit (M),ネイセイヤースーツ(M)
+PROPITEM_TXT_135188,Neigh-Sayer Shoes (M),ネイセイヤーシューズ(M)
+PROPITEM_TXT_135189,Neigh-Sayer Hands (M),ネイセイヤーグローブ(M)
 PROPITEM_TXT_135190,Neigh-Sayer Set (F),ネイセイヤーセット(F)
 PROPITEM_TXT_135191,The Neigh-Sayer Set for female characters.,女性キャラクター用のネイセイヤーセット
-PROPITEM_TXT_135192,Neigh-Sayer Hat (F),Neigh-Sayer Hat (F)
-PROPITEM_TXT_135193,Neigh-Sayer Suit (F),Neigh-Sayer Suit (F)
-PROPITEM_TXT_135194,Neigh-Sayer Shoes (F),Neigh-Sayer Shoes (F)
-PROPITEM_TXT_135195,Neigh-Sayer Hands (F),Neigh-Sayer Hands (F)
-PROPITEM_TXT_135196,Red HorseHead Broom,Red HorseHead Broom
-PROPITEM_TXT_135197,Vroom,Vroom
+PROPITEM_TXT_135192,Neigh-Sayer Hat (F),ネイセイヤーハット(F)
+PROPITEM_TXT_135193,Neigh-Sayer Suit (F),ネイセイヤースーツ(F)
+PROPITEM_TXT_135194,Neigh-Sayer Shoes (F),ネイセイヤーシューズ(F)
+PROPITEM_TXT_135195,Neigh-Sayer Hands (F),ネイセイヤーグローブ(F)
+PROPITEM_TXT_135196,Red HorseHead Broom,レッドホースヘッドのほうき
+PROPITEM_TXT_135197,Vroom,ブルーム
 PROPITEM_TXT_903710,Carnival Master 10% Red Set,カーニバルマスター 10%レッドセット
 PROPITEM_TXT_903711,Carnival Master Red Popcorn Bucket,カーニバルマスターレッドポップコーンバケット
 PROPITEM_TXT_903712,Carnival Master Lion Red Mask,カーニバルマスターライオンレッドマスク
@@ -26898,7 +26898,7 @@ PROPITEM_TXT_903827,Carnival Master Black Hands (F),カーニバルマスター�
 PROPITEM_TXT_903828,Carnival Master 2% Black Set (F),カーニバルマスター 2%ブラックセット(F)
 PROPITEM_TXT_903829,The Carnival Master 2% Black Set for female characters.,女性キャラクター用のカーニバルマスター 2%ブラックセット
 PROPITEM_TXT_903830,Carnival Master Costume Lucky Box,カーニバルマスターコスチュームラッキーボックス
-PROPITEM_TXT_903831,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_903831,This box contains a Carnival Master Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのカーニバルマスターセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_903832,Carnival Master Rabbit Red Mask,カーニバルマスターラビットレッドマスク
 PROPITEM_TXT_903833,Carnival Master Rabbit Orange Mask,カーニバルマスターラビットオレンジマスク
 PROPITEM_TXT_903834,Carnival Master Rabbit Green Mask,カーニバルマスターラビットグリーンマスク
@@ -26907,12 +26907,12 @@ PROPITEM_TXT_903836,Carnival Master Rabbit Blue Mask,カーニバルマスター
 PROPITEM_TXT_903837,Carnival Master Rabbit Purple Mask,カーニバルマスターラビットパープルマスク
 PROPITEM_TXT_903838,Carnival Master Rabbit Pink Mask,カーニバルマスターラビットピンクマスク
 PROPITEM_TXT_903839,Carnival Master Rabbit Black Mask,カーニバルマスターラビットブラックマスク
-PROPITEM_TXT_903840,Lucky Horseshoe Box,Lucky Horseshoe Box
-PROPITEM_TXT_903841,4th Anniversary Vagrant's Scroll Pack,4th Anniversary Vagrant's Scroll Pack
+PROPITEM_TXT_903840,Lucky Horseshoe Box,ラッキーホースシューボックス
+PROPITEM_TXT_903841,4th Anniversary Vagrant's Scroll Pack,4周年記念放浪者のスクロールパック
 PROPITEM_TXT_903842,"A package containing 10x Scroll of Return Town, 10x Scroll of Resurrection, 10x Scroll of Velocity and 10x Activation. All items are also linked.",街戻りの巻物x10、復活の巻物x10、神風の巻物x10、アクティビションx10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903843,4th Anniversary Upgrade Package,4th Anniversary Upgrade Package
+PROPITEM_TXT_903843,4th Anniversary Upgrade Package,4周年記念アップグレードパッケージ
 PROPITEM_TXT_903844,"A package containing 5x Smelting Scroll Box, 2x Scroll of Weapon Bonus(Job) Select box and 6x Stat Scroll Box. All items are also linked.",精錬編の巻物ボックスx5、武器ボーナス（職業）の巻物セレクトボックスx2、ステータススクロールボックスx6が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903845,4th Anniversary All inclusive Upgrade Package,4th Anniversary All inclusive Upgrade Package
+PROPITEM_TXT_903845,4th Anniversary All inclusive Upgrade Package,4周年記念オールインクルーシブアップグレードパッケージ
 PROPITEM_TXT_903846,"A package containing 20x Smelting Scroll Box, 20x Power Dice 10, 20x Power Dice 12 and 10x Scroll of Weapon Bonus(Job) Select box. All items are also linked.",精錬編の巻物ボックスx20、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20、武器ボーナス（職業）の巻物セレクトボックスx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903847,Military 2026 10% Green Set,ミリタリー2026 10%グリーンセット
 PROPITEM_TXT_903848,Military 2026 Green Backpack,ミリタリー2026グリーンバックパック
@@ -27004,39 +27004,39 @@ PROPITEM_TXT_903933,Military 2026 Dark Shoes (F),女性キャラクター用の�
 PROPITEM_TXT_903934,Military 2026 Dark Hands (F),女性キャラクター用のミリタリー2026ダークグローブ
 PROPITEM_TXT_903935,Military 2026 2% Dark Set (F),女性キャラクター用のミリタリー2026 2%ダークセット
 PROPITEM_TXT_903936,The Military 2026 2% Dark Set for female characters.,女性キャラクター用のミリタリー2026 2%ダークセット
-PROPITEM_TXT_903937,Green Pawzer,Green Pawzer
-PROPITEM_TXT_903938,"A fearless pup piloting a tiny battle tank, built to collect loot with speed and style.","A fearless pup piloting a tiny battle tank, built to collect loot with speed and style."
-PROPITEM_TXT_903939,Blue Pawzer,Blue Pawzer
-PROPITEM_TXT_903940,Light Pawzer,Light Pawzer
-PROPITEM_TXT_903941,Cyan Pawzer,Cyan Pawzer
-PROPITEM_TXT_903942,Red Pawzer,Red Pawzer
-PROPITEM_TXT_903943,Dark Pawzer,Dark Pawzer
+PROPITEM_TXT_903937,Green Pawzer,グリーンパウザー
+PROPITEM_TXT_903938,"A fearless pup piloting a tiny battle tank, built to collect loot with speed and style.",スピードとスタイルを兼ね備え、戦利品集めのために作られた小さな戦車を操縦する、恐れ知らずの子犬。
+PROPITEM_TXT_903939,Blue Pawzer,ブルーパウザー
+PROPITEM_TXT_903940,Light Pawzer,ライトパウザー
+PROPITEM_TXT_903941,Cyan Pawzer,シアンパウザー
+PROPITEM_TXT_903942,Red Pawzer,レッドパウザー
+PROPITEM_TXT_903943,Dark Pawzer,ダークパウザー
 PROPITEM_TXT_903944,Military 2026 Costume Lucky Box,ミリタリー2026コスチュームラッキーボックス
-PROPITEM_TXT_903945,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_903946,4th Anniversary Appreciation Coupon,4th Anniversary Appreciation Coupon
+PROPITEM_TXT_903945,This box contains a Military 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのミリタリー2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_903946,4th Anniversary Appreciation Coupon,4周年記念感謝クーポン
 PROPITEM_TXT_903947,"A package containing 3x Scroll of Amplification ES, 1x Power Scroll, 1x Scroll of Resurrection, 1x Balloon Select Box (6h) and 5x Cracker Box. All items are also linked.",戦神の巻物ESx3、豪傑のスクロール(B)x1、復活の巻物x1、バルーンセレクトボックス(6時間)x1、クラッカーボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903948,4th Anniversary Ultimate Bonus Package A,4th Anniversary Ultimate Bonus Package A
+PROPITEM_TXT_903948,4th Anniversary Ultimate Bonus Package A,4周年記念アルティメットボーナスパッケージA
 PROPITEM_TXT_903949,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,アルティメットボーナスの巻物x3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903950,4th Anniversary Ultimate Bonus Package B,4th Anniversary Ultimate Bonus Package B
+PROPITEM_TXT_903950,4th Anniversary Ultimate Bonus Package B,4周年記念アルティメットボーナスパッケージB
 PROPITEM_TXT_903951,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,アルティメットボーナスの巻物IIx3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903952,An ancient weapon found deep within Ankou’s Asylum. It hums with the lingering power of the God of Death.,An ancient weapon found deep within Ankou’s Asylum. It hums with the lingering power of the God of Death.
-PROPITEM_TXT_903953,"A mysterious artifact from the depths of Ankou’s Asylum, pulsating with the whispers of lost souls and the remnants of an ancient god.","A mysterious artifact from the depths of Ankou’s Asylum, pulsating with the whispers of lost souls and the remnants of an ancient god."
-PROPITEM_TXT_903954,"A golden weapon reforged to commemorate Flyff World Championship 2026. It gleams with honor, prestige, and the lingering power of the God of Death.","A golden weapon reforged to commemorate Flyff World Championship 2026. It gleams with honor, prestige, and the lingering power of the God of Death."
-PROPITEM_TXT_903955,A golden artifact elevated in honor of Flyff World Championship 2026. It pulses with ancient divinity and the glory of champions.,A golden artifact elevated in honor of Flyff World Championship 2026. It pulses with ancient divinity and the glory of champions.
-PROPITEM_TXT_903956,Banner Token,Banner Token
-PROPITEM_TXT_903957,Token obtained for exchanging Banner Fragments. Can be used for exchanging for other rewards.,Token obtained for exchanging Banner Fragments. Can be used for exchanging for other rewards.
-PROPITEM_TXT_903958,Salute Emote,Salute Emote
+PROPITEM_TXT_903952,An ancient weapon found deep within Ankou’s Asylum. It hums with the lingering power of the God of Death.,ベヒモス神殿の奥深くで発見された古代の武器。死神の力の残滓が今もなお響いている。
+PROPITEM_TXT_903953,"A mysterious artifact from the depths of Ankou’s Asylum, pulsating with the whispers of lost souls and the remnants of an ancient god.",ベヒモス神殿の深部より発見された謎めいた秘宝。失われた魂のささやきと、古の神の残滓が脈打っている。
+PROPITEM_TXT_903954,"A golden weapon reforged to commemorate Flyff World Championship 2026. It gleams with honor, prestige, and the lingering power of the God of Death.",Flyff World Championship 2026を記念して鍛え直された黄金の武器。栄誉と誉れ、そして死神の力の残滓を纏い輝いている。
+PROPITEM_TXT_903955,A golden artifact elevated in honor of Flyff World Championship 2026. It pulses with ancient divinity and the glory of champions.,Flyff World Championship 2026を称えて昇華された黄金の秘宝。古の神性とチャンピオンの栄光が脈打っている。
+PROPITEM_TXT_903956,Banner Token,バナートークン
+PROPITEM_TXT_903957,Token obtained for exchanging Banner Fragments. Can be used for exchanging for other rewards.,バナーの欠片と交換して入手できるトークン。他の報酬との交換に使用できます。
+PROPITEM_TXT_903958,Salute Emote,サリュートエモート
 PROPITEM_TXT_903959,"A package containing 2x Upcut Stone, 2x Vital Drink X or Refresher Hold, 1x Scroll of Element Change, 1x Grilled Eel, 1x Scroll of Amplification ES and 2x Scroll of Resurrection. All items are also linked.",パワーストーンx2、スタミナドリンクXまたは魔力ドリンクゴールドx2、属性変更の巻物x1、グリルド・イールx1、戦神の巻物ESx1、復活の巻物x2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903960,Summer 2026 Mycard Promotion Box B,Summer 2026 Mycard Promotion Box B
+PROPITEM_TXT_903960,Summer 2026 Mycard Promotion Box B,サマー2026 MyCardプロモーションボックスB
 PROPITEM_TXT_903961,"A package containing 3x Flask Box, 1x Extra Bag (15 days), 5x Upcut Stone, 3x Power Scroll, 4x Box of Element Attack, 1x Beachwear Costume Set Select Box, 1x Lovable Chocolatier Blue Weapon Set and 3x [20~160] Amplification ES Scroll Select Box. All items are also linked.",秘薬ボックスx3、魔法の携帯バッグ(15日)x1、パワーストーンx5、豪傑のスクロール(B)x3、属性攻撃のボックスx4、ビーチウェアコスチュームセットセレクトボックスx1、ラブリーショコラティエブルーウェポンセットx1、[20~160]戦神の巻物ES選択ボックスx3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903962,Summer 2026 Mycard Promotion Box C,Summer 2026 Mycard Promotion Box C
+PROPITEM_TXT_903962,Summer 2026 Mycard Promotion Box C,サマー2026 MyCardプロモーションボックスC
 PROPITEM_TXT_903963,"A package containing 2x Flask Box, 1x Grilled Eel, 2x Power Scroll, 2x Scroll of Resurrection, 2x Extra Bag (30 days), 4x [20~160] Amplification ES Scroll Select Box and 1x 2023 Summer 10% Red Set. All items are also linked.",秘薬ボックスx2、グリルド・イールx1、豪傑のスクロール(B)x2、復活の巻物x2、魔法の携帯バッグ(30日)x2、[20~160]戦神の巻物ES選択ボックスx4、2023サマー10%レッドセットx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903964,Summer 2026 Mycard Promotion Box A,Summer 2026 Mycard Promotion Box A
-PROPITEM_TXT_903965,4th Anniversary Boboko's Lucky Box,4th Anniversary Boboko's Lucky Box
-PROPITEM_TXT_903966,"Who could have possibly put this car into the hands of a completely insane Demian? With its twin horns and dual turbos, this little maniac speeds everywhere, collecting items for its owner along the way!","Who could have possibly put this car into the hands of a completely insane Demian? With its twin horns and dual turbos, this little maniac speeds everywhere, collecting items for its owner along the way!"
-PROPITEM_TXT_903967,Summer Hunting Package,Summer Hunting Package
+PROPITEM_TXT_903964,Summer 2026 Mycard Promotion Box A,サマー2026 MyCardプロモーションボックスA
+PROPITEM_TXT_903965,4th Anniversary Boboko's Lucky Box,4周年記念ボボコのラッキーボックス
+PROPITEM_TXT_903966,"Who could have possibly put this car into the hands of a completely insane Demian? With its twin horns and dual turbos, this little maniac speeds everywhere, collecting items for its owner along the way!",誰がこの車を、完全にイカれたデミアンの手に渡してしまったのだろうか？双角とツインターボを備え、この小さな暴れん坊はどこへでも猛スピードで駆け抜け、道中で持ち主のためにアイテムを集めてくれる！
+PROPITEM_TXT_903967,Summer Hunting Package,サマーハンティングパッケージ
 PROPITEM_TXT_903968,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activition. All items are also linked.",戦神の巻物ESx5、復活の巻物x5、街戻りの巻物x5、神風の巻物x5、アクティビションx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_903969,Madrigal Element Package,Madrigal Element Package
+PROPITEM_TXT_903969,Madrigal Element Package,マドリガル属性パッケージ
 PROPITEM_TXT_903970,"A package containing 7x Scroll of Element Change, 7x Box of Element Attack and 7x Box of Element Defense. All items are also linked.",属性変更の巻物x7、属性攻撃のボックスx7、属性防御のボックスx7が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903971,Celestial Phoenix 10% Orange Set,セレスティアルフェニックス 10%オレンジセット
 PROPITEM_TXT_903972,Celestial Phoenix Orange Wings,セレスティアルフェニックスオレンジウィング
@@ -27153,58 +27153,58 @@ PROPITEM_TXT_904082,Amethyst Fawkes,Amethyst Fawkes
 PROPITEM_TXT_904083,Magenta Fawkes,Magenta Fawkes
 PROPITEM_TXT_904084,Gold Fawkes,Gold Fawkes
 PROPITEM_TXT_904085,"Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h.","Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h."
-PROPITEM_TXT_135198,Obtained by defeating monsters.\nCan be exchanged for Music Notes and Music Score Scrolls from the NPC 'Bach' in town,Obtained by defeating monsters.\nCan be exchanged for Music Notes and Music Score Scrolls from the NPC 'Bach' in town
-PROPITEM_TXT_135199,Mysterious Music Score Scroll,Mysterious Music Score Scroll
-PROPITEM_TXT_135200,Obtained by defeating monsters with a low chance.\nCan obtain one of the 3 scores at random,Obtained by defeating monsters with a low chance.\nCan obtain one of the 3 scores at random
-PROPITEM_TXT_135201,Fantastic Music Score Scroll,Fantastic Music Score Scroll
-PROPITEM_TXT_135203,Archangel's Hymn Score,Archangel's Hymn Score
-PROPITEM_TXT_135204,Archangel's Hymn Score Desc,Archangel's Hymn Score Desc
-PROPITEM_TXT_135205,Hell's Dissonance Score,Hell's Dissonance Score
-PROPITEM_TXT_135206,Hell's Dissonance Score Desc,Hell's Dissonance Score Desc
-PROPITEM_TXT_135207,Blunt Mayor's Score,Blunt Mayor's Score
-PROPITEM_TXT_135208,Blunt Mayor's Score Desc,Blunt Mayor's Score Desc
-PROPITEM_TXT_135209,Valkyrie's March Score,Valkyrie's March Score
-PROPITEM_TXT_135210,Valkyrie's March Score Desc,Valkyrie's March Score Desc
-PROPITEM_TXT_135211,Fallen Angel's Requiem Score,Fallen Angel's Requiem Score
-PROPITEM_TXT_135212,Fallen Angel's Requiem Score Desc,Fallen Angel's Requiem Score Desc
-PROPITEM_TXT_135213,Meowing Cat's Score,Meowing Cat's Score
-PROPITEM_TXT_135214,Meowing Cat's Score Desc,Meowing Cat's Score Desc
-PROPITEM_TXT_135215,Buff Pang's Appreciation Box,Buff Pang's Appreciation Box
+PROPITEM_TXT_135198,Obtained by defeating monsters.\nCan be exchanged for Music Notes and Music Score Scrolls from the NPC 'Bach' in town,モンスターを倒すと入手できます。\n街のNPC「バッハ」で音符や楽譜スクロールと交換できます。
+PROPITEM_TXT_135199,Mysterious Music Score Scroll,ミステリアス楽譜スクロール
+PROPITEM_TXT_135200,Obtained by defeating monsters with a low chance.\nCan obtain one of the 3 scores at random,モンスターを倒すと低確率で入手できます。\n3種類の楽譜からランダムで1つ入手できます。
+PROPITEM_TXT_135201,Fantastic Music Score Scroll,ファンタスティック楽譜スクロール
+PROPITEM_TXT_135203,Archangel's Hymn Score,大天使の賛美歌の楽譜
+PROPITEM_TXT_135204,Archangel's Hymn Score Desc,大天使の賛美歌の楽譜 説明
+PROPITEM_TXT_135205,Hell's Dissonance Score,地獄の不協和音の楽譜
+PROPITEM_TXT_135206,Hell's Dissonance Score Desc,地獄の不協和音の楽譜 説明
+PROPITEM_TXT_135207,Blunt Mayor's Score,無愛想な市長の楽譜
+PROPITEM_TXT_135208,Blunt Mayor's Score Desc,無愛想な市長の楽譜 説明
+PROPITEM_TXT_135209,Valkyrie's March Score,ヴァルキリーの行進曲の楽譜
+PROPITEM_TXT_135210,Valkyrie's March Score Desc,ヴァルキリーの行進曲の楽譜 説明
+PROPITEM_TXT_135211,Fallen Angel's Requiem Score,堕天使のレクイエムの楽譜
+PROPITEM_TXT_135212,Fallen Angel's Requiem Score Desc,堕天使のレクイエムの楽譜 説明
+PROPITEM_TXT_135213,Meowing Cat's Score,鳴き猫の楽譜
+PROPITEM_TXT_135214,Meowing Cat's Score Desc,鳴き猫の楽譜 説明
+PROPITEM_TXT_135215,Buff Pang's Appreciation Box,バフパンの感謝ボックス
 PROPITEM_TXT_135216,"A package containing 2x Flask Box, 1x Power Scroll and 1x Upcut Stone. All items are also linked.",秘薬ボックスx2、豪傑のスクロール(B)x1、パワーストーンx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135217,Julia's Appreciation Box,Julia's Appreciation Box
+PROPITEM_TXT_135217,Julia's Appreciation Box,ジュリアの感謝ボックス
 PROPITEM_TXT_135218,"A package containing 1x Vital Drink X or Refresher Hold, 1x Flask Box, 1x Scroll of Resurrection and 2x Scroll of Amplification ES. All items are also linked.",スタミナドリンクXまたは魔力ドリンクゴールドx1、秘薬ボックスx1、復活の巻物x1、戦神の巻物ESx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135219,Cupid's Appreciation Box,Cupid's Appreciation Box
+PROPITEM_TXT_135219,Cupid's Appreciation Box,キューピッドの感謝ボックス
 PROPITEM_TXT_135220,"A package containing 4x Blinkwing of Madrigal, 3x Potion Box, 2x Activition, 2x Scroll of Velocity and 2x Scroll of Amplification ES. All items are also linked.",ブリンクウイング（マドリガル）x4、ポーションボックスx3、アクティビションx2、神風の巻物x2、戦神の巻物ESx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135221,Lui's Appreciation Box,Lui's Appreciation Box
+PROPITEM_TXT_135221,Lui's Appreciation Box,ルイの感謝ボックス
 PROPITEM_TXT_135222,"A package containing 1x Extra Bag (3 days), 5x Blinkwing of Madrigal, 4x Def-Upcut Stone, 3x Activation, 3x Vital Drink X or Refresher Hold and 1x Item Transy B. All items are also linked.",魔法の携帯バッグ(3日)x1、ブリンクウイング（マドリガル）x5、ディフェンスストーンx4、アクティビションx3、スタミナドリンクX または 魔力ドリンクゴールドx3、FMチェンジャー(レッド/B)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135223,Charlie's Appreciation Box,Charlie's Appreciation Box
+PROPITEM_TXT_135223,Charlie's Appreciation Box,チャーリーの感謝ボックス
 PROPITEM_TXT_135224,"A package containing 2x Flask Box, 1x Scroll of Amplification ES, 1x Scroll of Resurrection, 1x Power Scroll, 2x Grilled Eel and 1x Madrigal PickupPet Selection Box (15 days). All items are also linked.",秘薬ボックスx2、戦神の巻物ESx1、復活の巻物x1、豪傑のスクロール(B)x1、グリルド・イールx2、マドリガルピックアップペットセレクションボックス(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135225,Aibatt's Compensation Box,Aibatt's Compensation Box
+PROPITEM_TXT_135225,Aibatt's Compensation Box,アイバットの補償ボックス
 PROPITEM_TXT_135226,"A package containing 2x Flask Box, 2x Upcut Stone and 2x Grilled Eel. All items are also linked.",秘薬ボックスx2、パワーストーンx2、グリルド・イールx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135227,Mushpang's Compensation Box,Mushpang's Compensation Box
+PROPITEM_TXT_135227,Mushpang's Compensation Box,マッシュファングの補償ボックス
 PROPITEM_TXT_135228,"A package containing 4x Scroll of Return Town, 2x Def-Upcut Stone, 2x Vital Drink X or Refresher Hold and 2x Scroll of Amplification ES. All items are also linked.",街戻りの巻物x4、ディフェンスストーンx2、スタミナドリンクXまたは魔力ドリンクゴールドx2、戦神の巻物ESx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135229,Peakyturtle's Compensation Box,Peakyturtle's Compensation Box
+PROPITEM_TXT_135229,Peakyturtle's Compensation Box,ピーキータートルの補償ボックス
 PROPITEM_TXT_135230,"A package containing 3x Potion Box, 2x Scroll of Amplification ES, 2x Power Scroll and 2x Upcut Stone. All items are also linked.",ポーションボックスx3、戦神の巻物ESx2、豪傑のスクロール(B)x2、パワーストーンx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135231,Doridoma's Compensation Box,Doridoma's Compensation Box
+PROPITEM_TXT_135231,Doridoma's Compensation Box,ドリドマの補償ボックス
 PROPITEM_TXT_135232,"A package containing 3x Scroll of Return Town, 2x Scroll of Food Shop, 1x Extra Bag (3 days), 3x Balloon Select Box(6h), 3x Activition and 2x Scroll of Amplification ES. All items are also linked.",街戻りの巻物x3、食料品店の巻物x2、魔法の携帯バッグ(3日)x1、バルーンセレクトボックス(6時間)x3、アクティビションx3、戦神の巻物ESx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135233,Pukepuke's Compensation Box,Pukepuke's Compensation Box
+PROPITEM_TXT_135233,Pukepuke's Compensation Box,プケプケの補償ボックス
 PROPITEM_TXT_135234,"A package containing 2x Blinkwing of Madrigal, 2x Upcut Stone, 2x Candy Select Box, 2x Vital Drink X or Refresher Hold, 2x Scroll of Amplification ES and 1x Madrigal PickupPet Selection Box (15 days). All items are also linked.",ブリンクウイング（マドリガル）x2、パワーストーンx2、キャンディセレクトボックスx2、スタミナドリンクXまたは魔力ドリンクゴールドx2、戦神の巻物ESx2、マドリガルピックアップペットセレクションボックス(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135235,Flaris Special Box,Flaris Special Box
+PROPITEM_TXT_135235,Flaris Special Box,フラリススペシャルボックス
 PROPITEM_TXT_135236,"A package containing 2x Scroll of Velocity, 2x Potion Box and 2x Vital Drink X or Refresher Hold. All items are also linked.",神風の巻物x2、ポーションボックスx2、スタミナドリンクX または 魔力ドリンクゴールドx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135237,Saint Morning Special Box,Saint Morning Special Box
+PROPITEM_TXT_135237,Saint Morning Special Box,セイントモーニングスペシャルボックス
 PROPITEM_TXT_135238,"A package containing 2x Blinkwing of Madrigal, 2x Scroll of Velocity, 2x Flask Box and 2x Scroll of Resurrection. All items are also linked.",ブリンクウイング（マドリガル）x2、神風の巻物x2、秘薬ボックスx2、復活の巻物x2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135239,Darkon Special Box,Darkon Special Box
+PROPITEM_TXT_135239,Darkon Special Box,ダーコンスペシャルボックス
 PROPITEM_TXT_135240,"A package containing 2x Chocolate Select Box, 2x Def-Upcut Stone, 2x Upcut Stone, 2x Scroll of Amplification ES and 2x Grilled Eel. All items are also linked.",チョコレートセレクトボックスx2、ディフェンスストーンx2、パワーストーンx2、戦神の巻物ESx2、グリルド・イールx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135241,Azria Special Box,Azria Special Box
+PROPITEM_TXT_135241,Azria Special Box,アズリアスペシャルボックス
 PROPITEM_TXT_135242,"A package containing 3x Flask Box, 3x Extra Bag (3 days), 2x Balloon Select Box(6h), 3x Scroll of Amplification ES and 2x Activition. All items are also linked.",秘薬ボックスx3、魔法の携帯バッグ(3日)x3、バルーンセレクトボックス(6時間)x2、戦神の巻物ESx3、アクティビションx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135243,Coral Island Special Box,Coral Island Special Box
+PROPITEM_TXT_135243,Coral Island Special Box,コーラル・アイランドスペシャルボックス
 PROPITEM_TXT_135244,"A package containing 2x Power Scroll, 1x Feed Bag (3 Days), 1x Bank Extra Bag (3 Days) and 2x Scroll of Amplification ES. All items are also linked.",豪傑のスクロール(B)x2、フィードバッグ(3日)x1、銀行エキストラバッグ(3日)x1、戦神の巻物ESx2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135245,Madrigal Special Box,Madrigal Special Box
+PROPITEM_TXT_135245,Madrigal Special Box,マドリガルスペシャルボックス
 PROPITEM_TXT_135246,"A package containing 1x Madrigal PickupPet Selection Box (15 days), 1x Flarine Flying Selection Box (15 days), 2x Scroll of Amplification ES and 1x Flask Box. All items are also linked.",マドリガルピックアップペットセレクションボックス(15日)x1、フラリスフライングセレクションボックス(15日)x1、戦神の巻物ESx2、秘薬ボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_135247,Flarine Flying Selection Box (15 days),Flarine Flying Selection Box (15 days)
-PROPITEM_TXT_135248,Select your favorite Flarine flying machine !,Select your favorite Flarine flying machine !
-PROPITEM_TXT_135249,2026 Costume Lucky Box,2026 Costume Lucky Box
-PROPITEM_TXT_135250,Good luck Adventurer !,Good luck Adventurer !
+PROPITEM_TXT_135247,Flarine Flying Selection Box (15 days),フラリスフライングセレクションボックス(15日)
+PROPITEM_TXT_135248,Select your favorite Flarine flying machine !,お好きなフラリスの飛行機をお選びください！
+PROPITEM_TXT_135249,2026 Costume Lucky Box,2026コスチュームラッキーボックス
+PROPITEM_TXT_135250,Good luck Adventurer !,幸運を、冒険者よ！
 PROPITEM_TXT_904176,US Muppet,US マペット
 PROPITEM_TXT_904177,A cheerful little mascot. It faithfully follows its master and collects loot along the way.,A cheerful little mascot. It faithfully follows its master and collects loot along the way.
 PROPITEM_TXT_904178,UK Muppet,UK マペット
@@ -27214,22 +27214,22 @@ PROPITEM_TXT_904181,CN Muppet,CN マペット
 PROPITEM_TXT_904182,KR Muppet,KR マペット
 PROPITEM_TXT_904185,Concerned Emote,Concerned Emote
 PROPITEM_TXT_904186,Embarassed Emote,Embarassed Emote
-PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)","Facebook Login issue Compensation Box(7days, FWC Only)"
-PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,This is a package containing rewards for the Facebook login issue.
-PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebook Login issue Compensation Box(7days)
-PROPITEM_TXT_135254,This is a package containing rewards for the Facebook login issue.,This is a package containing rewards for the Facebook login issue.
-PROPITEM_TXT_135255,FWC Flask(7 days) Select Box,FWC Flask(7 days) Select Box
+PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)",Facebookログイン問題補償ボックス(7日、FWC専用)
+PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,Facebookログイン問題に対する報酬が含まれたパッケージです。
+PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebookログイン問題補償ボックス(7日)
+PROPITEM_TXT_135254,This is a package containing rewards for the Facebook login issue.,Facebookログイン問題に対する報酬が含まれたパッケージです。
+PROPITEM_TXT_135255,FWC Flask(7 days) Select Box,FWCフラスコ(7日)選択ボックス
 PROPITEM_TXT_135256,Personal House NPC(7 days) Select Box,パーソナルハウスNPC(7日)セレクトボックス
-PROPITEM_TXT_135257,Select which NPC you want to receive!,Select which NPC you want to receive!
-PROPITEM_TXT_135258,[Event] Cloak of Ascension,[Event] Cloak of Ascension
-PROPITEM_TXT_135259,A magnificent cloak that grants powerful strength for 7 days.\nProvides a strong buff that aids in combat and growth.,A magnificent cloak that grants powerful strength for 7 days.\nProvides a strong buff that aids in combat and growth.
+PROPITEM_TXT_135257,Select which NPC you want to receive!,受け取りたいNPCを選択してください！
+PROPITEM_TXT_135258,[Event] Cloak of Ascension,[イベント]昇天のマント
+PROPITEM_TXT_135259,A magnificent cloak that grants powerful strength for 7 days.\nProvides a strong buff that aids in combat and growth.,7日間、強力な力を与える豪華なマント。\n戦闘や成長を助ける強力なバフを提供します。
 PROPITEM_TXT_135260,[Personal House NPC] Mac (F Grade) (7 Day),[パーソナルハウスNPC]マック(Fグレード)(7日)
 PROPITEM_TXT_135261,[Personal House NPC] Mac (E Grade) (7 Day),[パーソナルハウスNPC]マック(Eグレード)(7日)
 PROPITEM_TXT_135262,[Personal House NPC] Mac (D Grade) (7 Day),[パーソナルハウスNPC]マック(Dグレード)(7日)
 PROPITEM_TXT_135263,[Personal House NPC] Mac (C Grade) (7 Day),[パーソナルハウスNPC]マック(Cグレード)(7日)
 PROPITEM_TXT_135264,[Personal House NPC] Mac (B Grade) (7 Day),[パーソナルハウスNPC]マック(Bグレード)(7日)
 PROPITEM_TXT_135265,[Personal House NPC] Mac (A Grade) (7 Day),[パーソナルハウスNPC]マック(Aグレード)(7日)
-PROPITEM_TXT_135266,[Event] Cloak of Ascension (7 days),[Event] Cloak of Ascension (7 days)
+PROPITEM_TXT_135266,[Event] Cloak of Ascension (7 days),[イベント]昇天のマント(7日)
 PROPITEM_TXT_904200,2026 Mascot US Lucky Box,2026マスコットUSラッキーボックス
 PROPITEM_TXT_904201,2026 Mascot UK Lucky Box,2026マスコットUKラッキーボックス
 PROPITEM_TXT_904202,2026 Mascot DE Lucky Box,2026マスコットDEラッキーボックス
