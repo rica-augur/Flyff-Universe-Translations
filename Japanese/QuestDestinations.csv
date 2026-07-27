@@ -1,7 +1,7 @@
 ﻿Key,English,Japanese
 QUEST_DESTINATION_0002,Collect Twinke Stone by hunting Aibatt.,アイバットを退治して輝く石を集めよう。
-QUEST_DESTINATION_0005,Deliver it to Magician Instructor Lopaze.,[マジシャン訓練助手]ロパスに伝達しよう。
-QUEST_DESTINATION_0006,Deliver it to Acrobat Instructor Tailer.,[アクロバット訓練助手]タイラーに伝達しよう
+QUEST_DESTINATION_0005,Deliver it to Magician Instructor Lopaze.,[マジシャン訓練所_助手]ロパスに伝達しよう。
+QUEST_DESTINATION_0006,Deliver it to Acrobat Instructor Tailer.,[アクロバット訓練所_助手]タイラーに伝達しよう
 QUEST_DESTINATION_0007,Get rid of Ren from Iblis Temple located southern part of Saint Morning.,セイントモーニングの南にあるイブリス神殿の付近にいるレンを退治しよう
 QUEST_DESTINATION_0008,Get rid of Sisif and find Soulstone of Hero.,シシフを退治して英雄の封魂石を手に入れよう。
 QUEST_DESTINATION_0009,Get rid of Venel Guardian and find Venel Heart.,ヴェネル・ガーディアンを退治してヴェネルハートを手に入れよう。
@@ -47,9 +47,9 @@ QUEST_DESTINATION_0064,Bring it to Hachal in Darkon,ダーコンに住んでい�
 QUEST_DESTINATION_0066,Receive mail from Rankashu who is standing in front of Dekane Mine,デェカネス鉱山の前に立っているランカシュからメールを受け取る
 QUEST_DESTINATION_0067,Drian exists in the first room,ドリアンはダンジョン内の一番最初の部屋にいる。
 QUEST_DESTINATION_0068,Kill keakoon in the third room and obtain key.,3番目の部屋のキクン族を退治してキーを獲得しよう。
-QUEST_DESTINATION_0069,Move to the third room and check a cell where Nevil is locked.,3番目の部屋に移動してネヴィルが閉じ込められている監獄を確認しよう。
+QUEST_DESTINATION_0069,Move to the third room and check a cell where Nevil is locked.,3番目の部屋に移動してネビルが閉じ込められている監獄を確認しよう。
 QUEST_DESTINATION_0070,Kill Elite Keakoon Guard Leaders in the third room.,3番目の部屋にいるエリートキクンリーダーを退治しよう。
-QUEST_DESTINATION_0071,Talk with Nevin in prison,監獄にいるネヴィルと会話しよう
+QUEST_DESTINATION_0071,Talk with Nevin in prison,監獄にいるネビルと会話しよう
 QUEST_DESTINATION_0072,Break Roach egg in fifth room and obtain 15 Pink Roach Fluids,5番目の部屋に存在するローチの卵を割ってピンクローチ水を15個手に入れよう。
 QUEST_DESTINATION_0073,Break Roach egg in fourth room and obtain 15 Blue Roach Fluids,4番目の部屋に存在するローチの卵を割ってブルーローチ水を15個手に入れよう。
 QUEST_DESTINATION_0074,Break Roach egg in fifth room and obtain 1 Pink Roach Queen Fluid,5番目の部屋に存在するローチの卵を割ってピンクローチクィーン水を1個手に入れよう。
@@ -85,9 +85,9 @@ QUEST_DESTINATION_1010,Collect Erons from Erons Catchers.,エランス・キャ�
 QUEST_DESTINATION_1011,Collect Krasec from Krasec Catchers.,ケラセック・キャッチャーからケラセックを集めよ
 QUEST_DESTINATION_1012,Collect Mineral from Mineral Catchers.,ミネラル・キャッチャーからミネラルを集めよ
 QUEST_DESTINATION_1013,Collect Guru from Guru Catchers.,グルー・キャッチャーからグルーを集めよ
-QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,製錬した鋼をチェンビンに渡します。
+QUEST_DESTINATION_1014,Give the Smelted Steels to Chenbing.,製錬した鋼をシェンビンに渡します。
 QUEST_DESTINATION_1015,Give the Metallurgical Bull Ring to Colack.,冶金学のブルリングをコラックに渡します。
-QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,過給された避雷針をゴサンテに渡す。
+QUEST_DESTINATION_1016,Give the Supercharged Lightning Rod to Gothante.,過給された避雷針をゴダンテに渡す。
 QUEST_DESTINATION_1017,Collect $QUEST_END_ITEM_NAME$ from final dungeon bosses.,最後のダンジョンボスから$QUEST_END_ITEM_NAME$を収集します。
 QUEST_DESTINATION_1018,Give the Elixir of Cleansing to Hael.,浄化のエリクサーをハエルに渡します。
 QUEST_DESTINATION_1019,Collect Ultima from giants and treasure chests.,巨人や宝箱からウルティマを集める。
