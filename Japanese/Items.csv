@@ -2602,7 +2602,7 @@ PROPITEM_TXT_004682,Power of Party,パーティセット
 PROPITEM_TXT_004683,Possess Exp.and Party Skill 30 and Selected Party,「ラージスキルエリア(30日)」1個と「団結の巻物」3個のセット
 PROPITEM_TXT_004684,Resurrection Box,巻物セット
 PROPITEM_TXT_004685,"Contains 10x Scrolls of Blessing, 20x Scrolls of Sprint, 10x Scrolls of Holy, 10x Scrolls of Resurrection.",「祝福」「治療」「復活」の巻物が10個ずつ、「疾風」の巻物が20個入っています。
-PROPITEM_TXT_004686,Pumpkin Soup,名君ハバネロ
+PROPITEM_TXT_004686,Pumpkin Soup,パンプキンスープ
 PROPITEM_TXT_004687,+50% Max. FP,30秒間、FP最大量が50％増加する食べ物。辛い。
 PROPITEM_TXT_004688,Uriel Cold noodle,ピーチプリンアラモード
 PROPITEM_TXT_004689,+50% Max. MP,30秒間、MP最大量が50％増加する食べ物。甘い。
@@ -2641,7 +2641,7 @@ PROPITEM_TXT_004719,x2 Item Drop Rate for 1 hour. This buff is not stackable.,�
 PROPITEM_TXT_004720,Def-Upcut Stone,ディフェンスストーン
 PROPITEM_TXT_004721,Adds 20% Defense for 1 hour.,1時間の間、防御力が+20％増加します。
 PROPITEM_TXT_004724,Sincerity of Pumpkin,スタミナセット
-PROPITEM_TXT_004725,Contains Pumpkin Soup and Fresh Ddukguk,βカロリン、FPハイパードックのセット
+PROPITEM_TXT_004725,Contains Pumpkin Soup and Fresh Ddukguk,パンプキンスープ、フレッシュトック(お雑煮)が入っています
 PROPITEM_TXT_004726,Love of Uriel,魔力増強セット
 PROPITEM_TXT_004727,Possess Uriel Cold Noodle and Sweet Ddukguk,ウリエルン50、MPハイパードックのセット
 PROPITEM_TXT_004728,Scroll of Private Custody,バンクサモナー
@@ -3169,7 +3169,7 @@ PROPITEM_TXT_005597,People in Madrigal are using this for making timber when the
 PROPITEM_TXT_005598,Luxury Box by Nina,ニーナのボックス
 PROPITEM_TXT_005599,What's in the box?!!,中には高そうなものがいっぱいかも？！
 PROPITEM_TXT_005600,Box of Envious Green Armor Bits,チッチボックス
-PROPITEM_TXT_005601,What's inside the box? This box contains 1 out of 64 possible pieces of level 75 Rare (Green) Armor.,チッチが作ったボックス。中には特別ななものがいっぱい！
+PROPITEM_TXT_005601,What's inside the box? This box contains 1 out of 64 possible pieces of level 75 Rare (Green) Armor.,チッチが作ったボックス。中には特別なものがいっぱい！
 PROPITEM_TXT_005602,Normal Box by PiPi,ピッピのボックス
 PROPITEM_TXT_005604,Event Coupon,イベント・クーポン
 PROPITEM_TXT_005606,Taeguk,戦士の証
@@ -4478,7 +4478,7 @@ PROPITEM_TXT_008173,"A cute, baby, Iguana that follows its master around and pic
 PROPITEM_TXT_008174,Baby Cobra,デッドウィルダニスコブラ
 PROPITEM_TXT_008175,"A cute, baby, Cobra that follows its master around and picks up dropped items",デッドウィルダニスコブラを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
 PROPITEM_TXT_008466,Egg,卵
-PROPITEM_TXT_008467,The only way to find out what animal is inside is to get its Exp to 99.99% and bring it to a Pet Tamer.,リアペットの餌を食べさせて経験値を上昇させることができます。
+PROPITEM_TXT_008467,The only way to find out what animal is inside is to get its Exp to 99.99% and bring it to a Pet Tamer.,中に入っている動物を確認する唯一の方法は、経験値を99.99%まで上げてペットテイマーに持って行くことです。
 PROPITEM_TXT_008658,Tiger Cage,タイガー
 PROPITEM_TXT_008659,This ferocious Tiger is GGGREAT!,育成ペット、力を上昇させてくれるタイガーを召喚・帰還させることができます
 PROPITEM_TXT_008660,Lion Cage,ライオン
@@ -12985,7 +12985,7 @@ PROPITEM_TXT_131285,2023 Thanksgiving Smelting Package,2023 感謝祭製錬パ�
 PROPITEM_TXT_131286,"A package containing 40x Smelting Scroll Box, 50x Power Dice 10, 50x Power Dice 12 and 30x Scroll of Weapon Bonus. All items are also linked.",精錬編の巻物ボックスx40、パワーダイス [10D](S)x50、パワーダイス [12D](精)x50、武器ボーナスの巻物x30が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_131287,2023 Thanksgiving New Item Package,2023 感謝祭の新作パッケージ
 PROPITEM_TXT_131288,"A package containing 2x Bank Extra Bag (30 Days), 2x Nitro Booster (30 Days), 100x Scroll of Multi-Shop and 2x Guild Extra Bag (30 Days). All items are also linked.",銀行エキストラバッグ(30日)x2、ニトロブースター(30日)x2、マルチショップの巻物x100、ギルドエクストラバッグ(30日)x2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_131289,[20~140] Amplification ES Scroll Select Box,戦神の巻物ES選択ボックス
+PROPITEM_TXT_131289,[20~140] Amplification ES Scroll Select Box,[20~140]戦神の巻物ES選択ボックス
 PROPITEM_TXT_131290,"A package containing 8x Scroll of Amplification ES140, 9x Scroll of Amplification ES120 and 12x Scroll of Amplification ES80. All items are also linked.",戦神の巻物ES140x8、戦神の巻物ES120x9、戦神の巻物ES80x12が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_131291,Black Friday Costume Lucky Box,ブラックフライデーコスチュームラッキーボックス
 PROPITEM_TXT_131292,A package containing a random costume for black friday!,ブラックフライデーのコスチュームがランダムにセットになったパッケージ!
@@ -15658,7 +15658,7 @@ PROPITEM_TXT_724809,Flying Starter Pack,フライングスターターパック
 PROPITEM_TXT_724810,A package containing 1x Angel's Wings (White) and 1x Nitro Booster (15 Days). All items are also linked.,天使の羽(ホワイト)x1、ニトロブースター(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_724811,Demian's Lost Package,デミアンの紛失した荷物
 PROPITEM_TXT_724812,"A package containing 20x Flask Box, 10x Activation, 20x Vital Drink X or Refresher Hold and 1x Demian Vendor Shop 30 Day. All items are also linked.",秘薬ボックスx20、アクティビションx10、スタミナドリンクX または 魔力ドリンクゴールドx20、デミアンベンダーショップ(30日）x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_724813,[80~140] Amplification ES Scroll Box,戦神の巻物ESボックス
+PROPITEM_TXT_724813,[80~140] Amplification ES Scroll Box,[80~140]戦神の巻物ESボックス
 PROPITEM_TXT_724814,Fake Couple Ring,偽のカップルリング
 PROPITEM_TXT_724815,A ring that look very similar to the legendary couple ring. Let's take this to Defconn for now,伝説のカップルリングによく似たリング。とりあえず、これをデフコンに持っていきましょう
 PROPITEM_TXT_724816,Defconn's Reward Box,デフコンの報酬ボックス
@@ -23674,7 +23674,7 @@ PROPITEM_TXT_901798,Myth Costume Select Box 1,Myth Costume Select Box 1
 PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.",リトルバタフライセット、シャドウハンターセット、スネークサムライセットの中からお好きな神話コスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901800,Butterflies Pet select box,Butterflies Pet select box
 PROPITEM_TXT_901801,"Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked.","Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked."
-PROPITEM_TXT_901802,Pumpkin Soup,名君ハバネロ
+PROPITEM_TXT_901802,Pumpkin Soup,パンプキンスープ
 PROPITEM_TXT_901803,A cauldron-warm brew of pumpkin power! Slurp it down to instantly refill FP and enjoy unlimited FP for a full 1 hour. Perfect for midnight sprints and monster chases,A cauldron-warm brew of pumpkin power! Slurp it down to instantly refill FP and enjoy unlimited FP for a full 1 hour. Perfect for midnight sprints and monster chases
 PROPITEM_TXT_901804,Witch's Potion,Witch's Potion
 PROPITEM_TXT_901805,"A mischievous blue concoction, charmed by moonlight. Drink to gain unlimited MP for a full 1 hour. The coven approves, your spells won’t run dry","A mischievous blue concoction, charmed by moonlight. Drink to gain unlimited MP for a full 1 hour. The coven approves, your spells won’t run dry"
