@@ -21,8 +21,8 @@ CHARACTER_INC_000075,Ismeralda,イスメラルダ
 CHARACTER_INC_000083,Flaris Pang,フラリス・ファン
 CHARACTER_INC_000091,Jeff,ジェフ
 CHARACTER_INC_000099,[High-Dwarpet] Tucani,[ハイドワーフ]トゥカニ
-CHARACTER_INC_000101,[Jester Wise-man] Radyon,[Jester Wise-man] Radyon
-CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[Ranger Wise-man] Kimel
+CHARACTER_INC_000101,[Jester Wise-man] Radyon,[ジェスター賢者]ラディオン
+CHARACTER_INC_000103,[Ranger Wise-man] Kimel,[レンジャー賢者]キメル
 CHARACTER_INC_000111,[Pepoview] Brodeay,[双月の夜]ブローディ
 CHARACTER_INC_000113,[Pepoview] Ruminerr,[双月の夜]ルミネ
 CHARACTER_INC_000115,[Pepoview] Ellangdl,[双月の夜]エランドル
@@ -216,7 +216,7 @@ CHARACTER_INC_000704,Buff Pang,バフ・ファン
 CHARACTER_INC_000706,[Arena Manager] Harold,[アリーナ管理人]ヘロルド
 CHARACTER_INC_000708,[Arena Store] Deek,[アリーナ商人]ディック
 CHARACTER_INC_000712,[Arena Manager] Lay,[アリーナ管理者]レイ
-CHARACTER_INC_000736,Lord Manager,Lord Manager
+CHARACTER_INC_000736,Lord Manager,ロードマネージャー
 CHARACTER_INC_000738,Card Master,[カードマスター]タロット
 CHARACTER_INC_000742,[Jewel Manager] Peach,[ボボタの助手]ピーチ
 CHARACTER_INC_000951,[Rock Scissor Paper NPC] Demian,[イベント用NPC]いたずらデミアン
@@ -290,7 +290,7 @@ CHARACTER_INC_002000,Mysterious Islander,謎の島民
 CHARACTER_INC_002001,Pau Pau,ポール・ポール
 CHARACTER_INC_002002,Kammie,カミー
 CHARACTER_INC_002003,BoBu,ボブ
-CHARACTER_INC_002004,Talus,土手
+CHARACTER_INC_002004,Talus,タルス
 CHARACTER_INC_002005,Inventor Remi,発明家レミ
 CHARACTER_INC_002006,Sunny Pang,サニーパン
 CHARACTER_INC_000771,Charlie,チャーリー
@@ -355,84 +355,84 @@ CHARACTER_INC_100102,NPCs,NPC
 CHARACTER_INC_000775,Chonjang,チョンジャン
 CHARACTER_INC_000776,[Event] Chonjang,[イベント]チョンジャン
 CHARACTER_INC_000777,Defconn,デフコン
-CHARACTER_INC_000778,Anna,Anna
+CHARACTER_INC_000778,Anna,アンナ
 CHARACTER_INC_000779,Sea Shell,貝殻
-CHARACTER_INC_000780,Mr. Flyff,Mr. Flyff
-CHARACTER_INC_000781,[Event] Roger,[Event] Roger
-CHARACTER_INC_003250,[Personal House NPC] Klock,[Personal House NPC] Klock
-CHARACTER_INC_100103,[Messenger of Love] Cupid,[Messenger of Love] Cupid
-CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[Personal House NPC] Mac (F Grade)
-CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[Personal House NPC] Mac (E Grade)
-CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[Personal House NPC] Mac (D Grade)
-CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[Personal House NPC] Mac (C Grade)
-CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[Personal House NPC] Mac (B Grade)
-CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[Personal House NPC] Mac (A Grade)
-CHARACTER_INC_140000,Couple Rings,Couple Rings
-CHARACTER_INC_100104,[Life Master] Livi,[Life Master] Livi
-CHARACTER_INC_100105,Gathering Tool,Gathering Tool
-CHARACTER_INC_100106,Sovann,Sovann
-CHARACTER_INC_100107,[Event] Mr.Kang,[Event] Mr.Kang
-CHARACTER_INC_100108,Hyuna,Hyuna
-CHARACTER_INC_100109,[Event] Boss Pang,[Event] Boss Pang
-CHARACTER_INC_100110,Wounded Revolutionary,Wounded Revolutionary
-CHARACTER_INC_100111,[Event] Mr.Pumpkin,[Event] Mr.Pumpkin
-CHARACTER_INC_150001,[Airport Guard] Doran,[Airport Guard] Doran
-CHARACTER_INC_150002,[Airport Guard] Chiron,[Airport Guard] Chiron
-CHARACTER_INC_150003,[Airport Guard] Bran,[Airport Guard] Bran
-CHARACTER_INC_150004,[Airport Guard] Karr,[Airport Guard] Karr
-CHARACTER_INC_150005,[Airport Guard] Zerke,[Airport Guard] Zerke
-CHARACTER_INC_150006,[Airport Guard] Elin,[Airport Guard] Elin
-CHARACTER_INC_150007,[Eillun Guard] Gard,[Eillun Guard] Gard
-CHARACTER_INC_150008,[Eillun Guard] Liont,[Eillun Guard] Liont
-CHARACTER_INC_150009,[Eillun Guard] Serkan,[Eillun Guard] Serkan
-CHARACTER_INC_150010,[Eillun Guard] Kras,[Eillun Guard] Kras
-CHARACTER_INC_150011,[Eillun Guard] Maeron,[Eillun Guard] Maeron
-CHARACTER_INC_150012,[Eillun Guard] Kerion,[Eillun Guard] Kerion
-CHARACTER_INC_150013,[Eillun Guard] Raon,[Eillun Guard] Raon
-CHARACTER_INC_150014,[Eillun Guard] Dreon,[Eillun Guard] Dreon
-CHARACTER_INC_150015,[Eillun Guard] Merk,[Eillun Guard] Merk
-CHARACTER_INC_150016,[Captain] Baron,[Captain] Baron
-CHARACTER_INC_150017,Jarl,Jarl
-CHARACTER_INC_150018,[Elder] Ayr,[Elder] Ayr
-CHARACTER_INC_150019,[Elder] Traitus,[Elder] Traitus
-CHARACTER_INC_150020,[Elder] Melak,[Elder] Melak
-CHARACTER_INC_150021,[Elder] Silar,[Elder] Silar
-CHARACTER_INC_150022,[Elder] Ebron,[Elder] Ebron
-CHARACTER_INC_150023,[Elder] Luteon,[Elder] Luteon
-CHARACTER_INC_150024,Liana,Liana
-CHARACTER_INC_150025,[Jewel Manager] Teron,[Jewel Manager] Teron
-CHARACTER_INC_150026,Haret,Haret
-CHARACTER_INC_150027,Domir,Domir
-CHARACTER_INC_150028,Toran,Toran
-CHARACTER_INC_150029,Karen,Karen
-CHARACTER_INC_150030,Nebrah,Nebrah
-CHARACTER_INC_150031,Sena,Sena
-CHARACTER_INC_150032,Rohan,Rohan
-CHARACTER_INC_150033,Belia,Belia
-CHARACTER_INC_150034,Kerin,Kerin
-CHARACTER_INC_150035,Artin,Artin
-CHARACTER_INC_150036,Pael,Pael
-CHARACTER_INC_150037,Lumi,Lumi
-CHARACTER_INC_150038,Ivelyn,Ivelyn
-CHARACTER_INC_150039,Selin,Selin
-CHARACTER_INC_150040,Kaela,Kaela
-CHARACTER_INC_150041,[Pet Tamer] Livia,[Pet Tamer] Livia
-CHARACTER_INC_150042,Taila,Taila
-CHARACTER_INC_150043,Weevs,Weevs
-CHARACTER_INC_150044,[Mysterious] ??? ,[Mysterious] ??? 
-CHARACTER_INC_150045,[Expedition] Beck,[Expedition] Beck
-CHARACTER_INC_150046,Asylum Guard,Asylum Guard
-CHARACTER_INC_150047,Mysterious Adventurer,Mysterious Adventurer
-CHARACTER_INC_150048,Jarl (Dying),Jarl (Dying)
-CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTS Manager] Mewdev
-CHARACTER_INC_150050,Miorang,Miorang
-CHARACTER_INC_150051,Cheirang,Cheirang
+CHARACTER_INC_000780,Mr. Flyff,Mr.Flyff
+CHARACTER_INC_000781,[Event] Roger,[イベント]ロジャー
+CHARACTER_INC_003250,[Personal House NPC] Klock,[パーソナルハウスNPC]クロック
+CHARACTER_INC_100103,[Messenger of Love] Cupid,[愛の使者]キューピッド
+CHARACTER_INC_003251,[Personal House NPC] Mac (F Grade),[パーソナルハウスNPC]マック(Fグレード)
+CHARACTER_INC_003252,[Personal House NPC] Mac (E Grade),[パーソナルハウスNPC]マック(Eグレード)
+CHARACTER_INC_003253,[Personal House NPC] Mac (D Grade),[パーソナルハウスNPC]マック(Dグレード)
+CHARACTER_INC_003254,[Personal House NPC] Mac (C Grade),[パーソナルハウスNPC]マック(Cグレード)
+CHARACTER_INC_003255,[Personal House NPC] Mac (B Grade),[パーソナルハウスNPC]マック(Bグレード)
+CHARACTER_INC_003256,[Personal House NPC] Mac (A Grade),[パーソナルハウスNPC]マック(Aグレード)
+CHARACTER_INC_140000,Couple Rings,カップルリング
+CHARACTER_INC_100104,[Life Master] Livi,[ライフマスター]リヴィ
+CHARACTER_INC_100105,Gathering Tool,採集ツール
+CHARACTER_INC_100106,Sovann,ソヴァン
+CHARACTER_INC_100107,[Event] Mr.Kang,[イベント]Mr.カン
+CHARACTER_INC_100108,Hyuna,ヒュナ
+CHARACTER_INC_100109,[Event] Boss Pang,[イベント]ボス・パング
+CHARACTER_INC_100110,Wounded Revolutionary,傷ついた革命家
+CHARACTER_INC_100111,[Event] Mr.Pumpkin,[イベント]カボチャ男爵
+CHARACTER_INC_150001,[Airport Guard] Doran,[空港衛兵]ドラン
+CHARACTER_INC_150002,[Airport Guard] Chiron,[空港衛兵]カイロン
+CHARACTER_INC_150003,[Airport Guard] Bran,[空港衛兵]ブラン
+CHARACTER_INC_150004,[Airport Guard] Karr,[空港衛兵]カー
+CHARACTER_INC_150005,[Airport Guard] Zerke,[空港衛兵]ザーク
+CHARACTER_INC_150006,[Airport Guard] Elin,[空港衛兵]エリン
+CHARACTER_INC_150007,[Eillun Guard] Gard,[エルリウン衛兵]ガード
+CHARACTER_INC_150008,[Eillun Guard] Liont,[エルリウン衛兵]リオント
+CHARACTER_INC_150009,[Eillun Guard] Serkan,[エルリウン衛兵]セルカン
+CHARACTER_INC_150010,[Eillun Guard] Kras,[エルリウン衛兵]クラス
+CHARACTER_INC_150011,[Eillun Guard] Maeron,[エルリウン衛兵]メイロン
+CHARACTER_INC_150012,[Eillun Guard] Kerion,[エルリウン衛兵]ケリオン
+CHARACTER_INC_150013,[Eillun Guard] Raon,[エルリウン衛兵]ラオン
+CHARACTER_INC_150014,[Eillun Guard] Dreon,[エルリウン衛兵]ドレオン
+CHARACTER_INC_150015,[Eillun Guard] Merk,[エルリウン衛兵]メルク
+CHARACTER_INC_150016,[Captain] Baron,[隊長]バロン
+CHARACTER_INC_150017,Jarl,ヤール
+CHARACTER_INC_150018,[Elder] Ayr,[長老]エア
+CHARACTER_INC_150019,[Elder] Traitus,[長老]トレイタス
+CHARACTER_INC_150020,[Elder] Melak,[長老]メラク
+CHARACTER_INC_150021,[Elder] Silar,[長老]サイラー
+CHARACTER_INC_150022,[Elder] Ebron,[長老]エブロン
+CHARACTER_INC_150023,[Elder] Luteon,[長老]ルテオン
+CHARACTER_INC_150024,Liana,リアナ
+CHARACTER_INC_150025,[Jewel Manager] Teron,[宝石管理人]テロン
+CHARACTER_INC_150026,Haret,ハレット
+CHARACTER_INC_150027,Domir,ドミール
+CHARACTER_INC_150028,Toran,トラン
+CHARACTER_INC_150029,Karen,カレン
+CHARACTER_INC_150030,Nebrah,ネブラ
+CHARACTER_INC_150031,Sena,セナ
+CHARACTER_INC_150032,Rohan,ロハン
+CHARACTER_INC_150033,Belia,ベリア
+CHARACTER_INC_150034,Kerin,ケリン
+CHARACTER_INC_150035,Artin,アーティン
+CHARACTER_INC_150036,Pael,パエル
+CHARACTER_INC_150037,Lumi,ルミ
+CHARACTER_INC_150038,Ivelyn,アイヴェリン
+CHARACTER_INC_150039,Selin,セリン
+CHARACTER_INC_150040,Kaela,カエラ
+CHARACTER_INC_150041,[Pet Tamer] Livia,[ペットテイマー]リビア
+CHARACTER_INC_150042,Taila,タイラ
+CHARACTER_INC_150043,Weevs,ウィーヴス
+CHARACTER_INC_150044,[Mysterious] ??? ,[謎の] ???
+CHARACTER_INC_150045,[Expedition] Beck,[遠征隊]ベック
+CHARACTER_INC_150046,Asylum Guard,アサイラム・ガード
+CHARACTER_INC_150047,Mysterious Adventurer,謎の冒険者
+CHARACTER_INC_150048,Jarl (Dying),ヤール（瀕死）
+CHARACTER_INC_150049,[PTS Manager] Mewdev,[PTSマネージャー]ミュウデヴ
+CHARACTER_INC_150050,Miorang,ミオラン
+CHARACTER_INC_150051,Cheirang,チェイラン
 CHARACTER_INC_150052,[Village Chief] Huntrang,[族長] フンツラン
-CHARACTER_INC_150053,[Arena Manager] Aerin,[Arena Manager] Aerin
-CHARACTER_INC_150100,[Event] Getcha,[Event] Getcha
-CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165 Guild Siege Manager] Prune
-CHARACTER_INC_155001,[Captain] Baron,[Captain] Baron
-CHARACTER_INC_155002,[Eillun Farmer] Sprout,[Eillun Farmer] Sprout
-CHARACTER_INC_155003,[Eillun Farmer] Thorn,[Eillun Farmer] Thorn
-CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[Eillun Farmer] Dr. Root
-CHARACTER_INC_155005,Musha,Musha
+CHARACTER_INC_150053,[Arena Manager] Aerin,[アリーナ管理人]エイリン
+CHARACTER_INC_150100,[Event] Getcha,[イベント]ゲッチャ
+CHARACTER_INC_150054,[Lv165 Guild Siege Manager] Prune,[Lv165ギルコンマネージャー]プルーン
+CHARACTER_INC_155001,[Captain] Baron,[隊長]バロン
+CHARACTER_INC_155002,[Eillun Farmer] Sprout,[エルリウンの農夫] スプラウト
+CHARACTER_INC_155003,[Eillun Farmer] Thorn,[エルリウンの農夫] ソーン
+CHARACTER_INC_155004,[Eillun Farmer] Dr. Root,[エルリウンの農夫] ドクター・ルート
+CHARACTER_INC_155005,Musha,ムシャ
