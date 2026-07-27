@@ -670,14 +670,14 @@ UI_TRADE_CONFIRM_TITLE,Finalize Trade,個人取引の確認
 UI_TRADE_CONFIRM_QUESTION,Accept the trade?,取引を承認しますか？
 UI_TRADE_CONFIRM_WAIT,Waiting for the other player to accept the trade...,承認するまで、しばらくお待ちください。
 UI_OPTION_MOBILE_DIR,Directional Pad,方向パッド
-UI_PIERCING_TITLE,Piercing,ピアッシング
+UI_PIERCING_TITLE,Piercing,ソケットの作成
 UI_PIERCING_PIERCE_ITEM,Pierce Item,ソケット作成
 UI_PIERCING_ITEM,Item,アイテム
 UI_PIERCING_MATERIAL,Power Dice,パワーダイス
 UI_PIERCING_PROTECTSCROLL,GProtect,ソケット作成編(GProtect)
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,ソケット作成を行いますか？
 UI_PIERCING_UNSAFE,"Without a Scroll of GProtect, the item will be destroyed if piercing fails.",ソケット作成編(GProtect)を使用しない場合、失敗時にアイテムが消失します。
-UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,カードスロットの開放
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,ソケットカードの削除
 UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,カードの取り外しと破壊を確認しますか?
 UI_PIERCING_REMOVE_OK,Remove,削除
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,成功率は失敗するたびに増加します。
@@ -2037,7 +2037,7 @@ UI_ELEMENT_UPGRADE_ERROR_ITEM,This item cannot be used.,このアイテムには
 UI_ULTIMATE_UPGRADE_UNSAFE,"Without a Scroll of XProtect, the item will be destroyed if upgrading fails.",鍛冶屋の心得・アルティマがないと、失敗した場合にアイテムが失われます。
 UI_MATERIAL_NAME,%s x%d,%s x%d
 UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
-UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,プロテクションスクロール
+UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,保護の巻物
 UI_ULTIMATE_PREFIX,[Ultimate],[アルティメット]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,ラストスタンドチャンス
 UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,リポスト反射のチャンス
@@ -2100,8 +2100,8 @@ UI_HOUSINGPRESETS_MSGBOX_INFO,Preset Name,プリセット名
 UI_HOUSINGPRESETS_ERROR_NAME,You have to set a name.,名前を設定する必要があります。
 UI_HOUSINGPRESETS_ERROR_NAME_INVALID,The name you set for the preset is incorrect!,プリセット名を正しく設定してください。
 UI_UPGRADE_GENERALTAB,General Upgrade,全般的なアップグレード
-UI_UPGRADE_ELEMENTTAB,Element Upgrade,エレメントのアップグレード
-UI_UPGRADE_PIERCINGTAB,Piercing,ピアッシング
+UI_UPGRADE_ELEMENTTAB,Element Upgrade,属性のアップグレード
+UI_UPGRADE_PIERCINGTAB,Piercing,ソケットの作成
 UI_GUILD_TAB_HOUSING_VISITS,Allow Non-Guild Visitors,外部訪問者を許可する
 UI_HOUSINGSETUP_FILTER_CHAIR,Chair,チェア
 UI_HOUSINGSETUP_FILTER_SOFA,Sofa,ソファ
@@ -2296,8 +2296,8 @@ UI_RAINBOWRACE_INDIV_REGISTERED,You have registered for Rainbow Race (Individual
 UI_RAINBOWRACE_TEAM_REGISTERED_RANDOM,You have registered for Rainbow Race (Duo Team - %s).\nYou have spent %lld Penya.,レインボーレース（ペアチーム - %s）に登録しました。\n%lldペニャを消費しました。
 UI_RAINBOWRACE_TEAM_REGISTERED,You have registered for Rainbow Race (Duo Team - %s) with %s.\nYou have spent %lld Penya.,%sと共にレインボーレース（ペアチーム - %s）に登録しました。\n%lldペニャを消費しました。
 UI_RAINBOWRACE_TITLE,Rainbow Race,レインボーレース
-UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),チーム(L)
-UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,リセット機器
+UI_INVENTORY_ACTION_EQUIP_LEFT,Equip (L),装備(左)
+UI_FITTINGROOM_RESETEQUIPMENT,Reset Equipment,装備リセット
 UI_KALGAS_ASSAULT_RANK_NODATA,No participation information,参加情報なし
 UI_QUEST_ATTENDANCE,Playtime Minutes #cffc32f07#b%d/%d#nb#nc,プレイ時間 (分) #cffc32f07#b%d/%d#nb#nc
 UI_QUEST_HOUSING,Housing Entry Count #cffc32f07#b%d/%d#nb#nc,住宅入居数 #cffc32f07#b%d/%d#nb#nc
