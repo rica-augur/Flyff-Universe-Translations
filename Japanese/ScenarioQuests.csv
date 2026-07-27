@@ -156,9 +156,9 @@ PROPQUEST_SCENARIO_INC_000471,*sigh* Would you help me return this to Martinyc. 
 PROPQUEST_SCENARIO_INC_000473,"I see, you have something important to do. Would you come back to me after finishing that?",おや、何か急用があるようだね。では、その用事が済んだら、また来てくれ。
 PROPQUEST_SCENARIO_INC_000474,Long time no see! Are you coming back to let me know that I was right?,お久しぶり！ようやく戻ってきましたね、待ってましたよ。私の調査が真実だったというニュースを持ってきてくれましたか？
 PROPQUEST_SCENARIO_INC_000475,"Yeah! I knew it! By the way, what is that?",わあ！やっぱり、やっぱりわたしの見解は真実だったのですね！ようやく人に信じてもらえることができたわ！嬉しい！
-PROPQUEST_SCENARIO_INC_000476,"Oh, now I wish I had been wrong! Thank you for bringing this to me. We will see each other again. Goodbye.",あら？これは？これまでの調査をまとめたゴタンテ会長の調書ですね、さっそく読んでみます！本当にありがとう！
+PROPQUEST_SCENARIO_INC_000476,"Oh, now I wish I had been wrong! Thank you for bringing this to me. We will see each other again. Goodbye.",あら？これは？これまでの調査をまとめたゴダンテ会長の調書ですね、さっそく読んでみます！本当にありがとう！
 PROPQUEST_SCENARIO_INC_000477,Have you brought something from the History Society? No? Then are you coming back just to talk to me? I am too shy for that.,歴史協会から何か返事を貰ってきてくれましたか？あら、まだなのですね。ひょっとして、私に会いにきたとか？うふふ。
-PROPQUEST_SCENARIO_INC_000478,Here is all the data I have. Please deliver this to Martinyc.,ゴタンテが今までの調査をまとめて書き綴った巻物を、マルティニークへ届けに行こう。
+PROPQUEST_SCENARIO_INC_000478,Here is all the data I have. Please deliver this to Martinyc.,ゴダンテが今までの調査をまとめて書き綴った巻物を、マルティニークへ届けに行こう。
 PROPQUEST_SCENARIO_INC_000480,Journal of an Adventurer,ある冒険者の手記
 PROPQUEST_SCENARIO_INC_000482,Journal of an Adventurer (1),冒険者の日記（1）
 PROPQUEST_SCENARIO_INC_000483,"Hello Adventurer. Although you don't know me, I must ask a favor of you. I have found something… incredible. Bring it to the Mayor of Darkon right away.",そこの君！急で申し訳ないが、１つ頼まれてくれないか？ダーコン市長が依頼していた書物をやっと手に入れたんだが、オイラは店を空ける事ができないんだ。オイラの代わりに君がこの本を渡してくれないか？
@@ -1191,18 +1191,18 @@ PROPQUEST_SCENARIO_INC_002479,Thank you for delivering the lightning rod! I beli
 PROPQUEST_SCENARIO_INC_002480,You cannot deliver the lightning rod until has been supercharged...,過給されるまで避雷針を届けることはできません。
 PROPQUEST_SCENARIO_INC_002481,"Locate the Altar of Violet, supercharge the lightning rod, then report to Tina.",バイオレットの祭壇を見つけ、避雷針を過給してから、ティナに報告してください。
 PROPQUEST_SCENARIO_INC_002482,Spark in the Dark,暗闇の中で火花
-PROPQUEST_SCENARIO_INC_002483,"Something still bothers me... why are these storms happening at all? Maybe the Chairman of the History Society, Gothante, might know.",何かがまだ私を悩ませています...なぜこれらの嵐が起こっているのですか?たぶん、歴史協会の会長であるゴサンテは知っているかもしれません。
-PROPQUEST_SCENARIO_INC_002484,"Seek out a forum with Gothante, and figure out what is going on with the weather.",ゴサンテとのフォーラムを探して、天気で何が起こっているのかを理解してください。
+PROPQUEST_SCENARIO_INC_002483,"Something still bothers me... why are these storms happening at all? Maybe the Chairman of the History Society, Gothante, might know.",何かがまだ私を悩ませています...なぜこれらの嵐が起こっているのですか?たぶん、歴史協会の会長であるゴダンテは知っているかもしれません。
+PROPQUEST_SCENARIO_INC_002484,"Seek out a forum with Gothante, and figure out what is going on with the weather.",ゴダンテとのフォーラムを探して、天気で何が起こっているのかを理解してください。
 PROPQUEST_SCENARIO_INC_002485,"Well... at least the airships are safe for now. I wonder why all the bad weather, though?",まぁ。。少なくとも飛行船は今のところ安全です。しかし、なぜすべての悪天候なのかしら?
 PROPQUEST_SCENARIO_INC_002486,The storms lately have raged on for far too long! I have a feeling I know what has caused these storms.,最近の嵐はあまりにも長い間猛威を振るっています!私はこれらの嵐の原因を知っていると感じています。
-PROPQUEST_SCENARIO_INC_002487,Find Gothante and see if he knows what is happening with the weather.,ゴタンテを見つけて、天気で何が起こっているのか知っているかどうかを確認してください。
-PROPQUEST_SCENARIO_INC_002488,Meet with Gothante.,ゴサンテと会う。
+PROPQUEST_SCENARIO_INC_002487,Find Gothante and see if he knows what is happening with the weather.,ゴダンテを見つけて、天気で何が起こっているのか知っているかどうかを確認してください。
+PROPQUEST_SCENARIO_INC_002488,Meet with Gothante.,ゴダンテと会う。
 PROPQUEST_SCENARIO_INC_002489,Ishirut's Return?,イシルートの帰還?
 PROPQUEST_SCENARIO_INC_002490,Over many years our society has collected rare texts that reveal the history of the world of Madrigal. Eons ago a god of lightning helped create this world. That god was named Ishirut. ,長年にわたり、私たちの社会はマドリガルの世界の歴史を明らかにする珍しいテキストを収集してきました。はるか昔、稲妻の神がこの世界を創造するのを助けました。その神はイシルトと名付けられました。
 PROPQUEST_SCENARIO_INC_002491,"Perhaps ripples of Ishirut's spirit have returned to give us a sign, but I have no connection to the gods. Perhaps this is work for a mystic of sorts.",おそらくイシルートの精神の波紋が戻ってきてしるしを与えてくれたのかもしれませんが、私は神々とは何の関係もありません。おそらくこれはある種の神秘家のための仕事です。
 PROPQUEST_SCENARIO_INC_002492,"I believe that YaoRin of the MewMew people has the power to reveal the truth, but the MewMew clan are distrusting of most humans. Anyway, I recommend you go speak with YaoRin and see if they are willing to cooperate. They are our best chance at learning what the gods are up to.",ミュウミュウ族のヤオリンには真実を明らかにする力があると思いますが、ミュウミュウ一族はほとんどの人間に不信感を抱いています。とにかく、YaoRinと話をして、彼らが協力してくれるかどうかを確認することをお勧めします。彼らは神々が何をしているのかを学ぶための私たちの最高のチャンスです。
 PROPQUEST_SCENARIO_INC_002493,"While a bit standoffish, the MewMew clan is not that scary...",少しスタンドオフですが、ミュウミュー一族はそれほど怖くありません..
-PROPQUEST_SCENARIO_INC_002494,"*Hmmph* So you were sent by that man Gothante. Even so, I do not trust you one bit.",*うーん*それで、あなたはその男ゴタンテによって送られました。それでも、私はあなたを少しも信用していません。
+PROPQUEST_SCENARIO_INC_002494,"*Hmmph* So you were sent by that man Gothante. Even so, I do not trust you one bit.",*うーん*それで、あなたはその男ゴダンテによって送られました。それでも、私はあなたを少しも信用していません。
 PROPQUEST_SCENARIO_INC_002495,Find YaoRin in the MewMew camp just outside the walls of western Saint City.,聖都市西部の城壁のすぐ外にあるミュウミューキャンプでヤオリンを見つけましょう。
 PROPQUEST_SCENARIO_INC_002496,Speak to YaoRin.,ヤオリンと話してください。
 PROPQUEST_SCENARIO_INC_002497,Remnant of Ishirut Part 2,イシルートの残党パート2
