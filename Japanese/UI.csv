@@ -3347,7 +3347,7 @@ UI_MYSTCASTLE_CHALLENGE_NEXT_FLOOR,Would you like to challenge the next floor?,�
 UI_MYSTCASTLE_MOVE_NEXT_FLOOR,You’ve defeated the Boss!\nMove on to the next floor!,ボスを撃破しました！\n次の階層へ進みましょう！
 UI_MYSTCASTLE_MISSION_SUCCESS,You’ve defeated the Boss!,ボスを撃破しました！
 UI_MYSTCASTLE_MISSION_FAIL,You’ve failed!,失敗しました！
-UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,Mysterious Castle 階層一覧
+UI_MYSTCASTLE_FLOORS_TITLE,Mysterious Castle Floors,神秘の城 階層一覧
 UI_MYSTCASTLE_RANKING,Ranking,ランキング
 UI_ORDINAL_SUFFIX_EXCLUDE_ENG_FRE,,
 UI_MYSTCASTLE_LIST_FLOOR,%s\nFloor,%s\n階
@@ -3365,14 +3365,14 @@ UI_MYSTCASTLE_RANK_OVERALL_LAST_WEEK,Overall Ranking (Last Week),総合ランキ
 UI_MYSTCASTLE_RANK_JOB_LAST_WEEK,Job Ranking (Last Week),職業別ランキング（先週）
 UI_MYSTCASTLE_MY_RANKING,My Ranking:,自分の順位：
 UI_MYSTCASTLE_MY_RANKING_NO,My Ranking: No current ranking information.,自分の順位：現在ランキング情報がありません。
-UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,Mysterious Castle ランキング
+UI_MYSTCASTLE_RANK_TITLE,Mysterious Castle Ranking,神秘の城 ランキング
 UI_MYSTCASTLE_RANK_COL_RANKING,Ranking,ランキング
 UI_MYSTCASTLE_RANK_COL_JOB,Job,職業
 UI_MYSTCASTLE_RANK_COL_NAME,Character Name,キャラクター名
 UI_MYSTCASTLE_RANK_COL_LEVEL,Level,レベル
 UI_MYSTCASTLE_RANK_COL_FLOOR,Cleared Floors,クリア階層数
 UI_MYSTCASTLE_RANK_COL_TIME,Clear Time,クリアタイム
-UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,Mysterious Castle 報酬
+UI_MYSTCASTLE_REWARD_TITLE,Mysterious Castle Rewards,神秘の城 報酬
 UI_MYSTCASTLE_REWARD_COL_FLOOR,Floor,階層
 UI_MYSTCASTLE_REWARD_COL_BOSS,Boss,ボス
 UI_MYSTCASTLE_REWARD_COL_REWARD,Reward,報酬
@@ -3383,5 +3383,5 @@ UI_MYSTCASTLE_REWARD_OTHERS,Others,その他
 UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)",現在クリアした階層と同じ\nレベルのMysterious Boxを入手\n（最後にクリアした階層が4の\n場合、Mysterious Box Lv2を入手）
 UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,階層クリア報酬
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,ランキング報酬
-UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,入場すると Mysterious Castle リトライクーポンを1枚消費します。続行しますか？
+UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,入場すると神秘の城リトライクーポンを1枚消費します。続行しますか？
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,どこでもタップして入力！

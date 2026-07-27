@@ -1568,8 +1568,8 @@ TEXTCLIENT_MYSTCASTLE_INVALID_FLOOR,Invalid floor selection. Please try again.,�
 TEXTCLIENT_MYSTCASTLE_LEVEL_TOO_LOW,Your level is too low to enter this floor.,レベルが低いため、この階層に入れません。
 TEXTCLIENT_MYSTCASTLE_BLOCK_TIME,Ranking settlement in progress. Please try again later.,ランキング集計中です。しばらくしてから再度お試しください。
 TEXTCLIENT_MYSTCASTLE_INIT_FAILED,Failed to initialize the floor. Please try again.,階層の初期化に失敗しました。もう一度お試しください。
-TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,この階層に挑戦するには、Mysterious Castle Retry Couponが必要です。
+TEXTCLIENT_MYSTCASTLE_FLOOR_TICKET_REQUIRED,A Mysterious Castle Retry Coupon is required to challenge this floor.,この階層に挑戦するには、神秘の城リトライクーポンが必要です。
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new floor.,新しい階層をクリアした報酬を受け取りました。
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.,新しい階層クリアの報酬を受け取れません。メールをご確認ください。
-TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,Mysterious Castle Retry Couponを使用できません。
+TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,神秘の城リトライクーポンを使用できません。
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,このメニューはロードのみ使用できます。
