@@ -19524,21 +19524,21 @@ PROPITEM_TXT_726200,PXP 2024 Early Bird,PXP 2024 Early Bird
 PROPITEM_TXT_726201,"A package containing 1x Ice Crown Weapons, 1x Rudolph Costume Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 Days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion. All items are also linked.",アイスクラウンウェポンx1、ルドルフコスチュームボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、虎のフラスコx10、ウサギのフラスコx10、キツネのフラスコx10、ライオンのフラスコx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726202,PXP 2024 Door Prize,PXP 2024 Door Prize
 PROPITEM_TXT_726203,"A package containing 1x Rudolph Costume Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ルドルフコスチュームボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、虎のフラスコx5、ウサギのフラスコx5、キツネのフラスコx5、ライオンのフラスコx5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826187,Extended Emotes,Extended Emotes
-PROPITEM_TXT_826188,"This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11.","This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11."
-PROPITEM_TXT_826189,Meditation Emote,Meditation Emote
-PROPITEM_TXT_826190,Flip Jump 1 Emote,Flip Jump 1 Emote
-PROPITEM_TXT_826191,Flip Jump 2 Emote,Flip Jump 2 Emote
-PROPITEM_TXT_826192,Lift O Emote,Lift O Emote
-PROPITEM_TXT_826193,Lift X Emote,Lift X Emote
-PROPITEM_TXT_826194,Lift Rock Emote,Lift Rock Emote
-PROPITEM_TXT_826195,Lift Paper Emote,Lift Paper Emote
-PROPITEM_TXT_826196,Lift Scissors Emote,Lift Scissors Emote
-PROPITEM_TXT_826197,Dance 10 Emote,Dance 10 Emote
-PROPITEM_TXT_826198,Dance 11 Emote,Dance 11 Emote
-PROPITEM_TXT_826199,Provides a new emote for your character!,Provides a new emote for your character!
-PROPITEM_TXT_826200,Card and Dice Bag,Card and Dice Bag
-PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.","This bag gives you 10 additional card, card piece, dice and dice piece item slots."
+PROPITEM_TXT_826187,Extended Emotes,追加エモートパック
+PROPITEM_TXT_826188,"This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11.",このパッケージには、瞑想、宙返り1、「○」「×」「グー」「パー」「チョキ」を掲げる、ダンス10・11の、キャラクター用エモート9種類が含まれています。
+PROPITEM_TXT_826189,Meditation Emote,瞑想エモート
+PROPITEM_TXT_826190,Flip Jump 1 Emote,宙返り1エモート
+PROPITEM_TXT_826191,Flip Jump 2 Emote,宙返り2エモート
+PROPITEM_TXT_826192,Lift O Emote,「○」を掲げるエモート
+PROPITEM_TXT_826193,Lift X Emote,「×」を掲げるエモート
+PROPITEM_TXT_826194,Lift Rock Emote,「グー」を掲げるエモート
+PROPITEM_TXT_826195,Lift Paper Emote,「パー」を掲げるエモート
+PROPITEM_TXT_826196,Lift Scissors Emote,「チョキ」を掲げるエモート
+PROPITEM_TXT_826197,Dance 10 Emote,ダンス10エモート
+PROPITEM_TXT_826198,Dance 11 Emote,ダンス11エモート
+PROPITEM_TXT_826199,Provides a new emote for your character!,キャラクターに新しいエモートを追加します！
+PROPITEM_TXT_826200,Card and Dice Bag,カード＆ダイスバッグ
+PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",このバッグはカード、カードピース、ダイス、ダイスピースのアイテムスロットが10個追加されます。
 PROPITEM_TXT_145000,Blessing of the Demon,Blessing of the Demon
 PROPITEM_TXT_145001,Card and Dice Bag,Card and Dice Bag
 PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.","This bag gives you 10 additional card, card piece, dice and dice piece item slots."
@@ -19563,18 +19563,18 @@ PROPITEM_TXT_145020,This scroll makes your Private or Vendor Shop appear at the 
 PROPITEM_TXT_145021,High Pet Reroll Scroll,High Pet Reroll Scroll
 PROPITEM_TXT_145022,"Allows you to reroll the level of one pet tier, choosing whether or not to keep the result. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Allows you to reroll the level of one pet tier, choosing whether or not to keep the result. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll."
 PROPITEM_TXT_826202,Men In Black Set,メン・イン・ブラックセット
-PROPITEM_TXT_826203,Select which Gender you want to receive,Select which Gender you want to receive
-PROPITEM_TXT_826204,Men In Black Glasses,Men In Black Glasses
-PROPITEM_TXT_826205,Men In Black Hat (M),Men In Black Hat (M)
-PROPITEM_TXT_826206,Men In Black Suit (M),Men In Black Suit (M)
-PROPITEM_TXT_826207,Men In Black Shoes (M),Men In Black Shoes (M)
+PROPITEM_TXT_826203,Select which Gender you want to receive,受け取りたい性別を選択してください
+PROPITEM_TXT_826204,Men In Black Glasses,メン・イン・ブラックメガネ
+PROPITEM_TXT_826205,Men In Black Hat (M),メン・イン・ブラックハット(M)
+PROPITEM_TXT_826206,Men In Black Suit (M),メン・イン・ブラックスーツ(M)
+PROPITEM_TXT_826207,Men In Black Shoes (M),メン・イン・ブラックシューズ(M)
 PROPITEM_TXT_826208,Men In Black Set (M),メン・イン・ブラックセット(M)
-PROPITEM_TXT_826209,The Men In Black Set for male character.,The Men In Black Set for male character.
-PROPITEM_TXT_826210,Men In Black Hat (F),Men In Black Hat (F)
-PROPITEM_TXT_826211,Men In Black Suit (F),Men In Black Suit (F)
-PROPITEM_TXT_826212,Men In Black Shoes (F),Men In Black Shoes (F)
+PROPITEM_TXT_826209,The Men In Black Set for male character.,男性キャラクター用のメン・イン・ブラックセット
+PROPITEM_TXT_826210,Men In Black Hat (F),メン・イン・ブラックハット(F)
+PROPITEM_TXT_826211,Men In Black Suit (F),メン・イン・ブラックスーツ(F)
+PROPITEM_TXT_826212,Men In Black Shoes (F),メン・イン・ブラックシューズ(F)
 PROPITEM_TXT_826213,Men In Black Set (F),メン・イン・ブラックセット(F)
-PROPITEM_TXT_826214,The Men In Black Set for female character.,The Men In Black Set for female character.
+PROPITEM_TXT_826214,The Men In Black Set for female character.,女性キャラクター用のメン・イン・ブラックセット
 PROPITEM_TXT_144023,[Event] Fish D,[Event] Fish D
 PROPITEM_TXT_144024,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.
 PROPITEM_TXT_144025,[Event] Fish C,[Event] Fish C
@@ -19747,20 +19747,20 @@ PROPITEM_TXT_144016,This package contains gathering items that can be placed in 
 PROPITEM_TXT_144017,Scroll of Pet Inventory (Couple House),ペットインベントリの巻物(カップルハウス)
 PROPITEM_TXT_144018,Using this scroll will increase your maximum couple house pet inventory slots by 1!,Using this scroll will increase your maximum couple house pet inventory slots by 1!
 PROPITEM_TXT_826320,Dark Dragon Set,ダークドラゴンセット
-PROPITEM_TXT_826321,Hero Cloak,Hero Cloak
-PROPITEM_TXT_826322,Dark Dragon Hat (M),Dark Dragon Hat (M)
-PROPITEM_TXT_826323,Dark Dragon Suit (M),Dark Dragon Suit (M)
-PROPITEM_TXT_826324,Dark Dragon Shoes (M),Dark Dragon Shoes (M)
-PROPITEM_TXT_826325,Dark Dragon Hands (M),Dark Dragon Hands (M)
+PROPITEM_TXT_826321,Hero Cloak,ヒーローのマント
+PROPITEM_TXT_826322,Dark Dragon Hat (M),ダークドラゴンハット(M)
+PROPITEM_TXT_826323,Dark Dragon Suit (M),ダークドラゴンスーツ(M)
+PROPITEM_TXT_826324,Dark Dragon Shoes (M),ダークドラゴンシューズ(M)
+PROPITEM_TXT_826325,Dark Dragon Hands (M),ダークドラゴングローブ(M)
 PROPITEM_TXT_826326,Dark Dragon Set (M),ダークドラゴンセット(M)
 PROPITEM_TXT_826327,The Dark Dragon Set for male characters.,男性キャラクター用のダークドラゴンセット
-PROPITEM_TXT_826328,Dark Dragon Hat (F),Dark Dragon Hat (F)
-PROPITEM_TXT_826329,Dark Dragon Suit (F),Dark Dragon Suit (F)
-PROPITEM_TXT_826330,Dark Dragon Shoes (F),Dark Dragon Shoes (F)
-PROPITEM_TXT_826331,Dark Dragon Hands (F),Dark Dragon Hands (F)
+PROPITEM_TXT_826328,Dark Dragon Hat (F),ダークドラゴンハット(F)
+PROPITEM_TXT_826329,Dark Dragon Suit (F),ダークドラゴンスーツ(F)
+PROPITEM_TXT_826330,Dark Dragon Shoes (F),ダークドラゴンシューズ(F)
+PROPITEM_TXT_826331,Dark Dragon Hands (F),ダークドラゴングローブ(F)
 PROPITEM_TXT_826332,Dark Dragon Set (F),ダークドラゴンセット(F)
 PROPITEM_TXT_826333,The Dark Dragon Set for female characters.,女性キャラクター用のダークドラゴンセット
-PROPITEM_TXT_826334,A special cloak for players who completed the last hero quest.,A special cloak for players who completed the last hero quest.
+PROPITEM_TXT_826334,A special cloak for players who completed the last hero quest.,最後のヒーロークエストをクリアしたプレイヤーのための特別なマント。
 PROPITEM_TXT_201072,Archangel White Sword,Archangel White Sword
 PROPITEM_TXT_201043,Archangel White Axe,Archangel White Axe
 PROPITEM_TXT_201044,Archangel White Big Sword,Archangel White Big Sword
@@ -19949,108 +19949,108 @@ PROPITEM_TXT_826410,Xmas 2024 White Edition Black Shoes (F),Xmas 2024 ホワイ�
 PROPITEM_TXT_826411,Xmas 2024 White Edition 2% Black Set (F),Xmas 2024 ホワイトエディション 2%ブラックセット(F)
 PROPITEM_TXT_826412,The Xmas 2024 White Edition 2% Black Set for female characters.,女性キャラクター用のXmas 2024 ホワイトエディション 2%ブラックセット
 PROPITEM_TXT_826413,Xmas 2024 White Edition Costume Lucky Box,Xmas 2024 ホワイトエディションコスチュームラッキーボックス
-PROPITEM_TXT_826414,This box contains a Xmas 2024 White Edition Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Xmas 2024 White Edition Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826414,This box contains a Xmas 2024 White Edition Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのクリスマス2024ホワイトエディションセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826415,Dark Christmas Adventurer Red Set,ダーククリスマスアドベンチャーレッドセット
-PROPITEM_TXT_826416,Dark Christmas Adventurer Red Wings,Dark Christmas Adventurer Red Wings
-PROPITEM_TXT_826417,Dark Christmas Adventurer Red Hat (M),Dark Christmas Adventurer Red Hat (M)
-PROPITEM_TXT_826418,Dark Christmas Adventurer Red Suit (M),Dark Christmas Adventurer Red Suit (M)
-PROPITEM_TXT_826419,Dark Christmas Adventurer Red Shoes (M),Dark Christmas Adventurer Red Shoes (M)
+PROPITEM_TXT_826416,Dark Christmas Adventurer Red Wings,ダーククリスマスアドベンチャーレッドウィング
+PROPITEM_TXT_826417,Dark Christmas Adventurer Red Hat (M),ダーククリスマスアドベンチャーレッドハット(M)
+PROPITEM_TXT_826418,Dark Christmas Adventurer Red Suit (M),ダーククリスマスアドベンチャーレッドスーツ(M)
+PROPITEM_TXT_826419,Dark Christmas Adventurer Red Shoes (M),ダーククリスマスアドベンチャーレッドシューズ(M)
 PROPITEM_TXT_826420,Dark Christmas Adventurer Red Set (M),ダーククリスマスアドベンチャーレッドセット(M)
 PROPITEM_TXT_826421,The Dark Christmas Adventurer Red Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーレッドセット
-PROPITEM_TXT_826422,Dark Christmas Adventurer Red Hat (F),Dark Christmas Adventurer Red Hat (F)
-PROPITEM_TXT_826423,Dark Christmas Adventurer Red Suit (F),Dark Christmas Adventurer Red Suit (F)
-PROPITEM_TXT_826424,Dark Christmas Adventurer Red Shoes (F),Dark Christmas Adventurer Red Shoes (F)
+PROPITEM_TXT_826422,Dark Christmas Adventurer Red Hat (F),ダーククリスマスアドベンチャーレッドハット(F)
+PROPITEM_TXT_826423,Dark Christmas Adventurer Red Suit (F),ダーククリスマスアドベンチャーレッドスーツ(F)
+PROPITEM_TXT_826424,Dark Christmas Adventurer Red Shoes (F),ダーククリスマスアドベンチャーレッドシューズ(F)
 PROPITEM_TXT_826425,Dark Christmas Adventurer Red Set (F),ダーククリスマスアドベンチャーレッドセット(F)
 PROPITEM_TXT_826426,The Dark Christmas Adventurer Red Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーレッドセット
 PROPITEM_TXT_826427,Dark Christmas Adventurer Blue Set,ダーククリスマスアドベンチャーブルーセット
-PROPITEM_TXT_826428,Dark Christmas Adventurer Blue Wings,Dark Christmas Adventurer Blue Wings
-PROPITEM_TXT_826429,Dark Christmas Adventurer Blue Hat (M),Dark Christmas Adventurer Blue Hat (M)
-PROPITEM_TXT_826430,Dark Christmas Adventurer Blue Suit (M),Dark Christmas Adventurer Blue Suit (M)
-PROPITEM_TXT_826431,Dark Christmas Adventurer Blue Shoes (M),Dark Christmas Adventurer Blue Shoes (M)
+PROPITEM_TXT_826428,Dark Christmas Adventurer Blue Wings,ダーククリスマスアドベンチャーブルーウィング
+PROPITEM_TXT_826429,Dark Christmas Adventurer Blue Hat (M),ダーククリスマスアドベンチャーブルーハット(M)
+PROPITEM_TXT_826430,Dark Christmas Adventurer Blue Suit (M),ダーククリスマスアドベンチャーブルースーツ(M)
+PROPITEM_TXT_826431,Dark Christmas Adventurer Blue Shoes (M),ダーククリスマスアドベンチャーブルーシューズ(M)
 PROPITEM_TXT_826432,Dark Christmas Adventurer Blue Set (M),ダーククリスマスアドベンチャーブルーセット(M)
 PROPITEM_TXT_826433,The Dark Christmas Adventurer Blue Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーブルーセット
-PROPITEM_TXT_826434,Dark Christmas Adventurer Blue Hat (F),Dark Christmas Adventurer Blue Hat (F)
-PROPITEM_TXT_826435,Dark Christmas Adventurer Blue Suit (F),Dark Christmas Adventurer Blue Suit (F)
-PROPITEM_TXT_826436,Dark Christmas Adventurer Blue Shoes (F),Dark Christmas Adventurer Blue Shoes (F)
+PROPITEM_TXT_826434,Dark Christmas Adventurer Blue Hat (F),ダーククリスマスアドベンチャーブルーハット(F)
+PROPITEM_TXT_826435,Dark Christmas Adventurer Blue Suit (F),ダーククリスマスアドベンチャーブルースーツ(F)
+PROPITEM_TXT_826436,Dark Christmas Adventurer Blue Shoes (F),ダーククリスマスアドベンチャーブルーシューズ(F)
 PROPITEM_TXT_826437,Dark Christmas Adventurer Blue Set (F),ダーククリスマスアドベンチャーブルーセット(F)
 PROPITEM_TXT_826438,The Dark Christmas Adventurer Blue Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーブルーセット
 PROPITEM_TXT_826439,Dark Christmas Adventurer Pink Set,ダーククリスマスアドベンチャーピンクセット
-PROPITEM_TXT_826440,Dark Christmas Adventurer Pink Wings,Dark Christmas Adventurer Pink Wings
-PROPITEM_TXT_826441,Dark Christmas Adventurer Pink Hat (M),Dark Christmas Adventurer Pink Hat (M)
-PROPITEM_TXT_826442,Dark Christmas Adventurer Pink Suit (M),Dark Christmas Adventurer Pink Suit (M)
-PROPITEM_TXT_826443,Dark Christmas Adventurer Pink Shoes (M),Dark Christmas Adventurer Pink Shoes (M)
+PROPITEM_TXT_826440,Dark Christmas Adventurer Pink Wings,ダーククリスマスアドベンチャーピンクウィング
+PROPITEM_TXT_826441,Dark Christmas Adventurer Pink Hat (M),ダーククリスマスアドベンチャーピンクハット(M)
+PROPITEM_TXT_826442,Dark Christmas Adventurer Pink Suit (M),ダーククリスマスアドベンチャーピンクスーツ(M)
+PROPITEM_TXT_826443,Dark Christmas Adventurer Pink Shoes (M),ダーククリスマスアドベンチャーピンクシューズ(M)
 PROPITEM_TXT_826444,Dark Christmas Adventurer Pink Set (M),ダーククリスマスアドベンチャーピンクセット(M)
 PROPITEM_TXT_826445,The Dark Christmas Adventurer Pink Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーピンクセット
-PROPITEM_TXT_826446,Dark Christmas Adventurer Pink Hat (F),Dark Christmas Adventurer Pink Hat (F)
-PROPITEM_TXT_826447,Dark Christmas Adventurer Pink Suit (F),Dark Christmas Adventurer Pink Suit (F)
-PROPITEM_TXT_826448,Dark Christmas Adventurer Pink Shoes (F),Dark Christmas Adventurer Pink Shoes (F)
+PROPITEM_TXT_826446,Dark Christmas Adventurer Pink Hat (F),ダーククリスマスアドベンチャーピンクハット(F)
+PROPITEM_TXT_826447,Dark Christmas Adventurer Pink Suit (F),ダーククリスマスアドベンチャーピンクスーツ(F)
+PROPITEM_TXT_826448,Dark Christmas Adventurer Pink Shoes (F),ダーククリスマスアドベンチャーピンクシューズ(F)
 PROPITEM_TXT_826449,Dark Christmas Adventurer Pink Set (F),ダーククリスマスアドベンチャーピンクセット(F)
 PROPITEM_TXT_826450,The Dark Christmas Adventurer Pink Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーピンクセット
 PROPITEM_TXT_826451,Dark Christmas Adventurer Purple Set,ダーククリスマスアドベンチャーパープルセット
-PROPITEM_TXT_826452,Dark Christmas Adventurer Purple Wings,Dark Christmas Adventurer Purple Wings
-PROPITEM_TXT_826453,Dark Christmas Adventurer Purple Hat (M),Dark Christmas Adventurer Purple Hat (M)
-PROPITEM_TXT_826454,Dark Christmas Adventurer Purple Suit (M),Dark Christmas Adventurer Purple Suit (M)
-PROPITEM_TXT_826455,Dark Christmas Adventurer Purple Shoes (M),Dark Christmas Adventurer Purple Shoes (M)
+PROPITEM_TXT_826452,Dark Christmas Adventurer Purple Wings,ダーククリスマスアドベンチャーパープルウィング
+PROPITEM_TXT_826453,Dark Christmas Adventurer Purple Hat (M),ダーククリスマスアドベンチャーパープルハット(M)
+PROPITEM_TXT_826454,Dark Christmas Adventurer Purple Suit (M),ダーククリスマスアドベンチャーパープルスーツ(M)
+PROPITEM_TXT_826455,Dark Christmas Adventurer Purple Shoes (M),ダーククリスマスアドベンチャーパープルシューズ(M)
 PROPITEM_TXT_826456,Dark Christmas Adventurer Purple Set (M),ダーククリスマスアドベンチャーパープルセット(M)
 PROPITEM_TXT_826457,The Dark Christmas Adventurer Purple Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーパープルセット
-PROPITEM_TXT_826458,Dark Christmas Adventurer Purple Hat (F),Dark Christmas Adventurer Purple Hat (F)
-PROPITEM_TXT_826459,Dark Christmas Adventurer Purple Suit (F),Dark Christmas Adventurer Purple Suit (F)
-PROPITEM_TXT_826460,Dark Christmas Adventurer Purple Shoes (F),Dark Christmas Adventurer Purple Shoes (F)
+PROPITEM_TXT_826458,Dark Christmas Adventurer Purple Hat (F),ダーククリスマスアドベンチャーパープルハット(F)
+PROPITEM_TXT_826459,Dark Christmas Adventurer Purple Suit (F),ダーククリスマスアドベンチャーパープルスーツ(F)
+PROPITEM_TXT_826460,Dark Christmas Adventurer Purple Shoes (F),ダーククリスマスアドベンチャーパープルシューズ(F)
 PROPITEM_TXT_826461,Dark Christmas Adventurer Purple Set (F),ダーククリスマスアドベンチャーパープルセット(F)
 PROPITEM_TXT_826462,The Dark Christmas Adventurer Purple Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーパープルセット
 PROPITEM_TXT_826463,Dark Christmas Adventurer Green Set,ダーククリスマスアドベンチャーグリーンセット
-PROPITEM_TXT_826464,Dark Christmas Adventurer Green Wings,Dark Christmas Adventurer Green Wings
-PROPITEM_TXT_826465,Dark Christmas Adventurer Green Hat (M),Dark Christmas Adventurer Green Hat (M)
-PROPITEM_TXT_826466,Dark Christmas Adventurer Green Suit (M),Dark Christmas Adventurer Green Suit (M)
-PROPITEM_TXT_826467,Dark Christmas Adventurer Green Shoes (M),Dark Christmas Adventurer Green Shoes (M)
+PROPITEM_TXT_826464,Dark Christmas Adventurer Green Wings,ダーククリスマスアドベンチャーグリーンウィング
+PROPITEM_TXT_826465,Dark Christmas Adventurer Green Hat (M),ダーククリスマスアドベンチャーグリーンハット(M)
+PROPITEM_TXT_826466,Dark Christmas Adventurer Green Suit (M),ダーククリスマスアドベンチャーグリーンスーツ(M)
+PROPITEM_TXT_826467,Dark Christmas Adventurer Green Shoes (M),ダーククリスマスアドベンチャーグリーンシューズ(M)
 PROPITEM_TXT_826468,Dark Christmas Adventurer Green Set (M),ダーククリスマスアドベンチャーグリーンセット(M)
 PROPITEM_TXT_826469,The Dark Christmas Adventurer Green Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーグリーンセット
-PROPITEM_TXT_826470,Dark Christmas Adventurer Green Hat (F),Dark Christmas Adventurer Green Hat (F)
-PROPITEM_TXT_826471,Dark Christmas Adventurer Green Suit (F),Dark Christmas Adventurer Green Suit (F)
-PROPITEM_TXT_826472,Dark Christmas Adventurer Green Shoes (F),Dark Christmas Adventurer Green Shoes (F)
+PROPITEM_TXT_826470,Dark Christmas Adventurer Green Hat (F),ダーククリスマスアドベンチャーグリーンハット(F)
+PROPITEM_TXT_826471,Dark Christmas Adventurer Green Suit (F),ダーククリスマスアドベンチャーグリーンスーツ(F)
+PROPITEM_TXT_826472,Dark Christmas Adventurer Green Shoes (F),ダーククリスマスアドベンチャーグリーンシューズ(F)
 PROPITEM_TXT_826473,Dark Christmas Adventurer Green Set (F),ダーククリスマスアドベンチャーグリーンセット(F)
 PROPITEM_TXT_826474,The Dark Christmas Adventurer Green Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーグリーンセット
 PROPITEM_TXT_826475,Dark Christmas Adventurer Black Set,ダーククリスマスアドベンチャーブラックセット
-PROPITEM_TXT_826476,Dark Christmas Adventurer Black Wings,Dark Christmas Adventurer Black Wings
-PROPITEM_TXT_826477,Dark Christmas Adventurer Black Hat (M),Dark Christmas Adventurer Black Hat (M)
-PROPITEM_TXT_826478,Dark Christmas Adventurer Black Suit (M),Dark Christmas Adventurer Black Suit (M)
-PROPITEM_TXT_826479,Dark Christmas Adventurer Black Shoes (M),Dark Christmas Adventurer Black Shoes (M)
+PROPITEM_TXT_826476,Dark Christmas Adventurer Black Wings,ダーククリスマスアドベンチャーブラックウィング
+PROPITEM_TXT_826477,Dark Christmas Adventurer Black Hat (M),ダーククリスマスアドベンチャーブラックハット(M)
+PROPITEM_TXT_826478,Dark Christmas Adventurer Black Suit (M),ダーククリスマスアドベンチャーブラックスーツ(M)
+PROPITEM_TXT_826479,Dark Christmas Adventurer Black Shoes (M),ダーククリスマスアドベンチャーブラックシューズ(M)
 PROPITEM_TXT_826480,Dark Christmas Adventurer Black Set (M),ダーククリスマスアドベンチャーブラックセット(M)
 PROPITEM_TXT_826481,The Dark Christmas Adventurer Black Set for male characters.,男性キャラクター用のダーククリスマスアドベンチャーブラックセット
-PROPITEM_TXT_826482,Dark Christmas Adventurer Black Hat (F),Dark Christmas Adventurer Black Hat (F)
-PROPITEM_TXT_826483,Dark Christmas Adventurer Black Suit (F),Dark Christmas Adventurer Black Suit (F)
-PROPITEM_TXT_826484,Dark Christmas Adventurer Black Shoes (F),Dark Christmas Adventurer Black Shoes (F)
+PROPITEM_TXT_826482,Dark Christmas Adventurer Black Hat (F),ダーククリスマスアドベンチャーブラックハット(F)
+PROPITEM_TXT_826483,Dark Christmas Adventurer Black Suit (F),ダーククリスマスアドベンチャーブラックスーツ(F)
+PROPITEM_TXT_826484,Dark Christmas Adventurer Black Shoes (F),ダーククリスマスアドベンチャーブラックシューズ(F)
 PROPITEM_TXT_826485,Dark Christmas Adventurer Black Set (F),ダーククリスマスアドベンチャーブラックセット(F)
 PROPITEM_TXT_826486,The Dark Christmas Adventurer Black Set for female characters.,女性キャラクター用のダーククリスマスアドベンチャーブラックセット
-PROPITEM_TXT_826487,Dark Christmas Adventurer Costume Lucky Box,Dark Christmas Adventurer Costume Lucky Box
-PROPITEM_TXT_826488,This box contains a Dark Christmas Adventurer Set. You can select your gender after opening the Lucky Box.,This box contains a Dark Christmas Adventurer Set. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_826489,Xmas 2024 Beard,Xmas 2024 Beard
-PROPITEM_TXT_826490,Xmas 2024 Beard & Red Sunglasses,Xmas 2024 Beard & Red Sunglasses
-PROPITEM_TXT_826491,Xmas 2024 Beard & Blue Sunglasses,Xmas 2024 Beard & Blue Sunglasses
-PROPITEM_TXT_826492,Xmas 2024 Beard & Pink Sunglasses,Xmas 2024 Beard & Pink Sunglasses
-PROPITEM_TXT_826493,Xmas 2024 Beard & Purple Sunglasses,Xmas 2024 Beard & Purple Sunglasses
-PROPITEM_TXT_826494,Xmas 2024 Beard & Green Sunglasses,Xmas 2024 Beard & Green Sunglasses
-PROPITEM_TXT_826495,Xmas 2024 Beard & Black Sunglasses,Xmas 2024 Beard & Black Sunglasses
-PROPITEM_TXT_826496,Medieval Housing Pack,Medieval Housing Pack
-PROPITEM_TXT_826497,Medieval Bed Single Pack,Medieval Bed Single Pack
-PROPITEM_TXT_826498,Medieval Sofa Single Pack,Medieval Sofa Single Pack
-PROPITEM_TXT_826499,Medieval Armchair Single Pack,Medieval Armchair Single Pack
-PROPITEM_TXT_826500,Medieval Bookcase Single Pack,Medieval Bookcase Single Pack
-PROPITEM_TXT_826501,Medieval Wardrobe Single Pack,Medieval Wardrobe Single Pack
-PROPITEM_TXT_826502,Medieval Table Single Pack,Medieval Table Single Pack
-PROPITEM_TXT_826503,Medieval Chair Single Pack,Medieval Chair Single Pack
-PROPITEM_TXT_826504,Medieval Floor Lamp Single Pack,Medieval Floor Lamp Single Pack
-PROPITEM_TXT_826505,Medieval Drawer Single Pack,Medieval Drawer Single Pack
-PROPITEM_TXT_826506,Halloween 2024 Housing Pack,Halloween 2024 Housing Pack
-PROPITEM_TXT_826507,Halloween 2024 Bed Single Pack,Halloween 2024 Bed Single Pack
-PROPITEM_TXT_826508,Halloween 2024 Sofa Single Pack,Halloween 2024 Sofa Single Pack
-PROPITEM_TXT_826509,Halloween 2024 Armchair Single Pack,Halloween 2024 Armchair Single Pack
-PROPITEM_TXT_826510,Halloween 2024 Bookcase Single Pack,Halloween 2024 Bookcase Single Pack
-PROPITEM_TXT_826511,Halloween 2024 Wardrobe Single Pack,Halloween 2024 Wardrobe Single Pack
-PROPITEM_TXT_826512,Halloween 2024 Table Single Pack,Halloween 2024 Table Single Pack
-PROPITEM_TXT_826513,Halloween 2024 Chair Single Pack,Halloween 2024 Chair Single Pack
-PROPITEM_TXT_826514,Halloween 2024 Lantern Single Pack,Halloween 2024 Lantern Single Pack
-PROPITEM_TXT_826515,Halloween 2024 Drawer Single Pack,Halloween 2024 Drawer Single Pack
+PROPITEM_TXT_826487,Dark Christmas Adventurer Costume Lucky Box,ダーククリスマスアドベンチャーコスチュームラッキーボックス
+PROPITEM_TXT_826488,This box contains a Dark Christmas Adventurer Set. You can select your gender after opening the Lucky Box.,このボックスには、ダーククリスマスアドベンチャーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_826489,Xmas 2024 Beard,クリスマス2024ヒゲ
+PROPITEM_TXT_826490,Xmas 2024 Beard & Red Sunglasses,クリスマス2024ヒゲ＆レッドサングラス
+PROPITEM_TXT_826491,Xmas 2024 Beard & Blue Sunglasses,クリスマス2024ヒゲ＆ブルーサングラス
+PROPITEM_TXT_826492,Xmas 2024 Beard & Pink Sunglasses,クリスマス2024ヒゲ＆ピンクサングラス
+PROPITEM_TXT_826493,Xmas 2024 Beard & Purple Sunglasses,クリスマス2024ヒゲ＆パープルサングラス
+PROPITEM_TXT_826494,Xmas 2024 Beard & Green Sunglasses,クリスマス2024ヒゲ＆グリーンサングラス
+PROPITEM_TXT_826495,Xmas 2024 Beard & Black Sunglasses,クリスマス2024ヒゲ＆ブラックサングラス
+PROPITEM_TXT_826496,Medieval Housing Pack,中世ハウジングパック
+PROPITEM_TXT_826497,Medieval Bed Single Pack,中世ベッドシングルパック
+PROPITEM_TXT_826498,Medieval Sofa Single Pack,中世ソファシングルパック
+PROPITEM_TXT_826499,Medieval Armchair Single Pack,中世アームチェアシングルパック
+PROPITEM_TXT_826500,Medieval Bookcase Single Pack,中世本棚シングルパック
+PROPITEM_TXT_826501,Medieval Wardrobe Single Pack,中世ワードローブシングルパック
+PROPITEM_TXT_826502,Medieval Table Single Pack,中世テーブルシングルパック
+PROPITEM_TXT_826503,Medieval Chair Single Pack,中世チェアシングルパック
+PROPITEM_TXT_826504,Medieval Floor Lamp Single Pack,中世フロアランプシングルパック
+PROPITEM_TXT_826505,Medieval Drawer Single Pack,中世ドロワーシングルパック
+PROPITEM_TXT_826506,Halloween 2024 Housing Pack,ハロウィン2024ハウジングパック
+PROPITEM_TXT_826507,Halloween 2024 Bed Single Pack,ハロウィン2024ベッドシングルパック
+PROPITEM_TXT_826508,Halloween 2024 Sofa Single Pack,ハロウィン2024ソファシングルパック
+PROPITEM_TXT_826509,Halloween 2024 Armchair Single Pack,ハロウィン2024アームチェアシングルパック
+PROPITEM_TXT_826510,Halloween 2024 Bookcase Single Pack,ハロウィン2024本棚シングルパック
+PROPITEM_TXT_826511,Halloween 2024 Wardrobe Single Pack,ハロウィン2024ワードローブシングルパック
+PROPITEM_TXT_826512,Halloween 2024 Table Single Pack,ハロウィン2024テーブルシングルパック
+PROPITEM_TXT_826513,Halloween 2024 Chair Single Pack,ハロウィン2024チェアシングルパック
+PROPITEM_TXT_826514,Halloween 2024 Lantern Single Pack,ハロウィン2024ランタンシングルパック
+PROPITEM_TXT_826515,Halloween 2024 Drawer Single Pack,ハロウィン2024ドロワーシングルパック
 PROPITEM_TXT_201117,2025 New Year Hanbok Set,2025年正月韓服セット
 PROPITEM_TXT_201118,2025 New Year Hanbok 10% Set,2025年正月韓服10%セット
 PROPITEM_TXT_201119,2025 New Year Hanbok Set (M),2025年正月韓服セット(M)
@@ -20163,78 +20163,78 @@ PROPITEM_TXT_826602,Christmas Star Blue Shoes (F),クリスマスターブルー
 PROPITEM_TXT_826603,Christmas Star Blue Hands (F),クリスマスターブルーグローブ(F)
 PROPITEM_TXT_826604,Christmas Star 2% Blue Set (F),クリスマスター 2%ブルーセット(F)
 PROPITEM_TXT_826605,The Christmas Star 2% Blue Set for female characters.,女性キャラクター用のクリスマスター 2%ブルーセット
-PROPITEM_TXT_826606,Red Christmas Gingy,Red Christmas Gingy
-PROPITEM_TXT_826607,"A dash of spice and holiday cheer, Christmas Gingy is here to sweeten your adventures all year!","A dash of spice and holiday cheer, Christmas Gingy is here to sweeten your adventures all year!"
-PROPITEM_TXT_826608,Green Christmas Gingy,Green Christmas Gingy
-PROPITEM_TXT_826609,Pink Christmas Gingy,Pink Christmas Gingy
-PROPITEM_TXT_826610,Orange Christmas Gingy,Orange Christmas Gingy
-PROPITEM_TXT_826611,Purple Christmas Gingy,Purple Christmas Gingy
-PROPITEM_TXT_826612,Blue Christmas Gingy,Blue Christmas Gingy
+PROPITEM_TXT_826606,Red Christmas Gingy,レッドクリスマスジンジー
+PROPITEM_TXT_826607,"A dash of spice and holiday cheer, Christmas Gingy is here to sweeten your adventures all year!",ひとさじのスパイスと祝祭の陽気さで、クリスマスジンジーがあなたの冒険を一年中甘くしてくれます！
+PROPITEM_TXT_826608,Green Christmas Gingy,グリーンクリスマスジンジー
+PROPITEM_TXT_826609,Pink Christmas Gingy,ピンククリスマスジンジー
+PROPITEM_TXT_826610,Orange Christmas Gingy,オレンジクリスマスジンジー
+PROPITEM_TXT_826611,Purple Christmas Gingy,パープルクリスマスジンジー
+PROPITEM_TXT_826612,Blue Christmas Gingy,ブルークリスマスジンジー
 PROPITEM_TXT_826613,Christmas Star Costume Lucky Box,クリスマスターコスチュームラッキーボックス
-PROPITEM_TXT_826614,This box contains a Christmas Star Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Christmas Star Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826614,This box contains a Christmas Star Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのクリスマススターセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_826615,Halldress Set,ホールドレスセット
-PROPITEM_TXT_826616,Halldress Hat (M),Halldress Hat (M)
-PROPITEM_TXT_826617,Halldress Suit (M),Halldress Suit (M)
-PROPITEM_TXT_826618,Halldress Shoes (M),Halldress Shoes (M)
-PROPITEM_TXT_826619,Halldress Hands (M),Halldress Hands (M)
+PROPITEM_TXT_826616,Halldress Hat (M),ホールドレスハット(M)
+PROPITEM_TXT_826617,Halldress Suit (M),ホールドレススーツ(M)
+PROPITEM_TXT_826618,Halldress Shoes (M),ホールドレスシューズ(M)
+PROPITEM_TXT_826619,Halldress Hands (M),ホールドレスグローブ(M)
 PROPITEM_TXT_826620,Halldress Set (M),ホールドレスセット(M)
 PROPITEM_TXT_826621,The Halldress  Set for male characters.,男性キャラクター用のホールドレスセット
-PROPITEM_TXT_826622,Halldress Hat (F),Halldress Hat (F)
-PROPITEM_TXT_826623,Halldress Suit (F),Halldress Suit (F)
-PROPITEM_TXT_826624,Halldress Shoes (F),Halldress Shoes (F)
-PROPITEM_TXT_826625,Halldress Hands (F),Halldress Hands (F)
+PROPITEM_TXT_826622,Halldress Hat (F),ホールドレスハット(F)
+PROPITEM_TXT_826623,Halldress Suit (F),ホールドレススーツ(F)
+PROPITEM_TXT_826624,Halldress Shoes (F),ホールドレスシューズ(F)
+PROPITEM_TXT_826625,Halldress Hands (F),ホールドレスグローブ(F)
 PROPITEM_TXT_826626,Halldress Set (F),ホールドレスセット(F)
 PROPITEM_TXT_826627,The Halldress  Set for female characters.,女性キャラクター用のホールドレスセット
-PROPITEM_TXT_826628,Halldress Costume Lucky Box,Halldress Costume Lucky Box
-PROPITEM_TXT_826629,This box contains a Halldress Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Halldress Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_826630,Dark Christmas Adventurer Red Sunglasses,Dark Christmas Adventurer Red Sunglasses
-PROPITEM_TXT_826631,Dark Christmas Adventurer Beard & Red Sunglasses,Dark Christmas Adventurer Beard & Red Sunglasses
-PROPITEM_TXT_826632,Dark Christmas Adventurer Beard & Red Sunglasses,Dark Christmas Adventurer Beard & Red Sunglasses
+PROPITEM_TXT_826628,Halldress Costume Lucky Box,ホールドレスコスチュームラッキーボックス
+PROPITEM_TXT_826629,This box contains a Halldress Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのホールドレスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_826630,Dark Christmas Adventurer Red Sunglasses,ダーククリスマスアドベンチャーレッドサングラス
+PROPITEM_TXT_826631,Dark Christmas Adventurer Beard & Red Sunglasses,ダーククリスマスアドベンチャーヒゲ＆レッドサングラス
+PROPITEM_TXT_826632,Dark Christmas Adventurer Beard & Red Sunglasses,ダーククリスマスアドベンチャーヒゲ＆レッドサングラス
 PROPITEM_TXT_144163,Extended 2025 New Year Pass,拡張2025年正月パス
 PROPITEM_TXT_144164,This purchase will give you access to many advantages until the end of the 2025 New Year Pass season,This purchase will give you access to many advantages until the end of the 2025 New Year Pass season
-PROPITEM_TXT_826633,Christmas Pouch,Christmas Pouch
+PROPITEM_TXT_826633,Christmas Pouch,クリスマスポーチ
 PROPITEM_TXT_826634,A package containing 5x Christmas Cookie and 5x Scroll of Amplification ES. All items are also linked.,クリスマスクッキーx5、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826635,Christmas Costume Package,Christmas Costume Package
+PROPITEM_TXT_826635,Christmas Costume Package,クリスマスコスチュームパッケージ
 PROPITEM_TXT_826636,A package containing 1x Rudolph Set and 1x Christmas Flying Select Box. All items are also linked.,トナカイセットx1、クリスマスフライングセレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826637,Santa's Supply Box,Santa's Supply Box
+PROPITEM_TXT_826637,Santa's Supply Box,サンタのサプライボックス
 PROPITEM_TXT_826638,"A package containing 10x Def-Upcut Stone, 10x Potion Select Box, 10x Flask Select Box and 10x Vital Drink X or Refresher Hold. All items are also linked.",ディフェンスストーンx10、ポーションセレクトボックスx10、フラスコセレクトボックスx10、スタミナドリンクX または 魔力ドリンクゴールドx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_826639,Snowman Select Box,スノーマンセレクトボックス
-PROPITEM_TXT_826640,This box holds all the snowmen you could wish for. Pick your favorite color and let the winter fun begin!,This box holds all the snowmen you could wish for. Pick your favorite color and let the winter fun begin!
-PROPITEM_TXT_826641,Christmas Special  Package 1,Christmas Special  Package 1
+PROPITEM_TXT_826640,This box holds all the snowmen you could wish for. Pick your favorite color and let the winter fun begin!,このボックスには、お好みのスノーマンが全て揃っています。お好きな色を選んで、冬の楽しみを始めましょう！
+PROPITEM_TXT_826641,Christmas Special  Package 1,クリスマススペシャルパッケージ1
 PROPITEM_TXT_826642,"A package containing 10x The Seeds of Love, 1x Scroll of PickUp Boost (7 days) and 1x Snowman Select Box. All items are also linked.",愛の植木鉢x10、ピックアップブーストスクロール（7日）x1、スノーマンセレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826643,Christmas Special  Package 2,Christmas Special  Package 2
+PROPITEM_TXT_826643,Christmas Special  Package 2,クリスマススペシャルパッケージ2
 PROPITEM_TXT_826644,"A package containing 10x The Seeds of Love, 1x Nitro Booster (7 Days) and 1x Piyoko. All items are also linked.",愛の植木鉢x10、ニトロブースター(7日間)x1、みらくるTOY CAR!!!x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826645,Candy Cane Costume Return Package,Candy Cane Costume Return Package
+PROPITEM_TXT_826645,Candy Cane Costume Return Package,キャンディケインコスチュームリターンパッケージ
 PROPITEM_TXT_826646,"A package containing 1x Candy Cane Costume Lucky Box, 3x Blessing of the Goddess and 10x Elemental Attack Stone Select Box. All items are also linked.",キャンディケインコスチュームラッキーボックスx1、女神の祝福x3、エレメンタルアタックストーンセレクトボックスx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_826647,Baby Cobra Set,ベビーコブラセット
 PROPITEM_TXT_826648,A package containing 1x Baby Cobra and 1x Scroll of PickUp Boost (15 Days). All items are also linked.,デッドウィルダニスコブラx1、ピックアップブーストスクロール(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826649,Snake Hunting Pack,Snake Hunting Pack
+PROPITEM_TXT_826649,Snake Hunting Pack,スネークハンティングパック
 PROPITEM_TXT_826650,"A package containing 5x Def-Upcut Stone, 5x Activation, 5x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.",ディフェンスストーンx5、アクティビションx5、グリルド・イールx5、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_826651,Ice Ribbon Sword,Ice Ribbon Sword
-PROPITEM_TXT_826652,Ice Ribbon Axe,Ice Ribbon Axe
-PROPITEM_TXT_826653,Ice Ribbon Big Sword,Ice Ribbon Big Sword
-PROPITEM_TXT_826654,Ice Ribbon Big Axe,Ice Ribbon Big Axe
-PROPITEM_TXT_826655,Ice Ribbon Stick,Ice Ribbon Stick
-PROPITEM_TXT_826656,Ice Ribbon Knuckle,Ice Ribbon Knuckle
-PROPITEM_TXT_826657,Ice Ribbon Bow,Ice Ribbon Bow
-PROPITEM_TXT_826658,Ice Ribbon Yo-Yo,Ice Ribbon Yo-Yo
-PROPITEM_TXT_826659,Ice Ribbon Staff,Ice Ribbon Staff
-PROPITEM_TXT_826660,Ice Ribbon Wand,Ice Ribbon Wand
-PROPITEM_TXT_826661,Ice Ribbon Shield,Ice Ribbon Shield
-PROPITEM_TXT_826662,Ice Ribbon Force Gem,Ice Ribbon Force Gem
-PROPITEM_TXT_826663,Ice Ribbon Book,Ice Ribbon Book
+PROPITEM_TXT_826651,Ice Ribbon Sword,アイスリボン・ソード
+PROPITEM_TXT_826652,Ice Ribbon Axe,アイスリボン・アクス
+PROPITEM_TXT_826653,Ice Ribbon Big Sword,アイスリボン・ビッグソード
+PROPITEM_TXT_826654,Ice Ribbon Big Axe,アイスリボン・ビッグアクス
+PROPITEM_TXT_826655,Ice Ribbon Stick,アイスリボン・スティック
+PROPITEM_TXT_826656,Ice Ribbon Knuckle,アイスリボン・ナックル
+PROPITEM_TXT_826657,Ice Ribbon Bow,アイスリボン・ボウ
+PROPITEM_TXT_826658,Ice Ribbon Yo-Yo,アイスリボン・ヨーヨー
+PROPITEM_TXT_826659,Ice Ribbon Staff,アイスリボン・スタッフ
+PROPITEM_TXT_826660,Ice Ribbon Wand,アイスリボン・ワンド
+PROPITEM_TXT_826661,Ice Ribbon Shield,アイスリボン・シールド
+PROPITEM_TXT_826662,Ice Ribbon Force Gem,アイスリボン・フォースジェム
+PROPITEM_TXT_826663,Ice Ribbon Book,アイスリボン・ブック
 PROPITEM_TXT_826664,Ice Ribbon Weapon Set,アイスリボンウェポンセット
-PROPITEM_TXT_826665,Select which Ice Ribbon Weapon you want to receive!,Select which Ice Ribbon Weapon you want to receive!
-PROPITEM_TXT_826666,2025 New year Lucky Box,2025 New year Lucky Box
-PROPITEM_TXT_826667,A Lucky Box filled with good luck for the 2025 new year!\nYou'll get 1 random item from a variety of different items,A Lucky Box filled with good luck for the 2025 new year!\nYou'll get 1 random item from a variety of different items
-PROPITEM_TXT_826668,[Event] 2025 New Year Gift Box 1,[Event] 2025 New Year Gift Box 1
+PROPITEM_TXT_826665,Select which Ice Ribbon Weapon you want to receive!,受け取りたいアイスリボン武器を選択してください！
+PROPITEM_TXT_826666,2025 New year Lucky Box,2025 新年ラッキーボックス
+PROPITEM_TXT_826667,A Lucky Box filled with good luck for the 2025 new year!\nYou'll get 1 random item from a variety of different items,2025年の新年を祝う幸運が詰まったラッキーボックス！\nさまざまなアイテムの中からランダムで1つ獲得できます
+PROPITEM_TXT_826668,[Event] 2025 New Year Gift Box 1,[イベント]2025新年ギフトボックス1
 PROPITEM_TXT_826669,"First reward for New Year Event!\nYou can earn 5x Upcut Stone, 1x Grilled Eel, 1x Scroll of Amplification ES, and 5x Repair Hammer",新年イベントの1回目の報酬！\nパワーストーンx5、グリルド・イールx1、戦神の巻物ESx1、修理ハンマーx5を獲得できます
-PROPITEM_TXT_826670,[Event] 2025 New Year Gift Box 2,[Event] 2025 New Year Gift Box 2
-PROPITEM_TXT_826671,"Second reward for New Year Event!\nYou can earn 1x Ad product selection box, 1x Angel Vendor Shop 7 days, 1x Scroll of Gprotect or Power Scroll, and 10x Wandering Merchant Refresh Ticket","Second reward for New Year Event!\nYou can earn 1x Ad product selection box, 1x Angel Vendor Shop 7 days, 1x Scroll of Gprotect or Power Scroll, and 10x Wandering Merchant Refresh Ticket"
-PROPITEM_TXT_826672,[Event] 2025 New Year Gift Box 3,[Event] 2025 New Year Gift Box 3
-PROPITEM_TXT_826673,"This is the Third Reward for the Year of the Snake Event. Within this gift box, you'll receive the following; 1x Snake Samurai Greent Set, 5x Blessing of the Demon, and 2x Pet Transmute","This is the Third Reward for the Year of the Snake Event. Within this gift box, you'll receive the following; 1x Snake Samurai Greent Set, 5x Blessing of the Demon, and 2x Pet Transmute"
-PROPITEM_TXT_826674,Ad product selection box,Ad product selection box
-PROPITEM_TXT_826675,You can get 1 from a variety of advertisement products,You can get 1 from a variety of advertisement products
+PROPITEM_TXT_826670,[Event] 2025 New Year Gift Box 2,[イベント]2025新年ギフトボックス2
+PROPITEM_TXT_826671,"Second reward for New Year Event!\nYou can earn 1x Ad product selection box, 1x Angel Vendor Shop 7 days, 1x Scroll of Gprotect or Power Scroll, and 10x Wandering Merchant Refresh Ticket",新年イベントの2回目の報酬！\n広告商品選択ボックスx1、エンジェル売り子ショップ(7日)x1、鍛冶屋の心得・ソケット作成編または豪傑のスクロール(B)x1、行商人リフレッシュチケットx10を獲得できます
+PROPITEM_TXT_826672,[Event] 2025 New Year Gift Box 3,[イベント]2025新年ギフトボックス3
+PROPITEM_TXT_826673,"This is the Third Reward for the Year of the Snake Event. Within this gift box, you'll receive the following; 1x Snake Samurai Greent Set, 5x Blessing of the Demon, and 2x Pet Transmute",これは巳年イベントの3回目の報酬です。このギフトボックスには、以下が含まれています；スネークサムライグリーンセットx1、悪魔の祝福x5、ペット変身x2
+PROPITEM_TXT_826674,Ad product selection box,広告商品選択ボックス
+PROPITEM_TXT_826675,You can get 1 from a variety of advertisement products,様々な広告商品の中から1つを獲得できます
 PROPITEM_TXT_826686,Northern Warrior Black Hat (M),北方の戦士ブラックハット(M)
 PROPITEM_TXT_826687,Northern Warrior Black Suit (M),北方の戦士ブラックスーツ(M)
 PROPITEM_TXT_826688,Northern Warrior Black Shoes (M),北方の戦士ブラックシューズ(M)
@@ -20318,11 +20318,11 @@ PROPITEM_TXT_826765,Northern Warrior White Hands (F),北方の戦士ホワイト
 PROPITEM_TXT_826766,Northern Warrior 2% White Set (F),北方の戦士 2%ホワイトセット(F)
 PROPITEM_TXT_826767,The Northern Warrior 2% White Set for female characters.,女性キャラクター用の北方の戦士 2%ホワイトセット
 PROPITEM_TXT_826768,Northern Warrior Costume Lucky Box,北方の戦士コスチュームラッキーボックス
-PROPITEM_TXT_826769,This box contains a Northern Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Northern Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_826770,Red Northern Dragon,Red Northern Dragon
-PROPITEM_TXT_826771,Purple Northern Dragon,Purple Northern Dragon
-PROPITEM_TXT_826772,Ice Northern Dragon,Ice Northern Dragon
-PROPITEM_TXT_826773,"Soar through the clouds with fiery grace! Roaring optional, awe guaranteed! Maximum Speed: 64 km/h.","Soar through the clouds with fiery grace! Roaring optional, awe guaranteed! Maximum Speed: 64 km/h."
+PROPITEM_TXT_826769,This box contains a Northern Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのノーザンウォリアーセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_826770,Red Northern Dragon,レッドノーザンドラゴン
+PROPITEM_TXT_826771,Purple Northern Dragon,パープルノーザンドラゴン
+PROPITEM_TXT_826772,Ice Northern Dragon,アイスノーザンドラゴン
+PROPITEM_TXT_826773,"Soar through the clouds with fiery grace! Roaring optional, awe guaranteed! Maximum Speed: 64 km/h.",燃えるような優雅さで雲間を舞い上がれ！咆哮はお好みで、驚異は保証付き！最高速度：64km/h。
 PROPITEM_TXT_826774,Northern Warrior 10% Black Set,北方の戦士 10%ブラックセット
 PROPITEM_TXT_826775,Northern Warrior Black Cloak,北方の戦士ブラックマント
 PROPITEM_TXT_826776,Snake Samurai Green Set,スネークサムライグリーンセット
@@ -20403,7 +20403,7 @@ PROPITEM_TXT_826850,Snake Samurai White Shoes (F),スネークサムライホワ
 PROPITEM_TXT_826851,Snake Samurai 2% White Set (F),スネークサムライ 2%ホワイトセット(F)
 PROPITEM_TXT_826852,The Snake Samurai 2% White Set for female characters.,女性キャラクター用のスネークサムライ 2%ホワイトセット
 PROPITEM_TXT_826853,Snake Samurai Costume Lucky Box,スネークサムライコスチュームラッキーボックス
-PROPITEM_TXT_826854,This box contains a Snake Samurai Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Snake Samurai Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_826854,This box contains a Snake Samurai Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスネークサムライセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_201139,[Event] 2025 Spring Gift Box,[Event] 2025 Spring Gift Box
 PROPITEM_TXT_201140,A box full of spring energy.\nYou can obtain 1 random gift when you use it.,A box full of spring energy.\nYou can obtain 1 random gift when you use it.
 PROPITEM_TXT_826855,Lunar ES Scroll Select Pack,旧正月戦神の巻物ES選択パック
