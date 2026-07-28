@@ -2588,8 +2588,8 @@ UI_PETTRAINING_CONFIRM,"#bThe selected pet cannot be used while in training. #cf
 UI_PETTRAINING_TOTALTRAINING,Total Training Time,総訓練時間
 UI_PETTRAINING_CLAIM,Claim,もらう
 UI_PETTRAINING_NEXTCANDY,Next Candy In,次のキャンディまで
-UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,ペット訓練を中止しようとしています。ペットは現在の進行状況のままハウジングインベントリに戻されます。続行しますか？
-UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,ペット訓練を中止しようとしています。ペットは現在の進行状況のままインベントリに戻されます。続行しますか？
+UI_PETTRAINING_CANCELTRAINING_HOUSING,You are about to cancel pet training. The pet will be returned to your housing inventory with its current progress. Proceed?,ペットトレーニングを中止しようとしています。ペットは現在の進行状況のままハウジングインベントリに戻されます。続行しますか？
+UI_PETTRAINING_CANCELTRAINING,You are about to cancel pet training. The pet will be returned to your inventory with its current progress. Proceed?,ペットトレーニングを中止しようとしています。ペットは現在の進行状況のままインベントリに戻されます。続行しますか？
 UI_PETTRAINING_INFO,"You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc","You can train Raised Pets in your inventory by entrusting them to a Caretaker. Each Caretaker NPC has different feeding schedules and intervals and is intended for a specific pet tier.\n\nSelect the Raised Pet you wish to train by #bdouble-clicking or dragging it into the slot#nb, then press the ""Done"" button to begin training.\n\n#cffff0000If you change the Raised Pet, the feeding schedule will reset. If the Caretaker's duration expires, training will end.#nc"
 UI_COUPLE_RING_TP,Teleports: %d,テレポート回数：%d
 UI_COUPLE_RING_CHEER,Cheers: %d,応援回数：%d
