@@ -12693,8 +12693,8 @@ PROPITEM_TXT_131004,Common Props Housing Pack 1,コモンプロップハウジ�
 PROPITEM_TXT_131005,Common Plants Housing Pack 1,コモンプラントハウジングパック1
 PROPITEM_TXT_131006,Common Rocks Housing Pack,コモンロックハウジングパック
 PROPITEM_TXT_131007,Flaris Props Housing Pack 1,フラリスプロップ ハウジング パック1
-PROPITEM_TXT_131008,St Morning Props Housing Pack,セントモーニングプロップハウジング パック
-PROPITEM_TXT_131009,St Morning Rocks Housing Pack,セントモーニングロックスハウジングパック
+PROPITEM_TXT_131008,St Morning Props Housing Pack,セイントモーニングプロップハウジング パック
+PROPITEM_TXT_131009,St Morning Rocks Housing Pack,セイントモーニングロックスハウジングパック
 PROPITEM_TXT_131010,Darkon Trees Housing Pack,ダーコンツリーハウジングパック
 PROPITEM_TXT_131011,Darkon Props Housing Pack 1,ダーコン小道具ハウジングパック1
 PROPITEM_TXT_131012,Darkon Plants Housing Pack,ダーコンプラントハウジングパック
@@ -13662,30 +13662,30 @@ PROPITEM_TXT_522245,Flaris Boat Sign Single Pack,フラリス ボートサイン
 PROPITEM_TXT_522246,Flaris Rotating Sign Single Pack,フラリス ローテイングサイン シングルパック
 PROPITEM_TXT_522247,St Morning Bench Single Pack,セイントモーニングベンチシングルパック
 PROPITEM_TXT_522248,St Morning Charrette Single Pack,セイントモーニングシャーレットシングルパック
-PROPITEM_TXT_522249,St Morning Rock Arch 1 Single Pack,セントモーニングロックアーチ1シングルパック
-PROPITEM_TXT_522250,St Morning Flag 1 Single Pack,セントモーニングフラッグ1シングルパック
-PROPITEM_TXT_522251,St Morning Flag 2 Single Pack,セントモーニングフラッグ2シングルパック
-PROPITEM_TXT_522252,St Morning Flag 3 Single Pack,セントモーニングフラッグ3シングルパック
+PROPITEM_TXT_522249,St Morning Rock Arch 1 Single Pack,セイントモーニングロックアーチ1シングルパック
+PROPITEM_TXT_522250,St Morning Flag 1 Single Pack,セイントモーニングフラッグ1シングルパック
+PROPITEM_TXT_522251,St Morning Flag 2 Single Pack,セイントモーニングフラッグ2シングルパック
+PROPITEM_TXT_522252,St Morning Flag 3 Single Pack,セイントモーニングフラッグ3シングルパック
 PROPITEM_TXT_522253,St Morning Flower Bed Single Pack,セイントモーニングフラワーベッドシングルパック
-PROPITEM_TXT_522254,St Morning Light 1 Single Pack,セントモーニングライト1シングルパック
-PROPITEM_TXT_522255,St Morning Light 2 Single Pack,セントモーニングライト2シングルパック
+PROPITEM_TXT_522254,St Morning Light 1 Single Pack,セイントモーニングライト1シングルパック
+PROPITEM_TXT_522255,St Morning Light 2 Single Pack,セイントモーニングライト2シングルパック
 PROPITEM_TXT_522256,St Morning Sign Single Pack,セイントモーニングサインシングルパック
-PROPITEM_TXT_522257,St Morning Rock Arch 2 Single Pack,セントモーニングロックアーチ2シングルパック
-PROPITEM_TXT_522258,St Morning Rock Arch 3 Single Pack,セントモーニングロックアーチ3シングルパック
-PROPITEM_TXT_522259,St Morning Rock 1 Single Pack,セントモーニングロック1シングルパック
-PROPITEM_TXT_522260,St Morning Rock 2 Single Pack,セントモーニングロック2シングルパック
-PROPITEM_TXT_522261,St Morning Rock 3 Single Pack,セントモーニングロック3シングルパック
-PROPITEM_TXT_522262,St Morning Rock 4 Single Pack,セントモーニングロック4シングルパック
-PROPITEM_TXT_522263,St Morning Rock 5 Single Pack,セントモーニングロック5シングルパック
-PROPITEM_TXT_522264,St Morning Rock 6 Single Pack,セントモーニングロック6シングルパック
-PROPITEM_TXT_522265,St Morning Rock 7 Single Pack,セントモーニングロック7シングルパック
-PROPITEM_TXT_522266,St Morning Rock 8 Single Pack,セントモーニングロック8シングルパック
-PROPITEM_TXT_522267,St Morning Rock 9 Single Pack,セントモーニングロック9シングルパック
-PROPITEM_TXT_522268,St Morning Rock 10 Single Pack,セントモーニングロック10シングルパック
-PROPITEM_TXT_522269,St Morning Rock 11 Single Pack,セントモーニングロック11シングルパック
-PROPITEM_TXT_522270,St Morning Rock 12 Single Pack,セントモーニングロック12シングルパック
-PROPITEM_TXT_522271,St Morning Rock 13 Single Pack,セントモーニングロック13シングルパック
-PROPITEM_TXT_522272,St Morning Rock 14 Single Pack,セントモーニングロック14シングルパック
+PROPITEM_TXT_522257,St Morning Rock Arch 2 Single Pack,セイントモーニングロックアーチ2シングルパック
+PROPITEM_TXT_522258,St Morning Rock Arch 3 Single Pack,セイントモーニングロックアーチ3シングルパック
+PROPITEM_TXT_522259,St Morning Rock 1 Single Pack,セイントモーニングロック1シングルパック
+PROPITEM_TXT_522260,St Morning Rock 2 Single Pack,セイントモーニングロック2シングルパック
+PROPITEM_TXT_522261,St Morning Rock 3 Single Pack,セイントモーニングロック3シングルパック
+PROPITEM_TXT_522262,St Morning Rock 4 Single Pack,セイントモーニングロック4シングルパック
+PROPITEM_TXT_522263,St Morning Rock 5 Single Pack,セイントモーニングロック5シングルパック
+PROPITEM_TXT_522264,St Morning Rock 6 Single Pack,セイントモーニングロック6シングルパック
+PROPITEM_TXT_522265,St Morning Rock 7 Single Pack,セイントモーニングロック7シングルパック
+PROPITEM_TXT_522266,St Morning Rock 8 Single Pack,セイントモーニングロック8シングルパック
+PROPITEM_TXT_522267,St Morning Rock 9 Single Pack,セイントモーニングロック9シングルパック
+PROPITEM_TXT_522268,St Morning Rock 10 Single Pack,セイントモーニングロック10シングルパック
+PROPITEM_TXT_522269,St Morning Rock 11 Single Pack,セイントモーニングロック11シングルパック
+PROPITEM_TXT_522270,St Morning Rock 12 Single Pack,セイントモーニングロック12シングルパック
+PROPITEM_TXT_522271,St Morning Rock 13 Single Pack,セイントモーニングロック13シングルパック
+PROPITEM_TXT_522272,St Morning Rock 14 Single Pack,セイントモーニングロック14シングルパック
 PROPITEM_TXT_522273,Darkon Tree 1 Single Pack,ダーコンツリー1シングルパック
 PROPITEM_TXT_522274,Darkon Tree 2 Single Pack,ダーコンツリー2シングルパック
 PROPITEM_TXT_522275,Darkon Tree 3 Single Pack,ダーコンツリー3シングルパック
@@ -23910,7 +23910,7 @@ PROPITEM_TXT_902034,Sewn Demon White Hands (F),縫い目の悪魔ホワイトグ
 PROPITEM_TXT_902035,Sewn Demon 2% White Set (F),縫い目の悪魔 2%ホワイトセット(F)
 PROPITEM_TXT_902036,The Sewn Demon 2% White Set for female characters.,女性キャラクター用の縫い目の悪魔 2%ホワイトセット
 PROPITEM_TXT_902037,Sewn Demon Costume Lucky Box,縫い目の悪魔コスチュームラッキーボックス
-PROPITEM_TXT_902038,This box contains a Sewn Demon Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Sewn Demon Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902038,This box contains a Sewn Demon Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの縫い目の悪魔セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902039,Spellbat 10% Orange Set,スペルバット 10%オレンジセット
 PROPITEM_TXT_902040,Spellbat Orange Wings,スペルバットオレンジウィング
 PROPITEM_TXT_902041,Spellbat Orange Lollipop,スペルバットオレンジペロペロキャンディ
@@ -24002,11 +24002,11 @@ PROPITEM_TXT_902126,Spellbat Black Hands (F),スペルバットブラックグ�
 PROPITEM_TXT_902127,Spellbat 2% Black Set (F),スペルバット 2%ブラックセット(F)
 PROPITEM_TXT_902128,The Spellbat 2% Black Set for female characters.,女性キャラクター用のスペルバット 2%ブラックセット
 PROPITEM_TXT_902129,Spellbat Costume Lucky Box,スペルバットコスチュームラッキーボックス
-PROPITEM_TXT_902130,This box contains a Spellbat Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Spellbat Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_902131,Orange Spelly,Orange Spelly
-PROPITEM_TXT_902132,Blue Spelly,Blue Spelly
-PROPITEM_TXT_902133,Purple Spelly,Purple Spelly
-PROPITEM_TXT_902134,"Spelly tried to cast a spell once… now it floats with balloons instead. It may not be the best wizard, but it sure knows how to fly! Maximum Speed: 64 km/h.","Spelly tried to cast a spell once… now it floats with balloons instead. It may not be the best wizard, but it sure knows how to fly! Maximum Speed: 64 km/h."
+PROPITEM_TXT_902130,This box contains a Spellbat Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスペルバットセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_902131,Orange Spelly,オレンジスペリー
+PROPITEM_TXT_902132,Blue Spelly,ブルースペリー
+PROPITEM_TXT_902133,Purple Spelly,パープルスペリー
+PROPITEM_TXT_902134,"Spelly tried to cast a spell once… now it floats with balloons instead. It may not be the best wizard, but it sure knows how to fly! Maximum Speed: 64 km/h.",スペリーはかつて呪文を唱えようとしましたが…今では代わりに風船に浮かんで漂っています。優れた魔法使いとは言えないかもしれませんが、飛ぶことにかけては一流です！最高速度：64km/h。
 PROPITEM_TXT_134849,[Event] Halloween Dungeon Lucky Box,[イベント]ハロウィンダンジョンラッキーボックス
 PROPITEM_TXT_134850,A reward from the 2025 Halloween event dungeon!,2025ハロウィンイベントダンジョンからの報酬！
 PROPITEM_TXT_134851,Longwing Vendor Shop,ロングウィングの売り子
@@ -24681,24 +24681,24 @@ PROPITEM_TXT_902145,Knotty Scarecrow Shield,いたずらかかしシールド
 PROPITEM_TXT_902146,Knotty Scarecrow Force Gem,いたずらかかしフォースジェム
 PROPITEM_TXT_902147,Knotty Scarecrow Book,いたずらかかしブック
 PROPITEM_TXT_902148,Knotty Scarecrow Weapon Set,いたずらかかしウェポンセット
-PROPITEM_TXT_902149,Select which Knotty Scarecrow Weapon you want to receive!,Select which Knotty Scarecrow Weapon you want to receive!
-PROPITEM_TXT_902150,Ultimate Accessory Select Box,Ultimate Accessory Select Box
-PROPITEM_TXT_902151,Select which Ultimate Accessory you want!,Select which Ultimate Accessory you want!
-PROPITEM_TXT_902152,Unique Weapon Random Box,Unique Weapon Random Box
-PROPITEM_TXT_902153,You can obtain one Unique-tier weapon at random.,You can obtain one Unique-tier weapon at random.
-PROPITEM_TXT_902154,[Event] Smith's Experimental Material,[Event] Smith's Experimental Material
-PROPITEM_TXT_902155,This is the material needed for the smiths' technology research. Let's take it to the Mayor.,This is the material needed for the smiths' technology research. Let's take it to the Mayor.
-PROPITEM_TXT_902156,Smith's Elixir Box,Smith's Elixir Box
-PROPITEM_TXT_902157,"A gift from the Mayor to show his appreciation. When used, You can choose one of the following: Smith's Fortune Elixir (1 Hour) or Smith's Bounty Elixir (1 Hour).","A gift from the Mayor to show his appreciation. When used, You can choose one of the following: Smith's Fortune Elixir (1 Hour) or Smith's Bounty Elixir (1 Hour)."
-PROPITEM_TXT_902158,Smith's Fortune Elixir (1 Hour),Smith's Fortune Elixir (1 Hour)
-PROPITEM_TXT_902159,Smith's Bounty Elixir (1 Hour),Smith's Bounty Elixir (1 Hour)
-PROPITEM_TXT_902160,This powerful buff is available only during the event period. It cannot be used simultaneously with Smith's Fortune or Smith's Bounty. This item will be removed once the event ends.,This powerful buff is available only during the event period. It cannot be used simultaneously with Smith's Fortune or Smith's Bounty. This item will be removed once the event ends.
-PROPITEM_TXT_902170,Exp+10%,Exp+10%
-PROPITEM_TXT_902171,Exp+20%,Exp+20%
-PROPITEM_TXT_902172,Exp+30%,Exp+30%
-PROPITEM_TXT_902173,Exp+40%,Exp+40%
-PROPITEM_TXT_902174,Exp+50%,Exp+50%
-PROPITEM_TXT_902175,Grants experience bonus until 23:59:59 server time.,Grants experience bonus until 23:59:59 server time.
+PROPITEM_TXT_902149,Select which Knotty Scarecrow Weapon you want to receive!,受け取りたいいたずらかかし武器を選択してください！
+PROPITEM_TXT_902150,Ultimate Accessory Select Box,アルティマアクセサリーセレクトボックス
+PROPITEM_TXT_902151,Select which Ultimate Accessory you want!,受け取りたいアルティマアクセサリーを選択してください！
+PROPITEM_TXT_902152,Unique Weapon Random Box,ユニーク武器ランダムボックス
+PROPITEM_TXT_902153,You can obtain one Unique-tier weapon at random.,ランダムで1つ、ユニーク武器を入手できます。
+PROPITEM_TXT_902154,[Event] Smith's Experimental Material,[イベント]鍛冶屋の試作素材
+PROPITEM_TXT_902155,This is the material needed for the smiths' technology research. Let's take it to the Mayor.,鍛冶屋の技術研究に必要な素材です。町長のところへ持っていきましょう。
+PROPITEM_TXT_902156,Smith's Elixir Box,鍛冶屋のエリクサーボックス
+PROPITEM_TXT_902157,"A gift from the Mayor to show his appreciation. When used, You can choose one of the following: Smith's Fortune Elixir (1 Hour) or Smith's Bounty Elixir (1 Hour).",町長からの感謝の贈り物です。使用すると「鍛冶屋の幸運のエリクサー(1時間)」または「鍛冶屋の恵みのエリクサー(1時間)」のいずれかを選択できます。
+PROPITEM_TXT_902158,Smith's Fortune Elixir (1 Hour),鍛冶屋の幸運のエリクサー(1時間)
+PROPITEM_TXT_902159,Smith's Bounty Elixir (1 Hour),鍛冶屋の恵みのエリクサー(1時間)
+PROPITEM_TXT_902160,This powerful buff is available only during the event period. It cannot be used simultaneously with Smith's Fortune or Smith's Bounty. This item will be removed once the event ends.,この強力なバフはイベント期間中のみ使用可能です。「鍛冶屋の幸運」または「鍛冶屋の恵み」と同時に使用することはできません。イベント終了後、このアイテムは削除されます。
+PROPITEM_TXT_902170,Exp+10%,経験値+10%
+PROPITEM_TXT_902171,Exp+20%,経験値+20%
+PROPITEM_TXT_902172,Exp+30%,経験値+30%
+PROPITEM_TXT_902173,Exp+40%,経験値+40%
+PROPITEM_TXT_902174,Exp+50%,経験値+50%
+PROPITEM_TXT_902175,Grants experience bonus until 23:59:59 server time.,サーバー時間23:59:59まで経験値ボーナスを付与します。
 PROPITEM_TXT_134887,Ales Set (F),アレックト・セット(F)
 PROPITEM_TXT_134888,A package that includes a complete Female Billposter Set for level 75.,レベル75用の女性用ビルポスターセット一式が含まれたパッケージ。
 PROPITEM_TXT_134889,Alext Set (M),アレックト・セット(M)
@@ -24967,26 +24967,26 @@ PROPITEM_TXT_135016,Jewel (3) Select Box,ジュエル (3) 選択ボックス
 PROPITEM_TXT_135017,Select which Jewel you want!,受け取りたいジュエルを選択してください！
 PROPITEM_TXT_135018,Scroll of increased Jewel synthesis chance Select Box,ジュエル合成確率上昇の巻物選択ボックス
 PROPITEM_TXT_135019,Select which Jewel Synthesis Chance Scroll you want!,受け取りたいジュエル合成確率上昇の巻物を選択してください！
-PROPITEM_TXT_902176,Muran Sword,Muran Sword
-PROPITEM_TXT_902177,Muran Axe,Muran Axe
-PROPITEM_TXT_902178,Muran Big Sword,Muran Big Sword
-PROPITEM_TXT_902179,Muran Big Axe,Muran Big Axe
-PROPITEM_TXT_902180,Muran Stick,Muran Stick
-PROPITEM_TXT_902181,Muran Knuckle,Muran Knuckle
-PROPITEM_TXT_902182,Muran Bow,Muran Bow
-PROPITEM_TXT_902183,Muran Yo-Yo,Muran Yo-Yo
-PROPITEM_TXT_902184,Muran Staff,Muran Staff
-PROPITEM_TXT_902185,Muran Wand,Muran Wand
-PROPITEM_TXT_902186,Muran Shield,Muran Shield
-PROPITEM_TXT_902187,Muran Force Gem,Muran Force Gem
-PROPITEM_TXT_902188,Muran Book,Muran Book
+PROPITEM_TXT_902176,Muran Sword,ムランソード
+PROPITEM_TXT_902177,Muran Axe,ムランアクス
+PROPITEM_TXT_902178,Muran Big Sword,ムランビッグソード
+PROPITEM_TXT_902179,Muran Big Axe,ムランビッグアクス
+PROPITEM_TXT_902180,Muran Stick,ムランスティック
+PROPITEM_TXT_902181,Muran Knuckle,ムランナックル
+PROPITEM_TXT_902182,Muran Bow,ムランボウ
+PROPITEM_TXT_902183,Muran Yo-Yo,ムランヨーヨー
+PROPITEM_TXT_902184,Muran Staff,ムランスタッフ
+PROPITEM_TXT_902185,Muran Wand,ムランワンド
+PROPITEM_TXT_902186,Muran Shield,ムランシールド
+PROPITEM_TXT_902187,Muran Force Gem,ムランフォースジェム
+PROPITEM_TXT_902188,Muran Book,ムランブック
 PROPITEM_TXT_902189,Muran  Weapon Set,ムランウェポンセット
-PROPITEM_TXT_902190,Select which Muran Weapon you want to receive!,Select which Muran Weapon you want to receive!
-PROPITEM_TXT_902191,Muran Guardian Lion,Muran Guardian Lion
-PROPITEM_TXT_902192,"Muran Guardian Lion was born to rule the skies. With wings as proud as its roar, this imperial lion carries its rider with unmatched majesty. Maximum Speed: 64 km/h.","Muran Guardian Lion was born to rule the skies. With wings as proud as its roar, this imperial lion carries its rider with unmatched majesty. Maximum Speed: 64 km/h."
-PROPITEM_TXT_902193,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.
-PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.
-PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulses with stolen life.,A crystallized fragment of the death god's essence. It pulses with stolen life.
+PROPITEM_TXT_902190,Select which Muran Weapon you want to receive!,受け取りたいムラン武器を選択してください！
+PROPITEM_TXT_902191,Muran Guardian Lion,ムランガーディアンライオン
+PROPITEM_TXT_902192,"Muran Guardian Lion was born to rule the skies. With wings as proud as its roar, this imperial lion carries its rider with unmatched majesty. Maximum Speed: 64 km/h.",ムランガーディアンライオンは空を支配するために生まれた。その咆哮に劣らぬ誇り高き翼を持ち、この皇帝の獅子は乗り手を比類なき威厳と共に運ぶ。最高速度：64km/h。
+PROPITEM_TXT_902193,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.,ベヒモス神殿の鉄の扉から鍛え上げられた呪われた盾。拒まれた魂の重みが、今もそこに宿っている。
+PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.,古びた頁が死そのものにまつわる禁断の秘密を囁く。それを読むことは、虚無を垣間見ることに等しい。
+PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulses with stolen life.,死神の本質が結晶化した欠片。奪われた生命が今も脈打っている。
 PROPITEM_TXT_135020,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)",パーティ経験値の獲得率が50％上昇し、パーティスキルが強化され距離の制限がなくなり（ラージと同じ効果）、パーティスキルを重ね掛けし効果時間を合算することが可能になり、パーティーのレベルアップ時に獲得できるパーティーポイントが2倍になります。パーティリーダーが発動している時に効果を発揮します。(ログアウト時間は減少します。3日間持続）
 PROPITEM_TXT_135021,Pet's pickup range is increased by 100% for 3 days,ペットのピックアップ範囲が3日間100%増加します
 PROPITEM_TXT_135022,A package containing a random costume in celebration of Black Friday! You can only receive one random item.,ブラックフライデーを記念したランダムコスチュームが含まれたパッケージ！ランダムアイテムを1つだけ受け取れます。
@@ -25082,29 +25082,29 @@ PROPITEM_TXT_902282,Thanksgiving 2025 White Shoes (F),感謝祭2025ホワイト�
 PROPITEM_TXT_902283,Thanksgiving 2025 White Hands (F),感謝祭2025ホワイトグローブ(F)
 PROPITEM_TXT_902284,Thanksgiving 2025 2% White Set (F),感謝祭2025 2%ホワイトセット(F)
 PROPITEM_TXT_902285,The Thanksgiving 2025 2% White Set for female characters.,女性キャラクター用の感謝祭2025 2%ホワイトセット
-PROPITEM_TXT_902286,Blue 2025 Thanksgiving Turkey,Blue 2025 Thanksgiving Turkey
-PROPITEM_TXT_902287,"The dignified roast. Gently collecting the table's joy with a silent, comforting presence.","The dignified roast. Gently collecting the table's joy with a silent, comforting presence."
-PROPITEM_TXT_902288,Red 2025 Thanksgiving Turkey,Red 2025 Thanksgiving Turkey
-PROPITEM_TXT_902289,Green 2025 Thanksgiving Turkey,Green 2025 Thanksgiving Turkey
-PROPITEM_TXT_902290,Pink 2025 Thanksgiving Turkey,Pink 2025 Thanksgiving Turkey
-PROPITEM_TXT_902291,Black 2025 Thanksgiving Turkey,Black 2025 Thanksgiving Turkey
-PROPITEM_TXT_902292,White 2025 Thanksgiving Turkey,White 2025 Thanksgiving Turkey
+PROPITEM_TXT_902286,Blue 2025 Thanksgiving Turkey,ブルー2025感謝祭ターキー
+PROPITEM_TXT_902287,"The dignified roast. Gently collecting the table's joy with a silent, comforting presence.",威厳ある丸焼き。物静かで心安らぐ佇まいで、食卓の喜びをそっと集めてくれる。
+PROPITEM_TXT_902288,Red 2025 Thanksgiving Turkey,レッド2025感謝祭ターキー
+PROPITEM_TXT_902289,Green 2025 Thanksgiving Turkey,グリーン2025感謝祭ターキー
+PROPITEM_TXT_902290,Pink 2025 Thanksgiving Turkey,ピンク2025感謝祭ターキー
+PROPITEM_TXT_902291,Black 2025 Thanksgiving Turkey,ブラック2025感謝祭ターキー
+PROPITEM_TXT_902292,White 2025 Thanksgiving Turkey,ホワイト2025感謝祭ターキー
 PROPITEM_TXT_902293,Thanksgiving 2025 Costume Lucky Box,感謝祭2025コスチュームラッキーボックス
-PROPITEM_TXT_902294,This box contains a Thanksgiving 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Thanksgiving 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_902295,Power Rudolph Package,Power Rudolph Package
+PROPITEM_TXT_902294,This box contains a Thanksgiving 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの感謝祭2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_902295,Power Rudolph Package,パワールドルフパッケージ
 PROPITEM_TXT_902296,"A package containing 1x Rudolph Set, 1x Rudolph Weapon Skin Box and 3x Power Scroll. All items are also linked.",トナカイセットx1、ルドルフ武器スキンボックスx1、豪傑のスクロール(B)x3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902297,Christmas Sweets Box,Christmas Sweets Box
+PROPITEM_TXT_902297,Christmas Sweets Box,クリスマススイーツボックス
 PROPITEM_TXT_902298,"A package containing 5x Christmas Cookie, 10x Cotton Candy Box, 10x Chocolate Select Box and 10x Candy Select Box. All items are also linked.",クリスマスクッキーx5、綿菓子箱x10、チョコレートセレクトボックスx10、キャンディセレクトボックスx10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902299,Santa's Hunting Package,Santa's Hunting Package
+PROPITEM_TXT_902299,Santa's Hunting Package,サンタのハンティングパッケージ
 PROPITEM_TXT_902300,"A package containing 5x Scroll of Amplification ES, 5x Scroll of Resurrection, 5x Scroll of Return Town, 5x Scroll of Velocity and 5x Activation. All items are also linked.",戦神の巻物ESx5、復活の巻物x5、街戻りの巻物x5、神風の巻物x5、アクティビションx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902301,Winter Elf's Exp Boost Package,Winter Elf's Exp Boost Package
+PROPITEM_TXT_902301,Winter Elf's Exp Boost Package,ウィンターエルフの経験値ブーストパッケージ
 PROPITEM_TXT_902302,"A package containing 5x New Amplification ES Scroll Select Box, 5x Grilled Eel, 5x Vital Drink X or Refresher Hold and 5x Potion Box. All items are also linked.",新・戦神の巻物ES選択ボックスx5、グリルド・イールx5、スタミナドリンクXまたは魔力ドリンクゴールドx5、ポーションボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902303,Flyfful Christmas Package,Flyfful Christmas Package
+PROPITEM_TXT_902303,Flyfful Christmas Package,フリフフルクリスマスパッケージ
 PROPITEM_TXT_902304,"A package containing 3x Christmas Cookie, 1x Christmas Costume Box, 1x Christmas Flying Select Box and 1x Nitro Booster (7 Days). All items are also linked.",クリスマスクッキーx3、クリスマスコスチュームボックスx1、クリスマスフライングセレクトボックスx1、ニトロブースター(7日間)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902305,Christmas Gingy Pet Select Box,Christmas Gingy Pet Select Box
-PROPITEM_TXT_902306,This box holds all Gingy you could wish for. Pick your favorite color !,This box holds all Gingy you could wish for. Pick your favorite color !
-PROPITEM_TXT_902307,Candy Select Box,Candy Select Box
-PROPITEM_TXT_902308,This box holds all the Love Candy you could wish for. Pick your favorite color !,This box holds all the Love Candy you could wish for. Pick your favorite color !
+PROPITEM_TXT_902305,Christmas Gingy Pet Select Box,クリスマスジンジーペットセレクトボックス
+PROPITEM_TXT_902306,This box holds all Gingy you could wish for. Pick your favorite color !,このボックスには、お好みのジンジーが全て揃っています。お好きな色を選んでください！
+PROPITEM_TXT_902307,Candy Select Box,キャンディセレクトボックス
+PROPITEM_TXT_902308,This box holds all the Love Candy you could wish for. Pick your favorite color !,このボックスには、お好みのラブキャンディが全て揃っています。お好きな色を選んでください！
 PROPITEM_TXT_135025,First reward for the Christmas Invasion!\nYou can earn 5 2025 Santa's Present and 5 Christmas Cookie.,クリスマス・インベイジョンの1回目の報酬！\n2025サンタさんのプレゼントx5、クリスマスクッキーx5を獲得できます。
 PROPITEM_TXT_135026,Final reward for the Christmas Invasion!\nYou can earn 1 Dark Christmas Adventurer Dark Gold Set.,クリスマス・インベイジョンの最終報酬！\nダーククリスマスアドベンチャーダークゴールドセットx1を獲得できます。
 PROPITEM_TXT_135027,[Event] 2025 Santa's Present,[イベント]2025サンタさんのプレゼント
@@ -25169,14 +25169,14 @@ PROPITEM_TXT_135085,2026 New Year Pass,2026 新年パス
 PROPITEM_TXT_135086,This purchase will give you access to many advantages until the end of the 2026 New Year Pass season,この購入により、2026新年パスシーズン終了まで様々な特典が利用可能になります
 PROPITEM_TXT_135087,Baby Red Horse,ベビーレッドホース
 PROPITEM_TXT_135088,Cute Red Baby Horse that follows its owner around and picks up,主人について回り、アイテムを拾ってくれるキュートなレッドベビーホース
-PROPITEM_TXT_902309,PPXP 2025 Door Prize,PPXP 2025 Door Prize
-PROPITEM_TXT_902310,"A special package containing various items including Cloak of Philippines, Scrolls, Stones, Boxes and more.","A special package containing various items including Cloak of Philippines, Scrolls, Stones, Boxes and more."
-PROPITEM_TXT_902311,2026 Special Lucky Box,2026 Special Lucky Box
-PROPITEM_TXT_902312,A special lucky box containing various items with different probabilities.,A special lucky box containing various items with different probabilities.
-PROPITEM_TXT_902313,Rhisis Ultimate Christmas Bundle,Rhisis Ultimate Christmas Bundle
-PROPITEM_TXT_902314,"A special Christmas bundle containing Cloak Selection Box, Scrolls, Stones, Boxes, Permanent Flying Board and Permanent Looter Pet.","A special Christmas bundle containing Cloak Selection Box, Scrolls, Stones, Boxes, Permanent Flying Board and Permanent Looter Pet."
-PROPITEM_TXT_902315,Cloak Selection Box,Cloak Selection Box
-PROPITEM_TXT_902316,Select which Cloak you want to receive!,Select which Cloak you want to receive!
+PROPITEM_TXT_902309,PPXP 2025 Door Prize,PPXP 2025 ドア賞品
+PROPITEM_TXT_902310,"A special package containing various items including Cloak of Philippines, Scrolls, Stones, Boxes and more.",ワールドフリフマント(フィリピン)、巻物、ストーン、ボックスなど様々なアイテムが含まれた特別パッケージ。
+PROPITEM_TXT_902311,2026 Special Lucky Box,2026スペシャルラッキーボックス
+PROPITEM_TXT_902312,A special lucky box containing various items with different probabilities.,それぞれ異なる確率で様々なアイテムが手に入る特別なラッキーボックス。
+PROPITEM_TXT_902313,Rhisis Ultimate Christmas Bundle,リシス アルティメットクリスマスバンドル
+PROPITEM_TXT_902314,"A special Christmas bundle containing Cloak Selection Box, Scrolls, Stones, Boxes, Permanent Flying Board and Permanent Looter Pet.",マントセレクトボックス、巻物、ストーン、ボックス、永久空飛ぶボード、永久アイテム回収ペットが含まれた特別なクリスマスバンドル。
+PROPITEM_TXT_902315,Cloak Selection Box,マントセレクトボックス
+PROPITEM_TXT_902316,Select which Cloak you want to receive!,受け取りたいマントを選択してください！
 PROPITEM_TXT_902317,2025 Christmas 10% Blue Set,2025クリスマス 10%ブルーセット
 PROPITEM_TXT_902318,2025 Christmas Blue Cloak,2025クリスマスブルーマント
 PROPITEM_TXT_902319,2025 Christmas Blue Hat (M),2025クリスマスブルーハット(M)
@@ -25262,16 +25262,16 @@ PROPITEM_TXT_902398,2025 Christmas Red Hands (F),2025クリスマスレッドグ
 PROPITEM_TXT_902399,2025 Christmas 2% Red Set (F),2025クリスマス 2%レッドセット(F)
 PROPITEM_TXT_902400,The 2025 Christmas 2% Red Set for female characters.,女性キャラクター用の2025クリスマス 2%レッドセット
 PROPITEM_TXT_902401,2025 Christmas Costume Lucky Box,2025クリスマスコスチュームラッキーボックス
-PROPITEM_TXT_902402,This box contains a 2025 Christmas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2025 Christmas Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902402,This box contains a 2025 Christmas Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの2025クリスマスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902403,2025 Christmas Sleigh Blue,2025クリスマスブルーそり
 PROPITEM_TXT_902404,2025 Christmas Sleigh Red,2025クリスマスレッドそり
 PROPITEM_TXT_902405,2025 Christmas Sleigh Black,2025クリスマスブラックそり
-PROPITEM_TXT_902406,A magical Christmas sleigh to travel through the winter skies! Maximum Speed: 64 km/h.,A magical Christmas sleigh to travel through the winter skies! Maximum Speed: 64 km/h.
-PROPITEM_TXT_902407,Surrender Emote,Surrender Emote
-PROPITEM_TXT_902408,2026 Happy New Year Coupon,2026 Happy New Year Coupon
-PROPITEM_TXT_902409,A Gift Box to celebrate the New Year for 2026.,A Gift Box to celebrate the New Year for 2026.
-PROPITEM_TXT_902410,Trans Random Box,Trans Random Box
-PROPITEM_TXT_902411,A random box that gives 1 of the random Trans items included in the box.,A random box that gives 1 of the random Trans items included in the box.
+PROPITEM_TXT_902406,A magical Christmas sleigh to travel through the winter skies! Maximum Speed: 64 km/h.,冬の空を駆け抜ける魔法のクリスマスそり！最高速度：64km/h。
+PROPITEM_TXT_902407,Surrender Emote,降参エモート
+PROPITEM_TXT_902408,2026 Happy New Year Coupon,2026新年クーポン
+PROPITEM_TXT_902409,A Gift Box to celebrate the New Year for 2026.,2026年の新年を祝うギフトボックス。
+PROPITEM_TXT_902410,Trans Random Box,オーブランダムボックス
+PROPITEM_TXT_902411,A random box that gives 1 of the random Trans items included in the box.,ボックスに含まれるランダムなオーブアイテムのうち、1つがランダムで手に入るボックスです。
 PROPITEM_TXT_902412,Snow Masquerade 10% Red Set,雪の仮面舞踏会 10%レッドセット
 PROPITEM_TXT_902413,Snow Masquerade Red Mask,雪の仮面舞踏会レッドマスク
 PROPITEM_TXT_902414,Snow Masquerade Red Hat (M),雪の仮面舞踏会レッドハット(M)
@@ -25385,33 +25385,33 @@ PROPITEM_TXT_902521,Snow Masquerade Black Hands (F),雪の仮面舞踏会ブラ�
 PROPITEM_TXT_902522,Snow Masquerade 2% Black Set (F),雪の仮面舞踏会 2%ブラックセット(F)
 PROPITEM_TXT_902523,The Snow Masquerade 2% Black Set for female characters.,女性キャラクター用の雪の仮面舞踏会 2%ブラックセット
 PROPITEM_TXT_902524,Snow Masquerade Costume Lucky Box,雪の仮面舞踏会コスチュームラッキーボックス
-PROPITEM_TXT_902525,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_902526,Winter Hunting Pack,Winter Hunting Pack
+PROPITEM_TXT_902525,This box contains a Snow Masquerade Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの雪の仮面舞踏会セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_902526,Winter Hunting Pack,ウィンターハンティングパック
 PROPITEM_TXT_902527,"A package containing 3x Activation, 3x Vital Drink X or Refresher Hold, 3x Scroll of Velocity, 3x Upcut Stone, 3x Def-Upcut Stone and 3x Power Scroll. All items are also linked.",アクティビションx3、スタミナドリンクX または 魔力ドリンクゴールドx3、神風の巻物x3、パワーストーンx3、ディフェンスストーンx3、豪傑のスクロール(B)x3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902528,Winter Ultimate Bonus Package A,Winter Ultimate Bonus Package A
+PROPITEM_TXT_902528,Winter Ultimate Bonus Package A,ウィンターアルティメットボーナスパッケージA
 PROPITEM_TXT_902529,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,アルティメットボーナスの巻物x3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902530,Winter Ultimate Bonus Package B,Winter Ultimate Bonus Package B
+PROPITEM_TXT_902530,Winter Ultimate Bonus Package B,ウィンターアルティメットボーナスパッケージB
 PROPITEM_TXT_902531,A package containing 3x Scroll of Ultimate Bonus II and 5x Scroll of Weapon Bonus (Job) Select box. All items are also linked.,アルティメットボーナスの巻物IIx3、武器ボーナス（職業）の巻物セレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902532,Scroll of Weapon Bonus(Job) Select box,Scroll of Weapon Bonus(Job) Select box
-PROPITEM_TXT_902533,Select which Scroll you want to receive !,Select which Scroll you want to receive !
-PROPITEM_TXT_902534,Winter Jewel All Inclusive Package,Winter Jewel All Inclusive Package
+PROPITEM_TXT_902532,Scroll of Weapon Bonus(Job) Select box,武器ボーナス（職業）の巻物セレクトボックス
+PROPITEM_TXT_902533,Select which Scroll you want to receive !,受け取りたい巻物を選択してください！
+PROPITEM_TXT_902534,Winter Jewel All Inclusive Package,ウィンタージュエルオールインクルーシブパッケージ
 PROPITEM_TXT_902535,"A package containing 3x Jewel Tweezers, 3x Cutting Knife, 1x Scroll of increased Jewel synthesis chance Select Box, 2x Lower Scroll of Jewel Conversion and 2x Scroll of Jewel Conversion. All items are also linked.",ジュエルツイーザーx3、カッティングナイフx3、ジュエル合成成功率上昇の巻物セレクトボックスx1、下級ジュエル変換の巻物x2、ジュエル変換の巻物x2が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902536,Year of Red Horse Hunting Pack,Year of Red Horse Hunting Pack
+PROPITEM_TXT_902536,Year of Red Horse Hunting Pack,レッドホースハンティングパック
 PROPITEM_TXT_902537,"A package containing 5x Def-Upcut Stone, 5x Activation, 5x Grilled Eel and 5x Vital Drink X or Refresher Hold. All items are also linked.",ディフェンスストーンx5、アクティビションx5、グリルド・イールx5、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902538,Glory Wings Package,Glory Wings Package
+PROPITEM_TXT_902538,Glory Wings Package,グローリーウィングパッケージ
 PROPITEM_TXT_902539,A package containing 1x Glory Wings Select Box and 1x Nitro Booster (15 Days). All items are also linked.,グローリーウィングセレクトボックスx1、ニトロブースター(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902540,Glory Wings Select Box,Glory Wings Select Box
-PROPITEM_TXT_902541,Select your favorite color for your Glory Wings!,Select your favorite color for your Glory Wings!
-PROPITEM_TXT_902542,Myth Costume Select Box 2,Myth Costume Select Box 2
+PROPITEM_TXT_902540,Glory Wings Select Box,グローリーウィングセレクトボックス
+PROPITEM_TXT_902541,Select your favorite color for your Glory Wings!,お好きな色のグローリーウィングを選んでください！
+PROPITEM_TXT_902542,Myth Costume Select Box 2,神話コスチュームセレクトボックス2
 PROPITEM_TXT_902543,"Select your favorite Myth costume between Oni Set, Banana Hero Set and Cacti Set. All items are Soul-Linked.",鬼セット、バナナヒーローセット、サボテンセットの中からお好きな神話コスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_902544,Floating Oni Select Box,Floating Oni Select Box
-PROPITEM_TXT_902545,Choose your favorite color for your Floating Oni!,Choose your favorite color for your Floating Oni!
+PROPITEM_TXT_902544,Floating Oni Select Box,浮き鬼セレクトボックス
+PROPITEM_TXT_902545,Choose your favorite color for your Floating Oni!,お好きな色の浮き鬼を選んでください！
 PROPITEM_TXT_902546,Junior Banana Hero Pet Select Box,ジュニアバナナヒーローペットセレクトボックス
 PROPITEM_TXT_902547,Choose your favorite color for your Junior Banana Hero!,お好きな色のジュニアバナナヒーローを選んでください！
-PROPITEM_TXT_902548,Cacti Pet Select Box,Cacti Pet Select Box
-PROPITEM_TXT_902549,Choose your favorite color for your Cacti!,Choose your favorite color for your Cacti!
-PROPITEM_TXT_902550,"A tiny, frosty companion who never melts! With its cozy blue scarf and stylish top hat, this Blue Snowman Pet brings a cool breeze and a warm smile to every adventure.","A tiny, frosty companion who never melts! With its cozy blue scarf and stylish top hat, this Blue Snowman Pet brings a cool breeze and a warm smile to every adventure."
-PROPITEM_TXT_902551,NVIDIA GeForce Gamers Day Door Prize,NVIDIA GeForce Gamers Day Door Prize
+PROPITEM_TXT_902548,Cacti Pet Select Box,サボテンペットセレクトボックス
+PROPITEM_TXT_902549,Choose your favorite color for your Cacti!,お好きな色のサボテンを選んでください！
+PROPITEM_TXT_902550,"A tiny, frosty companion who never melts! With its cozy blue scarf and stylish top hat, this Blue Snowman Pet brings a cool breeze and a warm smile to every adventure.",小さくて凍えることのない、霜のような相棒！心地よいブルーのマフラーとしゃれたシルクハットを身につけたこのブルースノーマンペットは、どんな冒険にも爽やかな風と温かい笑顔をもたらしてくれます。
+PROPITEM_TXT_902551,NVIDIA GeForce Gamers Day Door Prize,NVIDIA GeForce Gamers Day ドア賞品
 PROPITEM_TXT_902552,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 5x Power Scroll, 20x Flask Box, 20x Potion Box, 1x Extra Bag (30 days) and 1x Feed Bag (7 day). All items are also linked.",戦神の巻物ESx10、パワーストーンx10、豪傑のスクロール(B)x5、秘薬ボックスx20、ポーションボックスx20、魔法の携帯バッグ(30日)x1、フィードバッグ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_902553,Onmyoji 2026 10% Cyan Set,陰陽師2026 10%シアンセット
 PROPITEM_TXT_902554,Onmyoji 2026 Cyan Cloak,陰陽師2026シアンマント
@@ -25503,26 +25503,26 @@ PROPITEM_TXT_902639,Onmyoji 2026 Black Shoes (F),陰陽師2026ブラックシュ
 PROPITEM_TXT_902640,Onmyoji 2026 Black Hands (F),陰陽師2026ブラックグローブ(F)
 PROPITEM_TXT_902641,Onmyoji 2026 2% Black Set (F),陰陽師2026 2%ブラックセット(F)
 PROPITEM_TXT_902642,The Onmyoji 2026 2% Black Set for female characters.,女性キャラクター用の陰陽師2026 2%ブラックセット
-PROPITEM_TXT_902643,Cyan Shiki Paws,Cyan Shiki Paws
-PROPITEM_TXT_902644,"Born from Onmyoji rituals, it faithfully follows its owner and quietly picks up dropped items along the journey.","Born from Onmyoji rituals, it faithfully follows its owner and quietly picks up dropped items along the journey."
-PROPITEM_TXT_902645,Green Shiki Paws,Green Shiki Paws
-PROPITEM_TXT_902646,Purple Shiki Paws,Purple Shiki Paws
-PROPITEM_TXT_902647,Blue Shiki Paws,Blue Shiki Paws
-PROPITEM_TXT_902648,White Shiki Paws,White Shiki Paws
-PROPITEM_TXT_902649,Black Shiki Paws,Black Shiki Paws
+PROPITEM_TXT_902643,Cyan Shiki Paws,シアンシキポウズ
+PROPITEM_TXT_902644,"Born from Onmyoji rituals, it faithfully follows its owner and quietly picks up dropped items along the journey.",陰陽師の儀式から生まれ、忠実に主に付き従い、旅の道中で静かに落とし物を拾い集めます。
+PROPITEM_TXT_902645,Green Shiki Paws,グリーンシキポウズ
+PROPITEM_TXT_902646,Purple Shiki Paws,パープルシキポウズ
+PROPITEM_TXT_902647,Blue Shiki Paws,ブルーシキポウズ
+PROPITEM_TXT_902648,White Shiki Paws,ホワイトシキポウズ
+PROPITEM_TXT_902649,Black Shiki Paws,ブラックシキポウズ
 PROPITEM_TXT_902650,Onmyoji 2026 Costume Lucky Box,陰陽師2026コスチュームラッキーボックス
-PROPITEM_TXT_902651,This box contains a Onmyoji 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Onmyoji 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902651,This box contains a Onmyoji 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの陰陽師2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902652,Noble Jockey Red Costume Set,ノーブルジョッキーレッドコスチュームセット
-PROPITEM_TXT_902653,Noble Jockey Red Hat (M),Noble Jockey Red Hat (M)
-PROPITEM_TXT_902654,Noble Jockey Red Suit (M),Noble Jockey Red Suit (M)
-PROPITEM_TXT_902655,Noble Jockey Red Hands (M),Noble Jockey Red Hands (M)
-PROPITEM_TXT_902656,Noble Jockey Red Shoes (M),Noble Jockey Red Shoes (M)
-PROPITEM_TXT_902657,Noble Jockey Red Glasses,Noble Jockey Red Glasses
+PROPITEM_TXT_902653,Noble Jockey Red Hat (M),ノーブルジョッキーレッドハット(M)
+PROPITEM_TXT_902654,Noble Jockey Red Suit (M),ノーブルジョッキーレッドスーツ(M)
+PROPITEM_TXT_902655,Noble Jockey Red Hands (M),ノーブルジョッキーレッドグローブ(M)
+PROPITEM_TXT_902656,Noble Jockey Red Shoes (M),ノーブルジョッキーレッドシューズ(M)
+PROPITEM_TXT_902657,Noble Jockey Red Glasses,ノーブルジョッキーレッドメガネ
 PROPITEM_TXT_902658,Noble Jockey Red Costume Set (M),ノーブルジョッキーレッドコスチュームセット(M)
-PROPITEM_TXT_902659,Noble Jockey Red Hat (F),Noble Jockey Red Hat (F)
-PROPITEM_TXT_902660,Noble Jockey Red Suit (F),Noble Jockey Red Suit (F)
-PROPITEM_TXT_902661,Noble Jockey Red Hands (F),Noble Jockey Red Hands (F)
-PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),Noble Jockey Red Shoes (F)
+PROPITEM_TXT_902659,Noble Jockey Red Hat (F),ノーブルジョッキーレッドハット(F)
+PROPITEM_TXT_902660,Noble Jockey Red Suit (F),ノーブルジョッキーレッドスーツ(F)
+PROPITEM_TXT_902661,Noble Jockey Red Hands (F),ノーブルジョッキーレッドグローブ(F)
+PROPITEM_TXT_902662,Noble Jockey Red Shoes (F),ノーブルジョッキーレッドシューズ(F)
 PROPITEM_TXT_902664,Noble Jockey Red Costume Set (F),ノーブルジョッキーレッドコスチュームセット(F)
 PROPITEM_TXT_902665,The Noble Jockey Red Set for male characters.,男性キャラクター用のノーブルジョッキーレッドセット
 PROPITEM_TXT_902666,The Noble Jockey Red Set for female characters.,女性キャラクター用のノーブルジョッキーレッドセット
@@ -25533,45 +25533,45 @@ PROPITEM_TXT_135092,2026 Valentine's Day Reward Box B,2026 バレンタインデ
 PROPITEM_TXT_135093,2026 Valentine's Day Reward Box C,2026 バレンタインデー報酬ボックスC
 PROPITEM_TXT_135094,2026 Valentine's Day Reward Box D,2026 バレンタインデー報酬ボックスD
 PROPITEM_TXT_135095,[Valentine] Pet Random Box,[Valentine] ペットランダムボックス
-PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,2026 MyCard New Year Promotion Box A
+PROPITEM_TXT_902667,2026 MyCard New Year Promotion Box A,2026 MyCard新年プロモーションボックスA
 PROPITEM_TXT_902668,"A package containing 3x Grilled Eel, 3x Scroll of Amplification ES, 3x Potion Box, 3x Upcut Stone and 3x Vital Drink X or Refresher Hold. All items are also linked.",グリルド・イールx3、戦神の巻物ESx3、ポーションボックスx3、パワーストーンx3、スタミナドリンクXまたは魔力ドリンクゴールドx3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,2026 MyCard New Year Promotion Box B
+PROPITEM_TXT_902669,2026 MyCard New Year Promotion Box B,2026 MyCard新年プロモーションボックスB
 PROPITEM_TXT_902670,"A package containing 5x [20~160] Amplification ES Scroll Select Box, 5x Power Scroll, 5x Flask Box, 5x Activation, 5x Def-Upcut Stone, 1x Obsidian Flame Red Weapon Set and 1x Hunter Set Select Box. All items are also linked.",[20~160]戦神の巻物ES選択ボックスx5、豪傑のスクロール(B)x5、秘薬ボックスx5、アクティビションx5、ディフェンスストーンx5、オブシディアンフレイムレッドウェポンセットx1、ハンターセットセレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902671,2026 MyCard New Year Promotion Box C,2026 MyCard New Year Promotion Box C
+PROPITEM_TXT_902671,2026 MyCard New Year Promotion Box C,2026 MyCard新年プロモーションボックスC
 PROPITEM_TXT_902672,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 2x Power Scroll, 2x Balloon Select Box(6h), 2x Jewel Tweezers, 2x Cutting Knife, 1x Reaper Weapons Skin Box, 1x Extra Bag (30 days), 4x Scroll of SProtect and 1x Shadow Hunter 10% Black Set Select Box. All items are also linked.",[20~160]戦神の巻物ES選択ボックスx3、豪傑のスクロール(B)x2、バルーンセレクトボックス(6時間)x2、ジュエルツイーザーx2、カッティングナイフx2、リーパーウェポンスキンボックスx1、魔法の携帯バッグ(30日)x1、鍛冶屋の心得・精錬編x4、シャドウハンター10%ブラックセットセレクトボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902673,FWC 2026 Pre-registration Reward Package,FWC 2026 Pre-registration Reward Package
-PROPITEM_TXT_902674,This package contains FWC 2026 Pre-registration rewards.,This package contains FWC 2026 Pre-registration rewards.
-PROPITEM_TXT_902675,Valentine's Sweets Box,Valentine's Sweets Box
+PROPITEM_TXT_902673,FWC 2026 Pre-registration Reward Package,FWC 2026事前登録報酬パッケージ
+PROPITEM_TXT_902674,This package contains FWC 2026 Pre-registration rewards.,このパッケージには、FWC 2026事前登録報酬が含まれています。
+PROPITEM_TXT_902675,Valentine's Sweets Box,バレンタインスイーツボックス
 PROPITEM_TXT_902676,"A package containing 10x Cotton Candy Box, 10x Chocolate Select Box and 10x Candy Select Box. All items are also linked.",綿菓子箱x10、チョコレートセレクトボックスx10、キャンディセレクトボックスx10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902677,Love Potion Box,Love Potion Box
+PROPITEM_TXT_902677,Love Potion Box,ラブポーションボックス
 PROPITEM_TXT_902678,"A package containing 5x Potion of Blind Love, 5x Perfume of Heart fluttering, 5x Eye of Sincere Heart and 5x Dew of Transparent Affection. All items are also linked.",盲愛のポーションx5、心ときめく香水x5、誠実な心の目x5、透明な愛情の露x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902679,Lunar Exp Power Package,Lunar Exp Power Package
+PROPITEM_TXT_902679,Lunar Exp Power Package,旧正月経験値パワーパッケージ
 PROPITEM_TXT_902680,"A package containing 3x [20~160] Amplification ES Scroll Select Box, 3x Power Scroll, 3x Potion Box and 3x Flask Box. All items are also linked.",[20~160]戦神の巻物ES選択ボックスx3、豪傑のスクロール(B)x3、ポーションボックスx3、秘薬ボックスx3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902681,Lunar Hanbok Costume Box (M),Lunar Hanbok Costume Box (M)
+PROPITEM_TXT_902681,Lunar Hanbok Costume Box (M),旧正月韓服コスチュームボックス(M)
 PROPITEM_TXT_902682,A package containing 1x Hanbok (M) and 5x Hot Ddukguk.,韓服(M)x1、トック(お雑煮)x5が含まれたパッケージ。
-PROPITEM_TXT_902683,Lunar Hanbok Costume Box (F),Lunar Hanbok Costume Box (F)
+PROPITEM_TXT_902683,Lunar Hanbok Costume Box (F),旧正月韓服コスチュームボックス(F)
 PROPITEM_TXT_902684,A package containing 1x Hanbok (F) and 5x Hot Ddukguk.,韓服(F)x1、トック(お雑煮)x5が含まれたパッケージ。
-PROPITEM_TXT_902685,Valentine's Ultimate Package,Valentine's Ultimate Package
+PROPITEM_TXT_902685,Valentine's Ultimate Package,バレンタインアルティメットパッケージ
 PROPITEM_TXT_902686,"A package containing 5x Scroll of Ultimate Bonus Select Box, 3x Scroll of Weapon Bonus(Job) Select box and 5x Chocolate Select Box. All items are also linked.",アルティメットボーナスの巻物セレクトボックスx5、武器ボーナス（職業）の巻物セレクトボックスx3、チョコレートセレクトボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_902687,POP Costume Select Box 1,POP Costume Select Box 1
-PROPITEM_TXT_902688,"Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked.","Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked."
-PROPITEM_TXT_902689,Neo Robot Pet Select Box,Neo Robot Pet Select Box
-PROPITEM_TXT_902690,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.
-PROPITEM_TXT_902691,White Stripe Bear Pet Select Box,White Stripe Bear Pet Select Box
-PROPITEM_TXT_902692,Select your favorite color for your White Stripe Bear. All items are Soul-Linked.,Select your favorite color for your White Stripe Bear. All items are Soul-Linked.
-PROPITEM_TXT_902693,Hunter Set Select Box,Hunter Set Select Box
+PROPITEM_TXT_902687,POP Costume Select Box 1,POPコスチュームセレクトボックス1
+PROPITEM_TXT_902688,"Select your favorite POP costume between Neo, White Stripes, Glitch Pop and Disco Set. All items are Soul-Linked.",ネオ、ホワイトストライプ、グリッチポップ、ディスコセットの中からお好きなPOPコスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
+PROPITEM_TXT_902689,Neo Robot Pet Select Box,ネオロボットペットセレクトボックス
+PROPITEM_TXT_902690,Select your favorite color for your Neo Robot Pet. All items are Soul-Linked.,お好きな色のネオロボットペットを選んでください。全てのアイテムはプレイヤーに帰属されています。
+PROPITEM_TXT_902691,White Stripe Bear Pet Select Box,ホワイトストライプベアーペットセレクトボックス
+PROPITEM_TXT_902692,Select your favorite color for your White Stripe Bear. All items are Soul-Linked.,お好きな色のホワイトストライプベアーを選んでください。全てのアイテムはプレイヤーに帰属されています。
+PROPITEM_TXT_902693,Hunter Set Select Box,ハンターセットセレクトボックス
 PROPITEM_TXT_902694,Select which Gender you want to receive!,受け取りたい性別を選択してください！
-PROPITEM_TXT_902695,Potion of Blind Love,Potion of Blind Love
-PROPITEM_TXT_902696,"The power of reckless love maximizes your attack, increasing Critical Chance by 10%. Lasts for 30 minutes.","The power of reckless love maximizes your attack, increasing Critical Chance by 10%. Lasts for 30 minutes."
-PROPITEM_TXT_902697,Perfume of Heart fluttering,Perfume of Heart fluttering
-PROPITEM_TXT_902698,"Your heart races as if meeting a first love, increasing Attack Speed by 10%. Lasts for 30 minutes.","Your heart races as if meeting a first love, increasing Attack Speed by 10%. Lasts for 30 minutes."
-PROPITEM_TXT_902699,Eye of Sincere Heart,Eye of Sincere Heart
-PROPITEM_TXT_902700,"A gaze of unwavering sincerity that sees only one person, increasing Hit Rate by 10%. Lasts for 30 minutes.","A gaze of unwavering sincerity that sees only one person, increasing Hit Rate by 10%. Lasts for 30 minutes."
-PROPITEM_TXT_902701,Dew of Transparent Affection,Dew of Transparent Affection
-PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes.","Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes."
-PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,Scroll of Ultimate Bonus Select Box
-PROPITEM_TXT_902704,Select which scroll you want to receive!,Select which scroll you want to receive!
-PROPITEM_TXT_902705,Begging Emote,Begging Emote
+PROPITEM_TXT_902695,Potion of Blind Love,盲愛のポーション
+PROPITEM_TXT_902696,"The power of reckless love maximizes your attack, increasing Critical Chance by 10%. Lasts for 30 minutes.",向こう見ずな愛の力が攻撃力を最大限に引き出し、クリティカル率を10%上昇させます。30分間持続します。
+PROPITEM_TXT_902697,Perfume of Heart fluttering,心ときめく香水
+PROPITEM_TXT_902698,"Your heart races as if meeting a first love, increasing Attack Speed by 10%. Lasts for 30 minutes.",まるで初恋の相手に出会ったかのように胸が高鳴り、攻撃速度を10%上昇させます。30分間持続します。
+PROPITEM_TXT_902699,Eye of Sincere Heart,誠実な心の目
+PROPITEM_TXT_902700,"A gaze of unwavering sincerity that sees only one person, increasing Hit Rate by 10%. Lasts for 30 minutes.",ただ一人だけを見つめる、揺るぎない誠実なまなざし。命中率を10%上昇させます。30分間持続します。
+PROPITEM_TXT_902701,Dew of Transparent Affection,透明な愛情の露
+PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes.",複雑な思考が消え去り、愛する人の姿だけが目に映る。心を澄み渡らせ、詠唱時間を10%短縮します。30分間持続します。
+PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,アルティメットボーナスの巻物セレクトボックス
+PROPITEM_TXT_902704,Select which scroll you want to receive!,受け取りたい巻物を選択してください！
+PROPITEM_TXT_902705,Begging Emote,お願いエモート
 PROPITEM_TXT_902706,Button Mark 10% Green Set,ボタンマーク 10%グリーンセット
 PROPITEM_TXT_902707,Button Mark Green Backpack,ボタンマークグリーンバックパック
 PROPITEM_TXT_902708,Button Mark Green Mask,ボタンマークグリーンマスク
@@ -25677,7 +25677,7 @@ PROPITEM_TXT_902807,Button Mark Black Shoes (F),ボタンマークブラック�
 PROPITEM_TXT_902808,Button Mark 2% Black Set (F),ボタンマーク 2%ブラックセット(F)
 PROPITEM_TXT_902809,The Button Mark 2% Black Set for female characters.,女性キャラクター用のボタンマーク 2%ブラックセット
 PROPITEM_TXT_902810,Button Mark Costume Lucky Box,ボタンマークコスチュームラッキーボックス
-PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902811,This box contains a Button Mark Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのボタンマークセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_135096,Yetti's Precious Box,イエティのお宝ボックス
 PROPITEM_TXT_135097,Reconnaissance Set Select Box,ミリタリー衣装セット選択ボックス
 PROPITEM_TXT_135098,[20~190] Amplification ES Scroll Select Box,[20~190]戦神の巻物ES選択ボックス
@@ -25772,13 +25772,13 @@ PROPITEM_TXT_902899,Heart Punk Red Hands (F),ハートパンクレッドグロ�
 PROPITEM_TXT_902900,Heart Punk 2% Red Set (F),ハートパンク 2%レッドセット(F)
 PROPITEM_TXT_902901,The Heart Punk 2% Red Set for female characters.,女性キャラクター用のハートパンク 2%レッドセット
 PROPITEM_TXT_902902,Heart Punk Costume Lucky Box,ハートパンクコスチュームラッキーボックス
-PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_902903,This box contains a Heart Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのハートパンクセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_902904,Heart Punk Luxury Car Pink,ハートパンクピンクラグジュアリーカー
-PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h."
+PROPITEM_TXT_902905,"Cruise in elegance and romance with the Heart Punk Luxury Car Pink, a dazzling luxury vehicle wrapped in iconic pink style. Maximum Speed: 64 km/h.",ハートパンクピンクラグジュアリーカーで、優雅でロマンティックなドライブを楽しもう。象徴的なピンクスタイルに包まれた、きらびやかな高級車です。最高速度：64km/h。
 PROPITEM_TXT_902906,Heart Punk Luxury Car Yellow,ハートパンクイエローラグジュアリーカー
-PROPITEM_TXT_902907,"Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h."
+PROPITEM_TXT_902907,"Cruise in elegance and romance with the Heart Punk Luxury Car Yellow, a dazzling luxury vehicle wrapped in iconic yellow style. Maximum Speed: 64 km/h.",ハートパンクイエローラグジュアリーカーで、優雅でロマンティックなドライブを楽しもう。象徴的なイエロースタイルに包まれた、きらびやかな高級車です。最高速度：64km/h。
 PROPITEM_TXT_902908,Heart Punk Luxury Car Purple,ハートパンクパープルラグジュアリーカー
-PROPITEM_TXT_902909,"Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h.","Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h."
+PROPITEM_TXT_902909,"Cruise in elegance and romance with the Heart Punk Luxury Car Purple, a dazzling luxury vehicle wrapped in iconic purple style. Maximum Speed: 64 km/h.",ハートパンクパープルラグジュアリーカーで、優雅でロマンティックなドライブを楽しもう。象徴的なパープルスタイルに包まれた、きらびやかな高級車です。最高速度：64km/h。
 PROPITEM_TXT_902910,Oni-Style Kimono 10% Red Set,鬼柄着物 10%レッドセット
 PROPITEM_TXT_902911,Oni-Style Kimono Red Bag,鬼柄着物レッドバッグ
 PROPITEM_TXT_902912,Oni-Style Kimono Red Mask,鬼柄着物レッドマスク

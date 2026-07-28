@@ -74,6 +74,12 @@
 | Production（生産メニュー） | 生産 | `Help.csv`準拠 |
 | Mysterious Castle | 神秘の城 | `UI.csv`の`UI_MYSTCASTLE_*`、`Items.csv`準拠 |
 | Mysterious Box | ミステリアスボックス | `Items.csv`の`Mysterious Box Lv1〜4`準拠。「Mysterious Castle」とは訳し分ける（意訳の神秘の城 / 音訳のミステリアスボックス） |
+| Bundle | バンドル | `Items.csv`のパッケージ系アイテム名 |
+| Door Prize | ドア賞品 | `Items.csv`のイベント抽選アイテム名 |
+| Soul-Linked / (Scroll of Unbinding文脈のSoul-Bound) | 帰属 | 「All items are Soul-Linked.」→「全てのアイテムはプレイヤーに帰属されています。」（パッケージ説明文の「All items are also linked.」→「アイテムは全て帰属です。」とは文体が少し異なるが同義） |
+| Ultimate Weapon / Ultimate Accessory（装備の等級名） | アルティマ武器 / アルティマアクセサリー | `PROPITEM_TXT_122501`等に準拠。同じ「Ultimate」でも「Scroll of Ultimate Bonus」等のバフ・巻物文脈では音訳「アルティメット」を使う（例：アルティメットボーナスの巻物）。等級名としての武器・アクセサリーか、バフ効果名かで訳し分ける |
+| Lunar（Lunar New Year文脈） | 旧正月 | `PROPITEM_TXT_200302`等に準拠。「Lunar New Year Coupon」等はそのまま「旧正月」を使い、音訳「ルナー」にしない |
+| Trans（ペット変身オーブ、`PROPITEM_TXT_006094`等の`~ Trans`） | オーブ | 例：「Aibatt Trans」→「アイバット・オーブ」。「Trans Random Box」のような単独のカテゴリ名としても使う |
 
 ## 防具シリーズ名の語幹（音訳）
 
@@ -147,6 +153,25 @@
 | Calthior | カルシオル | |
 | Celestial Phoenix（防具シリーズ接頭語） | セレスティアルフェニックス | |
 | Primordial（防具シリーズ接頭語） | プリモーディアル | |
+
+## イベントコスチューム/セット名（`Items.csv` 900000番台のLucky Box系装備、`PROPITEM_TXT_902xxx`で確認）
+
+`900000`番台にはイベント限定コスチューム（Hat/Suit/Shoes/Hands等の各パーツとSet名）が大量に存在し、同じシリーズ名が1つのセット内で十数回繰り返される。`EquipSets.csv`側にも同名シリーズが追加される可能性があるため、翻訳前に必ずこの表と`Items.csv`内の既存訳を確認すること。2026-07-28時点で`PROPITEM_TXT_902xxx`の未訳分翻訳時に確認した語幹。
+
+| English（シリーズ名） | 日本語 | 備考 |
+| --- | --- | --- |
+| Sewn Demon | 縫い目の悪魔 | |
+| Spellbat | スペルバット | |
+| Muran | ムラン | |
+| Thanksgiving 2025 | 感謝祭2025 | 音訳「サンクスギビング」ではなく意訳「感謝祭」を使う年度あり（`Thanksgiving 2023`は「サンクスギビング」表記のため年度によって表記揺れがある。新規追加時は前後の既存キーに合わせる） |
+| 2025 Christmas | 2025クリスマス | |
+| Snow Masquerade | 雪の仮面舞踏会 | |
+| Onmyoji 2026 | 陰陽師2026 | |
+| Noble Jockey Red | ノーブルジョッキーレッド | |
+| Button Mark | ボタンマーク | |
+| Heart Punk | ハートパンク | |
+| Oni-Style Kimono | 鬼柄着物 | |
+| Floating Oni（ペット） | 浮き鬼 | `PROPITEM_TXT_122080`等に準拠 |
 
 ## モンスター名（`Movers.csv`定訳、`Achievements.csv`のKILL系実績で使用）
 
