@@ -48,7 +48,7 @@ UI_EVENT_SURVEY_DESC,Visit https://linktr.ee/flyffuniverse,詳細はこちらへ
 UI_EVENT_OKTOBERFEST,Oktoberfest!,オクトーバーフェスト！
 UI_EVENT_TIME_TO_HUNT,Time to Hunt,狩りの時間
 UI_EVENT_TIME_TO_HUNT_DIALOG,"It's been a bumper year, so there are a lot of monsters out to get crops.\nIt's time to hunt them down! Can you help?",今年は豊作の年だったので、作物を獲るためにたくさんのモンスターがいます。彼らを追い詰める時が来ました!手伝ってもらえますか?
-UI_EVENT_TRICKORTREAT,Trick or Treat,Trick or Treat
+UI_EVENT_TRICKORTREAT,Trick or Treat,トリック・オア・トリート
 UI_EVENT_HALLOWEEN_WORLDBOSS,Halloween World Bosses,ハロウィーンの世界のボス
 UI_EVENT_CATCHTHETHIEFSANTA,Catch the Thief Santa,泥棒サンタを捕まえる
 UI_EVENT_NEWYEAR,New Year,ハッピーニューイヤー
@@ -77,42 +77,42 @@ UI_EVENT_DROPBOOST_DESC_100,Drop Chance x2!,ドロップ確率×2!
 UI_EVENT_INSTANCE_DUNGEON_COOLDOWN,Instance Dungeon Cooldown,インスタンスダンジョンのクールダウン
 UI_EVENT_UPGRADEBOOST,Upgrade Boost!,アップグレードブースト!
 UI_EVENT_UPGRADEBOOST_DESC_100,Upgrade Chance x2!,アップグレードチャンス×2!
-UI_EVENT_2024_VACANCE,2024 Vacance Event,2024 Vacance Event
-UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon to earn a permanent costume!,Obtain EXP and event items in the dungeon to earn a permanent costume!
-UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,Roll your Lucky Dice!
-UI_EVENT_ROLL_DICE_DESC,"Complete Daily Quests to earn dice, then roll them for rewards!","Complete Daily Quests to earn dice, then roll them for rewards!"
-UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Flyff's 20th Anniversary
-UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,Celebrate Flyff's 20th Anniversary!
-UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,Plunder treasure from the Pirate Ship!
-UI_EVENT_THANKSGIVING,Thanksgiving Event,Thanksgiving Event
-UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,1.4.1 Update Celebration
-UI_EVENT_145_ATTENDANCE,Playtime Event,Playtime Event
-UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,Log in each day for 30 minutes to receive rewards!
-UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,Life Gathering Mastery Event
-UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,Increase your life gathering mastery gain by 20%!
-UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,Life Production Mastery Event
-UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,Increase your life production mastery gain by 20%!
-UI_EVENT_LIFEMASTERY,Life Mastery Event,Life Mastery Event
-UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,Increase all life mastery gains by 20%!
-UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,Life Gathering Speed Event
-UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,Increase your life gathering speed by 20%!
-UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,Life Production Speed Event
-UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,Increase your life production speed by 20%!
-UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,Life Gathering Durability Discount Event!
-UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces durability cost by 1 when gathering!,Reduces durability cost by 1 when gathering!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,Life Wandering Merchant Early Refresh Event!
-UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!
-UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,Life Gathering Spawn Boost Event!
-UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,20% more gathering objects spawn during the event!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,Life Wandering Merchant Extra Stock Event!
-UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,The Wandering Merchant offers 2 additional items for sale during the event!
-UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3rd Anniversary Field Boss Event
-UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC Prediction Event
-UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC Prediction Event!
-UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,It's Time to Upgrade!
-UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.
-UI_EVENT_PTS,Public Test Server,Public Test Server
-UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information."
-UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026 Valentine's Day
-UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item."
-UI_EVENT_LOGIN,Login Event,Login Event
+UI_EVENT_2024_VACANCE,2024 Vacance Event,2024年 バカンスイベント
+UI_EVENT_2024_VACANCE_DESC,Obtain EXP and event items in the dungeon to earn a permanent costume!,ダンジョンで経験値とイベントアイテムを獲得して、恒久的なコスチュームを手に入れよう!
+UI_EVENT_ROLL_DICE,Roll your Lucky Dice!,ラッキーダイスを振ろう!
+UI_EVENT_ROLL_DICE_DESC,"Complete Daily Quests to earn dice, then roll them for rewards!","デイリークエストを完了してダイスを獲得し、それを振って報酬をゲットしよう!"
+UI_EVENT_20_ANNIVERSARY,Flyff's 20th Anniversary,Flyffの20周年記念
+UI_EVENT_20_ANNIVERSARY_DESC,Celebrate Flyff's 20th Anniversary!,Flyffの20周年記念を祝おう!
+UI_EVENT_PIRATESHIP,Plunder treasure from the Pirate Ship!,海賊船からお宝を略奪しよう!
+UI_EVENT_THANKSGIVING,Thanksgiving Event,感謝祭イベント
+UI_EVENT_FISHINGCHAMPION,1.4.1 Update Celebration,1.4.1アップデート記念
+UI_EVENT_145_ATTENDANCE,Playtime Event,プレイタイムイベント
+UI_EVENT_145_ATTENDANCE_DESC,Log in each day for 30 minutes to receive rewards!,毎日30分間ログインして報酬を受け取りましょう!
+UI_EVENT_LIFEGATHERINGMASTERY,Life Gathering Mastery Event,ライフ採集マスタリーイベント
+UI_EVENT_LIFEGATHERINGMASTERY_DESC_20,Increase your life gathering mastery gain by 20%!,ライフ採集マスタリーの獲得量が20%増加!
+UI_EVENT_LIFEPRODUCTIONMASTERY,Life Production Mastery Event,ライフ生産マスタリーイベント
+UI_EVENT_LIFEPRODUCTIONMASTERY_DESC_20,Increase your life production mastery gain by 20%!,ライフ生産マスタリーの獲得量が20%増加!
+UI_EVENT_LIFEMASTERY,Life Mastery Event,ライフマスタリーイベント
+UI_EVENT_LIFEMASTERY_DESC_20,Increase all life mastery gains by 20%!,すべてのライフマスタリーの獲得量が20%増加!
+UI_EVENT_LIFEGATHERINGSPEED,Life Gathering Speed Event,ライフ採集速度イベント
+UI_EVENT_LIFEGATHERINGSPEED_DESC_20,Increase your life gathering speed by 20%!,ライフ採集速度が20%増加!
+UI_EVENT_LIFEPRODUCTIONSPEED,Life Production Speed Event,ライフ生産速度イベント
+UI_EVENT_LIFEPRODUCTIONSPEED_DESC_20,Increase your life production speed by 20%!,ライフ生産速度が20%増加!
+UI_EVENT_LIFEGATHERINGDURABILITY,Life Gathering Durability Discount Event!,ライフ採集耐久度割引イベント!
+UI_EVENT_LIFEGATHERINGDURABILITY_DESC_1,Reduces durability cost by 1 when gathering!,採集時の耐久度消費が1減少!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL,Life Wandering Merchant Early Refresh Event!,ライフ行商人早期更新イベント!
+UI_EVENT_LIFEWANDERINGMERCHANTRENEWAL_DESC_30,The Wandering Merchant's inventory refreshes 30 minutes earlier during the event!,イベント期間中、行商人の在庫が30分早く更新されます!
+UI_EVENT_LIFEGATHERINGSPAWN,Life Gathering Spawn Boost Event!,ライフ採集出現数ブーストイベント!
+UI_EVENT_LIFEGATHERINGSPAWN_DESC_20,20% more gathering objects spawn during the event!,イベント期間中、採集オブジェクトの出現数が20%増加!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS,Life Wandering Merchant Extra Stock Event!,ライフ行商人追加在庫イベント!
+UI_EVENT_LIFEWANDERINGMERCHANTITEMS_DESC_2,The Wandering Merchant offers 2 additional items for sale during the event!,イベント期間中、行商人が販売するアイテムが2種類追加されます!
+UI_EVENT_3RD_ANNIV_FIELDBOSS,3rd Anniversary Field Boss Event,3周年記念フィールドボスイベント
+UI_EVENT_FWC_PREDICTION,FWC Prediction Event,FWC予想イベント
+UI_EVENT_FWC_PREDICTION_DESC,FWC Prediction Event!,FWC予想イベント!
+UI_EVENT_TIMETOUPGRADE,It's Time to Upgrade!,アップグレードの時間だ!
+UI_EVENT_TIMETOUPGRADE_DESC,Successfully upgrade an item to each level from +1 to +10 during the event to receive rewards. Complete all 10 stages to receive an Ultimate Accessory Selection Box.,イベント期間中にアイテムを+1から+10まで各レベルへアップグレードに成功すると報酬を受け取れます。全10段階を達成すると、アルティメットアクセサリーセレクトボックスを獲得できます。
+UI_EVENT_PTS,Public Test Server,パブリックテストサーバー
+UI_EVENT_PTS_DESC,"Rates are increased, dungeon cooldowns are reduced, and more! Visit the Discord for more information.","各種レートが上昇し、ダンジョンのクールダウンが短縮されるなど、様々な特典があります!詳細はDiscordをご確認ください。"
+UI_EVENT_LETTER_COLLECTION_2026,2026 Valentine's Day,2026バレンタインデー
+UI_EVENT_LETTER_COLLECTION_2026_DESC,"During the 2026 Valentine's Day Event, I♥YOU items can be obtained from the Valentine's Day Letter, which drops from defeated monsters; only monsters up to 10 levels below your character's level are eligible to drop the item.","2026バレンタインデーイベント期間中、モンスターを倒すと入手できるバレンタインデーの手紙からI♥YOUアイテムを獲得できます。ただし、アイテムをドロップするのはキャラクターのレベルより10レベル以内低いモンスターに限られます。"
+UI_EVENT_LOGIN,Login Event,ログインイベント
