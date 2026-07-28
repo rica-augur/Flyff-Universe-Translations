@@ -21,3 +21,8 @@
 | Newbie / (無印) / Expert / Master ＋ 職業名（ライフスキル実績） | 見習い{職業}／{職業}／エキスパート{職業}／マスター{職業} | `Achievements.csv`の生活スキル系実績（採集・伐採・採掘・釣り・料理・錬金術・木工・鍛冶）。職業名は既存訳「木こり」（`WOOD_CUTTING_TITLE02`）に準拠して統一 |
 | Master of {Skill} | {Skill}マスター | 同上POINTS_NAME |
 | Raise your {Skill} mastery. | {Skill}のマスタリーを上げる。 | 同上POINTS_DESC。「マスタリーポイント」は`UI.csv`の`UI_LIFE_MASTERY_RANKING_POINT`に準拠した既存訳語 |
+| Small / Captain / Giant / Great ＋ モンスター種族名（`Movers.csv`のティア表記） | スモール・{種族名}／キャプテン・{種族名}／ジャイアント・{種族名}／グレート・{種族名}（中黒でつなぐ） | ティア接頭語がカタカナのため、種族名部分が意味を持つ英単語（例：`Cursed Warden`）であっても意味訳（「呪われた番人」）ではなくカタカナ音訳（「カースド・ウォーデン」）に統一する。ここでの種族名は固有名詞的に扱い、`Items.csv`等の一般アイテム名文脈での「Cursed→呪われた」定訳とは別物として扱う（ユーザー指示により2026-07-28修正、対象：`PROPMOVER_TXT_400308〜400316`） |
+
+### 表記揺れ（備考・修正しない）
+
+- `Movers.csv`の「ジャイアント・〇〇」系で漢字混じりの訳が3件ある（`PROPMOVER_TXT_000116` Giant Mr. Pumpkin→「ジャイアント・カボチャ男爵」、`PROPMOVER_TXT_000588` Mutant Giant 2nd Class Fefern→「ジャイアント・2級フェフェルン」、`PROPMOVER_TXT_000600` Mutant Giant Bang King→「ジャイアント・ヴァン改」）。上記の`Cursed Warden`と類似のパターンだが、これらは古くからの既存訳のためユーザー指示により**触らない**（2026-07-28確認）。

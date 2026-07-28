@@ -1282,24 +1282,24 @@ PROPMOVER_TXT_400295,Small Skelmaw,スモール・スケルモウ
 PROPMOVER_TXT_400296,Skelmaw,スケルモウ
 PROPMOVER_TXT_400297,Captain Skelmaw,キャプテン・スケルモウ
 PROPMOVER_TXT_400298,Giant Skelmaw,ジャイアント・スケルモウ
-PROPMOVER_TXT_400299,Alchemy Desk,Alchemy Desk
-PROPMOVER_TXT_400300,Hearth,Hearth
-PROPMOVER_TXT_400301,Carpentry Workspace,Carpentry Workspace
-PROPMOVER_TXT_400302,Smithing Workspace,Smithing Workspace
-PROPMOVER_TXT_400303,Wandering Merchant,Wandering Merchant
+PROPMOVER_TXT_400299,Alchemy Desk,錬金デスク
+PROPMOVER_TXT_400300,Hearth,暖炉
+PROPMOVER_TXT_400301,Carpentry Workspace,木工作業台
+PROPMOVER_TXT_400302,Smithing Workspace,鍛冶作業台
+PROPMOVER_TXT_400303,Wandering Merchant,行商人
 PROPMOVER_TXT_400304,Small Maleficar,スモール・マレフィカー
 PROPMOVER_TXT_400305,Maleficar,マレフィカー
 PROPMOVER_TXT_400306,Captain Maleficar,キャプテン・マレフィカー
 PROPMOVER_TXT_400307,Giant Maleficar,ジャイアント・マレフィカー
-PROPMOVER_TXT_400308,Small Cursed Warden,スモール・呪われた番人
-PROPMOVER_TXT_400309,Cursed Warden,呪われた番人
-PROPMOVER_TXT_400310,Captain Cursed Warden,キャプテン・呪われた番人
-PROPMOVER_TXT_400311,Giant Cursed Warden,ジャイアント・呪われた番人
+PROPMOVER_TXT_400308,Small Cursed Warden,スモール・カースド・ウォーデン
+PROPMOVER_TXT_400309,Cursed Warden,カースド・ウォーデン
+PROPMOVER_TXT_400310,Captain Cursed Warden,キャプテン・カースド・ウォーデン
+PROPMOVER_TXT_400311,Giant Cursed Warden,ジャイアント・カースド・ウォーデン
 PROPMOVER_TXT_400312,Small Shadowirs,スモール・シャドウィアズ
 PROPMOVER_TXT_400313,Great Shadowirs,グレート・シャドウィアズ
 PROPMOVER_TXT_400314,Great Skelmaw,グレート・スケルモウ
 PROPMOVER_TXT_400315,Great Maleficar,グレート・マレフィカー
-PROPMOVER_TXT_400316,Great Cursed Warden,グレート・呪われた番人
+PROPMOVER_TXT_400316,Great Cursed Warden,グレート・カースド・ウォーデン
 PROPMOVER_TXT_400317,Cyan Gloomie,シアングルーミィ
 PROPMOVER_TXT_400318,Green Gloomie,グリーングルーミィ
 PROPMOVER_TXT_400319,Blue Gloomie,ブルーグルーミィ
@@ -1352,7 +1352,7 @@ PROPMOVER_TXT_400369,Blue Roaryen,ブルーロアリエン
 PROPMOVER_TXT_400370,Green Roaryen,グリーンロアリエン
 PROPMOVER_TXT_400371,White Roaryen,ホワイトロアリエン
 PROPMOVER_TXT_400372,Black Roaryen,ブラックロアリエン
-PROPMOVER_TXT_001236,Mechamochi,Mechamochi
+PROPMOVER_TXT_001236,Mechamochi,モコモチ
 PROPMOVER_TXT_001237,[Event] Clockworks,[Event] クロックワークス
 PROPMOVER_TXT_001238,Baby Pang,ベビーパン
 PROPMOVER_TXT_400373,Lord Mothbee,ロード・モスビー
@@ -1400,7 +1400,7 @@ PROPMOVER_TXT_400414,Green Flumos,グリーンフルーモス
 PROPMOVER_TXT_400415,Yellow Flumos,イエローフルーモス
 PROPMOVER_TXT_400416,White Flumos,ホワイトフルーモス
 PROPMOVER_TXT_400417,Black Flumos,ブラックフルーモス
-PROPMOVER_TXT_400418,Wounded Revolutionary,Wounded Revolutionary
+PROPMOVER_TXT_400418,Wounded Revolutionary,傷ついた革命家
 PROPMOVER_TXT_400419,Yellow Breezy,イエローブリージー
 PROPMOVER_TXT_400420,Purple Breezy,パープルブリージー
 PROPMOVER_TXT_400421,Blue Breezy,ブルーブリージー
@@ -1546,12 +1546,12 @@ PROPMOVER_TXT_110184,[Event] Taiaha,[Event] ライカンウォーリアー
 PROPMOVER_TXT_110185,[Event] Chief Keokuk,[Event] ライカンバルガ
 PROPMOVER_TXT_110186,Vroom,ブルーム
 PROPMOVER_TXT_110187,Red Horse,レッドホース
-PROPMOVER_TXT_500075,Green Pawzer,Green Pawzer
-PROPMOVER_TXT_500076,Blue Pawzer,Blue Pawzer
-PROPMOVER_TXT_500077,Light Pawzer,Light Pawzer
-PROPMOVER_TXT_500078,Cyan Pawzer,Cyan Pawzer
-PROPMOVER_TXT_500079,Red Pawzer,Red Pawzer
-PROPMOVER_TXT_500080,Dark Pawzer,Dark Pawzer
+PROPMOVER_TXT_500075,Green Pawzer,グリーンパウザー
+PROPMOVER_TXT_500076,Blue Pawzer,ブルーパウザー
+PROPMOVER_TXT_500077,Light Pawzer,ライトパウザー
+PROPMOVER_TXT_500078,Cyan Pawzer,シアンパウザー
+PROPMOVER_TXT_500079,Red Pawzer,レッドパウザー
+PROPMOVER_TXT_500080,Dark Pawzer,ダークパウザー
 PROPMOVER_TXT_500081,US Muppet,USマペット
 PROPMOVER_TXT_500082,UK Muppet,UKマペット
 PROPMOVER_TXT_500083,DE Muppet,DEマペット
@@ -1635,8 +1635,8 @@ PROPMOVER_TXT_500190,Condemned Luia,堕落したルイア
 PROPMOVER_TXT_500191,Condemned Shuhamma,堕落したシューハンマー
 PROPMOVER_TXT_500192,Condemned Glaphan,堕落したグラファン
 PROPMOVER_TXT_500193,Condemned Medumet,堕落したメデュメット
-PROPMOVER_TXT_210000,Primal Warlord Caveman Chief,Primal Warlord Caveman Chief
-PROPMOVER_TXT_210001,Forsaken Temple Guardian,Forsaken Temple Guardian
+PROPMOVER_TXT_210000,Primal Warlord Caveman Chief,プライマルウォーロード・ケイブマンチーフ
+PROPMOVER_TXT_210001,Forsaken Temple Guardian,見捨てられたテンプルガーディアン
 PROPMOVER_TXT_210002,Abyssal Great Kraken,深淵のグレート・クラーケン
 PROPMOVER_TXT_210003,Abyssal Kraken Spawn,深淵のクラーケンスパウン
 PROPMOVER_TXT_210004,Cursed Pyramid Guardian,呪われたピラミッド・ガーディアン
