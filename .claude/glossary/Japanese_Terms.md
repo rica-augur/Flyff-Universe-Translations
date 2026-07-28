@@ -146,5 +146,41 @@
 | Celestial Phoenix（防具シリーズ接頭語） | セレスティアルフェニックス | |
 | Primordial（防具シリーズ接頭語） | プリモーディアル | |
 
+## モンスター名（`Movers.csv`定訳、`Achievements.csv`のKILL系実績で使用）
 
+`Achievements.csv`の`ACHIEVEMENT_KILL_*`系実績（討伐数実績）の名前は`Movers.csv`の英語名と完全一致するため、翻訳時は`Movers.csv`の既存訳をそのまま流用すること。以下は2026-07-28時点で`Achievements.csv`の未訳分に対応するために採取したモンスター名。
+
+| English | 日本語（Movers.csv準拠） | 備考 |
+| --- | --- | --- |
+| Dreadfin | ドレッドフィン | |
+| Dreadscale | ドレッドスケイル | |
+| Luminfin | ルミンフィン | |
+| [Shade Lieutenant] Kriton | [シェードの幹部] クリトン | |
+| Hundur Sharpfoot | ワークウルフ | |
+| Samoset | ライカンガード | |
+| Kyouchish | ライカンセンチネル | |
+| Kanonicus | ライカンアーチャー | |
+| Mage Redcloud | ライカンソーサラー | |
+| Taiaha | ライカンウォーリアー | |
+| Hellhound | スケルトンジャッカル | |
+| Chief Keokuk | ライカンバルガ | |
+| [God of Death] Demonic Ankou | [死神] 魔の神獣ベヒモス | |
+| Ankou | 神獣ベヒモス | `Map.csv`「Ankou's Asylum」は「ベヒモス神殿」 |
+| Blazing Ankou | 炎の神獣ベヒモス | |
+| Demonic Ankou | 魔の神獣ベヒモス | |
+| Blossom | フロミー | 直訳ではない既存訳（Movers.csv準拠） |
+| Oldroot | オールドルート | |
+| Minimusha | ミニムシュ | |
+| Lady Bloom | レディブルーム | |
+| Mushbro | ラプラ | 直訳ではない既存訳（Movers.csv準拠） |
+| Nightmyst | ナイトミスト | |
+| [Queen of Thorns] Entaness | クイーンエンプティネス | |
+
+### 表記揺れ（備考・一括修正はしない）
+
+`Movers.csv`内で同一英語名に対し複数の日本語訳が混在している例（発見時点の記録のみ。統一は別途ユーザー指示のもとで対応）：
+
+- `Santa`：「サンタクロース」/「サンタ」
+- `Blue/Yellow/Red/Purple/Pink/Black Flying Sheep`：「色+空飛ぶ羊」と「色+フライングシープ」の2系統が混在
+- `Cheirang`／`Mawrang`：表記自体は揺れなしだが重複キーあり（参考情報）
 
