@@ -22011,18 +22011,18 @@ PROPITEM_TXT_900096,Easter Bunny 2025 Dark Shoes (F),女性キャラクター用
 PROPITEM_TXT_900097,Easter Bunny 2025 Dark Hands (F),女性キャラクター用のイースターバニー2025ダークグローブ
 PROPITEM_TXT_900098,Easter Bunny 2025 2% Dark Set (F),女性キャラクター用のイースターバニー2025 2%ダークセット
 PROPITEM_TXT_900099,The Easter Bunny 2025 2% Dark Set for female characters.,女性キャラクター用のイースターバニー2025 2%ダークセット
-PROPITEM_TXT_900100,Pink Guardian Easter Bunny,Pink Guardian Easter Bunny
-PROPITEM_TXT_900101,"A fluffy guardian bunny hopping cheerfully through blooming meadows, diligently gathering vibrant eggs with its tiny, watchful paws.","A fluffy guardian bunny hopping cheerfully through blooming meadows, diligently gathering vibrant eggs with its tiny, watchful paws."
-PROPITEM_TXT_900102,Green Guardian Easter Bunny,Green Guardian Easter Bunny
-PROPITEM_TXT_900103,Blue Guardian Easter Bunny,Blue Guardian Easter Bunny
-PROPITEM_TXT_900104,Orange Guardian Easter Bunny,Orange Guardian Easter Bunny
-PROPITEM_TXT_900105,Purple Guardian Easter Bunny,Purple Guardian Easter Bunny
-PROPITEM_TXT_900106,Dark Guardian Easter Bunny,Dark Guardian Easter Bunny
+PROPITEM_TXT_900100,Pink Guardian Easter Bunny,ピンクガーディアンイースターバニー
+PROPITEM_TXT_900101,"A fluffy guardian bunny hopping cheerfully through blooming meadows, diligently gathering vibrant eggs with its tiny, watchful paws.",花咲く草原を元気いっぱいに飛び跳ねる、ふわふわのガーディアンバニー。小さくも油断のない前脚で、色鮮やかな卵を熱心に集めています。
+PROPITEM_TXT_900102,Green Guardian Easter Bunny,グリーンガーディアンイースターバニー
+PROPITEM_TXT_900103,Blue Guardian Easter Bunny,ブルーガーディアンイースターバニー
+PROPITEM_TXT_900104,Orange Guardian Easter Bunny,オレンジガーディアンイースターバニー
+PROPITEM_TXT_900105,Purple Guardian Easter Bunny,パープルガーディアンイースターバニー
+PROPITEM_TXT_900106,Dark Guardian Easter Bunny,ダークガーディアンイースターバニー
 PROPITEM_TXT_900107,Easter Bunny 2025 Costume Lucky Box,イースターバニー2025コスチュームラッキーボックス
-PROPITEM_TXT_900108,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_900109,PlayPark Door Prize Reward,PlayPark Door Prize Reward
+PROPITEM_TXT_900108,This box contains a Easter Bunny 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのイースターバニー2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_900109,PlayPark Door Prize Reward,PlayPark ドア賞品報酬
 PROPITEM_TXT_900110,"A package containing 15x Upcut Stone, 3x Smelting Scroll Box, 1x Power Scroll, 1x Scroll of Amplification ES, 1x Extra Bag (30 Days), 1x Grilled Eel and 5x Flask Box. All items are also linked.",パワーストーンx15、精錬編の巻物ボックスx3、豪傑のスクロール(B)x1、戦神の巻物ESx1、魔法の携帯バッグ(30日)x1、グリルド・イールx1、秘薬ボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900111,PlayPark Tournament Reward,PlayPark Tournament Reward
+PROPITEM_TXT_900111,PlayPark Tournament Reward,PlayPark トーナメント報酬
 PROPITEM_TXT_900112,A package containing multiple power ups for participating the tournament! All items are also linked.,トーナメント参加のための複数のパワーアップが含まれたパッケージ！アイテムは全て帰属です。
 PROPITEM_TXT_900113,Fantasy Guardian 10% Purple Set,ファンタジーガーディアン 10%パープルセット
 PROPITEM_TXT_900114,Fantasy Guardian Purple Backpack,ファンタジーガーディアンパープルバックパック
@@ -22129,7 +22129,7 @@ PROPITEM_TXT_900214,Fantasy Guardian Black Shoes (F),ファンタジーガーデ
 PROPITEM_TXT_900215,Fantasy Guardian 2% Black Set (F),ファンタジーガーディアン 2%ブラックセット(F)
 PROPITEM_TXT_900216,The Fantasy Guardian 2% Black Set for female characters.,女性キャラクター用のファンタジーガーディアン 2%ブラックセット
 PROPITEM_TXT_900217,Fantasy Guardian Costume Lucky Box,ファンタジーガーディアンコスチュームラッキーボックス
-PROPITEM_TXT_900218,This box contains a Fantasy Guardian Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Fantasy Guardian Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900218,This box contains a Fantasy Guardian Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのファンタジーガーディアンセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900219,3rd Anniversary Mecha 10% White Set,3周年メカ 10%ホワイトセット
 PROPITEM_TXT_900220,3rd Anniversary Mecha White Wings Cloak,3周年メカホワイトウィングマント
 PROPITEM_TXT_900221,3rd Anniversary Mecha White Hat (M),3周年メカホワイトハット(M)
@@ -22215,39 +22215,39 @@ PROPITEM_TXT_900300,3rd Anniversary Mecha Black Hands (F),3周年メカブラッ
 PROPITEM_TXT_900301,3rd Anniversary Mecha 2% Black Set (F),3周年メカ 2%ブラックセット(F)
 PROPITEM_TXT_900302,The 3rd Anniversary Mecha 2% Black Set for female characters.,女性キャラクター用の3周年メカ 2%ブラックセット
 PROPITEM_TXT_900303,3rd Anniversary Mecha Costume Lucky Box,3周年メカコスチュームラッキーボックス
-PROPITEM_TXT_900304,This box contains a 3rd Anniversary Mecha Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 3rd Anniversary Mecha Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900304,This box contains a 3rd Anniversary Mecha Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの3周年メカセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_900305,3rd Anniversary Mecha White Wings,3周年メカホワイトウィング
 PROPITEM_TXT_900306,3rd Anniversary Mecha Purple Wings,3周年メカパープルウィング
 PROPITEM_TXT_900307,3rd Anniversary Mecha Green Wings,3周年メカグリーンウィング
 PROPITEM_TXT_900308,3rd Anniversary Mecha Blue Wings,3周年メカブルーウィング
 PROPITEM_TXT_900309,3rd Anniversary Mecha Red Wings,3周年メカレッドウィング
 PROPITEM_TXT_900310,3rd Anniversary Mecha Black Wings,3周年メカブラックウィング
-PROPITEM_TXT_900311,"Crafted to celebrate three years of adventure, these mechanical wings pulse with futuristic power, letting you glide through Madrigal like a true cybernetic sentinel.","Crafted to celebrate three years of adventure, these mechanical wings pulse with futuristic power, letting you glide through Madrigal like a true cybernetic sentinel."
-PROPITEM_TXT_900312,3rd Anniversary Cake (Flaris),3rd Anniversary Cake (Flaris)
-PROPITEM_TXT_900313,3rd Anniversary Cake (Saint City),3rd Anniversary Cake (Saint City)
-PROPITEM_TXT_900314,3rd Anniversary Cake (Darken),3rd Anniversary Cake (Darken)
-PROPITEM_TXT_900315,3rd Anniversary Housing Furniture,3rd Anniversary Housing Furniture
+PROPITEM_TXT_900311,"Crafted to celebrate three years of adventure, these mechanical wings pulse with futuristic power, letting you glide through Madrigal like a true cybernetic sentinel.",3年間の冒険を記念して作られたこのメカニカルウィングは、未来的なパワーで脈動し、真のサイバネティック・センチネルのようにマドリガルの空を滑空させてくれます。
+PROPITEM_TXT_900312,3rd Anniversary Cake (Flaris),3周年記念ケーキ(フラリス)
+PROPITEM_TXT_900313,3rd Anniversary Cake (Saint City),3周年記念ケーキ(セイントモーニング)
+PROPITEM_TXT_900314,3rd Anniversary Cake (Darken),3周年記念ケーキ(ダーコン)
+PROPITEM_TXT_900315,3rd Anniversary Housing Furniture,3周年記念住宅家具
 PROPITEM_TXT_900316,Select which housing prop you want to receive!,受け取りたい住宅の小道具を選択してください!
-PROPITEM_TXT_900317,Cyberneon Sword,Cyberneon Sword
-PROPITEM_TXT_900318,Cyberneon Axe,Cyberneon Axe
-PROPITEM_TXT_900319,Cyberneon Big Sword,Cyberneon Big Sword
-PROPITEM_TXT_900320,Cyberneon Big Axe,Cyberneon Big Axe
-PROPITEM_TXT_900321,Cyberneon Stick,Cyberneon Stick
-PROPITEM_TXT_900322,Cyberneon Knuckle,Cyberneon Knuckle
-PROPITEM_TXT_900323,Cyberneon Bow,Cyberneon Bow
-PROPITEM_TXT_900324,Cyberneon Yo-Yo,Cyberneon Yo-Yo
-PROPITEM_TXT_900325,Cyberneon Staff,Cyberneon Staff
-PROPITEM_TXT_900326,Cyberneon Wand,Cyberneon Wand
-PROPITEM_TXT_900327,Cyberneon Shield,Cyberneon Shield
-PROPITEM_TXT_900330,Cyberneon Weapon Skin Box,Cyberneon Weapon Skin Box
-PROPITEM_TXT_900331,Select which Cyberneon Weapon you want to receive!,Select which Cyberneon Weapon you want to receive!
-PROPITEM_TXT_900332,Charlie Hunter Gray Bundle,Charlie Hunter Gray Bundle
+PROPITEM_TXT_900317,Cyberneon Sword,サイバーネオンソード
+PROPITEM_TXT_900318,Cyberneon Axe,サイバーネオンアクス
+PROPITEM_TXT_900319,Cyberneon Big Sword,サイバーネオンビッグソード
+PROPITEM_TXT_900320,Cyberneon Big Axe,サイバーネオンビッグアクス
+PROPITEM_TXT_900321,Cyberneon Stick,サイバーネオンスティック
+PROPITEM_TXT_900322,Cyberneon Knuckle,サイバーネオンナックル
+PROPITEM_TXT_900323,Cyberneon Bow,サイバーネオンボウ
+PROPITEM_TXT_900324,Cyberneon Yo-Yo,サイバーネオンヨーヨー
+PROPITEM_TXT_900325,Cyberneon Staff,サイバーネオンスタッフ
+PROPITEM_TXT_900326,Cyberneon Wand,サイバーネオンワンド
+PROPITEM_TXT_900327,Cyberneon Shield,サイバーネオンシールド
+PROPITEM_TXT_900330,Cyberneon Weapon Skin Box,サイバーネオン武器スキンボックス
+PROPITEM_TXT_900331,Select which Cyberneon Weapon you want to receive!,受け取りたいサイバーネオン武器を選択してください！
+PROPITEM_TXT_900332,Charlie Hunter Gray Bundle,チャーリーハンターグレーバンドル
 PROPITEM_TXT_900333,A package containing a Charlie Gray Hunter Set and a Charlie Hunter Weapon Skin Box. All items are also linked.,チャーリーハンターグレーセット、チャーリーハンターウェポンスキンボックスが含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900334,Pickup Pet Boost Package (15 Days),Pickup Pet Boost Package (15 Days)
+PROPITEM_TXT_900334,Pickup Pet Boost Package (15 Days),ピックアップペットブーストパッケージ(15日)
 PROPITEM_TXT_900335,A package containing 1x Scroll of PickUp Boost (15 Days) and 1x Scroll of Pickup Range (15 Days). All items are also linked.,ピックアップブーストスクロール(15日)x1、ピックアップ範囲スクロール(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900336,Pang's Growth Package A,Pang's Growth Package A
+PROPITEM_TXT_900336,Pang's Growth Package A,パングの成長パッケージA
 PROPITEM_TXT_900337,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Power Scroll. All items are also linked.",戦神の巻物ESx5、スタミナドリンクXまたは魔力ドリンクゴールドx5、神風の巻物x5、パワーストーンx5、豪傑のスクロール(B)x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900338,FWC Compensation Box A,FWC Compensation Box A
+PROPITEM_TXT_900338,FWC Compensation Box A,FWC補償ボックスA
 PROPITEM_TXT_900339,"A package containing 1x Adventurer's Fortune Flask (3 Days), 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Scroll of Blessing and 10x Flask Box. All items are also linked.",冒険者のフォーチュンフラスコ(3日)x1、戦神の巻物ESx10、スタミナドリンクXまたは魔力ドリンクゴールドx10、パワーストーンx10、祝福の巻物x10、秘薬ボックスx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900340,Botanist Musician 10% Purple Set,ボタニストミュージシャン 10%パープルセット
 PROPITEM_TXT_900341,Botanist Musician Purple Guitar,ボタニストミュージシャンパープルギター
@@ -22353,40 +22353,40 @@ PROPITEM_TXT_900440,Botanist Musician Gray Suit (F),ボタニストミュージ�
 PROPITEM_TXT_900441,Botanist Musician Gray Shoes (F),ボタニストミュージシャングレーシューズ(F)
 PROPITEM_TXT_900442,Botanist Musician 2% Gray Set (F),ボタニストミュージシャン 2%グレーセット(F)
 PROPITEM_TXT_900443,The Botanist Musician 2% Gray Set for female characters.,女性キャラクター用のボタニストミュージシャン 2%グレーセット
-PROPITEM_TXT_900444,Purple Pawsy,Purple Pawsy
-PROPITEM_TXT_900445,"This cuddly little creature loves to stay stylish ! Pawsy follows his owner, bouncing happily along, always ready to pick up the loot !","This cuddly little creature loves to stay stylish ! Pawsy follows his owner, bouncing happily along, always ready to pick up the loot !"
-PROPITEM_TXT_900446,Red Pawsy,Red Pawsy
-PROPITEM_TXT_900447,Green Pawsy,Green Pawsy
-PROPITEM_TXT_900448,Blue Pawsy,Blue Pawsy
-PROPITEM_TXT_900449,Magenta Pawsy,Magenta Pawsy
-PROPITEM_TXT_900450,Lavender Pawsy,Lavender Pawsy
-PROPITEM_TXT_900451,Pink Pawsy,Pink Pawsy
-PROPITEM_TXT_900452,Gray Pawsy,Gray Pawsy
+PROPITEM_TXT_900444,Purple Pawsy,パープルパウジー
+PROPITEM_TXT_900445,"This cuddly little creature loves to stay stylish ! Pawsy follows his owner, bouncing happily along, always ready to pick up the loot !",この愛らしい小さな生き物はおしゃれが大好き！パウジーは飼い主の後をぴょんぴょん楽しそうについて歩き、いつでも戦利品を拾う準備ができています！
+PROPITEM_TXT_900446,Red Pawsy,レッドパウジー
+PROPITEM_TXT_900447,Green Pawsy,グリーンパウジー
+PROPITEM_TXT_900448,Blue Pawsy,ブルーパウジー
+PROPITEM_TXT_900449,Magenta Pawsy,マゼンタパウジー
+PROPITEM_TXT_900450,Lavender Pawsy,ラベンダーパウジー
+PROPITEM_TXT_900451,Pink Pawsy,ピンクパウジー
+PROPITEM_TXT_900452,Gray Pawsy,グレーパウジー
 PROPITEM_TXT_900453,Botanist Musician Costume Lucky Box,ボタニストミュージシャンコスチュームラッキーボックス
-PROPITEM_TXT_900454,This box contains a Botanist Musician Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Botanist Musician Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_900455,Pang's Upgrade Package A,Pang's Upgrade Package A
+PROPITEM_TXT_900454,This box contains a Botanist Musician Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのボタニストミュージシャンセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_900455,Pang's Upgrade Package A,パングのアップグレードパッケージA
 PROPITEM_TXT_900456,"A package containing 20x Scroll of SProtect, 10x Power Dice 10 and 10x Power Dice 12. All items are also linked.",鍛冶屋の心得・精錬編x20、パワーダイス [10D](S)x10、パワーダイス [12D](精)x10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900457,Pang's Upgrade Package B,Pang's Upgrade Package B
+PROPITEM_TXT_900457,Pang's Upgrade Package B,パングのアップグレードパッケージB
 PROPITEM_TXT_900458,"A package containing 30x Scroll of AProtect, 10x Power Dice 10 and 10x Power Dice 12. All items are also linked.",鍛冶屋の心得・アクセサリー編x30、パワーダイス [10D](S)x10、パワーダイス [12D](精)x10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900459,Summer Starting Pack,Summer Starting Pack
+PROPITEM_TXT_900459,Summer Starting Pack,サマースターティングパック
 PROPITEM_TXT_900460,"A package containing 5x Summer Buff Lucky Box, 5x Scroll of Amplification ES, 5x Flask Box and 5x Vital Drink X or Refresher Hold. All items are also linked.",サマーバフラッキーボックスx5、戦神の巻物ESx5、秘薬ボックスx5、スタミナドリンクXまたは魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900461,Let's Party Time Pack,Let's Party Time Pack
+PROPITEM_TXT_900461,Let's Party Time Pack,レッツパーティータイムパック
 PROPITEM_TXT_900462,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,戦神の巻物ESx20、パーティーコンボの巻物（15日間）x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900463,Summer Buff Lucky Box,Summer Buff Lucky Box
-PROPITEM_TXT_900464,Get a random buff item in this lucky box!,Get a random buff item in this lucky box!
-PROPITEM_TXT_900465,Green Leaf,Green Leaf
-PROPITEM_TXT_900466,Blue Leaf,Blue Leaf
-PROPITEM_TXT_900467,Red Leaf,Red Leaf
-PROPITEM_TXT_900468,White Leaf,White Leaf
-PROPITEM_TXT_900469,Use the Leaf and get some magic in your step!,Use the Leaf and get some magic in your step!
-PROPITEM_TXT_900470,Pang's Growth Package B,Pang's Growth Package B
+PROPITEM_TXT_900463,Summer Buff Lucky Box,サマーバフラッキーボックス
+PROPITEM_TXT_900464,Get a random buff item in this lucky box!,このラッキーボックスではランダムでバフアイテムが手に入ります！
+PROPITEM_TXT_900465,Green Leaf,グリーンリーフ
+PROPITEM_TXT_900466,Blue Leaf,ブルーリーフ
+PROPITEM_TXT_900467,Red Leaf,レッドリーフ
+PROPITEM_TXT_900468,White Leaf,ホワイトリーフ
+PROPITEM_TXT_900469,Use the Leaf and get some magic in your step!,リーフを使って、足取りに魔法をプラスしよう！
+PROPITEM_TXT_900470,Pang's Growth Package B,パングの成長パッケージB
 PROPITEM_TXT_900471,"A package containing 5x Scroll of Amplification ES, 5x Vital Drink X or Refresher Hold, 5x Scroll of Velocity, 5x Upcut Stone and 5x Grilled Eel. All items are also linked.",戦神の巻物ESx5、スタミナドリンクXまたは魔力ドリンクゴールドx5、神風の巻物x5、パワーストーンx5、グリルド・イールx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900472,3rd Anniversary All Inclusive Upgrade Package,3rd Anniversary All Inclusive Upgrade Package
+PROPITEM_TXT_900472,3rd Anniversary All Inclusive Upgrade Package,3周年記念オールインクルーシブアップグレードパッケージ
 PROPITEM_TXT_900473,"A package containing 10x 3rd Anniversary Roulette Ticket, 20x Smelting Scroll Box, 20x Power Dice 10, 20x Power Dice 12 and 20x Scroll of Weapon Bonus. All items are also linked.",3周年記念ルーレットチケットx10、精錬編の巻物ボックスx20、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20、武器ボーナスの巻物x20が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900474,3rd Anniversary Egg Upgrade Package,3rd Anniversary Egg Upgrade Package
+PROPITEM_TXT_900474,3rd Anniversary Egg Upgrade Package,3周年記念エッグアップグレードパッケージ
 PROPITEM_TXT_900475,A package containing 30x 3rd Anniversary Egg I and 200x Anniversary Egg Upgrade Ticket. All items are also linked.,3周年記念エッグIx30、記念エッグアップグレードチケットx200が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900476,Revolutionary Secret Journal,Revolutionary Secret Journal
-PROPITEM_TXT_900477,*Quest Start Item* A secret journal cherished by the revolutionary. Use it to reveal their goals.\n*Deleted after the event ends on July 24.,*Quest Start Item* A secret journal cherished by the revolutionary. Use it to reveal their goals.\n*Deleted after the event ends on July 24.
+PROPITEM_TXT_900476,Revolutionary Secret Journal,革命家の秘密の日記
+PROPITEM_TXT_900477,*Quest Start Item* A secret journal cherished by the revolutionary. Use it to reveal their goals.\n*Deleted after the event ends on July 24.,*クエスト開始アイテム* 革命家が大切にしていた秘密の日記。使用するとその目的が明らかになります。\n※7月24日のイベント終了後に削除されます。
 PROPITEM_TXT_134774,Secret Letter,秘密の手紙
 PROPITEM_TXT_134775,"Dropped by monsters. When used, grants a random alphabet item.",モンスターがドロップします。使用するとランダムでアルファベットアイテムを獲得できます。
 PROPITEM_TXT_134776,Letter Bag,手紙袋
@@ -22425,15 +22425,15 @@ PROPITEM_TXT_134808,[Event] Revolution Random Box,[イベント]レボリュー�
 PROPITEM_TXT_134809,This is a random box received for completing all of the Revolutionary's quests.\nYou can obtain one random item from a variety of options.,レボリューショナリーのクエストを全て完了すると受け取れるランダムボックスです。\n様々なアイテムの中からランダムで1つ入手できます。
 PROPITEM_TXT_134810,[Event] Revolutionary’s Gift Box,[イベント]レボリューショナリーのギフトボックス
 PROPITEM_TXT_134811,This is a random box obtainable from the Revolutionary Supply Box A. You can obtain one random item from a variety of options.,レボリューション物資ボックスAから入手できるランダムボックスです。様々なアイテムの中からランダムで1つ入手できます。
-PROPITEM_TXT_900588,Orange Flumos,Orange Flumos
-PROPITEM_TXT_900589,"A tiny obsidian plush sparked by ancient flame. Silent but loyal, Flumos follows his master and picks up everything in his path.","A tiny obsidian plush sparked by ancient flame. Silent but loyal, Flumos follows his master and picks up everything in his path."
-PROPITEM_TXT_900590,Purple Flumos,Purple Flumos
-PROPITEM_TXT_900591,Red Flumos,Red Flumos
-PROPITEM_TXT_900592,Blue Flumos,Blue Flumos
-PROPITEM_TXT_900593,Green Flumos,Green Flumos
-PROPITEM_TXT_900594,Yellow Flumos,Yellow Flumos
-PROPITEM_TXT_900595,White Flumos,White Flumos
-PROPITEM_TXT_900596,Black Flumos,Black Flumos
+PROPITEM_TXT_900588,Orange Flumos,オレンジフルモス
+PROPITEM_TXT_900589,"A tiny obsidian plush sparked by ancient flame. Silent but loyal, Flumos follows his master and picks up everything in his path.",古代の炎に灯された小さな黒曜石のぬいぐるみ。物静かながらも忠実なフルモスは、主の後を追い、道中のあらゆるものを拾い集めます。
+PROPITEM_TXT_900590,Purple Flumos,パープルフルモス
+PROPITEM_TXT_900591,Red Flumos,レッドフルモス
+PROPITEM_TXT_900592,Blue Flumos,ブルーフルモス
+PROPITEM_TXT_900593,Green Flumos,グリーンフルモス
+PROPITEM_TXT_900594,Yellow Flumos,イエローフルモス
+PROPITEM_TXT_900595,White Flumos,ホワイトフルモス
+PROPITEM_TXT_900596,Black Flumos,ブラックフルモス
 PROPITEM_TXT_900599,Obsidian Flame 10% Orange Set,オブシディアンフレイム 10%オレンジセット
 PROPITEM_TXT_900600,Obsidian Flame Orange Wings,オブシディアンフレイムオレンジウィング
 PROPITEM_TXT_900601,Obsidian Flame Orange Hat (M),オブシディアンフレイムオレンジハット(M)
@@ -22547,129 +22547,129 @@ PROPITEM_TXT_900708,Obsidian Flame Black Hands (F),オブシディアンフレ�
 PROPITEM_TXT_900709,Obsidian Flame 2% Black Set (F),オブシディアンフレイム 2%ブラックセット(F)
 PROPITEM_TXT_900710,The Obsidian Flame 2% Black Set for female characters.,女性キャラクター用のオブシディアンフレイム 2%ブラックセット
 PROPITEM_TXT_900711,Obsidian Flame Costume Lucky Box,オブシディアンフレイムコスチュームラッキーボックス
-PROPITEM_TXT_900712,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_900712,This box contains a Obsidian Flame Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのオブシディアンフレイムセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_134772,[Event] Experiment Material Box,[イベント]実験材料ボックス
 PROPITEM_TXT_134773,"A Box with full of materials required for an experiment. Take it to the Mayor. If you don't give it to Mayor and open it yourself, you may get some good ingredients.",実験に必要な材料がたくさん入ったボックスです。町長に届けてください。町長に渡さず自分で開けると、良い材料が手に入るかもしれません。
-PROPITEM_TXT_900713,Obsidian Flame Orange Sword,オブシディアンフレイムオレンジソード
-PROPITEM_TXT_900714,Obsidian Flame Orange Axe,オブシディアンフレイムオレンジアクス
-PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,オブシディアンフレイムオレンジビッグソード
-PROPITEM_TXT_900716,Obsidian Flame Orange Big Axe,オブシディアンフレイムオレンジビッグアクス
-PROPITEM_TXT_900717,Obsidian Flame Orange Stick,オブシディアンフレイムオレンジスティック
-PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,オブシディアンフレイムオレンジナックル
-PROPITEM_TXT_900719,Obsidian Flame Orange Bow,オブシディアンフレイムオレンジボウ
-PROPITEM_TXT_900720,Obsidian Flame Orange Yo-Yo,オブシディアンフレイムオレンジヨーヨー
-PROPITEM_TXT_900721,Obsidian Flame Orange Staff,オブシディアンフレイムオレンジスタッフ
-PROPITEM_TXT_900722,Obsidian Flame Orange Wand,オブシディアンフレイムオレンジワンド
-PROPITEM_TXT_900723,Obsidian Flame Orange Shield,オブシディアンフレイムオレンジシールド
-PROPITEM_TXT_900724,Obsidian Flame Orange Force Gem,オブシディアンフレイムオレンジフォースジェム
-PROPITEM_TXT_900725,Obsidian Flame Orange Book,オブシディアンフレイムオレンジブック
+PROPITEM_TXT_900713,Obsidian Flame Orange Sword,オブシディアンフレイムオレンジ・ソード
+PROPITEM_TXT_900714,Obsidian Flame Orange Axe,オブシディアンフレイムオレンジ・アクス
+PROPITEM_TXT_900715,Obsidian Flame Orange Big Sword,オブシディアンフレイムオレンジ・ビッグソード
+PROPITEM_TXT_900716,Obsidian Flame Orange Big Axe,オブシディアンフレイムオレンジ・ビッグアクス
+PROPITEM_TXT_900717,Obsidian Flame Orange Stick,オブシディアンフレイムオレンジ・スティック
+PROPITEM_TXT_900718,Obsidian Flame Orange Knuckle,オブシディアンフレイムオレンジ・ナックル
+PROPITEM_TXT_900719,Obsidian Flame Orange Bow,オブシディアンフレイムオレンジ・ボウ
+PROPITEM_TXT_900720,Obsidian Flame Orange Yo-Yo,オブシディアンフレイムオレンジ・ヨーヨー
+PROPITEM_TXT_900721,Obsidian Flame Orange Staff,オブシディアンフレイムオレンジ・スタッフ
+PROPITEM_TXT_900722,Obsidian Flame Orange Wand,オブシディアンフレイムオレンジ・ワンド
+PROPITEM_TXT_900723,Obsidian Flame Orange Shield,オブシディアンフレイムオレンジ・シールド
+PROPITEM_TXT_900724,Obsidian Flame Orange Force Gem,オブシディアンフレイムオレンジ・フォースジェム
+PROPITEM_TXT_900725,Obsidian Flame Orange Book,オブシディアンフレイムオレンジ・ブック
 PROPITEM_TXT_900726,Obsidian Flame Orange Weapon Set,オブシディアンフレイムオレンジウェポンセット
-PROPITEM_TXT_900727,Select which Obsidian Flame Orange Weapon you want to receive!,Select which Obsidian Flame Orange Weapon you want to receive!
-PROPITEM_TXT_900728,Obsidian Flame Purple Sword,オブシディアンフレイムパープルソード
-PROPITEM_TXT_900729,Obsidian Flame Purple Axe,オブシディアンフレイムパープルアクス
-PROPITEM_TXT_900730,Obsidian Flame Purple Big Sword,オブシディアンフレイムパープルビッグソード
-PROPITEM_TXT_900731,Obsidian Flame Purple Big Axe,オブシディアンフレイムパープルビッグアクス
-PROPITEM_TXT_900732,Obsidian Flame Purple Stick,オブシディアンフレイムパープルスティック
-PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,オブシディアンフレイムパープルナックル
-PROPITEM_TXT_900734,Obsidian Flame Purple Bow,オブシディアンフレイムパープルボウ
-PROPITEM_TXT_900735,Obsidian Flame Purple Yo-Yo,オブシディアンフレイムパープルヨーヨー
-PROPITEM_TXT_900736,Obsidian Flame Purple Staff,オブシディアンフレイムパープルスタッフ
-PROPITEM_TXT_900737,Obsidian Flame Purple Wand,オブシディアンフレイムパープルワンド
-PROPITEM_TXT_900738,Obsidian Flame Purple Shield,オブシディアンフレイムパープルシールド
-PROPITEM_TXT_900739,Obsidian Flame Purple Force Gem,オブシディアンフレイムパープルフォースジェム
-PROPITEM_TXT_900740,Obsidian Flame Purple Book,オブシディアンフレイムパープルブック
+PROPITEM_TXT_900727,Select which Obsidian Flame Orange Weapon you want to receive!,受け取りたいオブシディアンフレイムオレンジ武器を選択してください！
+PROPITEM_TXT_900728,Obsidian Flame Purple Sword,オブシディアンフレイムパープル・ソード
+PROPITEM_TXT_900729,Obsidian Flame Purple Axe,オブシディアンフレイムパープル・アクス
+PROPITEM_TXT_900730,Obsidian Flame Purple Big Sword,オブシディアンフレイムパープル・ビッグソード
+PROPITEM_TXT_900731,Obsidian Flame Purple Big Axe,オブシディアンフレイムパープル・ビッグアクス
+PROPITEM_TXT_900732,Obsidian Flame Purple Stick,オブシディアンフレイムパープル・スティック
+PROPITEM_TXT_900733,Obsidian Flame Purple Knuckle,オブシディアンフレイムパープル・ナックル
+PROPITEM_TXT_900734,Obsidian Flame Purple Bow,オブシディアンフレイムパープル・ボウ
+PROPITEM_TXT_900735,Obsidian Flame Purple Yo-Yo,オブシディアンフレイムパープル・ヨーヨー
+PROPITEM_TXT_900736,Obsidian Flame Purple Staff,オブシディアンフレイムパープル・スタッフ
+PROPITEM_TXT_900737,Obsidian Flame Purple Wand,オブシディアンフレイムパープル・ワンド
+PROPITEM_TXT_900738,Obsidian Flame Purple Shield,オブシディアンフレイムパープル・シールド
+PROPITEM_TXT_900739,Obsidian Flame Purple Force Gem,オブシディアンフレイムパープル・フォースジェム
+PROPITEM_TXT_900740,Obsidian Flame Purple Book,オブシディアンフレイムパープル・ブック
 PROPITEM_TXT_900741,Obsidian Flame Purple Weapon Set,オブシディアンフレイムパープルウェポンセット
-PROPITEM_TXT_900742,Select which Obsidian Flame Purple Weapon you want to receive!,Select which Obsidian Flame Purple Weapon you want to receive!
-PROPITEM_TXT_900743,Obsidian Flame Red Sword,オブシディアンフレイムレッドソード
-PROPITEM_TXT_900744,Obsidian Flame Red Axe,オブシディアンフレイムレッドアクス
-PROPITEM_TXT_900745,Obsidian Flame Red Big Sword,オブシディアンフレイムレッドビッグソード
-PROPITEM_TXT_900746,Obsidian Flame Red Big Axe,オブシディアンフレイムレッドビッグアクス
-PROPITEM_TXT_900747,Obsidian Flame Red Stick,オブシディアンフレイムレッドスティック
-PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,オブシディアンフレイムレッドナックル
-PROPITEM_TXT_900749,Obsidian Flame Red Bow,オブシディアンフレイムレッドボウ
-PROPITEM_TXT_900750,Obsidian Flame Red Yo-Yo,オブシディアンフレイムレッドヨーヨー
-PROPITEM_TXT_900751,Obsidian Flame Red Staff,オブシディアンフレイムレッドスタッフ
-PROPITEM_TXT_900752,Obsidian Flame Red Wand,オブシディアンフレイムレッドワンド
-PROPITEM_TXT_900753,Obsidian Flame Red Shield,オブシディアンフレイムレッドシールド
-PROPITEM_TXT_900754,Obsidian Flame Red Force Gem,オブシディアンフレイムレッドフォースジェム
-PROPITEM_TXT_900755,Obsidian Flame Red Book,オブシディアンフレイムレッドブック
+PROPITEM_TXT_900742,Select which Obsidian Flame Purple Weapon you want to receive!,受け取りたいオブシディアンフレイムパープル武器を選択してください！
+PROPITEM_TXT_900743,Obsidian Flame Red Sword,オブシディアンフレイムレッド・ソード
+PROPITEM_TXT_900744,Obsidian Flame Red Axe,オブシディアンフレイムレッド・アクス
+PROPITEM_TXT_900745,Obsidian Flame Red Big Sword,オブシディアンフレイムレッド・ビッグソード
+PROPITEM_TXT_900746,Obsidian Flame Red Big Axe,オブシディアンフレイムレッド・ビッグアクス
+PROPITEM_TXT_900747,Obsidian Flame Red Stick,オブシディアンフレイムレッド・スティック
+PROPITEM_TXT_900748,Obsidian Flame Red Knuckle,オブシディアンフレイムレッド・ナックル
+PROPITEM_TXT_900749,Obsidian Flame Red Bow,オブシディアンフレイムレッド・ボウ
+PROPITEM_TXT_900750,Obsidian Flame Red Yo-Yo,オブシディアンフレイムレッド・ヨーヨー
+PROPITEM_TXT_900751,Obsidian Flame Red Staff,オブシディアンフレイムレッド・スタッフ
+PROPITEM_TXT_900752,Obsidian Flame Red Wand,オブシディアンフレイムレッド・ワンド
+PROPITEM_TXT_900753,Obsidian Flame Red Shield,オブシディアンフレイムレッド・シールド
+PROPITEM_TXT_900754,Obsidian Flame Red Force Gem,オブシディアンフレイムレッド・フォースジェム
+PROPITEM_TXT_900755,Obsidian Flame Red Book,オブシディアンフレイムレッド・ブック
 PROPITEM_TXT_900756,Obsidian Flame Red Weapon Set,オブシディアンフレイムレッドウェポンセット
-PROPITEM_TXT_900757,Select which Obsidian Flame Red Weapon you want to receive!,Select which Obsidian Flame Red Weapon you want to receive!
-PROPITEM_TXT_900758,Obsidian Flame Blue Sword,オブシディアンフレイムブルーソード
-PROPITEM_TXT_900759,Obsidian Flame Blue Axe,オブシディアンフレイムブルーアクス
-PROPITEM_TXT_900760,Obsidian Flame Blue Big Sword,オブシディアンフレイムブルービッグソード
-PROPITEM_TXT_900761,Obsidian Flame Blue Big Axe,オブシディアンフレイムブルービッグアクス
-PROPITEM_TXT_900762,Obsidian Flame Blue Stick,オブシディアンフレイムブルースティック
-PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,オブシディアンフレイムブルーナックル
-PROPITEM_TXT_900764,Obsidian Flame Blue Bow,オブシディアンフレイムブルーボウ
-PROPITEM_TXT_900765,Obsidian Flame Blue Yo-Yo,オブシディアンフレイムブルーヨーヨー
-PROPITEM_TXT_900766,Obsidian Flame Blue Staff,オブシディアンフレイムブルースタッフ
-PROPITEM_TXT_900767,Obsidian Flame Blue Wand,オブシディアンフレイムブルーワンド
-PROPITEM_TXT_900768,Obsidian Flame Blue Shield,オブシディアンフレイムブルーシールド
-PROPITEM_TXT_900769,Obsidian Flame Blue Force Gem,オブシディアンフレイムブルーフォースジェム
-PROPITEM_TXT_900770,Obsidian Flame Blue Book,オブシディアンフレイムブルーブック
+PROPITEM_TXT_900757,Select which Obsidian Flame Red Weapon you want to receive!,受け取りたいオブシディアンフレイムレッド武器を選択してください！
+PROPITEM_TXT_900758,Obsidian Flame Blue Sword,オブシディアンフレイムブルー・ソード
+PROPITEM_TXT_900759,Obsidian Flame Blue Axe,オブシディアンフレイムブルー・アクス
+PROPITEM_TXT_900760,Obsidian Flame Blue Big Sword,オブシディアンフレイムブルー・ビッグソード
+PROPITEM_TXT_900761,Obsidian Flame Blue Big Axe,オブシディアンフレイムブルー・ビッグアクス
+PROPITEM_TXT_900762,Obsidian Flame Blue Stick,オブシディアンフレイムブルー・スティック
+PROPITEM_TXT_900763,Obsidian Flame Blue Knuckle,オブシディアンフレイムブルー・ナックル
+PROPITEM_TXT_900764,Obsidian Flame Blue Bow,オブシディアンフレイムブルー・ボウ
+PROPITEM_TXT_900765,Obsidian Flame Blue Yo-Yo,オブシディアンフレイムブルー・ヨーヨー
+PROPITEM_TXT_900766,Obsidian Flame Blue Staff,オブシディアンフレイムブルー・スタッフ
+PROPITEM_TXT_900767,Obsidian Flame Blue Wand,オブシディアンフレイムブルー・ワンド
+PROPITEM_TXT_900768,Obsidian Flame Blue Shield,オブシディアンフレイムブルー・シールド
+PROPITEM_TXT_900769,Obsidian Flame Blue Force Gem,オブシディアンフレイムブルー・フォースジェム
+PROPITEM_TXT_900770,Obsidian Flame Blue Book,オブシディアンフレイムブルー・ブック
 PROPITEM_TXT_900771,Obsidian Flame Blue Weapon Set,オブシディアンフレイムブルーウェポンセット
-PROPITEM_TXT_900772,Select which Obsidian Flame Blue Weapon you want to receive!,Select which Obsidian Flame Blue Weapon you want to receive!
-PROPITEM_TXT_900773,Obsidian Flame Green Sword,オブシディアンフレイムグリーンソード
-PROPITEM_TXT_900774,Obsidian Flame Green Axe,オブシディアンフレイムグリーンアクス
-PROPITEM_TXT_900775,Obsidian Flame Green Big Sword,オブシディアンフレイムグリーンビッグソード
-PROPITEM_TXT_900776,Obsidian Flame Green Big Axe,オブシディアンフレイムグリーンビッグアクス
-PROPITEM_TXT_900777,Obsidian Flame Green Stick,オブシディアンフレイムグリーンスティック
-PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,オブシディアンフレイムグリーンナックル
-PROPITEM_TXT_900779,Obsidian Flame Green Bow,オブシディアンフレイムグリーンボウ
-PROPITEM_TXT_900780,Obsidian Flame Green Yo-Yo,オブシディアンフレイムグリーンヨーヨー
-PROPITEM_TXT_900781,Obsidian Flame Green Staff,オブシディアンフレイムグリーンスタッフ
-PROPITEM_TXT_900782,Obsidian Flame Green Wand,オブシディアンフレイムグリーンワンド
-PROPITEM_TXT_900783,Obsidian Flame Green Shield,オブシディアンフレイムグリーンシールド
-PROPITEM_TXT_900784,Obsidian Flame Green Force Gem,オブシディアンフレイムグリーンフォースジェム
-PROPITEM_TXT_900785,Obsidian Flame Green Book,オブシディアンフレイムグリーンブック
+PROPITEM_TXT_900772,Select which Obsidian Flame Blue Weapon you want to receive!,受け取りたいオブシディアンフレイムブルー武器を選択してください！
+PROPITEM_TXT_900773,Obsidian Flame Green Sword,オブシディアンフレイムグリーン・ソード
+PROPITEM_TXT_900774,Obsidian Flame Green Axe,オブシディアンフレイムグリーン・アクス
+PROPITEM_TXT_900775,Obsidian Flame Green Big Sword,オブシディアンフレイムグリーン・ビッグソード
+PROPITEM_TXT_900776,Obsidian Flame Green Big Axe,オブシディアンフレイムグリーン・ビッグアクス
+PROPITEM_TXT_900777,Obsidian Flame Green Stick,オブシディアンフレイムグリーン・スティック
+PROPITEM_TXT_900778,Obsidian Flame Green Knuckle,オブシディアンフレイムグリーン・ナックル
+PROPITEM_TXT_900779,Obsidian Flame Green Bow,オブシディアンフレイムグリーン・ボウ
+PROPITEM_TXT_900780,Obsidian Flame Green Yo-Yo,オブシディアンフレイムグリーン・ヨーヨー
+PROPITEM_TXT_900781,Obsidian Flame Green Staff,オブシディアンフレイムグリーン・スタッフ
+PROPITEM_TXT_900782,Obsidian Flame Green Wand,オブシディアンフレイムグリーン・ワンド
+PROPITEM_TXT_900783,Obsidian Flame Green Shield,オブシディアンフレイムグリーン・シールド
+PROPITEM_TXT_900784,Obsidian Flame Green Force Gem,オブシディアンフレイムグリーン・フォースジェム
+PROPITEM_TXT_900785,Obsidian Flame Green Book,オブシディアンフレイムグリーン・ブック
 PROPITEM_TXT_900786,Obsidian Flame Green Weapon Set,オブシディアンフレイムグリーンウェポンセット
-PROPITEM_TXT_900787,Select which Obsidian Flame Green Weapon you want to receive!,Select which Obsidian Flame Green Weapon you want to receive!
-PROPITEM_TXT_900788,Obsidian Flame Yellow Sword,オブシディアンフレイムイエローソード
-PROPITEM_TXT_900789,Obsidian Flame Yellow Axe,オブシディアンフレイムイエローアクス
-PROPITEM_TXT_900790,Obsidian Flame Yellow Big Sword,オブシディアンフレイムイエロービッグソード
-PROPITEM_TXT_900791,Obsidian Flame Yellow Big Axe,オブシディアンフレイムイエロービッグアクス
-PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,オブシディアンフレイムイエロースティック
-PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,オブシディアンフレイムイエローナックル
-PROPITEM_TXT_900794,Obsidian Flame Yellow Bow,オブシディアンフレイムイエローボウ
-PROPITEM_TXT_900795,Obsidian Flame Yellow Yo-Yo,オブシディアンフレイムイエローヨーヨー
-PROPITEM_TXT_900796,Obsidian Flame Yellow Staff,オブシディアンフレイムイエロースタッフ
-PROPITEM_TXT_900797,Obsidian Flame Yellow Wand,オブシディアンフレイムイエローワンド
-PROPITEM_TXT_900798,Obsidian Flame Yellow Shield,オブシディアンフレイムイエローシールド
-PROPITEM_TXT_900799,Obsidian Flame Yellow Force Gem,オブシディアンフレイムイエローフォースジェム
-PROPITEM_TXT_900800,Obsidian Flame Yellow Book,オブシディアンフレイムイエローブック
+PROPITEM_TXT_900787,Select which Obsidian Flame Green Weapon you want to receive!,受け取りたいオブシディアンフレイムグリーン武器を選択してください！
+PROPITEM_TXT_900788,Obsidian Flame Yellow Sword,オブシディアンフレイムイエロー・ソード
+PROPITEM_TXT_900789,Obsidian Flame Yellow Axe,オブシディアンフレイムイエロー・アクス
+PROPITEM_TXT_900790,Obsidian Flame Yellow Big Sword,オブシディアンフレイムイエロー・ビッグソード
+PROPITEM_TXT_900791,Obsidian Flame Yellow Big Axe,オブシディアンフレイムイエロー・ビッグアクス
+PROPITEM_TXT_900792,Obsidian Flame Yellow Stick,オブシディアンフレイムイエロー・スティック
+PROPITEM_TXT_900793,Obsidian Flame Yellow Knuckle,オブシディアンフレイムイエロー・ナックル
+PROPITEM_TXT_900794,Obsidian Flame Yellow Bow,オブシディアンフレイムイエロー・ボウ
+PROPITEM_TXT_900795,Obsidian Flame Yellow Yo-Yo,オブシディアンフレイムイエロー・ヨーヨー
+PROPITEM_TXT_900796,Obsidian Flame Yellow Staff,オブシディアンフレイムイエロー・スタッフ
+PROPITEM_TXT_900797,Obsidian Flame Yellow Wand,オブシディアンフレイムイエロー・ワンド
+PROPITEM_TXT_900798,Obsidian Flame Yellow Shield,オブシディアンフレイムイエロー・シールド
+PROPITEM_TXT_900799,Obsidian Flame Yellow Force Gem,オブシディアンフレイムイエロー・フォースジェム
+PROPITEM_TXT_900800,Obsidian Flame Yellow Book,オブシディアンフレイムイエロー・ブック
 PROPITEM_TXT_900801,Obsidian Flame Yellow Weapon Set,オブシディアンフレイムイエローウェポンセット
-PROPITEM_TXT_900802,Select which Obsidian Flame Yellow Weapon you want to receive!,Select which Obsidian Flame Yellow Weapon you want to receive!
-PROPITEM_TXT_900803,Obsidian Flame White Sword,オブシディアンフレイムホワイトソード
-PROPITEM_TXT_900804,Obsidian Flame White Axe,オブシディアンフレイムホワイトアクス
-PROPITEM_TXT_900805,Obsidian Flame White Big Sword,オブシディアンフレイムホワイトビッグソード
-PROPITEM_TXT_900806,Obsidian Flame White Big Axe,オブシディアンフレイムホワイトビッグアクス
-PROPITEM_TXT_900807,Obsidian Flame White Stick,オブシディアンフレイムホワイトスティック
-PROPITEM_TXT_900808,Obsidian Flame White Knuckle,オブシディアンフレイムホワイトナックル
-PROPITEM_TXT_900809,Obsidian Flame White Bow,オブシディアンフレイムホワイトボウ
-PROPITEM_TXT_900810,Obsidian Flame White Yo-Yo,オブシディアンフレイムホワイトヨーヨー
-PROPITEM_TXT_900811,Obsidian Flame White Staff,オブシディアンフレイムホワイトスタッフ
-PROPITEM_TXT_900812,Obsidian Flame White Wand,オブシディアンフレイムホワイトワンド
-PROPITEM_TXT_900813,Obsidian Flame White Shield,オブシディアンフレイムホワイトシールド
-PROPITEM_TXT_900814,Obsidian Flame White Force Gem,オブシディアンフレイムホワイトフォースジェム
-PROPITEM_TXT_900815,Obsidian Flame White Book,オブシディアンフレイムホワイトブック
+PROPITEM_TXT_900802,Select which Obsidian Flame Yellow Weapon you want to receive!,受け取りたいオブシディアンフレイムイエロー武器を選択してください！
+PROPITEM_TXT_900803,Obsidian Flame White Sword,オブシディアンフレイムホワイト・ソード
+PROPITEM_TXT_900804,Obsidian Flame White Axe,オブシディアンフレイムホワイト・アクス
+PROPITEM_TXT_900805,Obsidian Flame White Big Sword,オブシディアンフレイムホワイト・ビッグソード
+PROPITEM_TXT_900806,Obsidian Flame White Big Axe,オブシディアンフレイムホワイト・ビッグアクス
+PROPITEM_TXT_900807,Obsidian Flame White Stick,オブシディアンフレイムホワイト・スティック
+PROPITEM_TXT_900808,Obsidian Flame White Knuckle,オブシディアンフレイムホワイト・ナックル
+PROPITEM_TXT_900809,Obsidian Flame White Bow,オブシディアンフレイムホワイト・ボウ
+PROPITEM_TXT_900810,Obsidian Flame White Yo-Yo,オブシディアンフレイムホワイト・ヨーヨー
+PROPITEM_TXT_900811,Obsidian Flame White Staff,オブシディアンフレイムホワイト・スタッフ
+PROPITEM_TXT_900812,Obsidian Flame White Wand,オブシディアンフレイムホワイト・ワンド
+PROPITEM_TXT_900813,Obsidian Flame White Shield,オブシディアンフレイムホワイト・シールド
+PROPITEM_TXT_900814,Obsidian Flame White Force Gem,オブシディアンフレイムホワイト・フォースジェム
+PROPITEM_TXT_900815,Obsidian Flame White Book,オブシディアンフレイムホワイト・ブック
 PROPITEM_TXT_900816,Obsidian Flame  White Weapon Set,オブシディアンフレイムホワイトウェポンセット
-PROPITEM_TXT_900817,Select which Obsidian Flame White Weapon you want to receive!,Select which Obsidian Flame White Weapon you want to receive!
-PROPITEM_TXT_900818,Obsidian Flame Black Sword,オブシディアンフレイムブラックソード
-PROPITEM_TXT_900819,Obsidian Flame Black Axe,オブシディアンフレイムブラックアクス
-PROPITEM_TXT_900820,Obsidian Flame Black Big Sword,オブシディアンフレイムブラックビッグソード
-PROPITEM_TXT_900821,Obsidian Flame Black Big Axe,オブシディアンフレイムブラックビッグアクス
-PROPITEM_TXT_900822,Obsidian Flame Black Stick,オブシディアンフレイムブラックスティック
-PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,オブシディアンフレイムブラックナックル
-PROPITEM_TXT_900824,Obsidian Flame Black Bow,オブシディアンフレイムブラックボウ
-PROPITEM_TXT_900825,Obsidian Flame Black Yo-Yo,オブシディアンフレイムブラックヨーヨー
-PROPITEM_TXT_900826,Obsidian Flame Black Staff,オブシディアンフレイムブラックスタッフ
-PROPITEM_TXT_900827,Obsidian Flame Black Wand,オブシディアンフレイムブラックワンド
-PROPITEM_TXT_900828,Obsidian Flame Black Shield,オブシディアンフレイムブラックシールド
-PROPITEM_TXT_900829,Obsidian Flame Black Force Gem,オブシディアンフレイムブラックフォースジェム
-PROPITEM_TXT_900830,Obsidian Flame Black Book,オブシディアンフレイムブラックブック
+PROPITEM_TXT_900817,Select which Obsidian Flame White Weapon you want to receive!,受け取りたいオブシディアンフレイムホワイト武器を選択してください！
+PROPITEM_TXT_900818,Obsidian Flame Black Sword,オブシディアンフレイムブラック・ソード
+PROPITEM_TXT_900819,Obsidian Flame Black Axe,オブシディアンフレイムブラック・アクス
+PROPITEM_TXT_900820,Obsidian Flame Black Big Sword,オブシディアンフレイムブラック・ビッグソード
+PROPITEM_TXT_900821,Obsidian Flame Black Big Axe,オブシディアンフレイムブラック・ビッグアクス
+PROPITEM_TXT_900822,Obsidian Flame Black Stick,オブシディアンフレイムブラック・スティック
+PROPITEM_TXT_900823,Obsidian Flame Black Knuckle,オブシディアンフレイムブラック・ナックル
+PROPITEM_TXT_900824,Obsidian Flame Black Bow,オブシディアンフレイムブラック・ボウ
+PROPITEM_TXT_900825,Obsidian Flame Black Yo-Yo,オブシディアンフレイムブラック・ヨーヨー
+PROPITEM_TXT_900826,Obsidian Flame Black Staff,オブシディアンフレイムブラック・スタッフ
+PROPITEM_TXT_900827,Obsidian Flame Black Wand,オブシディアンフレイムブラック・ワンド
+PROPITEM_TXT_900828,Obsidian Flame Black Shield,オブシディアンフレイムブラック・シールド
+PROPITEM_TXT_900829,Obsidian Flame Black Force Gem,オブシディアンフレイムブラック・フォースジェム
+PROPITEM_TXT_900830,Obsidian Flame Black Book,オブシディアンフレイムブラック・ブック
 PROPITEM_TXT_900831,Obsidian Flame Black Weapon Set,オブシディアンフレイムブラックウェポンセット
-PROPITEM_TXT_900832,Select which Obsidian Flame Black Weapon you want to receive!,Select which Obsidian Flame Black Weapon you want to receive!
+PROPITEM_TXT_900832,Select which Obsidian Flame Black Weapon you want to receive!,受け取りたいオブシディアンフレイムブラック武器を選択してください！
 PROPITEM_TXT_900833,Forest Spirit 10% Green Set,森の精霊 10%グリーンセット
 PROPITEM_TXT_900834,Forest Spirit Green Cloak,森の精霊グリーンマント
 PROPITEM_TXT_900835,Forest Spirit Green Hat (M),森の精霊グリーンハット(M)
@@ -22755,38 +22755,38 @@ PROPITEM_TXT_900914,Forest Spirit Black Hands (F),森の精霊ブラックグロ
 PROPITEM_TXT_900915,Forest Spirit 2% Black Set (F),森の精霊 2%ブラックセット(F)
 PROPITEM_TXT_900916,The Forest Spirit 2% Black Set for female characters.,女性キャラクター用の森の精霊 2%ブラックセット
 PROPITEM_TXT_900917,Forest Spirit Costume Lucky Box,森の精霊コスチュームラッキーボックス
-PROPITEM_TXT_900918,This box contains a Forest Spirit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Forest Spirit Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_900919,Green Thornhart,Green Thornhart
-PROPITEM_TXT_900920,Blue Thornhart,Blue Thornhart
-PROPITEM_TXT_900921,Pink Thornhart,Pink Thornhart
-PROPITEM_TXT_900922,"Raise your antlers and charge through the wild! With noble grace and thunderous strides, Thornhart carries you through the ancient woods in majestic silence. Maximum Speed: 64 km/h.","Raise your antlers and charge through the wild! With noble grace and thunderous strides, Thornhart carries you through the ancient woods in majestic silence. Maximum Speed: 64 km/h."
-PROPITEM_TXT_900923,Summer Costume Select Box 1,Summer Costume Select Box 1
-PROPITEM_TXT_900924,Select which Costume you want to receive.,Select which Costume you want to receive.
+PROPITEM_TXT_900918,This box contains a Forest Spirit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの森の精霊セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_900919,Green Thornhart,グリーンソーンハート
+PROPITEM_TXT_900920,Blue Thornhart,ブルーソーンハート
+PROPITEM_TXT_900921,Pink Thornhart,ピンクソーンハート
+PROPITEM_TXT_900922,"Raise your antlers and charge through the wild! With noble grace and thunderous strides, Thornhart carries you through the ancient woods in majestic silence. Maximum Speed: 64 km/h.",角を掲げ、荒野を駆け抜けろ！気高い気品と轟くような足取りで、ソーンハートは静寂の中、古の森を抜けてあなたを運ぶ。最高速度：64km/h。
+PROPITEM_TXT_900923,Summer Costume Select Box 1,サマーコスチュームセレクトボックス1
+PROPITEM_TXT_900924,Select which Costume you want to receive.,受け取りたいコスチュームを選択してください。
 PROPITEM_TXT_900925,Flower Faerie Set (F),フラワーフェアリーセット(F)
 PROPITEM_TXT_900926,The Flower Faerie Set for female characters.,女性キャラクター用のフラワーフェアリーセット
-PROPITEM_TXT_900927,Beginner's Package B,Beginner's Package B
+PROPITEM_TXT_900927,Beginner's Package B,ビギナーズパッケージB
 PROPITEM_TXT_900928,"A package containing 5x Scroll of Amplification ES, 1x Beginner's Pickup Pet Box (30 days), 1x Beginner's Flying Box (30 days), 1x Extra Bag (30 days), 5x Vital Drink X or Refresher Hold, 5x Torch of Raon and 5x Power Scroll. All items are also linked.",戦神の巻物EXx5、ビギナーズピックアップペットボックス(30日)x1、ビギナーズフライングボックス(30日間)x1、魔法の携帯バッグ(30日)x1、スタミナドリンクXまたは魔力ドリンクゴールドx5、ラオンの松明x5、豪傑のスクロール(B)x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900929,Expert's Upgrade Package A,Expert's Upgrade Package A
+PROPITEM_TXT_900929,Expert's Upgrade Package A,エキスパートアップグレードパッケージA
 PROPITEM_TXT_900930,"A package containing 10x Scroll of AProtect, 10x Scroll of SProtect, 10x Scroll of GProtect, 10x Scroll of EProtect, 5x Charged Power Scroll and 5x Scroll of Amplification ES. All items are also linked.",鍛冶屋の心得・アクセサリー編x10、鍛冶屋の心得・精錬編x10、鍛冶屋の心得・ソケット作成編x10、カード破壊防止の巻物x10、豪傑のスクロール(A)x5、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900931,School Life Costume Select Box 1,School Life Costume Select Box 1
-PROPITEM_TXT_900932,Select which Costume you want to receive.,Select which Costume you want to receive.
+PROPITEM_TXT_900931,School Life Costume Select Box 1,スクールライフコスチュームセレクトボックス1
+PROPITEM_TXT_900932,Select which Costume you want to receive.,受け取りたいコスチュームを選択してください。
 PROPITEM_TXT_900933,Forest Faerie Set (F),フォレストフェアリーセット(F)
 PROPITEM_TXT_900934,The Forest Faerie Set for female characters.,女性キャラクター用のフォレストフェアリーセット
-PROPITEM_TXT_900935,Cute Baby Cat Pack,Cute Baby Cat Pack
+PROPITEM_TXT_900935,Cute Baby Cat Pack,ミュミュパック
 PROPITEM_TXT_900936,"A package containing 1x Scroll of Pickup Boost (15 Days), 1x Cute Baby Cat and 1x Scroll of Pickup Range (15 Days). All items are also linked.",ピックアップブーストスクロール(15日)x1、ミュミュx1、ピックアップ範囲スクロール(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900937,FWC Compensation Box B,FWC Compensation Box B
+PROPITEM_TXT_900937,FWC Compensation Box B,FWC補償ボックスB
 PROPITEM_TXT_900938,"A package containing 5x Def-Upcut Stone, 10x Potion Box, 3x Activation, 2x Scroll of Velocity, 5x Upcut Stone and 10x Bull Hamstern. All items are also linked.",ディフェンスストーンx5、ポーションボックスx10、アクティビションx3、神風の巻物x2、パワーストーンx5、ブル・ハンスタームx10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900939,Lifestyle Bag Select Box (15 Days),Lifestyle Bag Select Box (15 Days)
-PROPITEM_TXT_900940,Select which Lifestyle Bag you want to receive.,Select which Lifestyle Bag you want to receive.
-PROPITEM_TXT_900941,Open 77 Festival Package,Open 77 Festival Package
+PROPITEM_TXT_900939,Lifestyle Bag Select Box (15 Days),ライフスタイルバッグセレクトボックス(15日)
+PROPITEM_TXT_900940,Select which Lifestyle Bag you want to receive.,受け取りたいライフスタイルバッグを選択してください。
+PROPITEM_TXT_900941,Open 77 Festival Package,Open 77 フェスティバルパッケージ
 PROPITEM_TXT_900942,"A package containing 7x Amplification ES Scroll Select Box, 7x Grilled Eel, 7x Vital Drink X or Refresher Hold, 7x Def-Upcut Stone, 7x Activation, 7x Scroll of Return Town and 7x Power Scroll. All items are also linked.",戦神の巻物ES選択ボックスx7、グリルド・イールx7、スタミナドリンクXまたは魔力ドリンクゴールドx7、ディフェンスストーンx7、アクティビションx7、街戻りの巻物x7、豪傑のスクロール(B)x7が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900943,Open 77 Festival Element Package,Open 77 Festival Element Package
+PROPITEM_TXT_900943,Open 77 Festival Element Package,Open 77 フェスティバルエレメントパッケージ
 PROPITEM_TXT_900944,"A package containing 7x Scroll of Element Change, 7x Box of Element Attack and 7x Box of Element Defense. All items are also linked.",属性変更の巻物x7、属性攻撃のボックスx7、属性防御のボックスx7が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900945,Open 77 Festival Lucky Box Package,Open 77 Festival Lucky Box Package
+PROPITEM_TXT_900945,Open 77 Festival Lucky Box Package,Open 77 フェスティバルラッキーボックスパッケージ
 PROPITEM_TXT_900946,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.",精錬編の巻物ボックスx10、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,Open 77 Festival Ultimate Scroll Package
+PROPITEM_TXT_900947,Open 77 Festival Ultimate Scroll Package,Open 77 フェスティバルアルティメットスクロールパッケージ
 PROPITEM_TXT_900948,A package containing 3x Scroll of Ultimate Bonus and 5x Scroll of Ultimate Power. All items are also linked.,アルティメットボーナスの巻物x3、究極の力の巻物x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,Open 77 Festival Ultimate Upgrade Package
+PROPITEM_TXT_900949,Open 77 Festival Ultimate Upgrade Package,Open 77 フェスティバルアルティメットアップグレードパッケージ
 PROPITEM_TXT_900950,"A package containing 3x Scroll of XProtect, 3x Advanced Mana Stone, 3x Mana Stone, 3x Jewel Tweezers and 3x Cutting Knife. All items are also linked.",鍛冶屋の心得・アルティマx3、アドバンスド・マナストーンx3、マナストーンx3、ジュエルツイーザーx3、カッティングナイフx3が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_900951,2025 Swimsuit 10% Yellow Set,2025スイムウェア 10%イエローセット
 PROPITEM_TXT_900952,2025 Swimsuit Yellow Sunglasses,2025スイムウェアイエローサングラス
@@ -22872,15 +22872,15 @@ PROPITEM_TXT_901031,2025 Swimsuit Black Shoes (F),2025スイムウェアブラ�
 PROPITEM_TXT_901032,2025 Swimsuit Black Hands (F),2025スイムウェアブラックグローブ(F)
 PROPITEM_TXT_901033,2025 Swimsuit 2% Black Set (F),2025スイムウェア 2%ブラックセット(F)
 PROPITEM_TXT_901034,The 2025 Swimsuit 2% Black Set for female characters.,女性キャラクター用の2025スイムウェア 2%ブラックセット
-PROPITEM_TXT_901035,Yellow Breezy,Yellow Breezy
-PROPITEM_TXT_901036,"A happy puppy shaped by the summer breeze. With his sunglasses and tight float, Breezy follows his master, spreading cool waves and picking up anything he can find.","A happy puppy shaped by the summer breeze. With his sunglasses and tight float, Breezy follows his master, spreading cool waves and picking up anything he can find."
-PROPITEM_TXT_901037,Purple Breezy,Purple Breezy
-PROPITEM_TXT_901038,Blue Breezy,Blue Breezy
-PROPITEM_TXT_901039,Pink Breezy,Pink Breezy
-PROPITEM_TXT_901040,White Breezy,White Breezy
-PROPITEM_TXT_901041,Black Breezy,Black Breezy
+PROPITEM_TXT_901035,Yellow Breezy,イエローブリージー
+PROPITEM_TXT_901036,"A happy puppy shaped by the summer breeze. With his sunglasses and tight float, Breezy follows his master, spreading cool waves and picking up anything he can find.",夏のそよ風が形になったような陽気な子犬。サングラスにぴったりの浮き輪を身につけたブリージーは、主人の後を追いかけながら涼しい波を巻き起こし、見つけたものを何でも拾い集めます。
+PROPITEM_TXT_901037,Purple Breezy,パープルブリージー
+PROPITEM_TXT_901038,Blue Breezy,ブルーブリージー
+PROPITEM_TXT_901039,Pink Breezy,ピンクブリージー
+PROPITEM_TXT_901040,White Breezy,ホワイトブリージー
+PROPITEM_TXT_901041,Black Breezy,ブラックブリージー
 PROPITEM_TXT_901042,2025 Swimsuit Costume Lucky Box,2025スイムウェアコスチュームラッキーボックス
-PROPITEM_TXT_901043,This box contains a 2025 Swimsuit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a 2025 Swimsuit Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901043,This box contains a 2025 Swimsuit Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの2025スイムウェアセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901044,Aqua Splash 10% Emerald Set,アクアスプラッシュ 10%エメラルドセット
 PROPITEM_TXT_901045,Aqua Splash Emerald Rescue board,アクアスプラッシュエメラルドレスキューボード
 PROPITEM_TXT_901046,Aqua Splash Emerald Sunglasses,アクアスプラッシュエメラルドサングラス
@@ -22986,7 +22986,7 @@ PROPITEM_TXT_901145,Aqua Splash Black Shoes (F),アクアスプラッシュブ�
 PROPITEM_TXT_901146,Aqua Splash 2% Black Set (F),アクアスプラッシュ 2%ブラックセット(F)
 PROPITEM_TXT_901147,The Aqua Splash 2% Black Set for female characters.,女性キャラクター用のアクアスプラッシュ 2%ブラックセット
 PROPITEM_TXT_901148,Aqua Splash Costume Lucky Box,アクアスプラッシュコスチュームラッキーボックス
-PROPITEM_TXT_901149,This box contains a Aqua Splash Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Aqua Splash Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901149,This box contains a Aqua Splash Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのアクアスプラッシュセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901150,Harlequin Blaze 10% Red Set,ハーレクインブレイズ 10%レッドセット
 PROPITEM_TXT_901151,Harlequin Blaze Red Toy,ハーレクインブレイズレッドトイ
 PROPITEM_TXT_901152,Harlequin Blaze Red Mask,ハーレクインブレイズレッドマスク
@@ -23108,7 +23108,7 @@ PROPITEM_TXT_901267,Harlequin Blaze Black Hands (F),ハーレクインブレイ�
 PROPITEM_TXT_901268,Harlequin Blaze 2% Black Set (F),ハーレクインブレイズ 2%ブラックセット(F)
 PROPITEM_TXT_901269,The Harlequin Blaze 2% Black Set for female characters.,女性キャラクター用のハーレクインブレイズ 2%ブラックセット
 PROPITEM_TXT_901270,Harlequin Blaze Costume Lucky Box,ハーレクインブレイズコスチュームラッキーボックス
-PROPITEM_TXT_901271,This box contains a Harlequin Blaze Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Harlequin Blaze Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901271,This box contains a Harlequin Blaze Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのハーレクインブレイズセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901272,Harlequin Blaze Bumper Car Red,ハーレクインブレイズレッドバンパーカー
 PROPITEM_TXT_901273,Harlequin Blaze Bumper Car Blue,ハーレクインブレイズブルーバンパーカー
 PROPITEM_TXT_901274,Harlequin Blaze Bumper Car Green,ハーレクインブレイズグリーンバンパーカー
@@ -23117,7 +23117,7 @@ PROPITEM_TXT_901276,Harlequin Blaze Bumper Car Purple,ハーレクインブレ�
 PROPITEM_TXT_901277,Harlequin Blaze Bumper Car Turquoise,ハーレクインブレイズターコイズバンパーカー
 PROPITEM_TXT_901278,Harlequin Blaze Bumper Car Neon,ハーレクインブレイズネオンバンパーカー
 PROPITEM_TXT_901279,Harlequin Blaze Bumper Car Black,ハーレクインブレイズブラックバンパーカー
-PROPITEM_TXT_901280,"Spin, crash and dazzle the crowd in a riot of color with the Harlequin Blaze bumper car ! Maximum Speed: 64 km/h.","Spin, crash and dazzle the crowd in a riot of color with the Harlequin Blaze bumper car ! Maximum Speed: 64 km/h."
+PROPITEM_TXT_901280,"Spin, crash and dazzle the crowd in a riot of color with the Harlequin Blaze bumper car ! Maximum Speed: 64 km/h.",色とりどりに輝きながらスピンして衝突し、観客を魅了せよ！ハーレクインブレイズ・バンパーカーに乗って。最高速度：64km/h。
 PROPITEM_TXT_901281,Summer Kickflip 10% Red Set,サマーキックフリップ 10%レッドセット
 PROPITEM_TXT_901282,Summer Kickflip Red Skateboard,サマーキックフリップレッドスケートボード
 PROPITEM_TXT_901283,Summer Kickflip Red Heart Glasses,サマーキックフリップレッドハートメガネ
@@ -23223,7 +23223,7 @@ PROPITEM_TXT_901382,Summer Kickflip White Shoes (F),サマーキックフリッ�
 PROPITEM_TXT_901383,Summer Kickflip 2% White Set (F),サマーキックフリップ 2%ホワイトセット(F)
 PROPITEM_TXT_901384,The Summer Kickflip 2% White Set for female characters.,女性キャラクター用のサマーキックフリップ 2%ホワイトセット
 PROPITEM_TXT_901385,Summer Kickflip Costume Lucky Box,サマーキックフリップコスチュームラッキーボックス
-PROPITEM_TXT_901386,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901386,This box contains a Summer Kickflip Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのサマーキックフリップセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901388,Summer Kickflip Skateboard Red,サマーキックフリップレッドスケートボード
 PROPITEM_TXT_901389,Summer Kickflip Skateboard Green,サマーキックフリップグリーンスケートボード
 PROPITEM_TXT_901390,Summer Kickflip Skateboard Blue,サマーキックフリップブルースケートボード
@@ -23232,11 +23232,11 @@ PROPITEM_TXT_901392,Summer Kickflip Skateboard Turquoise,サマーキックフ�
 PROPITEM_TXT_901393,Summer Kickflip Skateboard Pink,サマーキックフリップピンクスケートボード
 PROPITEM_TXT_901394,Summer Kickflip Skateboard Black,サマーキックフリップブラックスケートボード
 PROPITEM_TXT_901395,Summer Kickflip Skateboard White,サマーキックフリップホワイトスケートボード
-PROPITEM_TXT_901396,"Catch the breeze and ride the heat! From the streets of Flaris to those of Darkon, this board offers smooth tricks and cooler vibes. Maximum Speed: 64 km/h.","Catch the breeze and ride the heat! From the streets of Flaris to those of Darkon, this board offers smooth tricks and cooler vibes. Maximum Speed: 64 km/h."
-PROPITEM_TXT_901397,Fantasy Costume Select Box 1,Fantasy Costume Select Box 1
-PROPITEM_TXT_901398,Select your favorite look from our Fantasy Costume collection.,Select your favorite look from our Fantasy Costume collection.
-PROPITEM_TXT_901399,Balloon Select Box (6h),Balloon Select Box (6h)
-PROPITEM_TXT_901400,"Select the perfect balloons for your needs, balloon duration 6 hours.","Select the perfect balloons for your needs, balloon duration 6 hours."
+PROPITEM_TXT_901396,"Catch the breeze and ride the heat! From the streets of Flaris to those of Darkon, this board offers smooth tricks and cooler vibes. Maximum Speed: 64 km/h.",そよ風をつかみ、熱気に乗れ！フラリスの街角からダーコンの街角まで、このボードは滑らかなトリックとクールな雰囲気を届けてくれる。最高速度：64km/h。
+PROPITEM_TXT_901397,Fantasy Costume Select Box 1,ファンタジーコスチュームセレクトボックス1
+PROPITEM_TXT_901398,Select your favorite look from our Fantasy Costume collection.,ファンタジーコスチュームコレクションの中からお好きなルックを選んでください。
+PROPITEM_TXT_901399,Balloon Select Box (6h),バルーンセレクトボックス(6時間)
+PROPITEM_TXT_901400,"Select the perfect balloons for your needs, balloon duration 6 hours.",お好みにぴったりのバルーンを選んでください。持続時間は6時間です。
 PROPITEM_TXT_901401,Casual Costume Select Box 1,カジュアルコスチュームセレクトボックス1
 PROPITEM_TXT_901402,Select your favorite look from our Casual Costume collection.,カジュアルコスチュームコレクションからお好きな見た目を選んでください。
 PROPITEM_TXT_901403,Rose Pink Yukata (M) Costume Set,うさうさ浴衣(ローズピンク)コスチュームセット(男の子用)
@@ -23335,24 +23335,24 @@ PROPITEM_TXT_901487,Nobility Red Shoes (F),貴族レッドシューズ(F)
 PROPITEM_TXT_901488,Nobility Red Hands (F),貴族レッドグローブ(F)
 PROPITEM_TXT_901489,Nobility 2% Red Set (F),貴族 2%レッドセット(F)
 PROPITEM_TXT_901490,The Nobility 2% Red Set for female characters.,女性キャラクター用の貴族 2%レッドセット
-PROPITEM_TXT_901491,Blue Pawsh,Blue Pawsh
-PROPITEM_TXT_901492,"Too posh to pounce, but just fancy enough to fetch your loot with flair.","Too posh to pounce, but just fancy enough to fetch your loot with flair."
-PROPITEM_TXT_901493,Pink Pawsh,Pink Pawsh
-PROPITEM_TXT_901494,Orange Pawsh,Orange Pawsh
-PROPITEM_TXT_901495,Green Pawsh,Green Pawsh
-PROPITEM_TXT_901496,Navy Pawsh,Navy Pawsh
-PROPITEM_TXT_901497,Red Pawsh,Red Pawsh
+PROPITEM_TXT_901491,Blue Pawsh,ブルーポーシュ
+PROPITEM_TXT_901492,"Too posh to pounce, but just fancy enough to fetch your loot with flair.",飛びかかるには気取りすぎ、でも戦利品を華麗に取ってくるにはちょうどいいおしゃれ度。
+PROPITEM_TXT_901493,Pink Pawsh,ピンクポーシュ
+PROPITEM_TXT_901494,Orange Pawsh,オレンジポーシュ
+PROPITEM_TXT_901495,Green Pawsh,グリーンポーシュ
+PROPITEM_TXT_901496,Navy Pawsh,ネイビーポーシュ
+PROPITEM_TXT_901497,Red Pawsh,レッドポーシュ
 PROPITEM_TXT_901498,Nobility Costume Lucky Box,貴族コスチュームラッキーボックス
-PROPITEM_TXT_901499,This box contains a Nobility Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Nobility Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_901500,Cute Costume Select Box 1,Cute Costume Select Box 1
+PROPITEM_TXT_901499,This box contains a Nobility Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの貴族セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_901500,Cute Costume Select Box 1,キュートコスチュームセレクトボックス1
 PROPITEM_TXT_901501,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
 PROPITEM_TXT_901502,Summer Smelting Scroll Package,夏の製錬スクロールパッケージ
 PROPITEM_TXT_901503,A package containing 20x Scroll of SProtect and 5x Scroll of Weapon Bonus. All items are also linked.,鍛冶屋の心得・精錬編x20、武器ボーナスの巻物x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_901504,Animal Costume Select Box 1,Animal Costume Select Box 1
+PROPITEM_TXT_901504,Animal Costume Select Box 1,アニマルコスチュームセレクトボックス1
 PROPITEM_TXT_901505,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
-PROPITEM_TXT_901506,Autumn Buff Lucky Box,Autumn Buff Lucky Box
-PROPITEM_TXT_901507,"This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple.","This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple."
-PROPITEM_TXT_901508,Autumn Harvesting Pack,Autumn Harvesting Pack
+PROPITEM_TXT_901506,Autumn Buff Lucky Box,オータムバフラッキーボックス
+PROPITEM_TXT_901507,"This box contains a random Maple buff, which can be one of the following: Red Maple, Blue Maple, White Maple, or Green Maple.",このボックスには、レッドメープル、ブルーメープル、ホワイトメープル、グリーンメープルのいずれかのランダムなメープルバフが入っています。
+PROPITEM_TXT_901508,Autumn Harvesting Pack,オータムハーベスティングパック
 PROPITEM_TXT_901509,"A package containing 20x Autumn Buff Lucky Box, 5x Scroll of Amplification, 5x Flask Box and 5x Vital Drink X or Refresher Hold. All items are also linked.",オータムバフラッキーボックスx20、戦神の巻物x5、秘薬ボックスx5、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_134821,FWC Snack Select Box,FWCスナック選択ボックス
 PROPITEM_TXT_134822,A Select Box filled with FWC snack items. You can choose 1 item from it,FWCスナックアイテムが入った選択ボックスです。1つ選んで受け取れます
@@ -23454,15 +23454,15 @@ PROPITEM_TXT_901578,Firefighter 2025 Neon Suit (F),女性キャラクター用�
 PROPITEM_TXT_901579,Firefighter 2025 Neon Shoes (F),女性キャラクター用の消防士2025ネオンシューズ
 PROPITEM_TXT_901580,Firefighter 2025 2% Neon Set (F),女性キャラクター用の消防士2025 2%ネオンセット
 PROPITEM_TXT_901581,The Firefighter 2025 2% Neon Set for female characters.,女性キャラクター用の消防士2025 2%ネオンセット
-PROPITEM_TXT_901582,Orange Marshall,Orange Marshall
-PROPITEM_TXT_901583,"Always ready to help, Marshall dashes across the field with his red helmet, faithfully collecting every item for his adventurer friend.","Always ready to help, Marshall dashes across the field with his red helmet, faithfully collecting every item for his adventurer friend."
-PROPITEM_TXT_901584,Green Marshall,Green Marshall
-PROPITEM_TXT_901585,Cyan Marshall,Cyan Marshall
-PROPITEM_TXT_901586,Purple Marshall,Purple Marshall
-PROPITEM_TXT_901587,Red Marshall,Red Marshall
-PROPITEM_TXT_901588,Neon Marshall,Neon Marshall
+PROPITEM_TXT_901582,Orange Marshall,オレンジマーシャル
+PROPITEM_TXT_901583,"Always ready to help, Marshall dashes across the field with his red helmet, faithfully collecting every item for his adventurer friend.",いつでも助ける準備万端！マーシャルは赤いヘルメットをかぶってフィールドを駆け抜け、冒険者の友のためにあらゆるアイテムを忠実に集めてくれます。
+PROPITEM_TXT_901584,Green Marshall,グリーンマーシャル
+PROPITEM_TXT_901585,Cyan Marshall,シアンマーシャル
+PROPITEM_TXT_901586,Purple Marshall,パープルマーシャル
+PROPITEM_TXT_901587,Red Marshall,レッドマーシャル
+PROPITEM_TXT_901588,Neon Marshall,ネオンマーシャル
 PROPITEM_TXT_901589,Firefighter 2025 Costume Lucky Box,消防士2025コスチュームラッキーボックス
-PROPITEM_TXT_901590,This box contains a Firefighter 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Firefighter 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901590,This box contains a Firefighter 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの消防士2025セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901591,Firefighter 2025 Orange Hands (M),消防士2025オレンジグローブ(M)
 PROPITEM_TXT_901592,Firefighter 2025 Orange Hands (F),消防士2025オレンジグローブ(F)
 PROPITEM_TXT_901593,Firefighter 2025 Green Hands (M),消防士2025グリーングローブ(M)
@@ -23475,30 +23475,30 @@ PROPITEM_TXT_901599,Firefighter 2025 Red Hands (M),消防士2025レッドグロ�
 PROPITEM_TXT_901600,Firefighter 2025 Red Hands (F),消防士2025レッドグローブ(F)
 PROPITEM_TXT_901601,Firefighter 2025 Neon Hands (M),男性キャラクター用の消防士2025ネオングローブ
 PROPITEM_TXT_901602,Firefighter 2025 Neon Hands (F),女性キャラクター用の消防士2025ネオングローブ
-PROPITEM_TXT_901603,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop","First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop"
+PROPITEM_TXT_901603,"First completion reward for Roll your Lucky Dice!\nYou can earn 5 Scroll of Guild Custody, 5 Scroll of General Shop, 5 Scroll of Food Shop",「ラッキーダイスを振ろう！」の1回目達成報酬！\nギルド管理の巻物x5、雑貨店の巻物x5、食料品店の巻物x5を獲得できます。
 PROPITEM_TXT_901604,"Second completion reward for Roll your Lucky Dice!\nYou can earn 1 Aura Selection Box (15 Days), 1 Card Disc (7 Days), and 1 Bonus Playtime Coupon.",「ラッキーダイスを振ろう！」の2回目達成報酬！\nオーラセレクションボックス(15日)x1、カードディスク(7日)x1、追加参加クーポンx1を獲得できます。
-PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box","Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box"
-PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.","Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return."
-PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box,[Event] Shop Advertisement Random Box
-PROPITEM_TXT_901608,This box contains Shop Advertisement item.\nOpen it to see what's inside.,This box contains Shop Advertisement item.\nOpen it to see what's inside.
-PROPITEM_TXT_901609,Sci-Fi Costume Select Box 1,Sci-Fi Costume Select Box 1
+PROPITEM_TXT_901605,"Third completion reward for Roll your Lucky Dice!\nYou can earn 3 [Event] Shop Advertisement Random Box, 3 Font editor, and 20 2025 FWC PopCorn Select box",「ラッキーダイスを振ろう！」の3回目達成報酬！\n[イベント]ショップ広告ランダムボックスx3、フォントエディタx3、2025 FWCポップコーンセレクトボックスx20を獲得できます。
+PROPITEM_TXT_901606,"Fourth completion reward for Roll your Lucky Dice!\nYou can earn 5 Upcut Stone, 5 Power Scroll, 5 FWC Special combo, and 5 Scrolls of Return.",「ラッキーダイスを振ろう！」の4回目達成報酬！\nパワーストーンx5、豪傑のスクロール(B)x5、FWCスペシャルコンボx5、往復の巻物x5を獲得できます。
+PROPITEM_TXT_901607,[Event] Shop Advertisement Random Box,[イベント]ショップ広告ランダムボックス
+PROPITEM_TXT_901608,This box contains Shop Advertisement item.\nOpen it to see what's inside.,このボックスにはショップ広告アイテムが入っています。\n開けてのお楽しみ！
+PROPITEM_TXT_901609,Sci-Fi Costume Select Box 1,SFコスチュームセレクトボックス1
 PROPITEM_TXT_901610,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
-PROPITEM_TXT_901611,Space Engineer Bike Select Box,Space Engineer Bike Select Box
-PROPITEM_TXT_901612,Select which Bike you want to receive,Select which Bike you want to receive
-PROPITEM_TXT_901613,Flying Froggy Select Box,Flying Froggy Select Box
-PROPITEM_TXT_901614,Select which Pet you want to receive,Select which Pet you want to receive
-PROPITEM_TXT_901615,Halloween Costume Select Box 1,Halloween Costume Select Box 1
+PROPITEM_TXT_901611,Space Engineer Bike Select Box,宇宙エンジニアバイクセレクトボックス
+PROPITEM_TXT_901612,Select which Bike you want to receive,受け取りたいバイクを選択してください
+PROPITEM_TXT_901613,Flying Froggy Select Box,フライングフロギーセレクトボックス
+PROPITEM_TXT_901614,Select which Pet you want to receive,受け取りたいペットを選択してください
+PROPITEM_TXT_901615,Halloween Costume Select Box 1,ハロウィンコスチュームセレクトボックス1
 PROPITEM_TXT_901616,Select which Costume you want to receive,受け取りたいコスチュームを選択してください
-PROPITEM_TXT_901617,2025 FWC Cheer up Box,2025 FWC Cheer up Box
+PROPITEM_TXT_901617,2025 FWC Cheer up Box,2025 FWC応援ボックス
 PROPITEM_TXT_901618,A package containing 5x 2025 FWC PopCorn Select box and 5x Scroll of Amplification ES. All items are Soul-Linked.,2025 FWCポップコーンセレクトボックスx5、戦神の巻物ESx5が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901619,Festive Piyoko Box,Festive Piyoko Box
+PROPITEM_TXT_901619,Festive Piyoko Box,フェスティブピヨコボックス
 PROPITEM_TXT_901620,A package containing 1x Festive Piyoko and 5x 2025 FWC PopCorn Select box. All items are Soul-Linked.,フェスティブピヨコx1、2025 FWCポップコーンセレクトボックスx5が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901621,Halloween Puppet Select Box,Halloween Puppet Select Box
-PROPITEM_TXT_901622,Select which Pet you want to receive,Select which Pet you want to receive
-PROPITEM_TXT_901623,Witch Cat Select Box,Witch Cat Select Box
-PROPITEM_TXT_901624,Select which Pet you want to receive,Select which Pet you want to receive
-PROPITEM_TXT_901625,Phantocat Select Box,Phantocat Select Box
-PROPITEM_TXT_901626,Select which Pet you want to receive,Select which Pet you want to receive
+PROPITEM_TXT_901621,Halloween Puppet Select Box,ハロウィンパペットセレクトボックス
+PROPITEM_TXT_901622,Select which Pet you want to receive,受け取りたいペットを選択してください
+PROPITEM_TXT_901623,Witch Cat Select Box,魔女猫セレクトボックス
+PROPITEM_TXT_901624,Select which Pet you want to receive,受け取りたいペットを選択してください
+PROPITEM_TXT_901625,Phantocat Select Box,ファントキャットセレクトボックス
+PROPITEM_TXT_901626,Select which Pet you want to receive,受け取りたいペットを選択してください
 PROPITEM_TXT_901627,Aero Streetwear 10% Blue Set,エアロストリートウェア 10%ブルーセット
 PROPITEM_TXT_901628,Aero Streetwear Blue Bag,エアロストリートウェアブルーバッグ
 PROPITEM_TXT_901629,Aero Streetwear Blue Sunglasses,エアロストリートウェアブルーサングラス
@@ -23604,7 +23604,7 @@ PROPITEM_TXT_901728,Aero Streetwear White Shoes (F),エアロストリートウ�
 PROPITEM_TXT_901729,Aero Streetwear 2% White Set (F),エアロストリートウェア 2%ホワイトセット(F)
 PROPITEM_TXT_901730,The Aero Streetwear 2% White Set for female characters.,女性キャラクター用のエアロストリートウェア 2%ホワイトセット
 PROPITEM_TXT_901731,Aero Streetwear Costume Lucky Box,エアロストリートウェアコスチュームラッキーボックス
-PROPITEM_TXT_901732,This box contains a Aero Streetwear Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Aero Streetwear Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901732,This box contains a Aero Streetwear Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのエアロストリートウェアセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901733,Special Casual Hat (F),スペシャルカジュアルハット(F)
 PROPITEM_TXT_901734,Special Casual Hat for Female Characters.,スペシャルカジュアルハット(女の子用)。
 PROPITEM_TXT_901735,Special Casual Suit (F),スペシャルカジュアルスーツ(F)
@@ -23626,37 +23626,37 @@ PROPITEM_TXT_901750,Special Casual Shoes for Male Characters.,スペシャルカ
 PROPITEM_TXT_901751,Special Casual Set (M),スペシャルカジュアルセット(M)
 PROPITEM_TXT_901752,The Special Casual Set for male characters.,スペシャルカジュアルセット(男の子用)。
 PROPITEM_TXT_901753,Special Casual Set,スペシャルカジュアルセット
-PROPITEM_TXT_901754,FWC Consumable SET (Finalist),FWC Consumable SET (Finalist)
-PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.","May the odds be ever in your favor, young adventurer."
-PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1,2025 FWC Grand Final Coupon 1
+PROPITEM_TXT_901754,FWC Consumable SET (Finalist),FWC消耗品セット(ファイナリスト)
+PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.",幸運の女神が微笑みますように、若き冒険者よ。
+PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1,2025 FWCグランドファイナルクーポン1
 PROPITEM_TXT_901757,"A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activation. All items are Soul-Linked.",カードディスク(7日)x1、スタミナドリンクX または 魔力ドリンクゴールドx3、パワーストーンx3、アクティビションx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2,2025 FWC Grand Final Coupon 2
+PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2,2025 FWCグランドファイナルクーポン2
 PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked. ",ライフスタイルバッグセレクトボックス(15日)x2、復活の巻物x3、ディフェンスストーンx3、魔法の携帯バッグ(15日)x2が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901760,2025 FWC Grand Final Coupon 3,2025 FWC Grand Final Coupon 3
+PROPITEM_TXT_901760,2025 FWC Grand Final Coupon 3,2025 FWCグランドファイナルクーポン3
 PROPITEM_TXT_901761,"A package containing 1x Feed Bag (7 day), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel. All items are Soul-Linked. ",フィードバッグ(7日)x1、戦神の巻物ESx3、豪傑のスクロール(B)x3、グリルド・イールx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901762,2025 FWC Grand Final Online Coupon 1,2025 FWC Grand Final Online Coupon 1
+PROPITEM_TXT_901762,2025 FWC Grand Final Online Coupon 1,2025 FWCグランドファイナルオンラインクーポン1
 PROPITEM_TXT_901763,"A package containing 2x Vital Drink X or Refresher Hold, 2x Scroll of Amplification ES, 4x Amplification Potion Box and 4x Flask Box. All items are Soul-Linked. ",スタミナドリンクXまたは魔力ドリンクゴールドx2、戦神の巻物ESx2、増幅ポーションボックスx4、秘薬ボックスx4が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901764,2025 FWC Grand Final Online Coupon 2,2025 FWC Grand Final Online Coupon 2
+PROPITEM_TXT_901764,2025 FWC Grand Final Online Coupon 2,2025 FWCグランドファイナルオンラインクーポン2
 PROPITEM_TXT_901765,"A package containing 1x Extra Bag (30 days), 2x Blinkwing of Madrigal, 1x Activation and 1x Scroll of Resurrection. All items are Soul-Linked. ",魔法の携帯バッグ(30日)x1、ブリンクウイング（マドリガル）x2、アクティビションx1、復活の巻物x1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901766,2025 FWC Grand Final Online Coupon 3,2025 FWC Grand Final Online Coupon 3
+PROPITEM_TXT_901766,2025 FWC Grand Final Online Coupon 3,2025 FWCグランドファイナルオンラインクーポン3
 PROPITEM_TXT_901767,"A package containing 2x Scroll of SProtect, 2x Scroll of AProtect, 1x Scroll of GProtect and 1x Scroll of EProtect. All items are Soul-Linked. ",鍛冶屋の心得・精錬編x2、鍛冶屋の心得・アクセサリー編x2、鍛冶屋の心得・ソケット作成編x1、カード破壊防止の巻物x1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901768,2025 FWC VIP Premium Box,2025 FWC VIP Premium Box
+PROPITEM_TXT_901768,2025 FWC VIP Premium Box,2025 FWC VIPプレミアムボックス
 PROPITEM_TXT_901769,"A package containing 40x FWC Special combo, 1x 2025 Premium Costume Select Box 1 and 2025 Premium Costume Select Box 2. All items are Soul-Linked. ",FWCスペシャルコンボx40、2025プレミアムコスチュームセレクトボックス1x1、2025プレミアムコスチュームセレクトボックス2が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901770,2025 Premium Costume Select Box 1,2025 Premium Costume Select Box 1
-PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked.,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked.
-PROPITEM_TXT_901772,2025 FWC VIP Gold Box,2025 FWC VIP Gold Box
+PROPITEM_TXT_901770,2025 Premium Costume Select Box 1,2025プレミアムコスチュームセレクトボックス1
+PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked.,スパイセットと闇の末裔セットからお好きなコスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
+PROPITEM_TXT_901772,2025 FWC VIP Gold Box,2025 FWC VIPゴールドボックス
 PROPITEM_TXT_901773,A package containing 20x FWC Special combo and 1x 2025 Gold Costume Select Box. All items are Soul-Linked.,FWCスペシャルコンボx20、2025ゴールドコスチュームセレクトボックスx1が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901774,2025 Gold Costume Select Box,2025 Gold Costume Select Box
-PROPITEM_TXT_901775,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. ","Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. "
-PROPITEM_TXT_901776,2025 FWC Welcome Box,2025 FWC Welcome Box
+PROPITEM_TXT_901774,2025 Gold Costume Select Box,2025ゴールドコスチュームセレクトボックス
+PROPITEM_TXT_901775,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. ",スパイセット、闇の末裔セット、ワーロードセット、ブラックウェディングセットの中からお好きなコスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
+PROPITEM_TXT_901776,2025 FWC Welcome Box,2025 FWCウェルカムボックス
 PROPITEM_TXT_901777,A package containing 10x FWC Special combo and 3x Box of Lucky. All items are Soul-Linked.,FWCスペシャルコンボx10、ラッキーボックスx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901778,2025 Premium Costume Select Box 2,2025 Premium Costume Select Box 2
+PROPITEM_TXT_901778,2025 Premium Costume Select Box 2,2025プレミアムコスチュームセレクトボックス2
 PROPITEM_TXT_901779,Select your favorite costume between Warlord Set and Black Wedding Set. All items are Soul-Linked.,ワーロードセットとブラックウェディングセットからお好きなコスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901780,Dark Prince Set (M),闇の王子セット(M)
 PROPITEM_TXT_901781,Dark Prince set for Male characters,男性キャラクター用の闇の王子セット
 PROPITEM_TXT_901782,Dark Princess Set (F),闇の王女セット(F)
 PROPITEM_TXT_901783,Dark Princess set for Female characters,女性キャラクター用の闇の王女セット
-PROPITEM_TXT_901784,Dark Scions,Dark Scions
+PROPITEM_TXT_901784,Dark Scions,闇の末裔
 PROPITEM_TXT_901785,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_901786,Black Wedding Set (M),ブラックウェディングセット(M)
 PROPITEM_TXT_901787,Black Wedding set for Male characters,ブラックウェディングセット(男の子用)。
@@ -23664,26 +23664,26 @@ PROPITEM_TXT_901788,Black Wedding Set (F),ブラックウェディングセッ�
 PROPITEM_TXT_901789,Black Wedding set for Female characters,ブラックウェディングセット(女の子用)。
 PROPITEM_TXT_901790,Black Wedding,ブラックウェディング
 PROPITEM_TXT_901791,Select which Gender you want to receive!,受け取りたい性別を選択してください！
-PROPITEM_TXT_901792,2025 FWC Streamer Event Coupon 1,2025 FWC Streamer Event Coupon 1
+PROPITEM_TXT_901792,2025 FWC Streamer Event Coupon 1,2025 FWCストリーマーイベントクーポン1
 PROPITEM_TXT_901793,"A package containing 10x 2025 FWC PopCorn Select box, 1x Lifestyle Bag Select Box (15 day) and 3x Box of Lucky. All items are Soul-Linked.",2025 FWCポップコーンセレクトボックスx10、ライフスタイルバッグセレクトボックス(15日)x1、ラッキーボックスx3が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,2025 FWC Streamer Event Coupon 2
+PROPITEM_TXT_901794,2025 FWC Streamer Event Coupon 2,2025 FWCストリーマーイベントクーポン2
 PROPITEM_TXT_901795,"A package containing 1x Lifestyle Bag Select Box (15 day), 2x Balloon Select Box (6h) and 10x FWC Snack Select Box. All items are Soul-Linked.",ライフスタイルバッグセレクトボックス(15日)x1、バルーンセレクトボックス(6時間)x2、FWCスナックセレクトボックスx10が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,2025 FWC Streamer Event Coupon 3
+PROPITEM_TXT_901796,2025 FWC Streamer Event Coupon 3,2025 FWCストリーマーイベントクーポン3
 PROPITEM_TXT_901797,"A package containing 3x Cotton Candy Box, 1x Bonus Playtime Coupon, 1x Aura Selection Box (15 Days) and 5x FWC Special combo. All items are Soul-Linked.",綿菓子箱x3、追加参加クーポンx1、オーラセレクションボックス(15日）x1、FWCスペシャルコンボx5が含まれたパッケージ。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901798,Myth Costume Select Box 1,Myth Costume Select Box 1
+PROPITEM_TXT_901798,Myth Costume Select Box 1,神話コスチュームセレクトボックス1
 PROPITEM_TXT_901799,"Select your favorite Myth costume between Little Butterflies Set, Shadow Hunter Set and Snake Samurai Set. All items are Soul-Linked.",リトルバタフライセット、シャドウハンターセット、スネークサムライセットの中からお好きな神話コスチュームを選んでください。全てのアイテムはプレイヤーに帰属されています。
-PROPITEM_TXT_901800,Butterflies Pet select box,Butterflies Pet select box
-PROPITEM_TXT_901801,"Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked.","Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked."
+PROPITEM_TXT_901800,Butterflies Pet select box,バタフライペットセレクトボックス
+PROPITEM_TXT_901801,"Select your favorite Pet between Brown Butterflies, Purple Butterflies, Green Butterflies, Pink Butterflies, Red Butterflies, White Butterflies and Black Butterflies. All items are Soul-Linked.",ブラウンバタフライ、パープルバタフライ、グリーンバタフライ、ピンクバタフライ、レッドバタフライ、ホワイトバタフライ、ブラックバタフライの中からお好きなペットを選んでください。全てのアイテムはプレイヤーに帰属されています。
 PROPITEM_TXT_901802,Pumpkin Soup,パンプキンスープ
-PROPITEM_TXT_901803,A cauldron-warm brew of pumpkin power! Slurp it down to instantly refill FP and enjoy unlimited FP for a full 1 hour. Perfect for midnight sprints and monster chases,A cauldron-warm brew of pumpkin power! Slurp it down to instantly refill FP and enjoy unlimited FP for a full 1 hour. Perfect for midnight sprints and monster chases
-PROPITEM_TXT_901804,Witch's Potion,Witch's Potion
-PROPITEM_TXT_901805,"A mischievous blue concoction, charmed by moonlight. Drink to gain unlimited MP for a full 1 hour. The coven approves, your spells won’t run dry","A mischievous blue concoction, charmed by moonlight. Drink to gain unlimited MP for a full 1 hour. The coven approves, your spells won’t run dry"
-PROPITEM_TXT_901806,Pumpkin Soup or Witch's Potion,Pumpkin Soup or Witch's Potion
-PROPITEM_TXT_901807,"Two brews, two fates! Pick the Pumpkin Soup for unlimited FP or the Witch’s Potion for endless MP. Choose wisely… or be cursed with regret! Mwahaha!","Two brews, two fates! Pick the Pumpkin Soup for unlimited FP or the Witch’s Potion for endless MP. Choose wisely… or be cursed with regret! Mwahaha!"
-PROPITEM_TXT_901808,[2025 FWC] Speed Costume Random Box(2024 costumes),[2025 FWC] Speed Costume Random Box(2024 costumes)
-PROPITEM_TXT_901809,Unlock the excitement with the FWC 2025 Box and claim one of 32 magnificent fashions inside!,Unlock the excitement with the FWC 2025 Box and claim one of 32 magnificent fashions inside!
+PROPITEM_TXT_901803,A cauldron-warm brew of pumpkin power! Slurp it down to instantly refill FP and enjoy unlimited FP for a full 1 hour. Perfect for midnight sprints and monster chases,大鍋で温められた、かぼちゃパワーたっぷりの一杯！一気に飲み干せばFPが即座に全回復し、1時間丸ごとFPが無制限に！真夜中の全力疾走やモンスター狩りにぴったり。
+PROPITEM_TXT_901804,Witch's Potion,魔女のポーション
+PROPITEM_TXT_901805,"A mischievous blue concoction, charmed by moonlight. Drink to gain unlimited MP for a full 1 hour. The coven approves, your spells won’t run dry",月明かりに魔法をかけられた、いたずら好きな青い秘薬。飲めば1時間丸ごとMPが無制限になる。魔女の集会もお墨付き、あなたの魔法は尽きることがない。
+PROPITEM_TXT_901806,Pumpkin Soup or Witch's Potion,パンプキンスープまたは魔女のポーション
+PROPITEM_TXT_901807,"Two brews, two fates! Pick the Pumpkin Soup for unlimited FP or the Witch’s Potion for endless MP. Choose wisely… or be cursed with regret! Mwahaha!",2つの秘薬、2つの運命！無制限のFPを求めるならパンプキンスープを、尽きないMPを求めるなら魔女のポーションを選べ。賢く選ぶのだ…さもなくば後悔という呪いを受けることになるぞ！ムハハハ！
+PROPITEM_TXT_901808,[2025 FWC] Speed Costume Random Box(2024 costumes),[2025 FWC]スピードコスチュームランダムボックス(2024コスチューム)
+PROPITEM_TXT_901809,Unlock the excitement with the FWC 2025 Box and claim one of 32 magnificent fashions inside!,FWC 2025ボックスでワクワクを解き放とう！中に入った32種の豪華なファッションのうち1つが手に入る！
 PROPITEM_TXT_901810,Knotty Scarecrow 10% Brown Set,いたずらかかし 10%ブラウンセット
-PROPITEM_TXT_901811,Little Knotty Scarecrow Brown Cloak,Little Knotty Scarecrow Brown Cloak
+PROPITEM_TXT_901811,Little Knotty Scarecrow Brown Cloak,リトルいたずらかかしブラウンマント
 PROPITEM_TXT_901812,Knotty Scarecrow Brown Hat (M),いたずらかかしブラウンハット(M)
 PROPITEM_TXT_901813,Knotty Scarecrow Brown Suit (M),いたずらかかしブラウンスーツ(M)
 PROPITEM_TXT_901814,Knotty Scarecrow Brown Shoes (M),いたずらかかしブラウンシューズ(M)
@@ -23695,7 +23695,7 @@ PROPITEM_TXT_901819,Knotty Scarecrow Brown Shoes (F),いたずらかかしブラ
 PROPITEM_TXT_901820,Knotty Scarecrow 10% Brown Set (F),いたずらかかし 10%ブラウンセット(F)
 PROPITEM_TXT_901821,The Knotty Scarecrow 10% Brown Set for female characters.,女性キャラクター用のいたずらかかし 10%ブラウンセット
 PROPITEM_TXT_901822,Knotty Scarecrow 10% Maroon Set,いたずらかかし 10%マルーンセット
-PROPITEM_TXT_901823,Little Knotty Scarecrow Maroon Cloak,Little Knotty Scarecrow Maroon Cloak
+PROPITEM_TXT_901823,Little Knotty Scarecrow Maroon Cloak,リトルいたずらかかしマルーンマント
 PROPITEM_TXT_901824,Knotty Scarecrow Maroon Hat (M),男性キャラクター用のいたずらかかしマルーンハット
 PROPITEM_TXT_901825,Knotty Scarecrow Maroon Suit (M),男性キャラクター用のいたずらかかしマルーンスーツ
 PROPITEM_TXT_901826,Knotty Scarecrow Maroon Shoes (M),男性キャラクター用のいたずらかかしマルーンシューズ
@@ -23707,7 +23707,7 @@ PROPITEM_TXT_901831,Knotty Scarecrow Maroon Shoes (F),女性キャラクター�
 PROPITEM_TXT_901832,Knotty Scarecrow 10% Maroon Set (F),女性キャラクター用のいたずらかかし 10%マルーンセット
 PROPITEM_TXT_901833,The Knotty Scarecrow 10% Maroon Set for female characters.,女性キャラクター用のいたずらかかし 10%マルーンセット
 PROPITEM_TXT_901834,Knotty Scarecrow 8% Green Set,いたずらかかし 8%グリーンセット
-PROPITEM_TXT_901835,Little Knotty Scarecrow Green Cloak,Little Knotty Scarecrow Green Cloak
+PROPITEM_TXT_901835,Little Knotty Scarecrow Green Cloak,リトルいたずらかかしグリーンマント
 PROPITEM_TXT_901836,Knotty Scarecrow Green Hat (M),いたずらかかしグリーンハット(M)
 PROPITEM_TXT_901837,Knotty Scarecrow Green Suit (M),いたずらかかしグリーンスーツ(M)
 PROPITEM_TXT_901838,Knotty Scarecrow Green Shoes (M),いたずらかかしグリーンシューズ(M)
@@ -23719,7 +23719,7 @@ PROPITEM_TXT_901843,Knotty Scarecrow Green Shoes (F),いたずらかかしグリ
 PROPITEM_TXT_901844,Knotty Scarecrow 8% Green Set (F),いたずらかかし 8%グリーンセット(F)
 PROPITEM_TXT_901845,The Knotty Scarecrow 8% Green Set for female characters.,女性キャラクター用のいたずらかかし 8%グリーンセット
 PROPITEM_TXT_901846,Knotty Scarecrow 8% Purple Set,いたずらかかし 8%パープルセット
-PROPITEM_TXT_901847,Little Knotty Scarecrow Purple Cloak,Little Knotty Scarecrow Purple Cloak
+PROPITEM_TXT_901847,Little Knotty Scarecrow Purple Cloak,リトルいたずらかかしパープルマント
 PROPITEM_TXT_901848,Knotty Scarecrow Purple Hat (M),いたずらかかしパープルハット(M)
 PROPITEM_TXT_901849,Knotty Scarecrow Purple Suit (M),いたずらかかしパープルスーツ(M)
 PROPITEM_TXT_901850,Knotty Scarecrow Purple Shoes (M),いたずらかかしパープルシューズ(M)
@@ -23731,7 +23731,7 @@ PROPITEM_TXT_901855,Knotty Scarecrow Purple Shoes (F),いたずらかかしパ�
 PROPITEM_TXT_901856,Knotty Scarecrow 8% Purple Set (F),いたずらかかし 8%パープルセット(F)
 PROPITEM_TXT_901857,The Knotty Scarecrow 8% Purple Set for female characters.,女性キャラクター用のいたずらかかし 8%パープルセット
 PROPITEM_TXT_901858,Knotty Scarecrow 6% Olive Set,いたずらかかし 6%オリーブセット
-PROPITEM_TXT_901859,Little Knotty Scarecrow Olive Cloak,Little Knotty Scarecrow Olive Cloak
+PROPITEM_TXT_901859,Little Knotty Scarecrow Olive Cloak,リトルいたずらかかしオリーブマント
 PROPITEM_TXT_901860,Knotty Scarecrow Olive Hat (M),男性キャラクター用のいたずらかかしオリーブハット
 PROPITEM_TXT_901861,Knotty Scarecrow Olive Suit (M),男性キャラクター用のいたずらかかしオリーブスーツ
 PROPITEM_TXT_901862,Knotty Scarecrow Olive Shoes (M),男性キャラクター用のいたずらかかしオリーブシューズ
@@ -23743,7 +23743,7 @@ PROPITEM_TXT_901867,Knotty Scarecrow Olive Shoes (F),女性キャラクター用
 PROPITEM_TXT_901868,Knotty Scarecrow 6% Olive Set (F),女性キャラクター用のいたずらかかし 6%オリーブセット
 PROPITEM_TXT_901869,The Knotty Scarecrow 6% Olive Set for female characters.,女性キャラクター用のいたずらかかし 6%オリーブセット
 PROPITEM_TXT_901870,Knotty Scarecrow 4% Blue Set,いたずらかかし 4%ブルーセット
-PROPITEM_TXT_901871,Little Knotty Scarecrow Blue Cloak,Little Knotty Scarecrow Blue Cloak
+PROPITEM_TXT_901871,Little Knotty Scarecrow Blue Cloak,リトルいたずらかかしブルーマント
 PROPITEM_TXT_901872,Knotty Scarecrow Blue Hat (M),いたずらかかしブルーハット(M)
 PROPITEM_TXT_901873,Knotty Scarecrow Blue Suit (M),いたずらかかしブルースーツ(M)
 PROPITEM_TXT_901874,Knotty Scarecrow Blue Shoes (M),いたずらかかしブルーシューズ(M)
@@ -23755,7 +23755,7 @@ PROPITEM_TXT_901879,Knotty Scarecrow Blue Shoes (F),いたずらかかしブル�
 PROPITEM_TXT_901880,Knotty Scarecrow 4% Blue Set (F),いたずらかかし 4%ブルーセット(F)
 PROPITEM_TXT_901881,The Knotty Scarecrow 4% Blue Set for female characters.,女性キャラクター用のいたずらかかし 4%ブルーセット
 PROPITEM_TXT_901882,Knotty Scarecrow 2% Black Set,いたずらかかし 2%ブラックセット
-PROPITEM_TXT_901883,Little Knotty Scarecrow Black Cloak,Little Knotty Scarecrow Black Cloak
+PROPITEM_TXT_901883,Little Knotty Scarecrow Black Cloak,リトルいたずらかかしブラックマント
 PROPITEM_TXT_901884,Knotty Scarecrow Black Hat (M),いたずらかかしブラックハット(M)
 PROPITEM_TXT_901885,Knotty Scarecrow Black Suit (M),いたずらかかしブラックスーツ(M)
 PROPITEM_TXT_901886,Knotty Scarecrow Black Shoes (M),いたずらかかしブラックシューズ(M)
@@ -23767,7 +23767,7 @@ PROPITEM_TXT_901891,Knotty Scarecrow Black Shoes (F),いたずらかかしブラ
 PROPITEM_TXT_901892,Knotty Scarecrow 2% Black Set (F),いたずらかかし 2%ブラックセット(F)
 PROPITEM_TXT_901893,The Knotty Scarecrow 2% Black Set for female characters.,女性キャラクター用のいたずらかかし 2%ブラックセット
 PROPITEM_TXT_901894,Knotty Scarecrow 2% White Set,いたずらかかし 2%ホワイトセット
-PROPITEM_TXT_901895,Little Knotty Scarecrow White Cloak,Little Knotty Scarecrow White Cloak
+PROPITEM_TXT_901895,Little Knotty Scarecrow White Cloak,リトルいたずらかかしホワイトマント
 PROPITEM_TXT_901896,Knotty Scarecrow White Hat (M),いたずらかかしホワイトハット(M)
 PROPITEM_TXT_901897,Knotty Scarecrow White Suit (M),いたずらかかしホワイトスーツ(M)
 PROPITEM_TXT_901898,Knotty Scarecrow White Shoes (M),いたずらかかしホワイトシューズ(M)
@@ -23778,17 +23778,17 @@ PROPITEM_TXT_901902,Knotty Scarecrow White Suit (F),いたずらかかしホワ�
 PROPITEM_TXT_901903,Knotty Scarecrow White Shoes (F),いたずらかかしホワイトシューズ(F)
 PROPITEM_TXT_901904,Knotty Scarecrow 2% White Set (F),いたずらかかし 2%ホワイトセット(F)
 PROPITEM_TXT_901905,The Knotty Scarecrow 2% White Set for female characters.,女性キャラクター用のいたずらかかし 2%ホワイトセット
-PROPITEM_TXT_901906,Brown Strawy Jack,Brown Strawy Jack
-PROPITEM_TXT_901907,A tiny pile of hay with a big attitude! He’ll pick up your loot… and maybe your socks too.,A tiny pile of hay with a big attitude! He’ll pick up your loot… and maybe your socks too.
-PROPITEM_TXT_901908,Maroon Strawy Jack,Maroon Strawy Jack
-PROPITEM_TXT_901909,Green Strawy Jack,Green Strawy Jack
-PROPITEM_TXT_901910,Purple Strawy Jack,Purple Strawy Jack
-PROPITEM_TXT_901911,Olive Strawy Jack,Olive Strawy Jack
-PROPITEM_TXT_901912,Blue Strawy Jack,Blue Strawy Jack
-PROPITEM_TXT_901913,Black Strawy Jack,Black Strawy Jack
-PROPITEM_TXT_901914,White Strawy Jack,White Strawy Jack
+PROPITEM_TXT_901906,Brown Strawy Jack,ブラウンストロージャック
+PROPITEM_TXT_901907,A tiny pile of hay with a big attitude! He’ll pick up your loot… and maybe your socks too.,小さな干し草の山なのに、態度は堂々！戦利品を拾ってくれる…ついでに靴下まで持っていくかも。
+PROPITEM_TXT_901908,Maroon Strawy Jack,マルーンストロージャック
+PROPITEM_TXT_901909,Green Strawy Jack,グリーンストロージャック
+PROPITEM_TXT_901910,Purple Strawy Jack,パープルストロージャック
+PROPITEM_TXT_901911,Olive Strawy Jack,オリーブストロージャック
+PROPITEM_TXT_901912,Blue Strawy Jack,ブルーストロージャック
+PROPITEM_TXT_901913,Black Strawy Jack,ブラックストロージャック
+PROPITEM_TXT_901914,White Strawy Jack,ホワイトストロージャック
 PROPITEM_TXT_901915,Knotty Scarecrow Costume Lucky Box,いたずらかかしコスチュームラッキーボックス
-PROPITEM_TXT_901916,This box contains a Knotty Scarecrow Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Knotty Scarecrow Set with Speed Bonus. You can select your gender after opening the Lucky Box.
+PROPITEM_TXT_901916,This box contains a Knotty Scarecrow Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのいたずらかかしセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
 PROPITEM_TXT_901917,Knotty Scarecrow Brown Cloak,いたずらかかしブラウンマント
 PROPITEM_TXT_901918,Knotty Scarecrow Maroon Cloak,いたずらかかしマルーンマント
 PROPITEM_TXT_901919,Knotty Scarecrow Green Cloak,いたずらかかしグリーンマント
@@ -27143,16 +27143,16 @@ PROPITEM_TXT_904072,Celestial Phoenix Gold Shoes (F),セレスティアルフェ
 PROPITEM_TXT_904073,Celestial Phoenix 2% Gold Set (F),セレスティアルフェニックス 2%ゴールドセット(F)
 PROPITEM_TXT_904074,The Celestial Phoenix 2% Gold Set for female characters.,女性キャラクター用のセレスティアルフェニックス 2%ゴールドセット
 PROPITEM_TXT_904075,Celestial Phoenix Costume Lucky Box,セレスティアルフェニックスコスチュームラッキーボックス
-PROPITEM_TXT_904076,This box contains a Celestial Phoenix Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Celestial Phoenix Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_904077,Orange Fawkes,Orange Fawkes
-PROPITEM_TXT_904078,Purple Fawkes,Purple Fawkes
-PROPITEM_TXT_904079,Green Fawkes,Green Fawkes
-PROPITEM_TXT_904080,Cyan Fawkes,Cyan Fawkes
-PROPITEM_TXT_904081,Blue Fawkes,Blue Fawkes
-PROPITEM_TXT_904082,Amethyst Fawkes,Amethyst Fawkes
-PROPITEM_TXT_904083,Magenta Fawkes,Magenta Fawkes
-PROPITEM_TXT_904084,Gold Fawkes,Gold Fawkes
-PROPITEM_TXT_904085,"Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h.","Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h."
+PROPITEM_TXT_904076,This box contains a Celestial Phoenix Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのセレスティアルフェニックスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_904077,Orange Fawkes,オレンジフォークス
+PROPITEM_TXT_904078,Purple Fawkes,パープルフォークス
+PROPITEM_TXT_904079,Green Fawkes,グリーンフォークス
+PROPITEM_TXT_904080,Cyan Fawkes,シアンフォークス
+PROPITEM_TXT_904081,Blue Fawkes,ブルーフォークス
+PROPITEM_TXT_904082,Amethyst Fawkes,アメジストフォークス
+PROPITEM_TXT_904083,Magenta Fawkes,マゼンタフォークス
+PROPITEM_TXT_904084,Gold Fawkes,ゴールドフォークス
+PROPITEM_TXT_904085,"Blazing across the skies with radiant wings and fiery grace, Fawkes embodies rebirth, courage, and untamed power. This legendary phoenix mount carries its rider through every battle and journey with dazzling speed and an eternal flame that never fades. Maximum Speed: 64 km/h.",輝く翼と燃えるような気品で空を駆け抜けるフォークスは、再生と勇気、そして荒々しい力の化身。この伝説の不死鳥は、決して消えることのない永遠の炎と眩いばかりの速さで、あらゆる戦いと旅路へ乗り手を運ぶ。最高速度：64km/h。
 PROPITEM_TXT_135198,Obtained by defeating monsters.\nCan be exchanged for Music Notes and Music Score Scrolls from the NPC 'Bach' in town,モンスターを倒すと入手できます。\n街のNPC「バッハ」で音符や楽譜スクロールと交換できます。
 PROPITEM_TXT_135199,Mysterious Music Score Scroll,ミステリアス楽譜スクロール
 PROPITEM_TXT_135200,Obtained by defeating monsters with a low chance.\nCan obtain one of the 3 scores at random,モンスターを倒すと低確率で入手できます。\n3種類の楽譜からランダムで1つ入手できます。
@@ -27206,14 +27206,14 @@ PROPITEM_TXT_135248,Select your favorite Flarine flying machine !,お好きな�
 PROPITEM_TXT_135249,2026 Costume Lucky Box,2026コスチュームラッキーボックス
 PROPITEM_TXT_135250,Good luck Adventurer !,幸運を、冒険者よ！
 PROPITEM_TXT_904176,US Muppet,US マペット
-PROPITEM_TXT_904177,A cheerful little mascot. It faithfully follows its master and collects loot along the way.,A cheerful little mascot. It faithfully follows its master and collects loot along the way.
+PROPITEM_TXT_904177,A cheerful little mascot. It faithfully follows its master and collects loot along the way.,陽気な小さなマスコット。忠実にご主人様の後をついて回り、道中の戦利品を集めてくれます。
 PROPITEM_TXT_904178,UK Muppet,UK マペット
 PROPITEM_TXT_904179,DE Muppet,DE マペット
 PROPITEM_TXT_904180,RU Muppet,RU マペット
 PROPITEM_TXT_904181,CN Muppet,CN マペット
 PROPITEM_TXT_904182,KR Muppet,KR マペット
-PROPITEM_TXT_904185,Concerned Emote,Concerned Emote
-PROPITEM_TXT_904186,Embarassed Emote,Embarassed Emote
+PROPITEM_TXT_904185,Concerned Emote,心配エモート
+PROPITEM_TXT_904186,Embarassed Emote,照れエモート
 PROPITEM_TXT_135251,"Facebook Login issue Compensation Box(7days, FWC Only)",Facebookログイン問題補償ボックス(7日、FWC専用)
 PROPITEM_TXT_135252,This is a package containing rewards for the Facebook login issue.,Facebookログイン問題に対する報酬が含まれたパッケージです。
 PROPITEM_TXT_135253,Facebook Login issue Compensation Box(7days),Facebookログイン問題補償ボックス(7日)
@@ -27855,78 +27855,78 @@ PROPITEM_TXT_904821,2026 Mascot 2% FR Set (M),2026マスコット 2%FRセット(
 PROPITEM_TXT_904822,The 2026 Mascot 2% FR Set for male characters.,男性キャラクター用の2026マスコット 2%FRセット
 PROPITEM_TXT_904823,2026 Mascot 2% FR Set (F),2026マスコット 2%FRセット(F)
 PROPITEM_TXT_904824,The 2026 Mascot 2% FR Set for female characters.,女性キャラクター用の2026マスコット 2%FRセット
-PROPITEM_TXT_904825,Adventurer's Basic Fortune Pack (3 Days),Adventurer's Basic Fortune Pack (3 Days)
+PROPITEM_TXT_904825,Adventurer's Basic Fortune Pack (3 Days),冒険者のベーシックフォーチュンパック(3日)
 PROPITEM_TXT_904826,"A package containing 1x Adventurer's Fortune Flask (3 Days), 2x Scroll of Amplification ES, 3x Power Scroll and 5x Scroll of Velocity. All items are also linked.",冒険者のフォーチュンフラスコ(3日)x1、戦神の巻物ESx2、豪傑のスクロール(B)x3、神風の巻物x5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904827,Champion's Basic Bounty Pack (3 Days),Champion's Basic Bounty Pack (3 Days)
+PROPITEM_TXT_904827,Champion's Basic Bounty Pack (3 Days),チャンピオンベーシックバウンティパック(3日)
 PROPITEM_TXT_904828,"A package containing 1x Champion's Bounty Flask (3 Days), 2x Scroll of Amplification ES, 3x Grilled Eel and 3x Upcut Stone. All items are also linked.",チャンピオンバウンティフラスコ(3日)x1、戦神の巻物ESx2、グリルド・イールx3、パワーストーンx3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904829,Adventurer's Advanced Fortune Pack (3 Days),Adventurer's Advanced Fortune Pack (3 Days)
+PROPITEM_TXT_904829,Adventurer's Advanced Fortune Pack (3 Days),冒険者のアドバンストフォーチュンパック(3日)
 PROPITEM_TXT_904830,"A package containing 1x Adventurer's Fortune Flask (3 Days), 1x Card Disc (3 days), 3x 1 Day Scroll of Combined Party Effects and 5x Vital Drink X or Refresher Hold. All items are also linked.",冒険者のフォーチュンフラスコ(3日)x1、カードディスク(3日)x1、パーティーコンボの巻物（1日間）x3、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904831,Champion's Advanced Bounty Pack (3 Days),Champion's Advanced Bounty Pack (3 Days)
+PROPITEM_TXT_904831,Champion's Advanced Bounty Pack (3 Days),チャンピオンアドバンストバウンティパック(3日)
 PROPITEM_TXT_904832,"A package containing 1x Adventurer's Fortune Flask (3 Days), 1x Feed Bag (3 Days), 3x Scroll of Resurrection and 5x Activation. All items are also linked.",冒険者のフォーチュンフラスコ(3日)x1、フィードバッグ(3日)x1、復活の巻物x3、アクティビションx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904833,Madrigal Enhancement Pack,Madrigal Enhancement Pack
+PROPITEM_TXT_904833,Madrigal Enhancement Pack,マドリガル強化パック
 PROPITEM_TXT_904834,"A package containing 20x Scroll of AProtect, 5x Scroll of SProtect and 5x Scroll of Amplification ES. All items are also linked.",鍛冶屋の心得・アクセサリー編x20、鍛冶屋の心得・精錬編x5、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904835,Flarine Enhancement Pack,Flarine Enhancement Pack
+PROPITEM_TXT_904835,Flarine Enhancement Pack,フラリス強化パック
 PROPITEM_TXT_904836,"A package containing 20x Scroll of SProtect, 2x Scroll of Ultimate Bonus and 1x Scroll of Reduction A. All items are also linked.",鍛冶屋の心得・精錬編x20、アルティメットボーナスの巻物x2、装備レベル減少の巻物Ax1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904837,Madrigal's Party Exp Pack (3 Days),Madrigal's Party Exp Pack (3 Days)
+PROPITEM_TXT_904837,Madrigal's Party Exp Pack (3 Days),マドリガルのパーティー経験値パック(3日)
 PROPITEM_TXT_904838,"A package containing 3x 1 Day Scroll of Combined Party Effects, 2x Scroll of Amplification ES and 5x Upcut Stone. All items are also linked.",パーティー効果統合の巻物(1日)x3、戦神の巻物ESx2、パワーストーンx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904839,PlayPark All-Stars 2026 Door Prize,PlayPark All-Stars 2026 Door Prize
+PROPITEM_TXT_904839,PlayPark All-Stars 2026 Door Prize,PlayPark オールスターズ 2026 ドア賞品
 PROPITEM_TXT_904840,"A package containing 5x Scroll of Amplification ES, 5x Upcut Stone, 5x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Extra Bag (30 days), 1x Feed Bag (7 days), 1x Card Disc (15 days), 1x Scroll of PickUp Boost (7 day), 1x Meteo Bike (Yellow) (30 Days) and 1x Baby Tiger (30 Days). All items are also linked.",戦神の巻物ESx5、パワーストーンx5、豪傑のスクロール(B)x5、秘薬ボックスx10、ポーションボックスx10、魔法の携帯バッグ(30日)x1、フィードバッグ(7日)x1、カードディスク(15日)x1、ピックアップブーストスクロール(7日)x1、メテオバイク(イエロー)(30日)x1、ベビータイガー(30日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904841,PlayPark All-Stars 2026 FWC Door Prize,PlayPark All-Stars 2026 FWC Door Prize
+PROPITEM_TXT_904841,PlayPark All-Stars 2026 FWC Door Prize,PlayPark オールスターズ 2026 FWC ドア賞品
 PROPITEM_TXT_904842,"A package containing 10x Scroll of Amplification ES, 10x Vital Drink X or Refresher Hold, 10x Upcut Stone, 10x Activation, 10x Power Scroll, 10x Flask Box, 10x Potion Box and 1x Extra Bag (30 days). All items are also linked.",戦神の巻物ESx10、スタミナドリンクXまたは魔力ドリンクゴールドx10、パワーストーンx10、アクティビションx10、豪傑のスクロール(B)x10、秘薬ボックスx10、ポーションボックスx10、魔法の携帯バッグ(30日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904843,PPAS x FWC Raffle Winner,PPAS x FWC Raffle Winner
+PROPITEM_TXT_904843,PPAS x FWC Raffle Winner,PPAS x FWC 抽選当選者
 PROPITEM_TXT_904844,"A package containing 1x Cloak of Philippines, 1x Traditional Philippines Set Select Box, 5x Scroll of Amplification ES, 10x Upcut Stone, 10x Power Scroll, 10x Flask Box, 10x Potion Box, 1x Beginner's Pickup Pet Box (30 days), 1x Beginner's Flying Box (30 days), 1x Extra Bag (30 days) and 5x Vital Drink X or Refresher Hold. All items are also linked.",ワールドフリフマント(フィリピン)x1、伝統的なフィリピンセットセレクトボックスx1、戦神の巻物ESx5、パワーストーンx10、豪傑のスクロール(B)x10、秘薬ボックスx10、ポーションボックスx10、ビギナーズピックアップペットボックス(30日)x1、ビギナーズフライングボックス(30日)x1、魔法の携帯バッグ(30日)x1、スタミナドリンクXまたは魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904845,Playpark Topup Promotion - Tier 1,Playpark Topup Promotion - Tier 1
+PROPITEM_TXT_904845,Playpark Topup Promotion - Tier 1,Playpark トップアッププロモーション - ティア1
 PROPITEM_TXT_904846,"A package containing 20x Flask Box, 20x Potion Box and 15x Scroll of Amplification ES. All items are also linked.",秘薬ボックスx20、ポーションボックスx20、戦神の巻物ESx15が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904847,Playpark Topup Promotion - Tier 2,Playpark Topup Promotion - Tier 2
+PROPITEM_TXT_904847,Playpark Topup Promotion - Tier 2,Playpark トップアッププロモーション - ティア2
 PROPITEM_TXT_904848,"A package containing 15x Upcut Stone, 5x Power Scroll, 1x Extra Bag (30 days) and 1x Clockworks Weapon Skin Box. All items are also linked.",パワーストーンx15、豪傑のスクロール(B)x5、魔法の携帯バッグ(30日)x1、クロックワークスの武器スキンボックスx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904849,Playpark Topup Promotion - Tier 3,Playpark Topup Promotion - Tier 3
+PROPITEM_TXT_904849,Playpark Topup Promotion - Tier 3,Playpark トップアッププロモーション - ティア3
 PROPITEM_TXT_904850,A package containing 1x Clockworks Servant Set (Fashion) and 1x Clock Bike (White) (Mount). All items are also linked.,クロックワークスのサーヴァントセット(ファッション)x1、クラックバイク(ホワイト)(マウント)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904851,Traditional Philippines Set Select Box,Traditional Philippines Set Select Box
-PROPITEM_TXT_904852,Select which Gender you want to receive!,Select which Gender you want to receive!
+PROPITEM_TXT_904851,Traditional Philippines Set Select Box,伝統的なフィリピンセットセレクトボックス
+PROPITEM_TXT_904852,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_904853,MX Muppet,MX マペット
 PROPITEM_TXT_904854,BR Muppet,BR マペット
 PROPITEM_TXT_904855,TH Muppet,TH マペット
 PROPITEM_TXT_904856,PH Muppet,PH マペット
 PROPITEM_TXT_904857,JP Muppet,JP マペット
 PROPITEM_TXT_904858,FR Muppet,FR マペット
-PROPITEM_TXT_904859,Anniversary 2024 White Set (M) (2%),Anniversary 2024 White Set (M) (2%)
+PROPITEM_TXT_904859,Anniversary 2024 White Set (M) (2%),アニバーサリー 2024 ホワイトセット(M)(2%)
 PROPITEM_TXT_904860,The Anniversary 2024 White (2%) Set for male characters.,男の子キャラクター用アニバーサリー 2024 ホワイト(2%)セット
 PROPITEM_TXT_904861,Anniversary 2024 White Hat (M),アニバーサリー 2024 ホワイトハット (M)
 PROPITEM_TXT_904862,Anniversary 2024 White Suit (M),アニバーサリー 2024 ホワイトスーツ (M)
 PROPITEM_TXT_904863,Anniversary 2024 White Shoes (M),アニバーサリー 2024 ホワイトシューズ (M)
 PROPITEM_TXT_904864,Anniversary 2024 White Hands (M),アニバーサリー 2024 ホワイトハンズ (M)
-PROPITEM_TXT_904865,Anniversary 2024 White Set (F) (2%),Anniversary 2024 White Set (F) (2%)
+PROPITEM_TXT_904865,Anniversary 2024 White Set (F) (2%),アニバーサリー 2024 ホワイトセット(F)(2%)
 PROPITEM_TXT_904866,The Anniversary 2024 White (2%) Set for female characters.,女の子キャラクター用アニバーサリー 2024 ホワイト(2%)セット
 PROPITEM_TXT_904867,Anniversary 2024 White Hat (F),アニバーサリー 2024 ホワイトハット (F)
 PROPITEM_TXT_904868,Anniversary 2024 White Suit (F),アニバーサリー 2024 ホワイトスーツ(F)
 PROPITEM_TXT_904869,Anniversary 2024 White Shoes (F),アニバーサリー 2024 ホワイトシューズ(F)
 PROPITEM_TXT_904870,Anniversary 2024 White Hands (F),アニバーサリー 2024 ホワイトハンズ (F)
-PROPITEM_TXT_904871,Anniversary 2024 White Backpack,Anniversary 2024 White Backpack
-PROPITEM_TXT_904872,Anniversary 2024 White Glasses,Anniversary 2024 White Glasses
-PROPITEM_TXT_904873,Anniversary 2024 White Bag,Anniversary 2024 White Bag
-PROPITEM_TXT_904874,Anniversary 2024 White Eye Patch,Anniversary 2024 White Eye Patch
-PROPITEM_TXT_904875,Japanese Uniform Select Box,Japanese Uniform Select Box
-PROPITEM_TXT_904876,Select which set you want to receive!,Select which set you want to receive!
+PROPITEM_TXT_904871,Anniversary 2024 White Backpack,アニバーサリー 2024 ホワイトバックパック
+PROPITEM_TXT_904872,Anniversary 2024 White Glasses,アニバーサリー 2024 ホワイトメガネ
+PROPITEM_TXT_904873,Anniversary 2024 White Bag,アニバーサリー 2024 ホワイトバッグ
+PROPITEM_TXT_904874,Anniversary 2024 White Eye Patch,アニバーサリー 2024 ホワイトアイパッチ
+PROPITEM_TXT_904875,Japanese Uniform Select Box,和風制服セレクトボックス
+PROPITEM_TXT_904876,Select which set you want to receive!,受け取りたいセットを選択してください！
 PROPITEM_TXT_904877,Summer Kickflip Costume Select Box,サマーキックフリップコスチュームセレクトボックス
-PROPITEM_TXT_904878,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904879,AI Yukata Select Box,AI Yukata Select Box
-PROPITEM_TXT_904880,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904881,Neo Select Box,Neo Select Box
-PROPITEM_TXT_904882,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904883,Menhera Kei Costume Select Box,Menhera Kei Costume Select Box
-PROPITEM_TXT_904884,Select which set you want to receive!,Select which set you want to receive!
+PROPITEM_TXT_904878,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904879,AI Yukata Select Box,AI浴衣セレクトボックス
+PROPITEM_TXT_904880,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904881,Neo Select Box,ネオセレクトボックス
+PROPITEM_TXT_904882,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904883,Menhera Kei Costume Select Box,ヤンデレ系コスチュームセレクトボックス
+PROPITEM_TXT_904884,Select which set you want to receive!,受け取りたいセットを選択してください！
 PROPITEM_TXT_904885,Little Butterflies Costume Select Box,リトルバタフライコスチュームセレクトボックス
-PROPITEM_TXT_904886,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904887,Steampunk Wizard Costume Select Box,Steampunk Wizard Costume Select Box
-PROPITEM_TXT_904888,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904889,Spring Qipao Costume Select Box,Spring Qipao Costume Select Box
-PROPITEM_TXT_904890,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904891,Valentine 2024 Costume Select Box,Valentine 2024 Costume Select Box
-PROPITEM_TXT_904892,Select which set you want to receive!,Select which set you want to receive!
-PROPITEM_TXT_904893,Gummy Bear Costume Select Box,Gummy Bear Costume Select Box
-PROPITEM_TXT_904894,Select which set you want to receive!,Select which set you want to receive!
+PROPITEM_TXT_904886,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904887,Steampunk Wizard Costume Select Box,スチームパンクウィザードコスチュームセレクトボックス
+PROPITEM_TXT_904888,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904889,Spring Qipao Costume Select Box,春の旗袍コスチュームセレクトボックス
+PROPITEM_TXT_904890,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904891,Valentine 2024 Costume Select Box,バレンタイン2024コスチュームセレクトボックス
+PROPITEM_TXT_904892,Select which set you want to receive!,受け取りたいセットを選択してください！
+PROPITEM_TXT_904893,Gummy Bear Costume Select Box,グミベアコスチュームセレクトボックス
+PROPITEM_TXT_904894,Select which set you want to receive!,受け取りたいセットを選択してください！
 PROPITEM_TXT_904895,Japanese Uniform Black Set,和風制服ブラックセット
-PROPITEM_TXT_904896,Select which Gender you want to receive!,Select which Gender you want to receive!
+PROPITEM_TXT_904896,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_904897,Japanese Uniform Blue Set,和風制服ブルーセット
 PROPITEM_TXT_904898,Japanese Uniform Green Set,和風制服グリーンセット
 PROPITEM_TXT_904899,Japanese Uniform Purple Set,和風制服パープルセット
@@ -27934,7 +27934,7 @@ PROPITEM_TXT_904900,Japanese Uniform Orange Set,和風制服オレンジセッ�
 PROPITEM_TXT_904901,Japanese Uniform White Set,和風制服ホワイトセット
 PROPITEM_TXT_904902,Japanese Uniform Light Set,和風制服ライトセット
 PROPITEM_TXT_904903,Summer Kickflip Red Set,サマーキックフリップレッドセット
-PROPITEM_TXT_904904,Select which Gender you want to receive!,Select which Gender you want to receive!
+PROPITEM_TXT_904904,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_904905,Summer Kickflip Green Set,サマーキックフリップグリーンセット
 PROPITEM_TXT_904906,Summer Kickflip Blue Set,サマーキックフリップブルーセット
 PROPITEM_TXT_904907,Summer Kickflip Purple Set,サマーキックフリップパープルセット
@@ -28260,48 +28260,48 @@ PROPITEM_TXT_905226,The Gummy Bear White set for male characters.,男の子用�
 PROPITEM_TXT_905227,Valentine 2024 Red Hat (M),バレンタイン2024レッドハット(M)
 PROPITEM_TXT_905228,Valentine 2024 Red Suit (M),バレンタイン2024レッドスーツ(M)
 PROPITEM_TXT_905229,Valentine 2024 Red Shoes (M),バレンタイン2024レッドシューズ(M)
-PROPITEM_TXT_905230,Valentine 2024 Red Backpack,Valentine 2024 Red Backpack
-PROPITEM_TXT_905231,Valentine 2024 Red Mask,Valentine 2024 Red Mask
+PROPITEM_TXT_905230,Valentine 2024 Red Backpack,バレンタイン2024レッドバックパック
+PROPITEM_TXT_905231,Valentine 2024 Red Mask,バレンタイン2024レッドマスク
 PROPITEM_TXT_905232,Valentine 2024 Red Hat (F),バレンタイン2024レッドハット(F)
 PROPITEM_TXT_905233,Valentine 2024 Red Suit (F),バレンタイン2024レッドスーツ(F)
 PROPITEM_TXT_905234,Valentine 2024 Red Shoes (F),バレンタイン2024レッドシューズ(F)
 PROPITEM_TXT_905235,Valentine 2024 Pink Hat (M),バレンタイン2024ピンクハット(M)
 PROPITEM_TXT_905236,Valentine 2024 Pink Suit (M),バレンタイン2024ピンクスーツ(M)
 PROPITEM_TXT_905237,Valentine 2024 Pink Shoes (M),バレンタイン2024ピンクシューズ (M)
-PROPITEM_TXT_905238,Valentine 2024 Pink Backpack,Valentine 2024 Pink Backpack
-PROPITEM_TXT_905239,Valentine 2024 Pink Mask,Valentine 2024 Pink Mask
+PROPITEM_TXT_905238,Valentine 2024 Pink Backpack,バレンタイン2024ピンクバックパック
+PROPITEM_TXT_905239,Valentine 2024 Pink Mask,バレンタイン2024ピンクマスク
 PROPITEM_TXT_905240,Valentine 2024 Pink Hat (F),バレンタイン2024ピンクハット(F)
 PROPITEM_TXT_905241,Valentine 2024 Pink Suit (F),バレンタイン2024ピンクスーツ(F)
 PROPITEM_TXT_905242,Valentine 2024 Pink Shoes (F),バレンタイン2024ピンクシューズ(F)
 PROPITEM_TXT_905243,Valentine 2024 Purple Hat (M),バレンタイン2024パープルハット(M)
 PROPITEM_TXT_905244,Valentine 2024 Purple Suit (M),バレンタイン2024パープルスーツ(M)
 PROPITEM_TXT_905245,Valentine 2024 Purple Shoes (M),バレンタイン2024パープルシューズ(M)
-PROPITEM_TXT_905246,Valentine 2024 Purple Backpack,Valentine 2024 Purple Backpack
-PROPITEM_TXT_905247,Valentine 2024 Purple Mask,Valentine 2024 Purple Mask
+PROPITEM_TXT_905246,Valentine 2024 Purple Backpack,バレンタイン2024パープルバックパック
+PROPITEM_TXT_905247,Valentine 2024 Purple Mask,バレンタイン2024パープルマスク
 PROPITEM_TXT_905248,Valentine 2024 Purple Hat (F),バレンタイン2024パープルハット(F)
 PROPITEM_TXT_905249,Valentine 2024 Purple Suit (F),バレンタイン2024 パープルスーツ(F)
 PROPITEM_TXT_905250,Valentine 2024 Purple Shoes (F),バレンタイン2024パープル シューズ(F)
 PROPITEM_TXT_905251,Valentine 2024 Orange Hat (M),バレンタイン2024オレンジハット(M)
 PROPITEM_TXT_905252,Valentine 2024 Orange Suit (M),バレンタイン2024オレンジスーツ(M)
 PROPITEM_TXT_905253,Valentine 2024 Orange Shoes (M),バレンタイン2024オレンジシューズ(M)
-PROPITEM_TXT_905254,Valentine 2024 Orange Backpack,Valentine 2024 Orange Backpack
-PROPITEM_TXT_905255,Valentine 2024 Orange Mask,Valentine 2024 Orange Mask
+PROPITEM_TXT_905254,Valentine 2024 Orange Backpack,バレンタイン2024オレンジバックパック
+PROPITEM_TXT_905255,Valentine 2024 Orange Mask,バレンタイン2024オレンジマスク
 PROPITEM_TXT_905256,Valentine 2024 Orange Hat (F),バレンタイン2024オレンジハット(F)
 PROPITEM_TXT_905257,Valentine 2024 Orange Suit (F),バレンタイン2024オレンジスーツ(F)
 PROPITEM_TXT_905258,Valentine 2024 Orange Shoes (F),バレンタイン2024オレンジシューズ(F)
 PROPITEM_TXT_905259,Valentine 2024 Blue Hat (M),バレンタイン2024ブルーハット(M)
 PROPITEM_TXT_905260,Valentine 2024 Blue Suit (M),バレンタイン2024ブルースーツ(M)
 PROPITEM_TXT_905261,Valentine 2024 Blue Shoes (M),バレンタイン2024ブルーシューズ(M)
-PROPITEM_TXT_905262,Valentine 2024 Blue Backpack,Valentine 2024 Blue Backpack
-PROPITEM_TXT_905263,Valentine 2024 Blue Mask,Valentine 2024 Blue Mask
+PROPITEM_TXT_905262,Valentine 2024 Blue Backpack,バレンタイン2024ブルーバックパック
+PROPITEM_TXT_905263,Valentine 2024 Blue Mask,バレンタイン2024ブルーマスク
 PROPITEM_TXT_905264,Valentine 2024 Blue Hat (F),バレンタイン2024ブルーハット(F)
 PROPITEM_TXT_905265,Valentine 2024 Blue Suit (F),バレンタイン2024 ブルースーツ(F)
 PROPITEM_TXT_905266,Valentine 2024 Blue Shoes (F),バレンタイン2024ブルーシューズ(F)
 PROPITEM_TXT_905267,Valentine 2024 Black Hat (M),バレンタイン2024ブラックハット(M)
 PROPITEM_TXT_905268,Valentine 2024 Black Suit (M),バレンタイン2024ブラックスーツ(M)
 PROPITEM_TXT_905269,Valentine 2024 Black Shoes (M),バレンタイン2024ブラックシューズ(M)
-PROPITEM_TXT_905270,Valentine 2024 Black Backpack,Valentine 2024 Black Backpack
-PROPITEM_TXT_905271,Valentine 2024 Black Mask,Valentine 2024 Black Mask
+PROPITEM_TXT_905270,Valentine 2024 Black Backpack,バレンタイン2024ブラックバックパック
+PROPITEM_TXT_905271,Valentine 2024 Black Mask,バレンタイン2024ブラックマスク
 PROPITEM_TXT_905272,Valentine 2024 Black Hat (F),バレンタイン2024ブラックハット(F)
 PROPITEM_TXT_905273,Valentine 2024 Black Suit (F),バレンタイン2024ブラックスーツ(F)
 PROPITEM_TXT_905274,Valentine 2024 Black Shoes (F),バレンタイン2024ブラックシューズ(F)
@@ -28343,10 +28343,10 @@ PROPITEM_TXT_905309,AI Yukata Green Suit (F),AI浴衣 グリーンスーツ(F)
 PROPITEM_TXT_905310,AI Yukata Green Shoes (F),AI浴衣グリーンシューズ(F)
 PROPITEM_TXT_905311,Menhera Kei Violet Hair (F),ヤンデレ系バイオレットヘア (F)
 PROPITEM_TXT_905312,Menhera Kei Hair for female characters.,女の子用ヤンデレ系ヘア
-PROPITEM_TXT_905313,Menhera Kei Violet Patch,Menhera Kei Violet Patch
+PROPITEM_TXT_905313,Menhera Kei Violet Patch,ヤンデレ系バイオレットパッチ
 PROPITEM_TXT_905314,Menhera Kei Violet Suit (F),ヤンデレ系バイオレットスーツ(F)
 PROPITEM_TXT_905315,Menhera Kei Suit for female characters.,女の子用ヤンデレ系スーツ
-PROPITEM_TXT_905316,Menhera Kei Violet Backpack,Menhera Kei Violet Backpack
+PROPITEM_TXT_905316,Menhera Kei Violet Backpack,ヤンデレ系バイオレットバックパック
 PROPITEM_TXT_905317,Menhera Kei Violet Shoes (F),ヤンデレ系バイオレット シューズ (F)
 PROPITEM_TXT_905318,Menhera Kei Shoes for female characters.,女の子用ヤンデレ系シューズ
 PROPITEM_TXT_905319,Menhera Kei Violet Hair (M),ヤンデレ系バイオレットヘア (M)
@@ -28356,51 +28356,51 @@ PROPITEM_TXT_905322,Menhera Kei Suit for male characters.,男の子用ヤンデ�
 PROPITEM_TXT_905323,Menhera Kei Violet Shoes (M),ヤンデレ系バイオレットシューズ（M）
 PROPITEM_TXT_905324,Menhera Kei Shoes for male characters.,男の子用ヤンデレ系シューズ
 PROPITEM_TXT_905325,Menhera Kei Blue Hair (F),ヤンデレ系ブルーヘア (F)
-PROPITEM_TXT_905326,Menhera Kei Blue Patch,Menhera Kei Blue Patch
+PROPITEM_TXT_905326,Menhera Kei Blue Patch,ヤンデレ系ブルーパッチ
 PROPITEM_TXT_905327,Menhera Kei Blue Suit (F),ヤンデレ系ブルースーツ(F)
-PROPITEM_TXT_905328,Menhera Kei Blue Backpack,Menhera Kei Blue Backpack
+PROPITEM_TXT_905328,Menhera Kei Blue Backpack,ヤンデレ系ブルーバックパック
 PROPITEM_TXT_905329,Menhera Kei Blue Shoes (F),ヤンデレ系ブルー シューズ (F)
 PROPITEM_TXT_905330,Menhera Kei Blue Hair (M),ヤンデレ系ブルーヘア（M）
 PROPITEM_TXT_905331,Menhera Kei Blue Suit (M),ヤンデレ系ブルースーツ(M)
 PROPITEM_TXT_905332,Menhera Kei Blue Shoes (M),ヤンデレ系ブールシューズ（M）
 PROPITEM_TXT_905333,Menhera Kei Green Hair (F),ヤンデレ系グリーンヘア（F）
-PROPITEM_TXT_905334,Menhera Kei Green Patch,Menhera Kei Green Patch
+PROPITEM_TXT_905334,Menhera Kei Green Patch,ヤンデレ系グリーンパッチ
 PROPITEM_TXT_905335,Menhera Kei Green Suit (F),ヤンデレ系グリーンスーツ(F)
-PROPITEM_TXT_905336,Menhera Kei Green Backpack,Menhera Kei Green Backpack
+PROPITEM_TXT_905336,Menhera Kei Green Backpack,ヤンデレ系グリーンバックパック
 PROPITEM_TXT_905337,Menhera Kei Green Shoes (F),ヤンデレ系グリーン シューズ (F)
 PROPITEM_TXT_905338,Menhera Kei Green Hair (M),ヤンデレ系グリーンヘア（M）
 PROPITEM_TXT_905339,Menhera Kei Green Suit (M),ヤンデレ系グリーン スーツ (M)
 PROPITEM_TXT_905340,Menhera Kei Green Shoes (M),ヤンデレ系グリーン シューズ (M)
 PROPITEM_TXT_905341,Menhera Kei Yellow Hair (F),ヤンデレ系イエローヘア (F)
-PROPITEM_TXT_905342,Menhera Kei Yellow Patch,Menhera Kei Yellow Patch
+PROPITEM_TXT_905342,Menhera Kei Yellow Patch,ヤンデレ系イエローパッチ
 PROPITEM_TXT_905343,Menhera Kei Yellow Suit (F),ヤンデレ系イエロースーツ(F)
-PROPITEM_TXT_905344,Menhera Kei Yellow Backpack,Menhera Kei Yellow Backpack
+PROPITEM_TXT_905344,Menhera Kei Yellow Backpack,ヤンデレ系イエローバックパック
 PROPITEM_TXT_905345,Menhera Kei Yellow Shoes (F),ヤンデレ系イエロー シューズ (F)
 PROPITEM_TXT_905346,Menhera Kei Yellow Hair (M),ヤンデレ系イエローヘア（M）
 PROPITEM_TXT_905347,Menhera Kei Yellow Suit (M),ヤンデレ系イエロースーツ(M)
 PROPITEM_TXT_905348,Menhera Kei Yellow Shoes (M),ヤンデレ系イエロー シューズ (M)
 PROPITEM_TXT_905349,Menhera Kei Black Hair (F),ヤンデレ系ブラックヘア（F）
-PROPITEM_TXT_905350,Menhera Kei Black Patch,Menhera Kei Black Patch
+PROPITEM_TXT_905350,Menhera Kei Black Patch,ヤンデレ系ブラックパッチ
 PROPITEM_TXT_905351,Menhera Kei Black Suit (F),ヤンデレ系ブラックスーツ（F）
-PROPITEM_TXT_905352,Menhera Kei Black Backpack,Menhera Kei Black Backpack
+PROPITEM_TXT_905352,Menhera Kei Black Backpack,ヤンデレ系ブラックバックパック
 PROPITEM_TXT_905353,Menhera Kei Black Shoes (F),ヤンデレ系ブラック シューズ (F)
 PROPITEM_TXT_905354,Menhera Kei Black Hair (M),ヤンデレ系ブラックヘア（M）
 PROPITEM_TXT_905355,Menhera Kei Black Suit (M),ヤンデレ系ブラックスーツ(M)
 PROPITEM_TXT_905356,Menhera Kei Black Shoes (M),ヤンデレ系ブラックシューズ（M）
 PROPITEM_TXT_905357,Menhera Kei White Hair (F),ヤンデレ系ホワイトヘア（F）
-PROPITEM_TXT_905358,Menhera Kei White Patch,Menhera Kei White Patch
+PROPITEM_TXT_905358,Menhera Kei White Patch,ヤンデレ系ホワイトパッチ
 PROPITEM_TXT_905359,Menhera Kei White Suit (F),ヤンデレ系ホワイトスーツ（F）
-PROPITEM_TXT_905360,Menhera Kei White Backpack,Menhera Kei White Backpack
+PROPITEM_TXT_905360,Menhera Kei White Backpack,ヤンデレ系ホワイトバックパック
 PROPITEM_TXT_905361,Menhera Kei White Shoes (F),ヤンデレ系ホワイト シューズ (F)
 PROPITEM_TXT_905362,Menhera Kei White Hair (M),ヤンデレ系ホワイトヘア（M）
 PROPITEM_TXT_905363,Menhera Kei White Suit (M),ヤンデレ系ホワイトスーツ(M)
 PROPITEM_TXT_905364,Menhera Kei White Shoes (M),ヤンデレ系ホワイト シューズ (M)
 PROPITEM_TXT_905365,Gummy Bear Blue Hair (F),グミベアブルーヘア(F)
 PROPITEM_TXT_905366,Gummy Bear Hair for female characters.,女の子用グミベアヘア
-PROPITEM_TXT_905367,Gummy Bear Blue Glasses,Gummy Bear Blue Glasses
+PROPITEM_TXT_905367,Gummy Bear Blue Glasses,グミベアブルーメガネ
 PROPITEM_TXT_905368,Gummy Bear Blue Suit (F),グミベアブルースーツ(F)
 PROPITEM_TXT_905369,Gummy Bear Suit for female characters.,女の子用グミベアスーツ
-PROPITEM_TXT_905370,Gummy Bear Blue Backpack,Gummy Bear Blue Backpack
+PROPITEM_TXT_905370,Gummy Bear Blue Backpack,グミベアブルーバックパック
 PROPITEM_TXT_905371,Gummy Bear Blue Shoes (F),グミベアブルーシューズ(F)
 PROPITEM_TXT_905372,Gummy Bear Shoes for female characters.,女の子用グミベアシューズ
 PROPITEM_TXT_905373,Gummy Bear Blue Hair (M),グミベアブルーヘア（M）
@@ -28410,41 +28410,41 @@ PROPITEM_TXT_905376,Gummy Bear Suit for male characters.,男の子用グミベ�
 PROPITEM_TXT_905377,Gummy Bear Blue Shoes (M),グミベアブルーシューズ（M）
 PROPITEM_TXT_905378,Gummy Bear Shoes for male characters.,男の子用グミベアシューズ
 PROPITEM_TXT_905379,Gummy Bear Green Hair (F),グミベアグリーンヘア(F)
-PROPITEM_TXT_905380,Gummy Bear Green Glasses,Gummy Bear Green Glasses
+PROPITEM_TXT_905380,Gummy Bear Green Glasses,グミベアグリーンメガネ
 PROPITEM_TXT_905381,Gummy Bear Green Suit (F),グミベアグリーンスーツ(F)
-PROPITEM_TXT_905382,Gummy Bear Green Backpack,Gummy Bear Green Backpack
+PROPITEM_TXT_905382,Gummy Bear Green Backpack,グミベアグリーンバックパック
 PROPITEM_TXT_905383,Gummy Bear Green Shoes (F),グミベアグリーンシューズ(F)
 PROPITEM_TXT_905384,Gummy Bear Green Hair (M),グミベアグリーンヘア（M）
 PROPITEM_TXT_905385,Gummy Bear Green Suit (M),グミベアグリーンスーツ(M)
 PROPITEM_TXT_905386,Gummy Bear Green Shoes (M),グミベアグリーンシューズ(M)
 PROPITEM_TXT_905387,Gummy Bear Yellow Hair (F),グミベアイエローヘア(F)
-PROPITEM_TXT_905388,Gummy Bear Yellow Glasses,Gummy Bear Yellow Glasses
+PROPITEM_TXT_905388,Gummy Bear Yellow Glasses,グミベアイエローメガネ
 PROPITEM_TXT_905389,Gummy Bear Yellow Suit (F),グミベアイエロースーツ(F)
-PROPITEM_TXT_905390,Gummy Bear Yellow Backpack,Gummy Bear Yellow Backpack
+PROPITEM_TXT_905390,Gummy Bear Yellow Backpack,グミベアイエローバックパック
 PROPITEM_TXT_905391,Gummy Bear Yellow Shoes (F),グミベアイエローシューズ(F)
 PROPITEM_TXT_905392,Gummy Bear Yellow Hair (M),グミベアイエローヘアー(M)
 PROPITEM_TXT_905393,Gummy Bear Yellow Suit (M),グミベアイエロースーツ(M)
 PROPITEM_TXT_905394,Gummy Bear Yellow Shoes (M),グミベアイエローシューズ(M)
 PROPITEM_TXT_905395,Gummy Bear Red Hair (F),グミベアレッドヘア(F)
-PROPITEM_TXT_905396,Gummy Bear Red Glasses,Gummy Bear Red Glasses
+PROPITEM_TXT_905396,Gummy Bear Red Glasses,グミベアレッドメガネ
 PROPITEM_TXT_905397,Gummy Bear Red Suit (F),グミベアレッドスーツ(F)
-PROPITEM_TXT_905398,Gummy Bear Red Backpack,Gummy Bear Red Backpack
+PROPITEM_TXT_905398,Gummy Bear Red Backpack,グミベアレッドバックパック
 PROPITEM_TXT_905399,Gummy Bear Red Shoes (F),グミベアレッドシューズ(F)
 PROPITEM_TXT_905400,Gummy Bear Red Hair (M),グミベアレッドヘア（M）
 PROPITEM_TXT_905401,Gummy Bear Red Suit (M),グミベアレッドスーツ(M)
 PROPITEM_TXT_905402,Gummy Bear Red Shoes (M),グミベアレッドシューズ（M）
 PROPITEM_TXT_905403,Gummy Bear Black Hair (F),グミベアブラックヘア(F)
-PROPITEM_TXT_905404,Gummy Bear Black Glasses,Gummy Bear Black Glasses
+PROPITEM_TXT_905404,Gummy Bear Black Glasses,グミベアブラックメガネ
 PROPITEM_TXT_905405,Gummy Bear Black Suit (F),グミベアブラックスーツ(F)
-PROPITEM_TXT_905406,Gummy Bear Black Backpack,Gummy Bear Black Backpack
+PROPITEM_TXT_905406,Gummy Bear Black Backpack,グミベアブラックバックパック
 PROPITEM_TXT_905407,Gummy Bear Black Shoes (F),グミベアブラックシューズ(F)
 PROPITEM_TXT_905408,Gummy Bear Black Hair (M),グミベアブラックヘア（M）
 PROPITEM_TXT_905409,Gummy Bear Black Suit (M),グミベアブラックスーツ(M)
 PROPITEM_TXT_905410,Gummy Bear Black Shoes (M),グミベアブラックシューズ（M）
 PROPITEM_TXT_905411,Gummy Bear White Hair (F),グミベアホワイトヘア(F)
-PROPITEM_TXT_905412,Gummy Bear White Glasses,Gummy Bear White Glasses
+PROPITEM_TXT_905412,Gummy Bear White Glasses,グミベアホワイトメガネ
 PROPITEM_TXT_905413,Gummy Bear White Suit (F),グミベア ホワイトスーツ(F)
-PROPITEM_TXT_905414,Gummy Bear White Backpack,Gummy Bear White Backpack
+PROPITEM_TXT_905414,Gummy Bear White Backpack,グミベアホワイトバックパック
 PROPITEM_TXT_905415,Gummy Bear White Shoes (F),グミベアホワイトシューズ(F)
 PROPITEM_TXT_905416,Gummy Bear White Hair (M),グミベアホワイトヘア(M)
 PROPITEM_TXT_905417,Gummy Bear White Suit (M),グミベア ホワイトスーツ(M)
@@ -28510,224 +28510,224 @@ PROPITEM_TXT_905476,Little Butterflies Black Shoes (F),リトルバタフライ�
 PROPITEM_TXT_905477,Neo Purple Hat (M),ネオパープルハット(M)
 PROPITEM_TXT_905478,Neo Purple Suit (M),ネオパープルスーツ(M)
 PROPITEM_TXT_905479,Neo Purple Shoes (M),ネオパープルシューズ(M)
-PROPITEM_TXT_905480,Neo Purple Wings,Neo Purple Wings
-PROPITEM_TXT_905481,Neo Purple Glasses,Neo Purple Glasses
+PROPITEM_TXT_905480,Neo Purple Wings,ネオパープルウィング
+PROPITEM_TXT_905481,Neo Purple Glasses,ネオパープルメガネ
 PROPITEM_TXT_905482,Neo Purple Hat (F),ネオパープルハット(F)
 PROPITEM_TXT_905483,Neo Purple Suit (F),ネオパープルスーツ(F)
 PROPITEM_TXT_905484,Neo Purple Shoes (F),ネオパープルシューズ(F)
 PROPITEM_TXT_905485,Neo Green Hat (M),ネオグリーンハット(M)
 PROPITEM_TXT_905486,Neo Green Suit (M),ネオグリーンスーツ(M)
 PROPITEM_TXT_905487,Neo Green Shoes (M),ネオグリーンシューズ(M)
-PROPITEM_TXT_905488,Neo Green Wings,Neo Green Wings
-PROPITEM_TXT_905489,Neo Green Glasses,Neo Green Glasses
+PROPITEM_TXT_905488,Neo Green Wings,ネオグリーンウィング
+PROPITEM_TXT_905489,Neo Green Glasses,ネオグリーンメガネ
 PROPITEM_TXT_905490,Neo Green Hat (F),ネオグリーンハット(F)
 PROPITEM_TXT_905491,Neo Green Suit (F),ネオグリーンスーツ(F)
 PROPITEM_TXT_905492,Neo Green Shoes (F),ネオグリーンシューズ(F)
 PROPITEM_TXT_905493,Neo Orange Hat (M),ネオオレンジハット(M)
 PROPITEM_TXT_905494,Neo Orange Suit (M),ネオオレンジスーツ(M)
 PROPITEM_TXT_905495,Neo Orange Shoes (M),ネオオレンジシューズ(M)
-PROPITEM_TXT_905496,Neo Orange Wings,Neo Orange Wings
-PROPITEM_TXT_905497,Neo Orange Glasses,Neo Orange Glasses
+PROPITEM_TXT_905496,Neo Orange Wings,ネオオレンジウィング
+PROPITEM_TXT_905497,Neo Orange Glasses,ネオオレンジメガネ
 PROPITEM_TXT_905498,Neo Orange Hat (F),ネオオレンジハット(F)
 PROPITEM_TXT_905499,Neo Orange Suit (F),ネオオレンジスーツ(F)
 PROPITEM_TXT_905500,Neo Orange Shoes (F),ネオオレンジシューズ(F)
 PROPITEM_TXT_905501,Neo Yellow Hat (M),ネオイエローハット(M)
 PROPITEM_TXT_905502,Neo Yellow Suit (M),ネオイエロースーツ(M)
 PROPITEM_TXT_905503,Neo Yellow Shoes (M),ネオイエローシューズ(M)
-PROPITEM_TXT_905504,Neo Yellow Wings,Neo Yellow Wings
-PROPITEM_TXT_905505,Neo Yellow Glasses,Neo Yellow Glasses
+PROPITEM_TXT_905504,Neo Yellow Wings,ネオイエローウィング
+PROPITEM_TXT_905505,Neo Yellow Glasses,ネオイエローメガネ
 PROPITEM_TXT_905506,Neo Yellow Hat (F),ネオイエローハット(F)
 PROPITEM_TXT_905507,Neo Yellow Suit (F),ネオイエロースーツ(F)
 PROPITEM_TXT_905508,Neo Yellow Shoes (F),ネオイエローシューズ(F)
 PROPITEM_TXT_905509,Neo Black Hat (M),ネオブラックハット(M)
 PROPITEM_TXT_905510,Neo Black Suit (M),ネオブラックスーツ(M)
 PROPITEM_TXT_905511,Neo Black Shoes (M),ネオブラックシューズ(M)
-PROPITEM_TXT_905512,Neo Black Wings,Neo Black Wings
-PROPITEM_TXT_905513,Neo Black Glasses,Neo Black Glasses
+PROPITEM_TXT_905512,Neo Black Wings,ネオブラックウィング
+PROPITEM_TXT_905513,Neo Black Glasses,ネオブラックメガネ
 PROPITEM_TXT_905514,Neo Black Hat (F),ネオブラックハット(F)
 PROPITEM_TXT_905515,Neo Black Suit (F),ネオブラックスーツ(F)
 PROPITEM_TXT_905516,Neo Black Shoes (F),ネオブラックシューズ(F)
 PROPITEM_TXT_905517,Neo White Hat (M),ネオホワイトハット(M)
 PROPITEM_TXT_905518,Neo White Suit (M),ネオホワイトスーツ(M)
 PROPITEM_TXT_905519,Neo White Shoes (M),ネオホワイトシューズ(M)
-PROPITEM_TXT_905520,Neo White Wings,Neo White Wings
-PROPITEM_TXT_905521,Neo White Glasses,Neo White Glasses
+PROPITEM_TXT_905520,Neo White Wings,ネオホワイトウィング
+PROPITEM_TXT_905521,Neo White Glasses,ネオホワイトメガネ
 PROPITEM_TXT_905522,Neo White Hat (F),ネオホワイトハット(F)
 PROPITEM_TXT_905523,Neo White Suit (F),ネオホワイトスーツ(F)
 PROPITEM_TXT_905524,Neo White Shoes (F),ネオホワイトシューズ(F)
-PROPITEM_TXT_905525,Japanese Uniform Black Hair (M),和風黒髪(M)
-PROPITEM_TXT_905526,Japanese Uniform Black Suit (M),日本軍制服ブラックスーツ(M)
-PROPITEM_TXT_905527,Japanese Uniform Black Shoes (M),日本の制服黒靴(M)
-PROPITEM_TXT_905528,Japanese Uniform Black Backpack,Japanese Uniform Black Backpack
-PROPITEM_TXT_905529,Japanese Uniform Black Hair (F),和風黒髪(F)
-PROPITEM_TXT_905530,Japanese Uniform Black Suit (F),日本軍制服ブラックスーツ(F)
-PROPITEM_TXT_905531,Japanese Uniform Black Shoes (F),黒の制服シューズ(F)
-PROPITEM_TXT_905532,Japanese Uniform Blue Hair (M),和風制服 青髪 (M)
-PROPITEM_TXT_905533,Japanese Uniform Blue Suit (M),日本軍制服ブルースーツ(M)
-PROPITEM_TXT_905534,Japanese Uniform Blue Shoes (M),青の制服靴 (M)
-PROPITEM_TXT_905535,Japanese Uniform Purple Backpack,Japanese Uniform Purple Backpack
-PROPITEM_TXT_905536,Japanese Uniform Blue Hair (F),和風制服 ブルーヘア (F)
-PROPITEM_TXT_905537,Japanese Uniform Blue Suit (F),制服 ブルースーツ (F)
-PROPITEM_TXT_905538,Japanese Uniform Blue Shoes (F),制服ブルーシューズ(F)
-PROPITEM_TXT_905539,Japanese Uniform Green Hair (M),和風制服 緑の髪 (M)
-PROPITEM_TXT_905540,Japanese Uniform Green Suit (M),グリーン制服スーツ(M)
-PROPITEM_TXT_905541,Japanese Uniform Green Shoes (M),グリーンシューズ(M)
-PROPITEM_TXT_905542,Japanese Uniform Green Backpack,Japanese Uniform Green Backpack
-PROPITEM_TXT_905543,Japanese Uniform Green Hair (F),和風グリーンヘア(F)
-PROPITEM_TXT_905544,Japanese Uniform Green Suit (F),グリーン制服スーツ(F)
-PROPITEM_TXT_905545,Japanese Uniform Green Shoes (F),和風グリーンシューズ(F)
-PROPITEM_TXT_905546,Japanese Uniform Purple Hair (M),和風パープルヘア(M)
-PROPITEM_TXT_905547,Japanese Uniform Purple Suit (M),和風制服パープルスーツ(M)
-PROPITEM_TXT_905548,Japanese Uniform Purple Shoes (M),和風パープルシューズ(M)
-PROPITEM_TXT_905549,Japanese Uniform Brown Backpack,Japanese Uniform Brown Backpack
-PROPITEM_TXT_905550,Japanese Uniform Purple Hair (F),和風パープルヘア(F)
-PROPITEM_TXT_905551,Japanese Uniform Purple Suit (F),パープルスーツ(F)
-PROPITEM_TXT_905552,Japanese Uniform Purple Shoes (F),和風パープルシューズ(F)
-PROPITEM_TXT_905553,Japanese Uniform Orange Hair (M),和風オレンジヘア (M)
-PROPITEM_TXT_905554,Japanese Uniform Orange Suit (M),和風制服オレンジスーツ(M)
-PROPITEM_TXT_905555,Japanese Uniform Orange Shoes (M),和風オレンジシューズ(M)
-PROPITEM_TXT_905556,Japanese Uniform Orange Backpack,Japanese Uniform Orange Backpack
-PROPITEM_TXT_905557,Japanese Uniform Orange Hair (F),和風オレンジヘア(F)
-PROPITEM_TXT_905558,Japanese Uniform Orange Suit (F),和風ユニフォームオレンジスーツ(F)
-PROPITEM_TXT_905559,Japanese Uniform Orange Shoes (F),和風オレンジシューズ(F)
-PROPITEM_TXT_905560,Japanese Uniform White Hair (M),和風白髪(M)
-PROPITEM_TXT_905561,Japanese Uniform White Suit (M),日本軍制服白スーツ(M)
-PROPITEM_TXT_905562,Japanese Uniform White Shoes (M),和風制服白靴(M)
-PROPITEM_TXT_905563,Japanese Uniform White Backpack,Japanese Uniform White Backpack
-PROPITEM_TXT_905564,Japanese Uniform White Hair (F),和風白髪(F)
-PROPITEM_TXT_905565,Japanese Uniform White Suit (F),白制服スーツ(F)
-PROPITEM_TXT_905566,Japanese Uniform White Shoes (F),日本の制服白靴(F)
-PROPITEM_TXT_905567,Japanese Uniform Light Hair (M),和風ライトヘア(M)
-PROPITEM_TXT_905568,Japanese Uniform Light Suit (M),日本軍制服ライトスーツ(M)
-PROPITEM_TXT_905569,Japanese Uniform Light Shoes (M),和制服薄履き(M)
-PROPITEM_TXT_905570,Japanese Uniform Light Backpack,Japanese Uniform Light Backpack
-PROPITEM_TXT_905571,Japanese Uniform Light Hair (F),和風ライトヘア(F)
-PROPITEM_TXT_905572,Japanese Uniform Light Suit (F),日本制服ライトスーツ(F)
-PROPITEM_TXT_905573,Japanese Uniform Light Shoes (F),和風薄靴(F)
+PROPITEM_TXT_905525,Japanese Uniform Black Hair (M),和風制服ブラック・ヘア(M)
+PROPITEM_TXT_905526,Japanese Uniform Black Suit (M),和風制服ブラック・スーツ(M)
+PROPITEM_TXT_905527,Japanese Uniform Black Shoes (M),和風制服ブラック・シューズ(M)
+PROPITEM_TXT_905528,Japanese Uniform Black Backpack,和風制服ブラック・バックパック
+PROPITEM_TXT_905529,Japanese Uniform Black Hair (F),和風制服ブラック・ヘア(F)
+PROPITEM_TXT_905530,Japanese Uniform Black Suit (F),和風制服ブラック・スーツ(F)
+PROPITEM_TXT_905531,Japanese Uniform Black Shoes (F),和風制服ブラック・シューズ(F)
+PROPITEM_TXT_905532,Japanese Uniform Blue Hair (M),和風制服ブルー・ヘア(M)
+PROPITEM_TXT_905533,Japanese Uniform Blue Suit (M),和風制服ブルー・スーツ(M)
+PROPITEM_TXT_905534,Japanese Uniform Blue Shoes (M),和風制服ブルー・シューズ(M)
+PROPITEM_TXT_905535,Japanese Uniform Purple Backpack,和風制服パープル・バックパック
+PROPITEM_TXT_905536,Japanese Uniform Blue Hair (F),和風制服ブルー・ヘア(F)
+PROPITEM_TXT_905537,Japanese Uniform Blue Suit (F),和風制服ブルー・スーツ(F)
+PROPITEM_TXT_905538,Japanese Uniform Blue Shoes (F),和風制服ブルー・シューズ(F)
+PROPITEM_TXT_905539,Japanese Uniform Green Hair (M),和風制服グリーン・ヘア(M)
+PROPITEM_TXT_905540,Japanese Uniform Green Suit (M),和風制服グリーン・スーツ(M)
+PROPITEM_TXT_905541,Japanese Uniform Green Shoes (M),和風制服グリーン・シューズ(M)
+PROPITEM_TXT_905542,Japanese Uniform Green Backpack,和風制服グリーン・バックパック
+PROPITEM_TXT_905543,Japanese Uniform Green Hair (F),和風制服グリーン・ヘア(F)
+PROPITEM_TXT_905544,Japanese Uniform Green Suit (F),和風制服グリーン・スーツ(F)
+PROPITEM_TXT_905545,Japanese Uniform Green Shoes (F),和風制服グリーン・シューズ(F)
+PROPITEM_TXT_905546,Japanese Uniform Purple Hair (M),和風制服パープル・ヘア(M)
+PROPITEM_TXT_905547,Japanese Uniform Purple Suit (M),和風制服パープル・スーツ(M)
+PROPITEM_TXT_905548,Japanese Uniform Purple Shoes (M),和風制服パープル・シューズ(M)
+PROPITEM_TXT_905549,Japanese Uniform Brown Backpack,和風制服ブラウン・バックパック
+PROPITEM_TXT_905550,Japanese Uniform Purple Hair (F),和風制服パープル・ヘア(F)
+PROPITEM_TXT_905551,Japanese Uniform Purple Suit (F),和風制服パープル・スーツ(F)
+PROPITEM_TXT_905552,Japanese Uniform Purple Shoes (F),和風制服パープル・シューズ(F)
+PROPITEM_TXT_905553,Japanese Uniform Orange Hair (M),和風制服オレンジ・ヘア(M)
+PROPITEM_TXT_905554,Japanese Uniform Orange Suit (M),和風制服オレンジ・スーツ(M)
+PROPITEM_TXT_905555,Japanese Uniform Orange Shoes (M),和風制服オレンジ・シューズ(M)
+PROPITEM_TXT_905556,Japanese Uniform Orange Backpack,和風制服オレンジ・バックパック
+PROPITEM_TXT_905557,Japanese Uniform Orange Hair (F),和風制服オレンジ・ヘア(F)
+PROPITEM_TXT_905558,Japanese Uniform Orange Suit (F),和風制服オレンジ・スーツ(F)
+PROPITEM_TXT_905559,Japanese Uniform Orange Shoes (F),和風制服オレンジ・シューズ(F)
+PROPITEM_TXT_905560,Japanese Uniform White Hair (M),和風制服ホワイト・ヘア(M)
+PROPITEM_TXT_905561,Japanese Uniform White Suit (M),和風制服ホワイト・スーツ(M)
+PROPITEM_TXT_905562,Japanese Uniform White Shoes (M),和風制服ホワイト・シューズ(M)
+PROPITEM_TXT_905563,Japanese Uniform White Backpack,和風制服ホワイト・バックパック
+PROPITEM_TXT_905564,Japanese Uniform White Hair (F),和風制服ホワイト・ヘア(F)
+PROPITEM_TXT_905565,Japanese Uniform White Suit (F),和風制服ホワイト・スーツ(F)
+PROPITEM_TXT_905566,Japanese Uniform White Shoes (F),和風制服ホワイト・シューズ(F)
+PROPITEM_TXT_905567,Japanese Uniform Light Hair (M),和風制服ライト・ヘア(M)
+PROPITEM_TXT_905568,Japanese Uniform Light Suit (M),和風制服ライト・スーツ(M)
+PROPITEM_TXT_905569,Japanese Uniform Light Shoes (M),和風制服ライト・シューズ(M)
+PROPITEM_TXT_905570,Japanese Uniform Light Backpack,和風制服ライト・バックパック
+PROPITEM_TXT_905571,Japanese Uniform Light Hair (F),和風制服ライト・ヘア(F)
+PROPITEM_TXT_905572,Japanese Uniform Light Suit (F),和風制服ライト・スーツ(F)
+PROPITEM_TXT_905573,Japanese Uniform Light Shoes (F),和風制服ライト・シューズ(F)
 PROPITEM_TXT_905574,Spring Qipao Black Hat (M),春の旗袍ブラックハット(M)
 PROPITEM_TXT_905575,Spring Qipao Black Suit (M),春の旗袍ブラックスーツ(M)
 PROPITEM_TXT_905576,Spring Qipao Black Shoes (M),春の旗袍ブラックシューズ(M)
-PROPITEM_TXT_905577,Spring Qipao Black Umbrella,Spring Qipao Black Umbrella
-PROPITEM_TXT_905578,Spring Qipao Black Mask,Spring Qipao Black Mask
+PROPITEM_TXT_905577,Spring Qipao Black Umbrella,春の旗袍黒傘
+PROPITEM_TXT_905578,Spring Qipao Black Mask,春の旗袍ブラックマスク
 PROPITEM_TXT_905579,Spring Qipao Black Hat (F),春の旗袍ブラックハット(F)
 PROPITEM_TXT_905580,Spring Qipao Black Suit (F),春の旗袍ブラックスーツ(F)
 PROPITEM_TXT_905581,Spring Qipao Black Shoes (F),春の旗袍ブラックシューズ(F)
 PROPITEM_TXT_905582,Spring Qipao Red Hat (M),春の旗袍レッドハット(M)
 PROPITEM_TXT_905583,Spring Qipao Red Suit (M),春の旗袍レッドスーツ(M)
 PROPITEM_TXT_905584,Spring Qipao Red Shoes (M),春の旗袍レッドシューズ(M)
-PROPITEM_TXT_905585,Spring Qipao Red Umbrella,Spring Qipao Red Umbrella
-PROPITEM_TXT_905586,Spring Qipao Red Mask,Spring Qipao Red Mask
+PROPITEM_TXT_905585,Spring Qipao Red Umbrella,春の旗袍赤傘
+PROPITEM_TXT_905586,Spring Qipao Red Mask,春の旗袍レッドマスク
 PROPITEM_TXT_905587,Spring Qipao Red Hat (F),春の旗袍レッドハット(F)
 PROPITEM_TXT_905588,Spring Qipao Red Suit (F),春の旗袍レッドスーツ(F)
 PROPITEM_TXT_905589,Spring Qipao Red Shoes (F),春の旗袍レッドシューズ(F)
 PROPITEM_TXT_905590,Spring Qipao Purple Hat (M),春の旗袍パープルハット(M)
 PROPITEM_TXT_905591,Spring Qipao Purple Suit (M),春の旗袍パープルスーツ(M)
 PROPITEM_TXT_905592,Spring Qipao Purple Shoes (M),春の旗袍パープルシューズ(M)
-PROPITEM_TXT_905593,Spring Qipao Purple Umbrella,Spring Qipao Purple Umbrella
-PROPITEM_TXT_905594,Spring Qipao Purple Mask,Spring Qipao Purple Mask
+PROPITEM_TXT_905593,Spring Qipao Purple Umbrella,春の旗袍紫傘
+PROPITEM_TXT_905594,Spring Qipao Purple Mask,春の旗袍パープルマスク
 PROPITEM_TXT_905595,Spring Qipao Purple Hat (F),春の旗袍パープルハット(F)
 PROPITEM_TXT_905596,Spring Qipao Purple Suit (F),春の旗袍パープルスーツ(F)
 PROPITEM_TXT_905597,Spring Qipao Purple Shoes (F),春の旗袍パープルシューズ(F)
 PROPITEM_TXT_905598,Spring Qipao Pink Hat (M),春の旗袍ピンクハット(M)
 PROPITEM_TXT_905599,Spring Qipao Pink Suit (M),春の旗袍ピンクスーツ(M)
 PROPITEM_TXT_905600,Spring Qipao Pink Shoes (M),春の旗袍ピンクシューズ(M)
-PROPITEM_TXT_905601,Spring Qipao Pink Umbrella,Spring Qipao Pink Umbrella
-PROPITEM_TXT_905602,Spring Qipao Pink Mask,Spring Qipao Pink Mask
+PROPITEM_TXT_905601,Spring Qipao Pink Umbrella,春の旗袍桃傘
+PROPITEM_TXT_905602,Spring Qipao Pink Mask,春の旗袍ピンクマスク
 PROPITEM_TXT_905603,Spring Qipao Pink Hat (F),春の旗袍ピンクハット(F)
 PROPITEM_TXT_905604,Spring Qipao Pink Suit (F),春の旗袍ピンクスーツ(F)
 PROPITEM_TXT_905605,Spring Qipao Pink Shoes (F),春の旗袍ピンクシューズ(F)
 PROPITEM_TXT_905606,Spring Qipao Orange Hat (M),春の旗袍オレンジハット(M)
 PROPITEM_TXT_905607,Spring Qipao Orange Suit (M),春の旗袍オレンジスーツ(M)
 PROPITEM_TXT_905608,Spring Qipao Orange Shoes (M),春の旗袍オレンジシューズ(M)
-PROPITEM_TXT_905609,Spring Qipao Orange Umbrella,Spring Qipao Orange Umbrella
-PROPITEM_TXT_905610,Spring Qipao Orange Mask,Spring Qipao Orange Mask
+PROPITEM_TXT_905609,Spring Qipao Orange Umbrella,春の旗袍橙傘
+PROPITEM_TXT_905610,Spring Qipao Orange Mask,春の旗袍オレンジマスク
 PROPITEM_TXT_905611,Spring Qipao Orange Hat (F),春の旗袍オレンジハット(F)
 PROPITEM_TXT_905612,Spring Qipao Orange Suit (F),春の旗袍オレンジスーツ(F)
 PROPITEM_TXT_905613,Spring Qipao Orange Shoes (F),春の旗袍オレンジシューズ(F)
 PROPITEM_TXT_905614,Spring Qipao Cyan Hat (M),春の旗袍シアンハット(M)
 PROPITEM_TXT_905615,Spring Qipao Cyan Suit (M),春の旗袍シアンスーツ(M)
 PROPITEM_TXT_905616,Spring Qipao Cyan Shoes (M),春の旗袍シアンシューズ(M)
-PROPITEM_TXT_905617,Spring Qipao Cyan Umbrella,Spring Qipao Cyan Umbrella
-PROPITEM_TXT_905618,Spring Qipao Cyan Mask,Spring Qipao Cyan Mask
+PROPITEM_TXT_905617,Spring Qipao Cyan Umbrella,春の旗袍青緑傘
+PROPITEM_TXT_905618,Spring Qipao Cyan Mask,春の旗袍シアンマスク
 PROPITEM_TXT_905619,Spring Qipao Cyan Hat (F),春の旗袍シアンハット(F)
 PROPITEM_TXT_905620,Spring Qipao Cyan Suit (F),春の旗袍シアンスーツ(F)
 PROPITEM_TXT_905621,Spring Qipao Cyan Shoes (F),春の旗袍シアンシューズ(F)
 PROPITEM_TXT_905622,Spring Qipao Blue Hat (M),春の旗袍ブルーハット(M)
 PROPITEM_TXT_905623,Spring Qipao Blue Suit (M),春の旗袍ブルースーツ(M)
 PROPITEM_TXT_905624,Spring Qipao Blue Shoes (M),春の旗袍ブルーシューズ(M)
-PROPITEM_TXT_905625,Spring Qipao Blue Umbrella,Spring Qipao Blue Umbrella
-PROPITEM_TXT_905626,Spring Qipao Blue Mask,Spring Qipao Blue Mask
+PROPITEM_TXT_905625,Spring Qipao Blue Umbrella,春の旗袍青傘
+PROPITEM_TXT_905626,Spring Qipao Blue Mask,春の旗袍ブルーマスク
 PROPITEM_TXT_905627,Spring Qipao Blue Hat (F),春の旗袍ブルーハット(F)
 PROPITEM_TXT_905628,Spring Qipao Blue Suit (F),春の旗袍ブルースーツ(F)
 PROPITEM_TXT_905629,Spring Qipao Blue Shoes (F),春の旗袍ブルーシューズ(F)
 PROPITEM_TXT_905630,Spring Qipao White Hat (M),春の旗袍ホワイトハット(M)
 PROPITEM_TXT_905631,Spring Qipao White Suit (M),春の旗袍ホワイトスーツ(M)
 PROPITEM_TXT_905632,Spring Qipao White Shoes (M),春の旗袍ホワイトシューズ(M)
-PROPITEM_TXT_905633,Spring Qipao White Umbrella,Spring Qipao White Umbrella
-PROPITEM_TXT_905634,Spring Qipao White Mask,Spring Qipao White Mask
+PROPITEM_TXT_905633,Spring Qipao White Umbrella,春の旗袍白傘
+PROPITEM_TXT_905634,Spring Qipao White Mask,春の旗袍ホワイトマスク
 PROPITEM_TXT_905635,Spring Qipao White Hat (F),春の旗袍ホワイトハット(F)
 PROPITEM_TXT_905636,Spring Qipao White Suit (F),春の旗袍ホワイトスーツ(F)
 PROPITEM_TXT_905637,Spring Qipao White Shoes (F),春の旗袍ホワイトシューズ(F)
 PROPITEM_TXT_905638,Steampunk Wizard Blue Hat (M),スチームパンクウィザードブルーハット(M)
 PROPITEM_TXT_905639,Steampunk Wizard Blue Suit (M),スチームパンクウィザードブルースーツ(M)
 PROPITEM_TXT_905640,Steampunk Wizard Blue Shoes (M),スチームパンクウィザードブルーシューズ(M)
-PROPITEM_TXT_905641,Steampunk Wizard Blue Backpack,Steampunk Wizard Blue Backpack
-PROPITEM_TXT_905642,Steampunk Wizard Blue Mustache Eye patch,Steampunk Wizard Blue Mustache Eye patch
-PROPITEM_TXT_905643,Steampunk Wizard Blue Eye patch,Steampunk Wizard Blue Eye patch
+PROPITEM_TXT_905641,Steampunk Wizard Blue Backpack,スチームパンクウィザードブルーバックパック
+PROPITEM_TXT_905642,Steampunk Wizard Blue Mustache Eye patch,スチームパンクウィザードブルーヒゲアイパッチ
+PROPITEM_TXT_905643,Steampunk Wizard Blue Eye patch,スチームパンクウィザードブルーアイパッチ
 PROPITEM_TXT_905644,Steampunk Wizard Blue Hat (F),スチームパンクウィザードブルーハット(F)
 PROPITEM_TXT_905645,Steampunk Wizard Blue Suit (F),スチームパンクウィザードブルースーツ(F)
 PROPITEM_TXT_905646,Steampunk Wizard Blue Shoes (F),スチームパンクウィザードブルーシューズ(F)
 PROPITEM_TXT_905647,Steampunk Wizard Red Hat (M),スチームパンクウィザードレッドハット(M)
 PROPITEM_TXT_905648,Steampunk Wizard Red Suit (M),スチームパンクウィザードレッドスーツ(M)
 PROPITEM_TXT_905649,Steampunk Wizard Red Shoes (M),スチームパンクウィザードレッドシューズ(M)
-PROPITEM_TXT_905650,Steampunk Wizard Red Backpack,Steampunk Wizard Red Backpack
-PROPITEM_TXT_905651,Steampunk Wizard Red Mustache Eye patch,Steampunk Wizard Red Mustache Eye patch
-PROPITEM_TXT_905652,Steampunk Wizard Red Eye patch,Steampunk Wizard Red Eye patch
+PROPITEM_TXT_905650,Steampunk Wizard Red Backpack,スチームパンクウィザードレッドバックパック
+PROPITEM_TXT_905651,Steampunk Wizard Red Mustache Eye patch,スチームパンクウィザードレッドヒゲアイパッチ
+PROPITEM_TXT_905652,Steampunk Wizard Red Eye patch,スチームパンクウィザードレッドアイパッチ
 PROPITEM_TXT_905653,Steampunk Wizard Red Hat (F),スチームパンクウィザードレッドハット(F)
 PROPITEM_TXT_905654,Steampunk Wizard Red Suit (F),スチームパンクウィザードレッドスーツ(F)
 PROPITEM_TXT_905655,Steampunk Wizard Red Shoes (F),スチームパンクウィザードレッドシューズ(F)
 PROPITEM_TXT_905656,Steampunk Wizard Purple Hat (M),スチームパンクウィザードパープルハット(M)
 PROPITEM_TXT_905657,Steampunk Wizard Purple Suit (M),スチームパンクウィザードパープルスーツ(M)
 PROPITEM_TXT_905658,Steampunk Wizard Purple Shoes (M),スチームパンクウィザードパープルシューズ(M)
-PROPITEM_TXT_905659,Steampunk Wizard Purple Backpack,Steampunk Wizard Purple Backpack
-PROPITEM_TXT_905660,Steampunk Wizard Purple Mustache Eye patch,Steampunk Wizard Purple Mustache Eye patch
-PROPITEM_TXT_905661,Steampunk Wizard Purple Eye patch,Steampunk Wizard Purple Eye patch
+PROPITEM_TXT_905659,Steampunk Wizard Purple Backpack,スチームパンクウィザードパープルバックパック
+PROPITEM_TXT_905660,Steampunk Wizard Purple Mustache Eye patch,スチームパンクウィザードパープルヒゲアイパッチ
+PROPITEM_TXT_905661,Steampunk Wizard Purple Eye patch,スチームパンクウィザードパープルアイパッチ
 PROPITEM_TXT_905662,Steampunk Wizard Purple Hat (F),スチームパンクウィザードパープルハット(F)
 PROPITEM_TXT_905663,Steampunk Wizard Purple Suit (F),スチームパンクウィザードパープルスーツ(F)
 PROPITEM_TXT_905664,Steampunk Wizard Purple Shoes (F),スチームパンクウィザードパープルシューズ(F)
 PROPITEM_TXT_905665,Steampunk Wizard Pink Hat (M),スチームパンクウィザードピンクハット(M)
 PROPITEM_TXT_905666,Steampunk Wizard Pink Suit (M),スチームパンクウィザードピンクスーツ(M)
 PROPITEM_TXT_905667,Steampunk Wizard Pink Shoes (M),スチームパンクウィザードピンクシューズ(M)
-PROPITEM_TXT_905668,Steampunk Wizard Pink Backpack,Steampunk Wizard Pink Backpack
-PROPITEM_TXT_905669,Steampunk Wizard Pink Mustache Eye patch,Steampunk Wizard Pink Mustache Eye patch
-PROPITEM_TXT_905670,Steampunk Wizard Pink Eye patch,Steampunk Wizard Pink Eye patch
+PROPITEM_TXT_905668,Steampunk Wizard Pink Backpack,スチームパンクウィザードピンクバックパック
+PROPITEM_TXT_905669,Steampunk Wizard Pink Mustache Eye patch,スチームパンクウィザードピンクヒゲアイパッチ
+PROPITEM_TXT_905670,Steampunk Wizard Pink Eye patch,スチームパンクウィザードピンクアイパッチ
 PROPITEM_TXT_905671,Steampunk Wizard Pink Hat (F),スチームパンクウィザードピンクハット(F)
 PROPITEM_TXT_905672,Steampunk Wizard Pink Suit (F),スチームパンクウィザードピンクスーツ(F)
 PROPITEM_TXT_905673,Steampunk Wizard Pink Shoes (F),スチームパンクウィザードピンクシューズ(F)
 PROPITEM_TXT_905674,Steampunk Wizard Green Hat (M),スチームパンクウィザードグリーンハット(M)
 PROPITEM_TXT_905675,Steampunk Wizard Green Suit (M),スチームパンクウィザードグリーンスーツ(M)
 PROPITEM_TXT_905676,Steampunk Wizard Green Shoes (M),スチームパンクウィザードグリーンシューズ(M)
-PROPITEM_TXT_905677,Steampunk Wizard Green Backpack,Steampunk Wizard Green Backpack
-PROPITEM_TXT_905678,Steampunk Wizard Green Mustache Eye patch,Steampunk Wizard Green Mustache Eye patch
-PROPITEM_TXT_905679,Steampunk Wizard Green Eye patch,Steampunk Wizard Green Eye patch
+PROPITEM_TXT_905677,Steampunk Wizard Green Backpack,スチームパンクウィザードグリーンバックパック
+PROPITEM_TXT_905678,Steampunk Wizard Green Mustache Eye patch,スチームパンクウィザードグリーンヒゲアイパッチ
+PROPITEM_TXT_905679,Steampunk Wizard Green Eye patch,スチームパンクウィザードグリーンアイパッチ
 PROPITEM_TXT_905680,Steampunk Wizard Green Hat (F),スチームパンクウィザードグリーンハット(F)
 PROPITEM_TXT_905681,Steampunk Wizard Green Suit (F),スチームパンクウィザードグリーンスーツ(F)
 PROPITEM_TXT_905682,Steampunk Wizard Green Shoes (F),スチームパンクウィザードグリーンシューズ(F)
 PROPITEM_TXT_905683,Steampunk Wizard Cyan Hat (M),スチームパンクウィザードシアンハット(M)
 PROPITEM_TXT_905684,Steampunk Wizard Cyan Suit (M),スチームパンクウィザードシアンスーツ(M)
 PROPITEM_TXT_905685,Steampunk Wizard Cyan Shoes (M),スチームパンクウィザードシアンシューズ(M)
-PROPITEM_TXT_905686,Steampunk Wizard Cyan Backpack,Steampunk Wizard Cyan Backpack
-PROPITEM_TXT_905687,Steampunk Wizard Cyan Mustache Eye patch,Steampunk Wizard Cyan Mustache Eye patch
-PROPITEM_TXT_905688,Steampunk Wizard Cyan Eye patch,Steampunk Wizard Cyan Eye patch
+PROPITEM_TXT_905686,Steampunk Wizard Cyan Backpack,スチームパンクウィザードシアンバックパック
+PROPITEM_TXT_905687,Steampunk Wizard Cyan Mustache Eye patch,スチームパンクウィザードシアンヒゲアイパッチ
+PROPITEM_TXT_905688,Steampunk Wizard Cyan Eye patch,スチームパンクウィザードシアンアイパッチ
 PROPITEM_TXT_905689,Steampunk Wizard Cyan Hat (F),スチームパンクウィザードシアンハット(F)
 PROPITEM_TXT_905690,Steampunk Wizard Cyan Suit (F),スチームパンクウィザードシアンスーツ(F)
 PROPITEM_TXT_905691,Steampunk Wizard Cyan Shoes (F),スチームパンクウィザードシアンシューズ(F)
 PROPITEM_TXT_905692,Steampunk Wizard Black Hat (M),スチームパンクウィザードブラックハット(M)
 PROPITEM_TXT_905693,Steampunk Wizard Black Suit (M),スチームパンクウィザードブラックスーツ(M)
 PROPITEM_TXT_905694,Steampunk Wizard Black Shoes (M),スチームパンクウィザードブラックシューズ(M)
-PROPITEM_TXT_905695,Steampunk Wizard Black Backpack,Steampunk Wizard Black Backpack
-PROPITEM_TXT_905696,Steampunk Wizard Black Mustache Eye patch,Steampunk Wizard Black Mustache Eye patch
-PROPITEM_TXT_905697,Steampunk Wizard Black Eye patch,Steampunk Wizard Black Eye patch
+PROPITEM_TXT_905695,Steampunk Wizard Black Backpack,スチームパンクウィザードブラックバックパック
+PROPITEM_TXT_905696,Steampunk Wizard Black Mustache Eye patch,スチームパンクウィザードブラックヒゲアイパッチ
+PROPITEM_TXT_905697,Steampunk Wizard Black Eye patch,スチームパンクウィザードブラックアイパッチ
 PROPITEM_TXT_905698,Steampunk Wizard Black Hat (F),スチームパンクウィザードブラックハット(F)
 PROPITEM_TXT_905699,Steampunk Wizard Black Suit (F),スチームパンクウィザードブラックスーツ(F)
 PROPITEM_TXT_905700,Steampunk Wizard Black Shoes (F),スチームパンクウィザードブラックシューズ(F)
@@ -28795,11 +28795,11 @@ PROPITEM_TXT_905761,Summer Kickflip White Heart Glasses,サマーキックフリ
 PROPITEM_TXT_905762,Summer Kickflip White Hat (F),サマーキックフリップホワイトハット(F)
 PROPITEM_TXT_905763,Summer Kickflip White Suit (F),サマーキックフリップホワイトスーツ(F)
 PROPITEM_TXT_905764,Summer Kickflip White Shoes (F),サマーキックフリップホワイトシューズ(F)
-PROPITEM_TXT_905765,Guild Pride Costume Select Box 1,Guild Pride Costume Select Box 1
-PROPITEM_TXT_905766,Select your favorite fashion !,Select your favorite fashion !
-PROPITEM_TXT_905767,Guild Pride Costume Select Box 2,Guild Pride Costume Select Box 2
-PROPITEM_TXT_905768,Select your favorite fashion !,Select your favorite fashion !
-PROPITEM_TXT_905769,FWC Guild Spotlight Compensation box,FWC Guild Spotlight Compensation box
+PROPITEM_TXT_905765,Guild Pride Costume Select Box 1,ギルドプライドコスチュームセレクトボックス1
+PROPITEM_TXT_905766,Select your favorite fashion !,お好きなファッションを選んでください！
+PROPITEM_TXT_905767,Guild Pride Costume Select Box 2,ギルドプライドコスチュームセレクトボックス2
+PROPITEM_TXT_905768,Select your favorite fashion !,お好きなファッションを選んでください！
+PROPITEM_TXT_905769,FWC Guild Spotlight Compensation box,FWCギルドスポットライト補償ボックス
 PROPITEM_TXT_905770,"A package containing 1x Friendly Baby Kargo, 3x Power Scroll, 1x Feed Bag (3days), 1x Bank Extra Bag (3 Days), 3x Scroll of Amplification ES, 3x Flask Box and 3x Activition.",キュートなベビーカルゴx1、豪傑のスクロール(B)x3、フィードバッグ(3日)x1、銀行エキストラバッグ(3日)x1、戦神の巻物ESx3、秘薬ボックスx3、アクティビションx3が含まれたパッケージ。
 PROPITEM_TXT_905771,Swimsuit 2026 10% Cyan Set,スイムウェア2026 10%シアンセット
 PROPITEM_TXT_905772,Swimsuit 2026 Cyan Hat (M),スイムウェア2026シアンハット(M)
@@ -28880,19 +28880,19 @@ PROPITEM_TXT_905846,Swimsuit 2026 White Hands (F),スイムウェア2026ホワ�
 PROPITEM_TXT_905847,Swimsuit 2026 2% White Set (F),スイムウェア2026 2%ホワイトセット(F)
 PROPITEM_TXT_905848,The Swimsuit 2026 2% White Set for female characters.,女性キャラクター用のスイムウェア2026 2%ホワイトセット
 PROPITEM_TXT_905849,Swimsuit 2026 Costume Lucky Box,スイムウェア2026コスチュームラッキーボックス
-PROPITEM_TXT_905850,This box contains a Swimsuit 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Swimsuit 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_905851,Blue Runewhale,Blue Runewhale
-PROPITEM_TXT_905852,Gold Runewhale,Gold Runewhale
-PROPITEM_TXT_905853,Dark Runewhale,Dark Runewhale
-PROPITEM_TXT_905854,"An ancient guardian of the endless seas, this majestic whale carries its rider with silent grace through the skies. Maximum Speed: 64 km/h.","An ancient guardian of the endless seas, this majestic whale carries its rider with silent grace through the skies. Maximum Speed: 64 km/h."
-PROPITEM_TXT_905855,1.5.5 Update Boboko's Summer Smelting Scroll Package,1.5.5 Update Boboko's Summer Smelting Scroll Package
+PROPITEM_TXT_905850,This box contains a Swimsuit 2026 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのスイムウェア2026セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_905851,Blue Runewhale,ブルールーンホエール
+PROPITEM_TXT_905852,Gold Runewhale,ゴールドルーンホエール
+PROPITEM_TXT_905853,Dark Runewhale,ダークルーンホエール
+PROPITEM_TXT_905854,"An ancient guardian of the endless seas, this majestic whale carries its rider with silent grace through the skies. Maximum Speed: 64 km/h.",果てなき海の古の守護者、この荘厳な鯨は静かな気品をまとい、乗り手を乗せて空を渡る。最高速度：64km/h。
+PROPITEM_TXT_905855,1.5.5 Update Boboko's Summer Smelting Scroll Package,1.5.5アップデート ボボコの夏の製錬スクロールパッケージ
 PROPITEM_TXT_905856,A package containing 20x Scroll of SProtect and 3x Scroll of Weapon Bonus(Job) Select box. All items are also linked.,鍛冶屋の心得・精錬編x20、武器ボーナス（職業）の巻物セレクトボックスx3が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_905857,FWC 2026 100-Day Starter Pack,FWC 2026 100-Day Starter Pack
+PROPITEM_TXT_905857,FWC 2026 100-Day Starter Pack,FWC 2026 100日スターターパック
 PROPITEM_TXT_905858,"A package containing 5x Scroll of Amplification ES, 1x Extra Bag (30 days), 5x Scroll of Velocity, 5x Grilled Eel and 1x Effect Selection Box (7 Days). All items are also linked.",戦神の巻物ESx5、魔法の携帯バッグ(30日)x1、神風の巻物x5、グリルド・イールx5、エフェクトセレクションボックス(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_905859,FWC 2026 100-Day Celebration Pack,FWC 2026 100-Day Celebration Pack
+PROPITEM_TXT_905859,FWC 2026 100-Day Celebration Pack,FWC 2026 100日記念パック
 PROPITEM_TXT_905860,"A package containing 10x Scroll of SProtect, 10x Scroll of AProtect and 1x Effect Selection Box (7 Days). All items are also linked.",鍛冶屋の心得・精錬編x10、鍛冶屋の心得・アクセサリー編x10、エフェクト選択ボックス(7日間)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_905861,Effect Selection Box (7 Days),Effect Selection Box (7 Days)
-PROPITEM_TXT_905862,Choose your favorite effect !,Choose your favorite effect !
+PROPITEM_TXT_905861,Effect Selection Box (7 Days),エフェクトセレクションボックス(7日)
+PROPITEM_TXT_905862,Choose your favorite effect !,お好きなエフェクトを選んでください！
 PROPITEM_TXT_905863,Japanese Street Punk 10% Turquoise Set,和風ストリートパンク 10%ターコイズセット
 PROPITEM_TXT_905864,Japanese Street Punk Turquoise Katana,和風ストリートパンクターコイズ刀
 PROPITEM_TXT_905865,Japanese Street Punk Turquoise Mask,和風ストリートパンクターコイズマスク
@@ -28984,11 +28984,11 @@ PROPITEM_TXT_905950,Japanese Street Punk Red Hands (F),和風ストリートパ�
 PROPITEM_TXT_905951,Japanese Street Punk 2% Red Set (F),和風ストリートパンク 2%レッドセット(F)
 PROPITEM_TXT_905952,The Japanese Street Punk 2% Red Set for female characters.,女性キャラクター用の和風ストリートパンク 2%レッドセット
 PROPITEM_TXT_905953,Japanese Street Punk Costume Lucky Box,和風ストリートパンクコスチュームラッキーボックス
-PROPITEM_TXT_905954,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_905955,Violet Japanese Street Punk Bike,Violet Japanese Street Punk Bike
-PROPITEM_TXT_905956,Red Japanese Street Punk Bike,Red Japanese Street Punk Bike
-PROPITEM_TXT_905957,Green Japanese Street Punk Bike,Green Japanese Street Punk Bike
-PROPITEM_TXT_905958,"Inspired by Japan's legendary street riders, this bold machine blends rebellious style with classic craftsmanship for an unforgettable ride. Maximum Speed: 64 km/h.","Inspired by Japan's legendary street riders, this bold machine blends rebellious style with classic craftsmanship for an unforgettable ride. Maximum Speed: 64 km/h."
+PROPITEM_TXT_905954,This box contains a Japanese Street Punk Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの和風ストリートパンクセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_905955,Violet Japanese Street Punk Bike,バイオレット和風ストリートパンクバイク
+PROPITEM_TXT_905956,Red Japanese Street Punk Bike,レッド和風ストリートパンクバイク
+PROPITEM_TXT_905957,Green Japanese Street Punk Bike,グリーン和風ストリートパンクバイク
+PROPITEM_TXT_905958,"Inspired by Japan's legendary street riders, this bold machine blends rebellious style with classic craftsmanship for an unforgettable ride. Maximum Speed: 64 km/h.",日本の伝説的なストリートライダーたちに着想を得たこの大胆なマシンは、反骨精神あふれるスタイルと伝統の匠の技を融合させ、忘れられないライドを約束する。最高速度：64km/h。
 PROPITEM_TXT_905959,Japanese Warrior 10% Blue Set,和風武者 10%ブルーセット
 PROPITEM_TXT_905960,Japanese Warrior Blue Katana,和風武者ブルー刀
 PROPITEM_TXT_905961,Japanese Warrior Blue Hat (M),和風武者ブルーハット(M)
@@ -29073,79 +29073,79 @@ PROPITEM_TXT_906039,Japanese Warrior White Shoes (F),和風武者ホワイトシ
 PROPITEM_TXT_906040,Japanese Warrior White Hands (F),和風武者ホワイトグローブ(F)
 PROPITEM_TXT_906041,Japanese Warrior 2% White Set (F),和風武者 2%ホワイトセット(F)
 PROPITEM_TXT_906042,The Japanese Warrior 2% White Set for female characters.,女性キャラクター用の和風武者 2%ホワイトセット
-PROPITEM_TXT_906043,Blue Pocket Shinobi,Blue Pocket Shinobi
-PROPITEM_TXT_906044,"Small in size but swift in action, Pocket Shinobi faithfully follows its master, silently collecting every piece of loot along the way.","Small in size but swift in action, Pocket Shinobi faithfully follows its master, silently collecting every piece of loot along the way."
-PROPITEM_TXT_906045,Red Pocket Shinobi,Red Pocket Shinobi
-PROPITEM_TXT_906046,Green Pocket Shinobi,Green Pocket Shinobi
-PROPITEM_TXT_906047,Violet Pocket Shinobi,Violet Pocket Shinobi
-PROPITEM_TXT_906048,Forest Pocket Shinobi,Forest Pocket Shinobi
-PROPITEM_TXT_906049,White Pocket Shinobi,White Pocket Shinobi
+PROPITEM_TXT_906043,Blue Pocket Shinobi,ブルーポケット忍者
+PROPITEM_TXT_906044,"Small in size but swift in action, Pocket Shinobi faithfully follows its master, silently collecting every piece of loot along the way.",小さな体に素早い身のこなし、ポケット忍者は忠実にご主人様の後を追い、道中の戦利品を静かに集めてくれます。
+PROPITEM_TXT_906045,Red Pocket Shinobi,レッドポケット忍者
+PROPITEM_TXT_906046,Green Pocket Shinobi,グリーンポケット忍者
+PROPITEM_TXT_906047,Violet Pocket Shinobi,バイオレットポケット忍者
+PROPITEM_TXT_906048,Forest Pocket Shinobi,フォレストポケット忍者
+PROPITEM_TXT_906049,White Pocket Shinobi,ホワイトポケット忍者
 PROPITEM_TXT_906050,Japanese Warrior Costume Lucky Box,和風武者コスチュームラッキーボックス
-PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_161000,Primordial Runthiel Helmet,プリモーディアルランティエルヘルメット
-PROPITEM_TXT_161001,Primordial Runthiel Suit,プリモーディアルランティエルスーツ
-PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,プリモーディアルランティエルガントレット
-PROPITEM_TXT_161003,Primordial Runthiel Boots,プリモーディアルランティエルブーツ
-PROPITEM_TXT_161004,Primordial Runthien Helmet,プリモーディアルランティエンヘルメット
-PROPITEM_TXT_161005,Primordial Runthien Suit,プリモーディアルランティエンスーツ
-PROPITEM_TXT_161006,Primordial Runthien Gauntlets,プリモーディアルランティエンガントレット
-PROPITEM_TXT_161007,Primordial Runthien Boots,プリモーディアルランティエンブーツ
-PROPITEM_TXT_161008,Primordial Zaythor Helmet,プリモーディアルゼイソーヘルメット
-PROPITEM_TXT_161009,Primordial Zaythor Suit,プリモーディアルゼイソースーツ
-PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,プリモーディアルゼイソーガントレット
-PROPITEM_TXT_161011,Primordial Zaythor Boots,プリモーディアルゼイソーブーツ
-PROPITEM_TXT_161012,Primordial Zaythar Helmet,プリモーディアルゼイサーヘルメット
-PROPITEM_TXT_161013,Primordial Zaythar Suit,プリモーディアルゼイサースーツ
-PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,プリモーディアルゼイサーガントレット
-PROPITEM_TXT_161015,Primordial Zaythar Boots,プリモーディアルゼイサーブーツ
-PROPITEM_TXT_161016,Primordial Chyrelle Helmet,プリモーディアルシレルヘルメット
-PROPITEM_TXT_161017,Primordial Chyrelle Suit,プリモーディアルシレルスーツ
-PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,プリモーディアルシレルガントレット
-PROPITEM_TXT_161019,Primordial Chyrelle Boots,プリモーディアルシレルブーツ
-PROPITEM_TXT_161020,Primordial Chyrella Helmet,プリモーディアルシレラヘルメット
-PROPITEM_TXT_161021,Primordial Chyrella Suit,プリモーディアルシレラスーツ
-PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,プリモーディアルシレラガントレット
-PROPITEM_TXT_161023,Primordial Chyrella Boots,プリモーディアルシレラブーツ
-PROPITEM_TXT_161024,Primordial Lenvire Helmet,プリモーディアルレンヴィールヘルメット
-PROPITEM_TXT_161025,Primordial Lenvire Suit,プリモーディアルレンヴィールスーツ
-PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,プリモーディアルレンヴィールガントレット
-PROPITEM_TXT_161027,Primordial Lenvire Boots,プリモーディアルレンヴィールブーツ
-PROPITEM_TXT_161028,Primordial Lenvira Helmet,プリモーディアルレンヴィラヘルメット
-PROPITEM_TXT_161029,Primordial Lenvira Suit,プリモーディアルレンヴィラスーツ
-PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,プリモーディアルレンヴィラガントレット
-PROPITEM_TXT_161031,Primordial Lenvira Boots,プリモーディアルレンヴィラブーツ
-PROPITEM_TXT_161032,Primordial Etranor Helmet,プリモーディアルエトラノールヘルメット
-PROPITEM_TXT_161033,Primordial Etranor Suit,プリモーディアルエトラノールスーツ
-PROPITEM_TXT_161034,Primordial Etranor Gauntlets,プリモーディアルエトラノールガントレット
-PROPITEM_TXT_161035,Primordial Etranor Boots,プリモーディアルエトラノールブーツ
-PROPITEM_TXT_161036,Primordial Etranar Helmet,プリモーディアルエトラナーヘルメット
-PROPITEM_TXT_161037,Primordial Etranar Suit,プリモーディアルエトラナースーツ
-PROPITEM_TXT_161038,Primordial Etranar Gauntlets,プリモーディアルエトラナーガントレット
-PROPITEM_TXT_161039,Primordial Etranar Boots,プリモーディアルエトラナーブーツ
-PROPITEM_TXT_161040,Primordial Kevric Helmet,プリモーディアルケブリックヘルメット
-PROPITEM_TXT_161041,Primordial Kevric Suit,プリモーディアルケブリックスーツ
-PROPITEM_TXT_161042,Primordial Kevric Gauntlets,プリモーディアルケブリックガントレット
-PROPITEM_TXT_161043,Primordial Kevric Boots,プリモーディアルケブリックブーツ
-PROPITEM_TXT_161044,Primordial Kevricar Helmet,プリモーディアルケブリカーヘルメット
-PROPITEM_TXT_161045,Primordial Kevricar Suit,プリモーディアルケブリカースーツ
-PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,プリモーディアルケブリカーガントレット
-PROPITEM_TXT_161047,Primordial Kevricar Boots,プリモーディアルケブリカーブーツ
-PROPITEM_TXT_161048,PvP Ustamel Helmet,PvPウスタメルヘルメット
-PROPITEM_TXT_161049,PvP Ustamel Suit,PvPウスタメルスーツ
-PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvPウスタメルガントレット
-PROPITEM_TXT_161051,PvP Ustamel Boots,PvPウスタメルブーツ
-PROPITEM_TXT_161052,PvP Ustamen Helmet,PvPウスタメンヘルメット
-PROPITEM_TXT_161053,PvP Ustamen Suit,PvPウスタメンスーツ
-PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvPウスタメンガントレット
-PROPITEM_TXT_161055,PvP Ustamen Boots,PvPウスタメンブーツ
-PROPITEM_TXT_161056,PvP Virashon Helmet,PvPヴィラションヘルメット
-PROPITEM_TXT_161057,PvP Virashon Suit,PvPヴィラションスーツ
-PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvPヴィラションガントレット
-PROPITEM_TXT_161059,PvP Virashon Boots,PvPヴィラションブーツ
-PROPITEM_TXT_161060,PvP Verashan Helmet,PvPヴェラシャンヘルメット
-PROPITEM_TXT_161061,PvP Verashan Suit,PvPヴェラシャンスーツ
-PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvPヴェラシャンガントレット
-PROPITEM_TXT_161063,PvP Verashan Boots,PvPヴェラシャンブーツ
+PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの和風武者セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
+PROPITEM_TXT_161000,Primordial Runthiel Helmet,プリモーディアルランティエル・ヘルメット
+PROPITEM_TXT_161001,Primordial Runthiel Suit,プリモーディアルランティエル・スーツ
+PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,プリモーディアルランティエル・ガントレット
+PROPITEM_TXT_161003,Primordial Runthiel Boots,プリモーディアルランティエル・ブーツ
+PROPITEM_TXT_161004,Primordial Runthien Helmet,プリモーディアルランティエン・ヘルメット
+PROPITEM_TXT_161005,Primordial Runthien Suit,プリモーディアルランティエン・スーツ
+PROPITEM_TXT_161006,Primordial Runthien Gauntlets,プリモーディアルランティエン・ガントレット
+PROPITEM_TXT_161007,Primordial Runthien Boots,プリモーディアルランティエン・ブーツ
+PROPITEM_TXT_161008,Primordial Zaythor Helmet,プリモーディアルゼイソー・ヘルメット
+PROPITEM_TXT_161009,Primordial Zaythor Suit,プリモーディアルゼイソー・スーツ
+PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,プリモーディアルゼイソー・ガントレット
+PROPITEM_TXT_161011,Primordial Zaythor Boots,プリモーディアルゼイソー・ブーツ
+PROPITEM_TXT_161012,Primordial Zaythar Helmet,プリモーディアルゼイサー・ヘルメット
+PROPITEM_TXT_161013,Primordial Zaythar Suit,プリモーディアルゼイサー・スーツ
+PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,プリモーディアルゼイサー・ガントレット
+PROPITEM_TXT_161015,Primordial Zaythar Boots,プリモーディアルゼイサー・ブーツ
+PROPITEM_TXT_161016,Primordial Chyrelle Helmet,プリモーディアルシレル・ヘルメット
+PROPITEM_TXT_161017,Primordial Chyrelle Suit,プリモーディアルシレル・スーツ
+PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,プリモーディアルシレル・ガントレット
+PROPITEM_TXT_161019,Primordial Chyrelle Boots,プリモーディアルシレル・ブーツ
+PROPITEM_TXT_161020,Primordial Chyrella Helmet,プリモーディアルシレラ・ヘルメット
+PROPITEM_TXT_161021,Primordial Chyrella Suit,プリモーディアルシレラ・スーツ
+PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,プリモーディアルシレラ・ガントレット
+PROPITEM_TXT_161023,Primordial Chyrella Boots,プリモーディアルシレラ・ブーツ
+PROPITEM_TXT_161024,Primordial Lenvire Helmet,プリモーディアルレンヴィール・ヘルメット
+PROPITEM_TXT_161025,Primordial Lenvire Suit,プリモーディアルレンヴィール・スーツ
+PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,プリモーディアルレンヴィール・ガントレット
+PROPITEM_TXT_161027,Primordial Lenvire Boots,プリモーディアルレンヴィール・ブーツ
+PROPITEM_TXT_161028,Primordial Lenvira Helmet,プリモーディアルレンヴィラ・ヘルメット
+PROPITEM_TXT_161029,Primordial Lenvira Suit,プリモーディアルレンヴィラ・スーツ
+PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,プリモーディアルレンヴィラ・ガントレット
+PROPITEM_TXT_161031,Primordial Lenvira Boots,プリモーディアルレンヴィラ・ブーツ
+PROPITEM_TXT_161032,Primordial Etranor Helmet,プリモーディアルエトラノール・ヘルメット
+PROPITEM_TXT_161033,Primordial Etranor Suit,プリモーディアルエトラノール・スーツ
+PROPITEM_TXT_161034,Primordial Etranor Gauntlets,プリモーディアルエトラノール・ガントレット
+PROPITEM_TXT_161035,Primordial Etranor Boots,プリモーディアルエトラノール・ブーツ
+PROPITEM_TXT_161036,Primordial Etranar Helmet,プリモーディアルエトラナー・ヘルメット
+PROPITEM_TXT_161037,Primordial Etranar Suit,プリモーディアルエトラナー・スーツ
+PROPITEM_TXT_161038,Primordial Etranar Gauntlets,プリモーディアルエトラナー・ガントレット
+PROPITEM_TXT_161039,Primordial Etranar Boots,プリモーディアルエトラナー・ブーツ
+PROPITEM_TXT_161040,Primordial Kevric Helmet,プリモーディアルケブリック・ヘルメット
+PROPITEM_TXT_161041,Primordial Kevric Suit,プリモーディアルケブリック・スーツ
+PROPITEM_TXT_161042,Primordial Kevric Gauntlets,プリモーディアルケブリック・ガントレット
+PROPITEM_TXT_161043,Primordial Kevric Boots,プリモーディアルケブリック・ブーツ
+PROPITEM_TXT_161044,Primordial Kevricar Helmet,プリモーディアルケブリカー・ヘルメット
+PROPITEM_TXT_161045,Primordial Kevricar Suit,プリモーディアルケブリカー・スーツ
+PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,プリモーディアルケブリカー・ガントレット
+PROPITEM_TXT_161047,Primordial Kevricar Boots,プリモーディアルケブリカー・ブーツ
+PROPITEM_TXT_161048,PvP Ustamel Helmet,PvPウスタメル・ヘルメット
+PROPITEM_TXT_161049,PvP Ustamel Suit,PvPウスタメル・スーツ
+PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvPウスタメル・ガントレット
+PROPITEM_TXT_161051,PvP Ustamel Boots,PvPウスタメル・ブーツ
+PROPITEM_TXT_161052,PvP Ustamen Helmet,PvPウスタメン・ヘルメット
+PROPITEM_TXT_161053,PvP Ustamen Suit,PvPウスタメン・スーツ
+PROPITEM_TXT_161054,PvP Ustamen Gauntlets,PvPウスタメン・ガントレット
+PROPITEM_TXT_161055,PvP Ustamen Boots,PvPウスタメン・ブーツ
+PROPITEM_TXT_161056,PvP Virashon Helmet,PvPヴィラション・ヘルメット
+PROPITEM_TXT_161057,PvP Virashon Suit,PvPヴィラション・スーツ
+PROPITEM_TXT_161058,PvP Virashon Gauntlets,PvPヴィラション・ガントレット
+PROPITEM_TXT_161059,PvP Virashon Boots,PvPヴィラション・ブーツ
+PROPITEM_TXT_161060,PvP Verashan Helmet,PvPヴェラシャン・ヘルメット
+PROPITEM_TXT_161061,PvP Verashan Suit,PvPヴェラシャン・スーツ
+PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvPヴェラシャン・ガントレット
+PROPITEM_TXT_161063,PvP Verashan Boots,PvPヴェラシャン・ブーツ
 PROPITEM_TXT_161064,Leafloop,Leafloop
 PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.","A tiny vine coiled in a spiral, brimming with gentle nature magic."
 PROPITEM_TXT_161066,Silent Petal,Silent Petal
