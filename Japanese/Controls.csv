@@ -176,14 +176,14 @@ PROPCTRL_TXT_000196,Common Rock 1,一般的な岩1
 PROPCTRL_TXT_000197,Common Autumn Tree,一般的な秋の木
 PROPCTRL_TXT_000198,Common Sakura Tree 1,一般的な桜の木1
 PROPCTRL_TXT_000199,Common Burned Tree,一般的な焼けた木
-PROPCTRL_TXT_000200,St Morning Bench,セントモーニングベンチ
+PROPCTRL_TXT_000200,St Morning Bench,セイントモーニングベンチ
 PROPCTRL_TXT_000201,St Morning Chariot,セント モーニング シャーレット
-PROPCTRL_TXT_000202,St Morning Rock Arch 1,セントモーニングロックアーチ1
-PROPCTRL_TXT_000203,St Morning Flag 1,セントモーニングフラッグ1
-PROPCTRL_TXT_000204,St Morning Flower Bed,セントモーニングフラワーベッド
-PROPCTRL_TXT_000205,St Morning Rock 1,セントモーニングロック1
-PROPCTRL_TXT_000206,St Morning Light 1,セントモーニングライト1
-PROPCTRL_TXT_000207,St Morning Sign,セントモーニングサイン
+PROPCTRL_TXT_000202,St Morning Rock Arch 1,セイントモーニングロックアーチ1
+PROPCTRL_TXT_000203,St Morning Flag 1,セイントモーニングフラッグ1
+PROPCTRL_TXT_000204,St Morning Flower Bed,セイントモーニングフラワーベッド
+PROPCTRL_TXT_000205,St Morning Rock 1,セイントモーニングロック1
+PROPCTRL_TXT_000206,St Morning Light 1,セイントモーニングライト1
+PROPCTRL_TXT_000207,St Morning Sign,セイントモーニングサイン
 PROPCTRL_TXT_000208,Darkon Wagon 1,ダーコンワゴン1
 PROPCTRL_TXT_000209,Darkon Sign 1,ダーコンサイン1
 PROPCTRL_TXT_000210,Darkon Big Box 1,ダーコンビッグボックス1
@@ -404,25 +404,25 @@ PROPCTRL_TXT_000424,Common Rock 9,コモンロック9
 PROPCTRL_TXT_000425,Common Rock 10,コモンロック10
 PROPCTRL_TXT_000426,St Morning Rock Arch 2,セント モーニング ロック アーチ2
 PROPCTRL_TXT_000427,St Morning Rock Arch 3,セント モーニング ロック アーチ3
-PROPCTRL_TXT_000428,St Morning Flag 2,セントモーニングフラッグ2
-PROPCTRL_TXT_000429,St Morning Flag 3,セントモーニングフラッグ3
-PROPCTRL_TXT_000430,St Morning Flag 4,セントモーニングフラッグ4
-PROPCTRL_TXT_000431,St Morning Flag 5,セントモーニングフラッグ5
-PROPCTRL_TXT_000432,St Morning Rock 2,セントモーニングロック2
-PROPCTRL_TXT_000433,St Morning Rock 3,セントモーニングロック3
-PROPCTRL_TXT_000434,St Morning Rock 4,セントモーニングロック4
-PROPCTRL_TXT_000435,St Morning Rock 5,セントモーニングロック5
-PROPCTRL_TXT_000436,St Morning Rock 6,セントモーニングロック6
-PROPCTRL_TXT_000437,St Morning Rock 7,セントモーニングロック7
-PROPCTRL_TXT_000438,St Morning Rock 8,セントモーニングロック8
-PROPCTRL_TXT_000439,St Morning Rock 9,セントモーニングロック9
-PROPCTRL_TXT_000440,St Morning Rock 10,セントモーニングロック10
-PROPCTRL_TXT_000441,St Morning Rock 11,セントモーニングロック11
-PROPCTRL_TXT_000442,St Morning Rock 12,セントモーニングロック12
-PROPCTRL_TXT_000443,St Morning Rock 13,セントモーニングロック13
-PROPCTRL_TXT_000444,St Morning Rock 14,セントモーニングロック14
-PROPCTRL_TXT_000445,St Morning Rock 15,セントモーニングロック15
-PROPCTRL_TXT_000446,St Morning Light 2,セントモーニングライト2
+PROPCTRL_TXT_000428,St Morning Flag 2,セイントモーニングフラッグ2
+PROPCTRL_TXT_000429,St Morning Flag 3,セイントモーニングフラッグ3
+PROPCTRL_TXT_000430,St Morning Flag 4,セイントモーニングフラッグ4
+PROPCTRL_TXT_000431,St Morning Flag 5,セイントモーニングフラッグ5
+PROPCTRL_TXT_000432,St Morning Rock 2,セイントモーニングロック2
+PROPCTRL_TXT_000433,St Morning Rock 3,セイントモーニングロック3
+PROPCTRL_TXT_000434,St Morning Rock 4,セイントモーニングロック4
+PROPCTRL_TXT_000435,St Morning Rock 5,セイントモーニングロック5
+PROPCTRL_TXT_000436,St Morning Rock 6,セイントモーニングロック6
+PROPCTRL_TXT_000437,St Morning Rock 7,セイントモーニングロック7
+PROPCTRL_TXT_000438,St Morning Rock 8,セイントモーニングロック8
+PROPCTRL_TXT_000439,St Morning Rock 9,セイントモーニングロック9
+PROPCTRL_TXT_000440,St Morning Rock 10,セイントモーニングロック10
+PROPCTRL_TXT_000441,St Morning Rock 11,セイントモーニングロック11
+PROPCTRL_TXT_000442,St Morning Rock 12,セイントモーニングロック12
+PROPCTRL_TXT_000443,St Morning Rock 13,セイントモーニングロック13
+PROPCTRL_TXT_000444,St Morning Rock 14,セイントモーニングロック14
+PROPCTRL_TXT_000445,St Morning Rock 15,セイントモーニングロック15
+PROPCTRL_TXT_000446,St Morning Light 2,セイントモーニングライト2
 PROPCTRL_TXT_000447,Darkon Wagon 2,ダーコンワゴン2
 PROPCTRL_TXT_000448,Darkon Wagon 3,ダーコンワゴン3
 PROPCTRL_TXT_000449,Darkon Wagon 4,ダーコンワゴン4
@@ -538,10 +538,10 @@ PROPCTRL_TXT_000558,Flaris Fence 4,フラリスフェンス4
 PROPCTRL_TXT_000559,Flaris Fence 5,フラリスフェンス5
 PROPCTRL_TXT_000560,Flaris Fence 6,フラリスフェンス6
 PROPCTRL_TXT_000561,1st Anniversary Flaris Cake,1周年記念フラリスケーキ
-PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,1周年記念セントモーニングケーキ
+PROPCTRL_TXT_000562,1st Anniversary Saint Morning Cake,1周年記念セイントモーニングケーキ
 PROPCTRL_TXT_000563,1st Anniversary Darkon Cake,1周年記念ダーコンケーキ
 PROPCTRL_TXT_000564,2nd Anniversary Flaris Cake,2周年記念フラリスケーキ
-PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,2周年記念セントモーニングケーキ
+PROPCTRL_TXT_000565,2nd Anniversary Saint Morning Cake,2周年記念セイントモーニングケーキ
 PROPCTRL_TXT_000566,2nd Anniversary Darkon Cake,2周年記念ダーコンケーキ
 PROPCTRL_TXT_000567,2nd Anniversary Presents 1,2周年記念プレゼンツ1
 PROPCTRL_TXT_000568,2nd Anniversary Presents 2,2周年記念プレゼンツ2
@@ -555,164 +555,164 @@ PROPCTRL_TXT_000575,Luxury Sofa,ラグジュアリーソファ
 PROPCTRL_TXT_000576,Luxury Armchair,ラグジュアリーアームチェア
 PROPCTRL_TXT_000577,Luxury Chair,ラグジュアリーチェア
 PROPCTRL_TXT_000578,Luxury Bed,ラグジュアリーベッド
-PROPCTRL_TXT_000579,Ordinary Herb,Ordinary Herb
-PROPCTRL_TXT_000580,Regular Herb,Regular Herb
-PROPCTRL_TXT_000581,Unique Herb,Unique Herb
-PROPCTRL_TXT_000582,Rare Herb,Rare Herb
-PROPCTRL_TXT_000583,Legendary Herb,Legendary Herb
-PROPCTRL_TXT_000584,Ordinary Tree,Ordinary Tree
-PROPCTRL_TXT_000585,Regular Tree,Regular Tree
-PROPCTRL_TXT_000586,Unique Tree,Unique Tree
-PROPCTRL_TXT_000587,Rare Tree,Rare Tree
-PROPCTRL_TXT_000588,Legendary Tree,Legendary Tree
-PROPCTRL_TXT_000589,Ordinary Rock,Ordinary Rock
-PROPCTRL_TXT_000590,Regular Rock,Regular Rock
-PROPCTRL_TXT_000591,Unique Rock,Unique Rock
-PROPCTRL_TXT_000592,Rare Rock,Rare Rock
-PROPCTRL_TXT_000593,Legendary Rock,Legendary Rock
-PROPCTRL_TXT_000594,Alchemy Desk,Alchemy Desk
-PROPCTRL_TXT_000595,Hearth,Hearth
-PROPCTRL_TXT_000596,Carpentry Workspace,Carpentry Workspace
-PROPCTRL_TXT_000597,Smithing Workspace,Smithing Workspace
-PROPCTRL_TXT_000598,Halloween Pumpkin,Halloween Pumpkin
-PROPCTRL_TXT_000599,Message Sign,Message Sign
-PROPCTRL_TXT_000600,Medieval Bed,Medieval Bed
-PROPCTRL_TXT_000601,Medieval Sofa,Medieval Sofa
-PROPCTRL_TXT_000602,Medieval Armchair,Medieval Armchair
-PROPCTRL_TXT_000603,Medieval Bookcase,Medieval Bookcase
-PROPCTRL_TXT_000604,Medieval Wardrobe,Medieval Wardrobe
-PROPCTRL_TXT_000605,Medieval Table,Medieval Table
-PROPCTRL_TXT_000606,Medieval Chair,Medieval Chair
-PROPCTRL_TXT_000607,Medieval Floor Lamp,Medieval Floor Lamp
-PROPCTRL_TXT_000608,Medieval Drawer,Medieval Drawer
-PROPCTRL_TXT_000609,Halloween 2024 Bed,Halloween 2024 Bed
-PROPCTRL_TXT_000610,Halloween 2024 Sofa,Halloween 2024 Sofa
-PROPCTRL_TXT_000611,Halloween 2024 Armchair,Halloween 2024 Armchair
-PROPCTRL_TXT_000612,Halloween 2024 Bookcase,Halloween 2024 Bookcase
-PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,Halloween 2024 Wardrobe
-PROPCTRL_TXT_000614,Halloween 2024 Table,Halloween 2024 Table
-PROPCTRL_TXT_000615,Halloween 2024 Chair,Halloween 2024 Chair
-PROPCTRL_TXT_000616,Halloween 2024 Lantern,Halloween 2024 Lantern
-PROPCTRL_TXT_000617,Halloween 2024 Drawer,Halloween 2024 Drawer
-PROPCTRL_TXT_000618,Flaris House 1,Flaris House 1
-PROPCTRL_TXT_000619,Flaris House 2,Flaris House 2
-PROPCTRL_TXT_000620,Flaris House 3,Flaris House 3
-PROPCTRL_TXT_000621,Flaris House 4,Flaris House 4
-PROPCTRL_TXT_000622,Flaris House 5,Flaris House 5
-PROPCTRL_TXT_000623,Flaris House 6,Flaris House 6
-PROPCTRL_TXT_000624,Flaris House 7,Flaris House 7
-PROPCTRL_TXT_000625,Flaris House 8,Flaris House 8
-PROPCTRL_TXT_000626,Flaris House 9,Flaris House 9
-PROPCTRL_TXT_000627,Flaris House 10,Flaris House 10
-PROPCTRL_TXT_000628,Saint Morning House 1,Saint Morning House 1
-PROPCTRL_TXT_000629,Saint Morning House 2,Saint Morning House 2
-PROPCTRL_TXT_000630,Saint Morning House 3,Saint Morning House 3
-PROPCTRL_TXT_000631,Saint Morning House 4,Saint Morning House 4
-PROPCTRL_TXT_000632,Saint Morning House 5,Saint Morning House 5
-PROPCTRL_TXT_000633,Saint Morning House 6,Saint Morning House 6
-PROPCTRL_TXT_000634,Saint Morning House 7,Saint Morning House 7
-PROPCTRL_TXT_000635,Saint Morning House 8,Saint Morning House 8
-PROPCTRL_TXT_000636,Saint Morning House 9,Saint Morning House 9
-PROPCTRL_TXT_000637,Saint Morning House 10,Saint Morning House 10
-PROPCTRL_TXT_000638,Saint Morning House 11,Saint Morning House 11
-PROPCTRL_TXT_000639,Pumpkin Town House 1,Pumpkin Town House 1
-PROPCTRL_TXT_000640,Pumpkin Town House 2,Pumpkin Town House 2
-PROPCTRL_TXT_000641,Pumpkin Town House 3,Pumpkin Town House 3
-PROPCTRL_TXT_000642,Darkon House 1,Darkon House 1
-PROPCTRL_TXT_000643,Darkon House 2,Darkon House 2
-PROPCTRL_TXT_000644,Darkon House 3,Darkon House 3
-PROPCTRL_TXT_000645,Darkon House 4,Darkon House 4
-PROPCTRL_TXT_000646,Darkon House 5,Darkon House 5
-PROPCTRL_TXT_000647,Azria House 1,Azria House 1
-PROPCTRL_TXT_000648,Azria House 2,Azria House 2
-PROPCTRL_TXT_000649,Azria House 3,Azria House 3
-PROPCTRL_TXT_000650,Azria House 4,Azria House 4
-PROPCTRL_TXT_000651,Flaris Street Lamp,Flaris Street Lamp
-PROPCTRL_TXT_000652,Flaris Tent 1,Flaris Tent 1
-PROPCTRL_TXT_000653,Madrigal Floating Sign 1,Madrigal Floating Sign 1
-PROPCTRL_TXT_000654,Madrigal Floating Sign 2,Madrigal Floating Sign 2
-PROPCTRL_TXT_000655,Madrigal No-fly Sign,Madrigal No-fly Sign
-PROPCTRL_TXT_000656,Madrigal Floating Ring,Madrigal Floating Ring
-PROPCTRL_TXT_000657,Flaris Box and cover,Flaris Box and cover
-PROPCTRL_TXT_000658,Magic Crystal Object,Magic Crystal Object
-PROPCTRL_TXT_000659,Flaris Tent 2,Flaris Tent 2
-PROPCTRL_TXT_000662,Flaris Carriage,Flaris Carriage
-PROPCTRL_TXT_000663,Flaris Torch,Flaris Torch
-PROPCTRL_TXT_000664,Flaris Floating Island,Flaris Floating Island
-PROPCTRL_TXT_000665,Saint Morning Lighthouse,Saint Morning Lighthouse
-PROPCTRL_TXT_000666,Saint Morning Crane,Saint Morning Crane
-PROPCTRL_TXT_000667,Saint Morning Campfire,Saint Morning Campfire
-PROPCTRL_TXT_000668,Saint Morning Palm Tree,Saint Morning Palm Tree
-PROPCTRL_TXT_000669,Saint Morning Pumpkin Fence,Saint Morning Pumpkin Fence
-PROPCTRL_TXT_000670,Saint Morning Scarecrow,Saint Morning Scarecrow
-PROPCTRL_TXT_000672,Saint Morning Cactus 1,Saint Morning Cactus 1
-PROPCTRL_TXT_000673,Saint Morning Cactus 2,Saint Morning Cactus 2
-PROPCTRL_TXT_000674,Saint Morning Cactus 3,Saint Morning Cactus 3
-PROPCTRL_TXT_000675,Rhisis Stone Pillar 1,Rhisis Stone Pillar 1
-PROPCTRL_TXT_000676,Rhisis Stone Pillar 2,Rhisis Stone Pillar 2
-PROPCTRL_TXT_000677,Rhisis Broken Temple,Rhisis Broken Temple
-PROPCTRL_TXT_000678,Darkon Steel Frame 1,Darkon Steel Frame 1
-PROPCTRL_TXT_000679,Darkon Steel Frame 2,Darkon Steel Frame 2
-PROPCTRL_TXT_000680,Darkon Structure,Darkon Structure
-PROPCTRL_TXT_000681,Darkon Water Tank,Darkon Water Tank
-PROPCTRL_TXT_000682,Darkon Large crane,Darkon Large crane
-PROPCTRL_TXT_000683,Darkon Dirt pile,Darkon Dirt pile
-PROPCTRL_TXT_000684,Darkon Shack,Darkon Shack
-PROPCTRL_TXT_000685,Darkon Market,Darkon Market
-PROPCTRL_TXT_000686,Darkon Tree Bark,Darkon Tree Bark
-PROPCTRL_TXT_000687,Darkon Fossil,Darkon Fossil
-PROPCTRL_TXT_000688,Darkon Large Fossil,Darkon Large Fossil
-PROPCTRL_TXT_000689,Guardiane Structure,Guardiane Structure
-PROPCTRL_TXT_000690,Guardiane Platform,Guardiane Platform
-PROPCTRL_TXT_000691,Azria Ground Window,Azria Ground Window
-PROPCTRL_TXT_000692,Azria Large Crane,Azria Large Crane
-PROPCTRL_TXT_000693,Azria Water Tank,Azria Water Tank
-PROPCTRL_TXT_000694,Azria Arch,Azria Arch
-PROPCTRL_TXT_000695,Azria Stone Pile,Azria Stone Pile
-PROPCTRL_TXT_000696,Azria Stone Pillar,Azria Stone Pillar
-PROPCTRL_TXT_000697,Azria Stone Tower,Azria Stone Tower
-PROPCTRL_TXT_000698,Coral Island Wrecked Ship Part,Coral Island Wrecked Ship Part
-PROPCTRL_TXT_000699,Coral Island Wrecked Ship,Coral Island Wrecked Ship
-PROPCTRL_TXT_000700,Coral Island Sea Weed 1,Coral Island Sea Weed 1
-PROPCTRL_TXT_000701,Coral Island Sea Weed 2,Coral Island Sea Weed 2
-PROPCTRL_TXT_000702,Coral Island Sea Weed 3,Coral Island Sea Weed 3
-PROPCTRL_TXT_000703,Coral Island Coral Platform,Coral Island Coral Platform
-PROPCTRL_TXT_000704,Coral Island Coral 13,Coral Island Coral 13
-PROPCTRL_TXT_000705,Coral Island Coral 14,Coral Island Coral 14
-PROPCTRL_TXT_000706,Coral Island Coral 15,Coral Island Coral 15
-PROPCTRL_TXT_000707,Coral Island Coral 16,Coral Island Coral 16
-PROPCTRL_TXT_000708,Coral Island Campfire,Coral Island Campfire
-PROPCTRL_TXT_000709,Saint Morning Wall Pillar,Saint Morning Wall Pillar
-PROPCTRL_TXT_000710,Neon Valentines Black Lamp,Neon Valentines Black Lamp
-PROPCTRL_TXT_000711,Neon Valentines Black Desk,Neon Valentines Black Desk
-PROPCTRL_TXT_000712,Neon Valentines Black Drawer,Neon Valentines Black Drawer
-PROPCTRL_TXT_000713,Neon Valentines Black Dresser,Neon Valentines Black Dresser
-PROPCTRL_TXT_000714,Neon Valentines Black Bookshelf,Neon Valentines Black Bookshelf
-PROPCTRL_TXT_000715,Neon Valentines Black Chair,Neon Valentines Black Chair
-PROPCTRL_TXT_000716,Neon Valentines Black Bath,Neon Valentines Black Bath
-PROPCTRL_TXT_000717,Neon Valentines Black Bed,Neon Valentines Black Bed
-PROPCTRL_TXT_000718,Neon Valentines Black Sofa,Neon Valentines Black Sofa
-PROPCTRL_TXT_000719,Neon Valentines White Lamp,Neon Valentines White Lamp
-PROPCTRL_TXT_000720,Neon Valentines White Desk,Neon Valentines White Desk
-PROPCTRL_TXT_000721,Neon Valentines White Drawer,Neon Valentines White Drawer
-PROPCTRL_TXT_000722,Neon Valentines White Dresser,Neon Valentines White Dresser
-PROPCTRL_TXT_000723,Neon Valentines White Bookshelf,Neon Valentines White Bookshelf
-PROPCTRL_TXT_000724,Neon Valentines White Chair,Neon Valentines White Chair
-PROPCTRL_TXT_000725,Neon Valentines White Bath,Neon Valentines White Bath
-PROPCTRL_TXT_000726,Neon Valentines White Bed,Neon Valentines White Bed
-PROPCTRL_TXT_000727,Neon Valentines White Sofa,Neon Valentines White Sofa
-PROPCTRL_TXT_000728,Pastel Bed,Pastel Bed
-PROPCTRL_TXT_000729,Pastel Sofa,Pastel Sofa
-PROPCTRL_TXT_000730,Pastel Stool,Pastel Stool
-PROPCTRL_TXT_000731,Pastel Bookshelf,Pastel Bookshelf
-PROPCTRL_TXT_000732,Pastel Lamp,Pastel Lamp
-PROPCTRL_TXT_000733,Pastel Desk,Pastel Desk
-PROPCTRL_TXT_000734,Pastel Chair,Pastel Chair
-PROPCTRL_TXT_000735,Pastel Nightstand,Pastel Nightstand
-PROPCTRL_TXT_000736,Pastel Bathtub,Pastel Bathtub
-PROPCTRL_TXT_000737,[Event] Chroma Ore,[Event] Chroma Ore
-PROPCTRL_TXT_000738,Statue Base,Statue Base
-PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,3rd Anniversary Flaris Cake
-PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,3rd Anniversary Saint Morning Cake
-PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,3rd Anniversary Darkon Cake
-PROPCTRL_TXT_000742,Dungeon Warp 07,Dungeon Warp 07
+PROPCTRL_TXT_000579,Ordinary Herb,一般的な薬草
+PROPCTRL_TXT_000580,Regular Herb,ありふれた薬草
+PROPCTRL_TXT_000581,Unique Herb,独特な薬草
+PROPCTRL_TXT_000582,Rare Herb,希少な薬草
+PROPCTRL_TXT_000583,Legendary Herb,伝説の薬草
+PROPCTRL_TXT_000584,Ordinary Tree,一般的な木
+PROPCTRL_TXT_000585,Regular Tree,ありふれた木
+PROPCTRL_TXT_000586,Unique Tree,独特な木
+PROPCTRL_TXT_000587,Rare Tree,希少な木
+PROPCTRL_TXT_000588,Legendary Tree,伝説の木
+PROPCTRL_TXT_000589,Ordinary Rock,一般的な岩石
+PROPCTRL_TXT_000590,Regular Rock,ありふれた岩石
+PROPCTRL_TXT_000591,Unique Rock,独特な岩石
+PROPCTRL_TXT_000592,Rare Rock,希少な岩石
+PROPCTRL_TXT_000593,Legendary Rock,伝説の岩石
+PROPCTRL_TXT_000594,Alchemy Desk,錬金デスク
+PROPCTRL_TXT_000595,Hearth,暖炉
+PROPCTRL_TXT_000596,Carpentry Workspace,木工作業台
+PROPCTRL_TXT_000597,Smithing Workspace,鍛冶作業台
+PROPCTRL_TXT_000598,Halloween Pumpkin,ハロウィンパンプキン
+PROPCTRL_TXT_000599,Message Sign,メッセージサイン
+PROPCTRL_TXT_000600,Medieval Bed,中世ベッド
+PROPCTRL_TXT_000601,Medieval Sofa,中世ソファ
+PROPCTRL_TXT_000602,Medieval Armchair,中世アームチェア
+PROPCTRL_TXT_000603,Medieval Bookcase,中世本棚
+PROPCTRL_TXT_000604,Medieval Wardrobe,中世ワードローブ
+PROPCTRL_TXT_000605,Medieval Table,中世テーブル
+PROPCTRL_TXT_000606,Medieval Chair,中世チェア
+PROPCTRL_TXT_000607,Medieval Floor Lamp,中世フロアランプ
+PROPCTRL_TXT_000608,Medieval Drawer,中世ドロワー
+PROPCTRL_TXT_000609,Halloween 2024 Bed,ハロウィン2024ベッド
+PROPCTRL_TXT_000610,Halloween 2024 Sofa,ハロウィン2024ソファ
+PROPCTRL_TXT_000611,Halloween 2024 Armchair,ハロウィン2024アームチェア
+PROPCTRL_TXT_000612,Halloween 2024 Bookcase,ハロウィン2024本棚
+PROPCTRL_TXT_000613,Halloween 2024 Wardrobe,ハロウィン2024ワードローブ
+PROPCTRL_TXT_000614,Halloween 2024 Table,ハロウィン2024テーブル
+PROPCTRL_TXT_000615,Halloween 2024 Chair,ハロウィン2024チェア
+PROPCTRL_TXT_000616,Halloween 2024 Lantern,ハロウィン2024ランタン
+PROPCTRL_TXT_000617,Halloween 2024 Drawer,ハロウィン2024ドロワー
+PROPCTRL_TXT_000618,Flaris House 1,フラリスハウス1
+PROPCTRL_TXT_000619,Flaris House 2,フラリスハウス2
+PROPCTRL_TXT_000620,Flaris House 3,フラリスハウス3
+PROPCTRL_TXT_000621,Flaris House 4,フラリスハウス4
+PROPCTRL_TXT_000622,Flaris House 5,フラリスハウス5
+PROPCTRL_TXT_000623,Flaris House 6,フラリスハウス6
+PROPCTRL_TXT_000624,Flaris House 7,フラリスハウス7
+PROPCTRL_TXT_000625,Flaris House 8,フラリスハウス8
+PROPCTRL_TXT_000626,Flaris House 9,フラリスハウス9
+PROPCTRL_TXT_000627,Flaris House 10,フラリスハウス10
+PROPCTRL_TXT_000628,Saint Morning House 1,セイントモーニングハウス1
+PROPCTRL_TXT_000629,Saint Morning House 2,セイントモーニングハウス2
+PROPCTRL_TXT_000630,Saint Morning House 3,セイントモーニングハウス3
+PROPCTRL_TXT_000631,Saint Morning House 4,セイントモーニングハウス4
+PROPCTRL_TXT_000632,Saint Morning House 5,セイントモーニングハウス5
+PROPCTRL_TXT_000633,Saint Morning House 6,セイントモーニングハウス6
+PROPCTRL_TXT_000634,Saint Morning House 7,セイントモーニングハウス7
+PROPCTRL_TXT_000635,Saint Morning House 8,セイントモーニングハウス8
+PROPCTRL_TXT_000636,Saint Morning House 9,セイントモーニングハウス9
+PROPCTRL_TXT_000637,Saint Morning House 10,セイントモーニングハウス10
+PROPCTRL_TXT_000638,Saint Morning House 11,セイントモーニングハウス11
+PROPCTRL_TXT_000639,Pumpkin Town House 1,パンプキンタウンハウス1
+PROPCTRL_TXT_000640,Pumpkin Town House 2,パンプキンタウンハウス2
+PROPCTRL_TXT_000641,Pumpkin Town House 3,パンプキンタウンハウス3
+PROPCTRL_TXT_000642,Darkon House 1,ダーコンハウス1
+PROPCTRL_TXT_000643,Darkon House 2,ダーコンハウス2
+PROPCTRL_TXT_000644,Darkon House 3,ダーコンハウス3
+PROPCTRL_TXT_000645,Darkon House 4,ダーコンハウス4
+PROPCTRL_TXT_000646,Darkon House 5,ダーコンハウス5
+PROPCTRL_TXT_000647,Azria House 1,アズリアハウス1
+PROPCTRL_TXT_000648,Azria House 2,アズリアハウス2
+PROPCTRL_TXT_000649,Azria House 3,アズリアハウス3
+PROPCTRL_TXT_000650,Azria House 4,アズリアハウス4
+PROPCTRL_TXT_000651,Flaris Street Lamp,フラリス街灯
+PROPCTRL_TXT_000652,Flaris Tent 1,フラリステント1
+PROPCTRL_TXT_000653,Madrigal Floating Sign 1,マドリガルフローティングサイン1
+PROPCTRL_TXT_000654,Madrigal Floating Sign 2,マドリガルフローティングサイン2
+PROPCTRL_TXT_000655,Madrigal No-fly Sign,マドリガル飛行禁止サイン
+PROPCTRL_TXT_000656,Madrigal Floating Ring,マドリガルフローティングリング
+PROPCTRL_TXT_000657,Flaris Box and cover,フラリスボックスとカバー
+PROPCTRL_TXT_000658,Magic Crystal Object,マジッククリスタルオブジェ
+PROPCTRL_TXT_000659,Flaris Tent 2,フラリステント2
+PROPCTRL_TXT_000662,Flaris Carriage,フラリス馬車
+PROPCTRL_TXT_000663,Flaris Torch,フラリストーチ
+PROPCTRL_TXT_000664,Flaris Floating Island,フラリスフローティングアイランド
+PROPCTRL_TXT_000665,Saint Morning Lighthouse,セイントモーニング灯台
+PROPCTRL_TXT_000666,Saint Morning Crane,セイントモーニングクレーン
+PROPCTRL_TXT_000667,Saint Morning Campfire,セイントモーニングキャンプファイヤー
+PROPCTRL_TXT_000668,Saint Morning Palm Tree,セイントモーニングヤシの木
+PROPCTRL_TXT_000669,Saint Morning Pumpkin Fence,セイントモーニングパンプキンフェンス
+PROPCTRL_TXT_000670,Saint Morning Scarecrow,セイントモーニングかかし
+PROPCTRL_TXT_000672,Saint Morning Cactus 1,セイントモーニングサボテン1
+PROPCTRL_TXT_000673,Saint Morning Cactus 2,セイントモーニングサボテン2
+PROPCTRL_TXT_000674,Saint Morning Cactus 3,セイントモーニングサボテン3
+PROPCTRL_TXT_000675,Rhisis Stone Pillar 1,リシス石柱1
+PROPCTRL_TXT_000676,Rhisis Stone Pillar 2,リシス石柱2
+PROPCTRL_TXT_000677,Rhisis Broken Temple,リシス崩れた神殿
+PROPCTRL_TXT_000678,Darkon Steel Frame 1,ダーコン鉄骨フレーム1
+PROPCTRL_TXT_000679,Darkon Steel Frame 2,ダーコン鉄骨フレーム2
+PROPCTRL_TXT_000680,Darkon Structure,ダーコン建造物
+PROPCTRL_TXT_000681,Darkon Water Tank,ダーコン貯水タンク
+PROPCTRL_TXT_000682,Darkon Large crane,ダーコン大型クレーン
+PROPCTRL_TXT_000683,Darkon Dirt pile,ダーコン土の山
+PROPCTRL_TXT_000684,Darkon Shack,ダーコン小屋
+PROPCTRL_TXT_000685,Darkon Market,ダーコンマーケット
+PROPCTRL_TXT_000686,Darkon Tree Bark,ダーコン木の皮
+PROPCTRL_TXT_000687,Darkon Fossil,ダーコン化石
+PROPCTRL_TXT_000688,Darkon Large Fossil,ダーコン大きな化石
+PROPCTRL_TXT_000689,Guardiane Structure,ガルディア建造物
+PROPCTRL_TXT_000690,Guardiane Platform,ガルディアプラットフォーム
+PROPCTRL_TXT_000691,Azria Ground Window,アズリアグラウンドウィンドウ
+PROPCTRL_TXT_000692,Azria Large Crane,アズリア大型クレーン
+PROPCTRL_TXT_000693,Azria Water Tank,アズリア貯水タンク
+PROPCTRL_TXT_000694,Azria Arch,アズリアアーチ
+PROPCTRL_TXT_000695,Azria Stone Pile,アズリア石の山
+PROPCTRL_TXT_000696,Azria Stone Pillar,アズリア石柱
+PROPCTRL_TXT_000697,Azria Stone Tower,アズリア石塔
+PROPCTRL_TXT_000698,Coral Island Wrecked Ship Part,コーラルアイランド難破船の一部
+PROPCTRL_TXT_000699,Coral Island Wrecked Ship,コーラルアイランド難破船
+PROPCTRL_TXT_000700,Coral Island Sea Weed 1,コーラルアイランド海藻1
+PROPCTRL_TXT_000701,Coral Island Sea Weed 2,コーラルアイランド海藻2
+PROPCTRL_TXT_000702,Coral Island Sea Weed 3,コーラルアイランド海藻3
+PROPCTRL_TXT_000703,Coral Island Coral Platform,コーラルアイランドコーラルプラットフォーム
+PROPCTRL_TXT_000704,Coral Island Coral 13,コーラルアイランドコーラル13
+PROPCTRL_TXT_000705,Coral Island Coral 14,コーラルアイランドコーラル14
+PROPCTRL_TXT_000706,Coral Island Coral 15,コーラルアイランドコーラル15
+PROPCTRL_TXT_000707,Coral Island Coral 16,コーラルアイランドコーラル16
+PROPCTRL_TXT_000708,Coral Island Campfire,コーラルアイランドキャンプファイヤー
+PROPCTRL_TXT_000709,Saint Morning Wall Pillar,セイントモーニング壁柱
+PROPCTRL_TXT_000710,Neon Valentines Black Lamp,ネオンバレンタインブラックランプ
+PROPCTRL_TXT_000711,Neon Valentines Black Desk,ネオンバレンタインブラックデスク
+PROPCTRL_TXT_000712,Neon Valentines Black Drawer,ネオンバレンタインブラックドロワー
+PROPCTRL_TXT_000713,Neon Valentines Black Dresser,ネオンバレンタインブラックドレッサー
+PROPCTRL_TXT_000714,Neon Valentines Black Bookshelf,ネオンバレンタインブラック本棚
+PROPCTRL_TXT_000715,Neon Valentines Black Chair,ネオンバレンタインブラックチェア
+PROPCTRL_TXT_000716,Neon Valentines Black Bath,ネオンバレンタインブラックバス
+PROPCTRL_TXT_000717,Neon Valentines Black Bed,ネオンバレンタインブラックベッド
+PROPCTRL_TXT_000718,Neon Valentines Black Sofa,ネオンバレンタインブラックソファ
+PROPCTRL_TXT_000719,Neon Valentines White Lamp,ネオンバレンタインホワイトランプ
+PROPCTRL_TXT_000720,Neon Valentines White Desk,ネオンバレンタインホワイトデスク
+PROPCTRL_TXT_000721,Neon Valentines White Drawer,ネオンバレンタインホワイトドロワー
+PROPCTRL_TXT_000722,Neon Valentines White Dresser,ネオンバレンタインホワイトドレッサー
+PROPCTRL_TXT_000723,Neon Valentines White Bookshelf,ネオンバレンタインホワイト本棚
+PROPCTRL_TXT_000724,Neon Valentines White Chair,ネオンバレンタインホワイトチェア
+PROPCTRL_TXT_000725,Neon Valentines White Bath,ネオンバレンタインホワイトバス
+PROPCTRL_TXT_000726,Neon Valentines White Bed,ネオンバレンタインホワイトベッド
+PROPCTRL_TXT_000727,Neon Valentines White Sofa,ネオンバレンタインホワイトソファ
+PROPCTRL_TXT_000728,Pastel Bed,パステルベッド
+PROPCTRL_TXT_000729,Pastel Sofa,パステルソファ
+PROPCTRL_TXT_000730,Pastel Stool,パステルスツール
+PROPCTRL_TXT_000731,Pastel Bookshelf,パステル本棚
+PROPCTRL_TXT_000732,Pastel Lamp,パステルランプ
+PROPCTRL_TXT_000733,Pastel Desk,パステルデスク
+PROPCTRL_TXT_000734,Pastel Chair,パステルチェア
+PROPCTRL_TXT_000735,Pastel Nightstand,パステルナイトスタンド
+PROPCTRL_TXT_000736,Pastel Bathtub,パステルバスタブ
+PROPCTRL_TXT_000737,[Event] Chroma Ore,[イベント]彩色の鉱石
+PROPCTRL_TXT_000738,Statue Base,像の台座
+PROPCTRL_TXT_000739,3rd Anniversary Flaris Cake,3周年記念フラリスケーキ
+PROPCTRL_TXT_000740,3rd Anniversary Saint Morning Cake,3周年記念セイントモーニングケーキ
+PROPCTRL_TXT_000741,3rd Anniversary Darkon Cake,3周年記念ダーコンケーキ
+PROPCTRL_TXT_000742,Dungeon Warp 07,ダンジョンワープ07
