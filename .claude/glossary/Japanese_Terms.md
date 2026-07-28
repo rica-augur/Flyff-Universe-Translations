@@ -72,6 +72,8 @@
 | Pet Training | ペットトレーニング | `Help.csv`準拠 |
 | Housing Objects | ハウジングオブジェクト | `Help.csv`準拠 |
 | Production（生産メニュー） | 生産 | `Help.csv`準拠 |
+| Mysterious Castle | 神秘の城 | `UI.csv`の`UI_MYSTCASTLE_*`、`Items.csv`準拠 |
+| Mysterious Box | ミステリアスボックス | `Items.csv`の`Mysterious Box Lv1〜4`準拠。「Mysterious Castle」とは訳し分ける（意訳の神秘の城 / 音訳のミステリアスボックス） |
 
 ## 防具シリーズ名の語幹（音訳）
 

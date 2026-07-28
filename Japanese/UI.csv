@@ -3380,7 +3380,7 @@ UI_MYSTCASTLE_REWARD_COL_CLASS,Ranking Rewards by Class,職業別ランキング
 UI_MYSTCASTLE_REWARD_COL_COUNT,Quant,数量
 UI_MYSTCASTLE_REWARD_RATIO,Within Top %d%%\n(Excluding above ranks),上位%d%%以内\n（それ以上の順位を除く）
 UI_MYSTCASTLE_REWARD_OTHERS,Others,その他
-UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)",現在クリアした階層と同じ\nレベルのMysterious Boxを入手\n（最後にクリアした階層が4の\n場合、Mysterious Box Lv2を入手）
+UI_MYSTCASTLE_REWARD_CLASS_DESC,"Mysterious Box that has\nsame level as the floor\nyou currently cleared\n(If the last floor you cleared\nwas 4, you'll get Mysterious\nBox Lv2)",現在クリアした階層と同じ\nレベルのミステリアスボックスを入手\n（最後にクリアした階層が4の\n場合、ミステリアスボックス Lv2を入手）
 UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,階層クリア報酬
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,ランキング報酬
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,入場すると神秘の城リトライクーポンを1枚消費します。続行しますか？
