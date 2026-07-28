@@ -74,12 +74,19 @@
 | Production（生産メニュー） | 生産 | `Help.csv`準拠 |
 | Mysterious Castle | 神秘の城 | `UI.csv`の`UI_MYSTCASTLE_*`、`Items.csv`準拠 |
 | Mysterious Box | ミステリアスボックス | `Items.csv`の`Mysterious Box Lv1〜4`準拠。「Mysterious Castle」とは訳し分ける（意訳の神秘の城 / 音訳のミステリアスボックス） |
+| Hoe（採集道具） | くわ | `PROPITEM_TXT_133000〜133007`。「鍬」は難読漢字のためユーザーがひらがな表記に修正（2026-07-29）。他の採集道具名で似た難読漢字が出た場合もひらがな表記を検討する |
 | Bundle | バンドル | `Items.csv`のパッケージ系アイテム名 |
 | Door Prize | ドア賞品 | `Items.csv`のイベント抽選アイテム名 |
 | Soul-Linked / (Scroll of Unbinding文脈のSoul-Bound) | 帰属 | 「All items are Soul-Linked.」→「全てのアイテムはプレイヤーに帰属されています。」（パッケージ説明文の「All items are also linked.」→「アイテムは全て帰属です。」とは文体が少し異なるが同義） |
 | Ultimate Weapon / Ultimate Accessory（装備の等級名） | アルティマ武器 / アルティマアクセサリー | `PROPITEM_TXT_122501`等に準拠。同じ「Ultimate」でも「Scroll of Ultimate Bonus」等のバフ・巻物文脈では音訳「アルティメット」を使う（例：アルティメットボーナスの巻物）。等級名としての武器・アクセサリーか、バフ効果名かで訳し分ける |
 | Lunar（Lunar New Year文脈） | 旧正月 | `PROPITEM_TXT_200302`等に準拠。「Lunar New Year Coupon」等はそのまま「旧正月」を使い、音訳「ルナー」にしない |
 | Trans（ペット変身オーブ、`PROPITEM_TXT_006094`等の`~ Trans`） | オーブ | 例：「Aibatt Trans」→「アイバット・オーブ」。「Trans Random Box」のような単独のカテゴリ名としても使う |
+| Elixir/Flask/Potion of the Tiger・Rabbit・Fox・Lion（ステータス強化秘薬） | 力の秘薬／敏捷の秘薬／知能の秘薬／体力の秘薬（Flaskは頭に「強力な」、`Potion of Tiger (D)`等の等級付きは「力の秘薬 (D)」のように末尾に等級を残す） | `PROPITEM_TXT_007180〜007326`（Elixir/Flask）および`PROPITEM_TXT_133794〜133816`（Potion、D/C/B/A/A+の5段階）準拠。動物名は直訳せず、付与される効果（STR/DEX/INT/STA）で意訳する。同様に`Elixir of Stone`→防御の秘薬、`Elixir of Anti-Magic`→抵抗の秘薬、`Elixir of the Sorcerer`→魔法攻撃力増幅の秘薬など、Items.csvのElixir/Flask/Potion系は一貫して効果ベースの意訳。2026-07-29にユーザー指摘で発覚した表記揺れ（`PROPITEM_TXT_726136`等のパッケージ説明文で「虎のフラスコ」等の直訳、および`PROPITEM_TXT_133794`等の「虎の秘薬」等の直訳）はユーザー指示によりいずれも効果ベース表記に統一済み |
+| Concoction of Accuracy/Evasion/Swiftness（`PROPITEM_TXT_133818〜133834`、D/C/B/A/A+の5段階） | 命中の秘薬／回避の秘薬／攻撃速度上昇の秘薬 | `Potion of Accuracy`（命中の秘薬）・`Elixir of Evasion`（回避の秘薬）・`Potion of Swiftness`（攻撃速度上昇の秘薬）と同じ効果ベース表記に統一。`Concoction of Swiftness`は元々「敏捷の秘薬」（DEXの意）と誤訳されていたが、実際の効果は攻撃速度上昇のため2026-07-29にユーザー指摘で修正済み |
+| Concoction of Clarity/Recklessness/Bleeding（`PROPITEM_TXT_133836〜133852`、D/C/B/A/A+の5段階） | 詠唱の秘薬／するどさの秘薬／クリティカルダメージ追加の秘薬 | `Potion of Clarity`（詠唱の秘薬）・`Potion of Recklessness`（するどさの秘薬）・`Elixir of Profuse Bleeding`（クリティカルダメージ追加の秘薬）と同じ表記に統一（2026-07-29、ユーザー指示）。動物名シリーズ（力/敏捷/知能/体力）とは別に、こちらは元の単語（Clarity=明晰、Recklessness=無謀、Bleeding=出血）の直訳ではなく既存の対応アイテム名を踏襲する |
+| Concoction of Swift Footsteps/HP Recovery/MP Recovery/FP Recovery（`PROPITEM_TXT_133854〜133876`、D/C/B/A/A+の5段階） | 跳躍の秘薬／HP回復量上昇の秘薬／MP回復量上昇の秘薬／FP回復量上昇の秘薬 | 2026-07-29、ユーザーが直接修正。上記のConcoction系と同じく効果ベースの意訳（Footsteps→跳躍＝ジャンプ力上昇、HP/MP/FP Recovery→対応する回復量上昇）で、末尾に(D)〜(A+)の等級を残す |
+| Casting Speed（%上昇バフ・カード） | 詠唱速度 | `PROPITEM_TXT_004373`等。「Attack Speed」→「攻撃速度」と同じ言葉遣い |
+| Casting Time（%増減の秘薬・効果文） | 魔法キャスティング時間 | `PROPITEM_TXT_007179`等。「詠唱時間」ではなく、既存の古いアイテムに合わせて必ず「魔法キャスティング時間」を使う（2026-07-29、ユーザー指示で確定。「詠唱速度」と語が異なる点に注意 — 同じCasting系でも「Speed」は詠唱速度、「Time」は魔法キャスティング時間で使い分ける） |
 
 ## 防具シリーズ名の語幹（音訳）
 
@@ -172,6 +179,10 @@
 | Heart Punk | ハートパンク | |
 | Oni-Style Kimono | 鬼柄着物 | |
 | Floating Oni（ペット） | 浮き鬼 | `PROPITEM_TXT_122080`等に準拠 |
+| FWC Golden {武器/防具シリーズ名} | FWCゴールデン・{語幹}{部位名}（スペースは一切入れず、「ゴールデン」の直後にのみ中点） | 年表記なしの`PROPITEM_TXT_120820〜120924`（90件）と`PROPITEM_TXT_724627〜724700`（74件）、計164件。元々スペースの有無が一件ごとにバラバラだったため、2026-07-29にユーザー指示で「FWC Golden 」を含む行（`^PROPITEM_TXT_[0-9]+,FWC Golden `）のみを対象に、余分な半角スペースを全て除去し「ゴールデン」の直後に中点(・)を追加して完全統一。`PROPITEM_TXT_155577〜155590`（FWC 2025 Golden Death Messenger's系）は元から同じ中点表記済みで対象外。`PROPITEM_TXT_155591`（FWC 2025 Golden Tiger）は「Golden Tiger」で1つの固有名詞（マウント名）のため中点なしのまま。`PROPITEM_TXT_015276〜015290`（FWC 2011）は「FWC1位記念〜」という別の意訳のため対象外。`PROPITEM_TXT_900000〜900009`（2025 FWC Golden Lusaka's Crystal〜）は英語未訳のまま残っており別問題（要翻訳） |
+| 2026 FWC Golden {武器/防具シリーズ名} | 2026 FWCゴールデン・{語幹}（武器・防具とも「2026FWC」の直後に「ゴールデン・」、スペースなし。防具は語幹の後ろに部位名を直接続ける） | `PROPITEM_TXT_155829〜155903`（75件）。「ゴールデン」と語幹がカタカナで連続し読みにくかったため、2026-07-29にユーザー指示で「ゴールデン」の直後にのみ中点(・)を追加して統一（この時点では武器サブシリーズの末尾に「 アルティメット」を残し、「2026 FWC」と「ゴールデン」の間にスペースもあった）。その後同日、ユーザーが武器サブシリーズ`PROPITEM_TXT_155829〜155839`（11件）について「Ultimate」を訳語なし（削除）とする方針に変更し、末尾の「アルティメット」削除と「2026 FWC」→「2026 FWC」間のスペース除去を手動で実施（結果、防具サブシリーズと同じ「2026 FWCゴールデン・{語幹}」の形に統一）。他言語（仏語「ultime」、西語「Definitiva」で意訳、繁体中文は創作訳、他言語の大半はこのアイテム自体未翻訳）を確認した上での判断。語幹内の「Maw of Judgement」→「マウ・オブ・ジャッジメント」等、既存の中点はそのまま |
+| 2025 FWC Flame {武器/防具シリーズ名} | 2025 FWCフレイム・{語幹}（Helmet等の部位名の前にはスペースを残す：例「2025 FWCフレイム・ビラリ ヘルメット(F)」。武器は語幹の後に格助詞「の」で続ける：例「2025 FWCフレイム・ルサカの剣」。Costume Setは部位名前にスペースを入れず語幹に直接続ける：例「2025FWCフレイム・ビラリコスチュームセット(F)」） | `PROPITEM_TXT_134853〜134886`。2026-07-29、ユーザーが手動で「フレイム」の直後に中点を追加。`PROPITEM_TXT_134869〜134872`（Costume Set系4件）も同日ユーザー指示で中点を追加し全件対応済み |
+| 2025 FWC Golden Lusaka's Crystal {武器名} | 2025 FWCゴールデン・ルサカのクリスタル{武器名}（Heavyは「ヘビークリスタル」） | `PROPITEM_TXT_900000〜900009`。2026-07-29時点で英語未訳のまま残っていたのをユーザー指示で翻訳。年表記なしの同名シリーズ`PROPITEM_TXT_724691〜724700`（FWCゴールデン・ルサカのクリスタル〜）の表記にそのまま準拠 |
 
 ## モンスター名（`Movers.csv`定訳、`Achievements.csv`のKILL系実績で使用）
 

@@ -2357,9 +2357,9 @@ PROPITEM_TXT_004369,+2% Deathblow Damage (When placed in a pierced suit),ソケ�
 PROPITEM_TXT_004370,Tan Card,タインカード
 PROPITEM_TXT_004371,+5% Deathblow Damage (When placed in a pierced suit),ソケットの空いた服にセットするとクリティカルヒット時のダメージが5％増えるカード
 PROPITEM_TXT_004372,Microseism Card,ミジェニクスカード
-PROPITEM_TXT_004373,+1% Casting Speed (When placed in a pierced suit),ソケットの空いた服にセットすると魔法キャスティングタイムが1％増えるカード
+PROPITEM_TXT_004373,+1% Casting Speed (When placed in a pierced suit),ソケットの空いた服にセットすると詠唱速度が1％増えるカード
 PROPITEM_TXT_004374,Hypocenter Card,ヒプノティクスカード
-PROPITEM_TXT_004375,+4% Casting Speed (When placed in a pierced suit),ソケットの空いた服にセットすると魔法キャスティングタイムが4％上昇するカード
+PROPITEM_TXT_004375,+4% Casting Speed (When placed in a pierced suit),ソケットの空いた服にセットすると詠唱速度が4％上昇するカード
 PROPITEM_TXT_004376,Epicenter Card,エピファニアカード
 PROPITEM_TXT_004377,+1% Attack Speed (When placed in a pierced suit),ソケットの空いた服にセットすると攻撃速度が1％上昇カード
 PROPITEM_TXT_004378,Moment Card,モーメティアカード
@@ -5904,7 +5904,7 @@ PROPITEM_TXT_017077,Luxurious Ski Gloves (F),ラグジュアリースキー手�
 PROPITEM_TXT_019635,Gloves of the Almighty Blood Dragon (M),破壊のブラッドドラゴングローブ（M）
 PROPITEM_TXT_017248,Shoes / Size 240,靴
 PROPITEM_TXT_017236,Costume / Size 95,服
-PROPITEM_TXT_011947,"A special cloak awarded to those who were lucky enough to find a Four-Leaf Clover! Increases your Run Speed by 15%, Critical Hit Chance by 5%, and decreases your Casting Time by 5%.",幸運にも四つ葉のクローバーを見つけた人に贈られる特別なマント！
+PROPITEM_TXT_011947,"A special cloak awarded to those who were lucky enough to find a Four-Leaf Clover! Increases your Run Speed by 15%, Critical Hit Chance by 5%, and decreases your Casting Time by 5%.",幸運にも四つ葉のクローバーを見つけた人に贈られる特別なマント！移動速度を15%、クリティカル率を5%増加させ、魔法キャスティング時間を5%減少させます。
 PROPITEM_TXT_017119,2016 Samurai (M) Hat,武士帽子(男の子用)
 PROPITEM_TXT_015289,An elegant and regal crown awarded to the FWC 2011 Champions,FWC2011チャンピオンズに報われるエレガントで堂々とした王冠
 PROPITEM_TXT_010189,This Cloak has a full length depiction of the flag of Mexico on it.,このマントにはメキシコの国旗が描かれています。 
@@ -10514,111 +10514,111 @@ PROPITEM_TXT_120816,Beautiful Blue Balloons that increase your Defense (DEF) by 
 PROPITEM_TXT_120817,Pretty Yellow Balloons that increase your Health Points (HP) by +150. Lasts for 3 hours.,HPを+150増加させるかわいらしい黄色の風船。持続時間は3時間です。
 PROPITEM_TXT_120818,Extended 1 Year Anniversary Pass,延長1年アニバーサリーパス
 PROPITEM_TXT_120819,This purchase gives you many advantages during the 1 Year Anniversary Pass season:\n-More Update Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports,この購入では、1周年パスシーズン中に以下の特典が得られます：\n・アップデートパス報酬の追加\n・コモンバンク\n・ベンダーショップ2日間\n・無制限のアクセラレーション燃料\n・無制限の経験値ロック\n・ダンジョンマップ＆ナビゲーター\n・より速い安全精錬\n・無料ダンジョン入場+1回\n・1日5回のショップ検索テレポート
-PROPITEM_TXT_120820,FWC Golden Sword,FWCゴールデンソード
-PROPITEM_TXT_120821,FWC Golden Slayer,FWCゴールデンスレイヤー
-PROPITEM_TXT_120822,FWC Golden Axe,FWCゴールデンアックス
-PROPITEM_TXT_120823,FWC Golden Executioner,FWCゴールデンエクセキューショナー
-PROPITEM_TXT_120824,FWC Golden Knuckle,FWCゴールデンナックル
-PROPITEM_TXT_120825,FWC Golden Stick,FWCゴールデンスティック
-PROPITEM_TXT_120826,FWC Golden Staff,FWCゴールデンスタッフ
-PROPITEM_TXT_120827,FWC Golden Bow,FWCゴールデンボウ
-PROPITEM_TXT_120828,FWC Golden Yo-Yo,FWCゴールデンヨーヨー
-PROPITEM_TXT_120829,FWC Golden Wand,FWCゴールデンワンド
-PROPITEM_TXT_120830,FWC Golden Cryro Helmet,FWCゴールデンクライロヘルメット
-PROPITEM_TXT_120831,FWC Golden Cryro Suit,FWCゴールデンクライロスーツ
-PROPITEM_TXT_120832,FWC Golden Cryro Gauntlets,FWCゴールデンクライロガントレット
-PROPITEM_TXT_120833,FWC Golden Cryro Boots,FWCゴールデンクライロブーツ
-PROPITEM_TXT_120834,FWC Golden Forrben Helmet,FWC ゴールデン フォーベン ヘルメット
-PROPITEM_TXT_120835,FWC Golden Forrben Suit,FWCゴールデンフォーベンスーツ
-PROPITEM_TXT_120836,FWC Golden Forrben Gauntlets,FWCゴールデンフォーベンガントレット
-PROPITEM_TXT_120837,FWC Golden Forrben Boots,FWCゴールデンフォーベンブーツ
-PROPITEM_TXT_120838,FWC Golden Naneon Helmet,FWCゴールデンナネオンヘルメット
-PROPITEM_TXT_120839,FWC Golden Naneon Suit,FWCゴールデンナネオンスーツ
-PROPITEM_TXT_120840,FWC Golden Naneon Gauntlets,FWCゴールデンナネオンガントレット
-PROPITEM_TXT_120841,FWC Golden Naneon Boots,FWCゴールデンナネオンブーツ
-PROPITEM_TXT_120842,FWC Golden Vizes Helmet,FWC ゴールデンバイスヘルメット
-PROPITEM_TXT_120843,FWC Golden Vizes Suit,FWCゴールデンバイススーツ
-PROPITEM_TXT_120844,FWC Golden Vizes Gauntlets,FWCゴールデンバイズガントレット
-PROPITEM_TXT_120845,FWC Golden Vizes Boots,FWC ゴールデンバイスブーツ
-PROPITEM_TXT_120846,FWC Golden Keinos Helmet,FWC ゴールデン ケイノス ヘルメット
-PROPITEM_TXT_120847,FWC Golden Keinos Suit,FWCゴールデンケイノススーツ
-PROPITEM_TXT_120848,FWC Golden Keinos Gauntlets,FWC ゴールデンケイノスガントレット
-PROPITEM_TXT_120849,FWC Golden Keinos Boots,FWCゴールデンケイノスブーツ
-PROPITEM_TXT_120850,FWC Golden Ouken Helmet,FWCゴールデンオウケンヘルメット
-PROPITEM_TXT_120851,FWC Golden Ouken Suit,FWCゴールデンオウケンスーツ
-PROPITEM_TXT_120852,FWC Golden Ouken Gauntlets,FWC ゴールデンオウケンガントレット
-PROPITEM_TXT_120853,FWC Golden Ouken Boots,FWCゴールデンオウケンブーツ
-PROPITEM_TXT_120854,FWC Golden Peinn Helmet,FWCゴールデンペインヘルメット
-PROPITEM_TXT_120855,FWC Golden Peinn Suit,FWCゴールデンペインスーツ
-PROPITEM_TXT_120856,FWC Golden Peinn Gauntlets,FWCゴールデンペインガントレット
-PROPITEM_TXT_120857,FWC Golden Peinn Boots,FWCゴールデンペインブーツ
-PROPITEM_TXT_120858,FWC Golden Quinox Helmet,FWCゴールデンキノックスヘルメット
-PROPITEM_TXT_120859,FWC Golden Quinox Suit,FWCゴールデンキノックススーツ
-PROPITEM_TXT_120860,FWC Golden Quinox Gauntlets,FWCゴールデンキノックスガントレット
-PROPITEM_TXT_120861,FWC Golden Quinox Boots,FWCゴールデンキノックスブーツ
-PROPITEM_TXT_120862,FWC Golden Cyrent Helmet,FWCゴールデンサイレントヘルメット
-PROPITEM_TXT_120863,FWC Golden Cyrent Suit,FWCゴールデンシレントスーツ
-PROPITEM_TXT_120864,FWC Golden Cyrent Gauntlets,FWCゴールデンシレントガントレット
-PROPITEM_TXT_120865,FWC Golden Cyrent Boots,FWCゴールデンサイレントブーツ
-PROPITEM_TXT_120866,FWC Golden Forrain Helmet,FWCゴールデンフォーレインヘルメット
-PROPITEM_TXT_120867,FWC Golden Forrain Suit,FWCゴールデンフォーレインスーツ
-PROPITEM_TXT_120868,FWC Golden Forrain Gauntlets,FWCゴールデンフォーレインガントレット
-PROPITEM_TXT_120869,FWC Golden Forrain Boots,FWCゴールデンフォーレインブーツ
-PROPITEM_TXT_120870,FWC Golden Nanex Helmet,FWC ゴールデン ナネックス ヘルメット
-PROPITEM_TXT_120871,FWC Golden Nanex Suit,FWCゴールデンナネックススーツ
-PROPITEM_TXT_120872,FWC Golden Nanex Gauntlets,FWCゴールデンナネックスガントレット
-PROPITEM_TXT_120873,FWC Golden Nanex Boots,FWCゴールデンナネックスブーツ
-PROPITEM_TXT_120874,FWC Golden Vizith Helmet,FWCゴールデンビジスヘルメット
-PROPITEM_TXT_120875,FWC Golden Vizith Suit,FWCゴールデンビジススーツ
-PROPITEM_TXT_120876,FWC Golden Vizith Gauntlets,FWCゴールデンビジスガントレット
-PROPITEM_TXT_120877,FWC Golden Vizith Boots,FWCゴールデンビジスブーツ
-PROPITEM_TXT_120878,FWC Golden Keisan Helmet,FWCゴールデンケイサンヘルメット
-PROPITEM_TXT_120879,FWC Golden Keisan Suit,FWC ゴールデンケイサンスーツ
-PROPITEM_TXT_120880,FWC Golden Keisan Gauntlets,FWC ゴールデンケイサンガントレット
-PROPITEM_TXT_120881,FWC Golden Keisan Boots,FWC ゴールデン ケイサン ブーツ
-PROPITEM_TXT_120882,FWC Golden Oukest Helmet,FWCゴールデンオークストヘルメット
-PROPITEM_TXT_120883,FWC Golden Oukest Suit,FWCゴールデンオークストスーツ
-PROPITEM_TXT_120884,FWC Golden Oukest Gauntlets,FWCゴールデンオークストガントレット
-PROPITEM_TXT_120885,FWC Golden Oukest Boots,FWCゴールデンオークストブーツ
-PROPITEM_TXT_120886,FWC Golden Penel Helmet,FWCゴールデンペネルヘルメット
-PROPITEM_TXT_120887,FWC Golden Penel Suit,FWCゴールデンペネルスーツ
-PROPITEM_TXT_120888,FWC Golden Penel Gauntlets,FWCゴールデンペネルガントレット
-PROPITEM_TXT_120889,FWC Golden Penel Boots,FWCゴールデンペネルブーツ
-PROPITEM_TXT_120890,FWC Golden Quition Helmet,FWCゴールデンクイションヘルメット
-PROPITEM_TXT_120891,FWC Golden Quition Suit,FWCゴールデンクイションスーツ
-PROPITEM_TXT_120892,FWC Golden Quition Gauntlets,FWCゴールデンクイションガントレット
-PROPITEM_TXT_120893,FWC Golden Quition Boots,FWCゴールデンクイションブーツ
-PROPITEM_TXT_120894,FWC Golden Cryro Armor Set (M),FWCゴールデンクライロアーマーセット(M)
+PROPITEM_TXT_120820,FWC Golden Sword,FWCゴールデン・ソード
+PROPITEM_TXT_120821,FWC Golden Slayer,FWCゴールデン・スレイヤー
+PROPITEM_TXT_120822,FWC Golden Axe,FWCゴールデン・アックス
+PROPITEM_TXT_120823,FWC Golden Executioner,FWCゴールデン・エクセキューショナー
+PROPITEM_TXT_120824,FWC Golden Knuckle,FWCゴールデン・ナックル
+PROPITEM_TXT_120825,FWC Golden Stick,FWCゴールデン・スティック
+PROPITEM_TXT_120826,FWC Golden Staff,FWCゴールデン・スタッフ
+PROPITEM_TXT_120827,FWC Golden Bow,FWCゴールデン・ボウ
+PROPITEM_TXT_120828,FWC Golden Yo-Yo,FWCゴールデン・ヨーヨー
+PROPITEM_TXT_120829,FWC Golden Wand,FWCゴールデン・ワンド
+PROPITEM_TXT_120830,FWC Golden Cryro Helmet,FWCゴールデン・クライロヘルメット
+PROPITEM_TXT_120831,FWC Golden Cryro Suit,FWCゴールデン・クライロスーツ
+PROPITEM_TXT_120832,FWC Golden Cryro Gauntlets,FWCゴールデン・クライロガントレット
+PROPITEM_TXT_120833,FWC Golden Cryro Boots,FWCゴールデン・クライロブーツ
+PROPITEM_TXT_120834,FWC Golden Forrben Helmet,FWCゴールデン・フォーベンヘルメット
+PROPITEM_TXT_120835,FWC Golden Forrben Suit,FWCゴールデン・フォーベンスーツ
+PROPITEM_TXT_120836,FWC Golden Forrben Gauntlets,FWCゴールデン・フォーベンガントレット
+PROPITEM_TXT_120837,FWC Golden Forrben Boots,FWCゴールデン・フォーベンブーツ
+PROPITEM_TXT_120838,FWC Golden Naneon Helmet,FWCゴールデン・ナネオンヘルメット
+PROPITEM_TXT_120839,FWC Golden Naneon Suit,FWCゴールデン・ナネオンスーツ
+PROPITEM_TXT_120840,FWC Golden Naneon Gauntlets,FWCゴールデン・ナネオンガントレット
+PROPITEM_TXT_120841,FWC Golden Naneon Boots,FWCゴールデン・ナネオンブーツ
+PROPITEM_TXT_120842,FWC Golden Vizes Helmet,FWCゴールデン・バイスヘルメット
+PROPITEM_TXT_120843,FWC Golden Vizes Suit,FWCゴールデン・バイススーツ
+PROPITEM_TXT_120844,FWC Golden Vizes Gauntlets,FWCゴールデン・バイズガントレット
+PROPITEM_TXT_120845,FWC Golden Vizes Boots,FWCゴールデン・バイスブーツ
+PROPITEM_TXT_120846,FWC Golden Keinos Helmet,FWCゴールデン・ケイノスヘルメット
+PROPITEM_TXT_120847,FWC Golden Keinos Suit,FWCゴールデン・ケイノススーツ
+PROPITEM_TXT_120848,FWC Golden Keinos Gauntlets,FWCゴールデン・ケイノスガントレット
+PROPITEM_TXT_120849,FWC Golden Keinos Boots,FWCゴールデン・ケイノスブーツ
+PROPITEM_TXT_120850,FWC Golden Ouken Helmet,FWCゴールデン・オウケンヘルメット
+PROPITEM_TXT_120851,FWC Golden Ouken Suit,FWCゴールデン・オウケンスーツ
+PROPITEM_TXT_120852,FWC Golden Ouken Gauntlets,FWCゴールデン・オウケンガントレット
+PROPITEM_TXT_120853,FWC Golden Ouken Boots,FWCゴールデン・オウケンブーツ
+PROPITEM_TXT_120854,FWC Golden Peinn Helmet,FWCゴールデン・ペインヘルメット
+PROPITEM_TXT_120855,FWC Golden Peinn Suit,FWCゴールデン・ペインスーツ
+PROPITEM_TXT_120856,FWC Golden Peinn Gauntlets,FWCゴールデン・ペインガントレット
+PROPITEM_TXT_120857,FWC Golden Peinn Boots,FWCゴールデン・ペインブーツ
+PROPITEM_TXT_120858,FWC Golden Quinox Helmet,FWCゴールデン・キノックスヘルメット
+PROPITEM_TXT_120859,FWC Golden Quinox Suit,FWCゴールデン・キノックススーツ
+PROPITEM_TXT_120860,FWC Golden Quinox Gauntlets,FWCゴールデン・キノックスガントレット
+PROPITEM_TXT_120861,FWC Golden Quinox Boots,FWCゴールデン・キノックスブーツ
+PROPITEM_TXT_120862,FWC Golden Cyrent Helmet,FWCゴールデン・サイレントヘルメット
+PROPITEM_TXT_120863,FWC Golden Cyrent Suit,FWCゴールデン・シレントスーツ
+PROPITEM_TXT_120864,FWC Golden Cyrent Gauntlets,FWCゴールデン・シレントガントレット
+PROPITEM_TXT_120865,FWC Golden Cyrent Boots,FWCゴールデン・サイレントブーツ
+PROPITEM_TXT_120866,FWC Golden Forrain Helmet,FWCゴールデン・フォーレインヘルメット
+PROPITEM_TXT_120867,FWC Golden Forrain Suit,FWCゴールデン・フォーレインスーツ
+PROPITEM_TXT_120868,FWC Golden Forrain Gauntlets,FWCゴールデン・フォーレインガントレット
+PROPITEM_TXT_120869,FWC Golden Forrain Boots,FWCゴールデン・フォーレインブーツ
+PROPITEM_TXT_120870,FWC Golden Nanex Helmet,FWCゴールデン・ナネックスヘルメット
+PROPITEM_TXT_120871,FWC Golden Nanex Suit,FWCゴールデン・ナネックススーツ
+PROPITEM_TXT_120872,FWC Golden Nanex Gauntlets,FWCゴールデン・ナネックスガントレット
+PROPITEM_TXT_120873,FWC Golden Nanex Boots,FWCゴールデン・ナネックスブーツ
+PROPITEM_TXT_120874,FWC Golden Vizith Helmet,FWCゴールデン・ビジスヘルメット
+PROPITEM_TXT_120875,FWC Golden Vizith Suit,FWCゴールデン・ビジススーツ
+PROPITEM_TXT_120876,FWC Golden Vizith Gauntlets,FWCゴールデン・ビジスガントレット
+PROPITEM_TXT_120877,FWC Golden Vizith Boots,FWCゴールデン・ビジスブーツ
+PROPITEM_TXT_120878,FWC Golden Keisan Helmet,FWCゴールデン・ケイサンヘルメット
+PROPITEM_TXT_120879,FWC Golden Keisan Suit,FWCゴールデン・ケイサンスーツ
+PROPITEM_TXT_120880,FWC Golden Keisan Gauntlets,FWCゴールデン・ケイサンガントレット
+PROPITEM_TXT_120881,FWC Golden Keisan Boots,FWCゴールデン・ケイサンブーツ
+PROPITEM_TXT_120882,FWC Golden Oukest Helmet,FWCゴールデン・オークストヘルメット
+PROPITEM_TXT_120883,FWC Golden Oukest Suit,FWCゴールデン・オークストスーツ
+PROPITEM_TXT_120884,FWC Golden Oukest Gauntlets,FWCゴールデン・オークストガントレット
+PROPITEM_TXT_120885,FWC Golden Oukest Boots,FWCゴールデン・オークストブーツ
+PROPITEM_TXT_120886,FWC Golden Penel Helmet,FWCゴールデン・ペネルヘルメット
+PROPITEM_TXT_120887,FWC Golden Penel Suit,FWCゴールデン・ペネルスーツ
+PROPITEM_TXT_120888,FWC Golden Penel Gauntlets,FWCゴールデン・ペネルガントレット
+PROPITEM_TXT_120889,FWC Golden Penel Boots,FWCゴールデン・ペネルブーツ
+PROPITEM_TXT_120890,FWC Golden Quition Helmet,FWCゴールデン・クイションヘルメット
+PROPITEM_TXT_120891,FWC Golden Quition Suit,FWCゴールデン・クイションスーツ
+PROPITEM_TXT_120892,FWC Golden Quition Gauntlets,FWCゴールデン・クイションガントレット
+PROPITEM_TXT_120893,FWC Golden Quition Boots,FWCゴールデン・クイションブーツ
+PROPITEM_TXT_120894,FWC Golden Cryro Armor Set (M),FWCゴールデン・クライロアーマーセット(M)
 PROPITEM_TXT_120895,Level 140 FWC Knight Set.,レベル140 FWCナイトセット。
-PROPITEM_TXT_120896,FWC Golden Forrben Armor Set (M),FWC ゴールデンフォーベンアーマーセット(M)
+PROPITEM_TXT_120896,FWC Golden Forrben Armor Set (M),FWCゴールデン・フォーベンアーマーセット(M)
 PROPITEM_TXT_120897,Level 140 FWC Blade Set.,レベル140 FWCブレードセット。
-PROPITEM_TXT_120898,FWC Golden Cyrent Armor Set (F),FWC ゴールデン サイレント アーマーセット (F)
+PROPITEM_TXT_120898,FWC Golden Cyrent Armor Set (F),FWCゴールデン・サイレントアーマーセット(F)
 PROPITEM_TXT_120899,Level 140 FWC Knight Set.,レベル140 FWCナイトセット。
-PROPITEM_TXT_120900,FWC Golden Forrain Armor Set (F),FWC ゴールデンフォーレインアーマーセット(F)
+PROPITEM_TXT_120900,FWC Golden Forrain Armor Set (F),FWCゴールデン・フォーレインアーマーセット(F)
 PROPITEM_TXT_120901,Level 140 FWC Blade Set.,レベル140 FWCブレードセット。
-PROPITEM_TXT_120902,FWC Golden Naneon Armor Set (M),FWC ゴールデンナネオンアーマーセット(M)
+PROPITEM_TXT_120902,FWC Golden Naneon Armor Set (M),FWCゴールデン・ナネオンアーマーセット(M)
 PROPITEM_TXT_120903,Level 140 FWC Jester Set.,レベル140 FWCジェスチャーセット。
-PROPITEM_TXT_120904,FWC Golden Vizes Armor Set (M),FWC ゴールデンバイザー アーマーセット(M)
+PROPITEM_TXT_120904,FWC Golden Vizes Armor Set (M),FWCゴールデン・バイザーアーマーセット(M)
 PROPITEM_TXT_120905,Level 140 FWC Ranger Set.,レベル140 FWCレンジャーセット。
-PROPITEM_TXT_120906,FWC Golden Nanex Armor Set (F),FWC ゴールデンナネックスアーマーセット(F)
+PROPITEM_TXT_120906,FWC Golden Nanex Armor Set (F),FWCゴールデン・ナネックスアーマーセット(F)
 PROPITEM_TXT_120907,Level 140 FWC Jester Set.,レベル140 FWCジェスチャーセット。
-PROPITEM_TXT_120908,FWC Golden Vizith Armor Set (F),FWC ゴールデンビジスアーマーセット(F)
+PROPITEM_TXT_120908,FWC Golden Vizith Armor Set (F),FWCゴールデン・ビジスアーマーセット(F)
 PROPITEM_TXT_120909,Level 140 FWC Ranger Set.,レベル140 FWCレンジャーセット。
-PROPITEM_TXT_120910,FWC Golden Keinos Armor Set (M),FWC ゴールデンケイノス アーマーセット(M)
+PROPITEM_TXT_120910,FWC Golden Keinos Armor Set (M),FWCゴールデン・ケイノスアーマーセット(M)
 PROPITEM_TXT_120911,Level 140 FWC Ringmaster Set.,レベル140 FWCリングマスターセット。
-PROPITEM_TXT_120912,FWC Golden Ouken Armor Set (M),FWC ゴールデンオウケンアーマーセット(M)
+PROPITEM_TXT_120912,FWC Golden Ouken Armor Set (M),FWCゴールデン・オウケンアーマーセット(M)
 PROPITEM_TXT_120913,Level 140 FWC Billposter Set.,レベル140 FWCビルポスターセット。
-PROPITEM_TXT_120914,FWC Golden Keisan Armor Set (F),FWC ゴールデンケイサンアーマーセット(F)
+PROPITEM_TXT_120914,FWC Golden Keisan Armor Set (F),FWCゴールデン・ケイサンアーマーセット(F)
 PROPITEM_TXT_120915,Level 140 FWC Ringmaster Set.,レベル140 FWCリングマスターセット。
-PROPITEM_TXT_120916,FWC Golden Oukest Armor Set (F),FWC ゴールデンオークストアーマーセット(F)
+PROPITEM_TXT_120916,FWC Golden Oukest Armor Set (F),FWCゴールデン・オークストアーマーセット(F)
 PROPITEM_TXT_120917,Level 140 FWC Billposter Set.,レベル140 FWCビルポスターセット。
-PROPITEM_TXT_120918,FWC Golden Peinn Armor Set (M),FWC ゴールデンペインアーマーセット(M)
+PROPITEM_TXT_120918,FWC Golden Peinn Armor Set (M),FWCゴールデン・ペインアーマーセット(M)
 PROPITEM_TXT_120919,Level 140 FWC Psykeeper Set.,レベル140 FWCサイキーパーセット。
-PROPITEM_TXT_120920,FWC Golden Quinox Armor Set (M),FWCゴールデンキノックスアーマーセット(M)
+PROPITEM_TXT_120920,FWC Golden Quinox Armor Set (M),FWCゴールデン・キノックスアーマーセット(M)
 PROPITEM_TXT_120921,Level 140 FWC Elementor Set.,レベル140 FWC エレメンターセット。
-PROPITEM_TXT_120922,FWC Golden Penel Armor Set (F),FWC ゴールデンペネルアーマーセット(F)
+PROPITEM_TXT_120922,FWC Golden Penel Armor Set (F),FWCゴールデン・ペネルアーマーセット(F)
 PROPITEM_TXT_120923,Level 140 FWC Psykeeper Set.,レベル140 FWCサイキーパーセット。
-PROPITEM_TXT_120924,FWC Golden Quition Armor Set (F),FWC ゴールデンクイションアーマーセット(F)
+PROPITEM_TXT_120924,FWC Golden Quition Armor Set (F),FWCゴールデン・クイションアーマーセット(F)
 PROPITEM_TXT_120925,Level 140 FWC Elementor Set.,レベル140 FWC エレメンターセット。
 PROPITEM_TXT_120926,FWC Cloak,FWCクローク
 PROPITEM_TXT_120927,The Legendary FWC Cloak!,伝説のFWCクローク!
@@ -13421,7 +13421,7 @@ PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on t
 PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[ギルドハウスNPC]ウィナ
 PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方DEF+3%
 PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[ギルドハウスNPC]ピッチ
-PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方DEF+3%
+PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方攻撃速度+5%
 PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[ギルドハウスNPC]キャッチ
 PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方詠唱速度+5%
 PROPITEM_TXT_131854,[Guild Ship NPC] Met,[ギルドハウスNPC]メット
@@ -15472,80 +15472,80 @@ PROPITEM_TXT_724623,Earring +15 Box,イヤリング +15 ボックス
 PROPITEM_TXT_724624,Select which +15 Earring you want to receive!,受け取りたい+15イヤリングを選択してください!
 PROPITEM_TXT_724625,Ring +15 Box,リング+15ボックス
 PROPITEM_TXT_724626,Select which +15 Ring you want to receive!,受け取りたい+15リングを選択してください!
-PROPITEM_TXT_724627,FWC Golden Roelayne Helmet,FWC ゴールデン ローレインヘルメット
-PROPITEM_TXT_724628,FWC Golden Roelayne Suit,FWCゴールデンローレインスーツ
-PROPITEM_TXT_724629,FWC Golden Roelayne Gauntlets,FWC ゴールデン ローレイン ガントレット
-PROPITEM_TXT_724630,FWC Golden Roelayne Boots,FWC ゴールデン ローレインブーツ
-PROPITEM_TXT_724631,FWC Golden Roenier Helmet,FWCゴールデンロニエヘルメット
-PROPITEM_TXT_724632,FWC Golden Roenier Suit,FWCゴールデンロニエスーツ
-PROPITEM_TXT_724633,FWC Golden Roenier Gauntlets,FWC ゴールデン ロニエガントレット
-PROPITEM_TXT_724634,FWC Golden Roenier Boots,FWC ゴールデン ロニエ ブーツ
-PROPITEM_TXT_724635,FWC Golden Herainn Helmet,FWCゴールデンへレインヘルメット
-PROPITEM_TXT_724636,FWC Golden Herainn Suit,FWCゴールデンヘルナンディンスーツ
-PROPITEM_TXT_724637,FWC Golden Herainn Gauntlets,FWCゴールデンヘレインガントレット
-PROPITEM_TXT_724638,FWC Golden Herainn Boots,FWCゴールデンへレインブーツ
-PROPITEM_TXT_724639,FWC Golden Heraud Helmet,FWCゴールデンヘローヘルメット
-PROPITEM_TXT_724640,FWC Golden Heraud Suit,FWCゴールデンヘロースーツ
-PROPITEM_TXT_724641,FWC Golden Heraud Gauntlets,FWCゴールデンヘローガントレット
-PROPITEM_TXT_724642,FWC Golden Heraud Boots,FWCゴールデンヘローブーツ
-PROPITEM_TXT_724643,FWC Golden Lypine Helmet,FWCゴールデンリバインヘルメット
-PROPITEM_TXT_724644,FWC Golden Lypine Suit,FWCゴールデンリパインスーツ
-PROPITEM_TXT_724645,FWC Golden Lypine Gauntlets,FWCゴールデンリパインガントレット
-PROPITEM_TXT_724646,FWC Golden Lypine Boots,FWCゴールデンリバインブーツ
-PROPITEM_TXT_724647,FWC Golden Lippin Helmet,FWCゴールデンリピンヘルメット
-PROPITEM_TXT_724648,FWC Golden Lippin Suit,FWCゴールデンリピンスーツ
-PROPITEM_TXT_724649,FWC Golden Lippin Gauntlets,FWCゴールデンリピンガントレット
-PROPITEM_TXT_724650,FWC Golden Lippin Boots,FWCゴールデンリピンブーツ
-PROPITEM_TXT_724651,FWC Golden Curena Helmet,FWCゴールデンキュレナヘルメット
-PROPITEM_TXT_724652,FWC Golden Curena Suit,FWCゴールデンキュレナスーツ
-PROPITEM_TXT_724653,FWC Golden Curena Gauntlets,FWCゴールデンキュレナガントレット
-PROPITEM_TXT_724654,FWC Golden Curena Boots,FWCゴールデンキュレナブーツ
-PROPITEM_TXT_724655,FWC Golden Curio Helmet,FWCゴールデンキュリオヘルメット
-PROPITEM_TXT_724656,FWC Golden Curio Suit,FWCゴールデンキュリオスーツ
-PROPITEM_TXT_724657,FWC Golden Curio Gauntlets,FWCゴールデンキュリオガントレット
-PROPITEM_TXT_724658,FWC Golden Curio Boots,FWCゴールデンキュリオブーツ
-PROPITEM_TXT_724659,FWC Golden Bilari Helmet,FWCゴールデンビラリヘルメット
-PROPITEM_TXT_724660,FWC Golden Bilari Suit,FWCゴールデンビラリスーツ
-PROPITEM_TXT_724661,FWC Golden Bilari Gauntlets,FWCゴールデンビラリガントレット
-PROPITEM_TXT_724662,FWC Golden Bilari Boots,FWCゴールデンビラリブーツ
-PROPITEM_TXT_724663,FWC Golden Bileire Helmet,FWCゴールデンビレイアヘルメット
-PROPITEM_TXT_724664,FWC Golden Bileire Suit,FWCゴールデンビレイアスーツ
-PROPITEM_TXT_724665,FWC Golden Bileire Gauntlets,FWCゴールデンビレイアガントレット
-PROPITEM_TXT_724666,FWC Golden Bileire Boots,FWCゴールデンビレイアブーツ
-PROPITEM_TXT_724667,FWC Golden Rephira Helmet,FWCゴールデンレフィラヘルメット
-PROPITEM_TXT_724668,FWC Golden Rephira Suit,FWCゴールデンレフィラスーツ
-PROPITEM_TXT_724669,FWC Golden Rephira Gauntlets,FWCゴールデンレフィラガントレット
-PROPITEM_TXT_724670,FWC Golden Rephira Boots,FWCゴールデンレフィラブーツ
-PROPITEM_TXT_724671,FWC Golden Reffiro Helmet,FWCゴールデンレフィロヘルメット
-PROPITEM_TXT_724672,FWC Golden Reffiro Suit,FWCゴールデンレフィロスーツ
-PROPITEM_TXT_724673,FWC Golden Reffiro Gauntlets,FWCゴールデンレフィロガントレット
-PROPITEM_TXT_724674,FWC Golden Reffiro Boots,FWC ゴールデン レフィロ ブーツ
-PROPITEM_TXT_724675,FWC Golden Hanira Helmet,FWCゴールデンハニラヘルメット
-PROPITEM_TXT_724676,FWC Golden Hanira Suit,FWCゴールデンハニラスーツ
-PROPITEM_TXT_724677,FWC Golden Hanira Gauntlets,FWCゴールデンハニラガントレット
-PROPITEM_TXT_724678,FWC Golden Hanira Boots,FWCゴールデンハニラブーツ
-PROPITEM_TXT_724679,FWC Golden Hainure Helmet,FWCゴールデンハイヌアヘルメット
-PROPITEM_TXT_724680,FWC Golden Hainure Suit,FWCゴールデンハイヌアスーツ
-PROPITEM_TXT_724681,FWC Golden Hainure Gauntlets,FWCゴールデンハイヌアガントレット
-PROPITEM_TXT_724682,FWC Golden Hainure Boots,FWCゴールデンハイヌアブーツ
-PROPITEM_TXT_724683,FWC Golden Rayne Helmet,FWCゴールデンレインヘルメット
-PROPITEM_TXT_724684,FWC Golden Rayne Suit,FWCゴールデンレインスーツ
-PROPITEM_TXT_724685,FWC Golden Rayne Gauntlets,FWCゴールデンレインガントレット
-PROPITEM_TXT_724686,FWC Golden Rayne Boots,FWCゴールデンレインブーツ
-PROPITEM_TXT_724687,FWC Golden Reine Helmet,FWCゴールデンレーヌヘルメット
-PROPITEM_TXT_724688,FWC Golden Reine Suit,FWCゴールデンレーヌスーツ
-PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,FWCゴールデンレーヌガントレット
-PROPITEM_TXT_724690,FWC Golden Reine Boots,FWCゴールデンレーヌブーツ
-PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,FWCゴールデンルサカのクリスタルアックス
-PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,FWCゴールデンルサカのクリスタルボウ
-PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,FWCゴールデンルサカのクリスタルフィスト
-PROPITEM_TXT_724694,FWC Golden Lusaka's Crystal Staff,FWCゴールデンルサカのクリスタルスタッフ
-PROPITEM_TXT_724695,FWC Golden Lusaka's Crystal Stick,FWCゴールデンルサカのクリスタルスティック
-PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,FWCゴールデンルサカのクリスタルソード
-PROPITEM_TXT_724697,FWC Golden Lusaka's Heavy Crystal Axe,FWCゴールデンルサカのヘビークリスタルアックス
-PROPITEM_TXT_724698,FWC Golden Lusaka's Heavy Crystal Sword,FWCゴールデンルサカのヘビークリスタルソード
-PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,FWCゴールデンルサカのクリスタルワンド
-PROPITEM_TXT_724700,FWC Golden Lusaka's Crystal Yo-Yo,FWCゴールデンルサカのクリスタルヨーヨー
+PROPITEM_TXT_724627,FWC Golden Roelayne Helmet,FWCゴールデン・ローレインヘルメット
+PROPITEM_TXT_724628,FWC Golden Roelayne Suit,FWCゴールデン・ローレインスーツ
+PROPITEM_TXT_724629,FWC Golden Roelayne Gauntlets,FWCゴールデン・ローレインガントレット
+PROPITEM_TXT_724630,FWC Golden Roelayne Boots,FWCゴールデン・ローレインブーツ
+PROPITEM_TXT_724631,FWC Golden Roenier Helmet,FWCゴールデン・ロニエヘルメット
+PROPITEM_TXT_724632,FWC Golden Roenier Suit,FWCゴールデン・ロニエスーツ
+PROPITEM_TXT_724633,FWC Golden Roenier Gauntlets,FWCゴールデン・ロニエガントレット
+PROPITEM_TXT_724634,FWC Golden Roenier Boots,FWCゴールデン・ロニエブーツ
+PROPITEM_TXT_724635,FWC Golden Herainn Helmet,FWCゴールデン・へレインヘルメット
+PROPITEM_TXT_724636,FWC Golden Herainn Suit,FWCゴールデン・ヘルナンディンスーツ
+PROPITEM_TXT_724637,FWC Golden Herainn Gauntlets,FWCゴールデン・ヘレインガントレット
+PROPITEM_TXT_724638,FWC Golden Herainn Boots,FWCゴールデン・へレインブーツ
+PROPITEM_TXT_724639,FWC Golden Heraud Helmet,FWCゴールデン・ヘローヘルメット
+PROPITEM_TXT_724640,FWC Golden Heraud Suit,FWCゴールデン・ヘロースーツ
+PROPITEM_TXT_724641,FWC Golden Heraud Gauntlets,FWCゴールデン・ヘローガントレット
+PROPITEM_TXT_724642,FWC Golden Heraud Boots,FWCゴールデン・ヘローブーツ
+PROPITEM_TXT_724643,FWC Golden Lypine Helmet,FWCゴールデン・リバインヘルメット
+PROPITEM_TXT_724644,FWC Golden Lypine Suit,FWCゴールデン・リパインスーツ
+PROPITEM_TXT_724645,FWC Golden Lypine Gauntlets,FWCゴールデン・リパインガントレット
+PROPITEM_TXT_724646,FWC Golden Lypine Boots,FWCゴールデン・リバインブーツ
+PROPITEM_TXT_724647,FWC Golden Lippin Helmet,FWCゴールデン・リピンヘルメット
+PROPITEM_TXT_724648,FWC Golden Lippin Suit,FWCゴールデン・リピンスーツ
+PROPITEM_TXT_724649,FWC Golden Lippin Gauntlets,FWCゴールデン・リピンガントレット
+PROPITEM_TXT_724650,FWC Golden Lippin Boots,FWCゴールデン・リピンブーツ
+PROPITEM_TXT_724651,FWC Golden Curena Helmet,FWCゴールデン・キュレナヘルメット
+PROPITEM_TXT_724652,FWC Golden Curena Suit,FWCゴールデン・キュレナスーツ
+PROPITEM_TXT_724653,FWC Golden Curena Gauntlets,FWCゴールデン・キュレナガントレット
+PROPITEM_TXT_724654,FWC Golden Curena Boots,FWCゴールデン・キュレナブーツ
+PROPITEM_TXT_724655,FWC Golden Curio Helmet,FWCゴールデン・キュリオヘルメット
+PROPITEM_TXT_724656,FWC Golden Curio Suit,FWCゴールデン・キュリオスーツ
+PROPITEM_TXT_724657,FWC Golden Curio Gauntlets,FWCゴールデン・キュリオガントレット
+PROPITEM_TXT_724658,FWC Golden Curio Boots,FWCゴールデン・キュリオブーツ
+PROPITEM_TXT_724659,FWC Golden Bilari Helmet,FWCゴールデン・ビラリヘルメット
+PROPITEM_TXT_724660,FWC Golden Bilari Suit,FWCゴールデン・ビラリスーツ
+PROPITEM_TXT_724661,FWC Golden Bilari Gauntlets,FWCゴールデン・ビラリガントレット
+PROPITEM_TXT_724662,FWC Golden Bilari Boots,FWCゴールデン・ビラリブーツ
+PROPITEM_TXT_724663,FWC Golden Bileire Helmet,FWCゴールデン・ビレイアヘルメット
+PROPITEM_TXT_724664,FWC Golden Bileire Suit,FWCゴールデン・ビレイアスーツ
+PROPITEM_TXT_724665,FWC Golden Bileire Gauntlets,FWCゴールデン・ビレイアガントレット
+PROPITEM_TXT_724666,FWC Golden Bileire Boots,FWCゴールデン・ビレイアブーツ
+PROPITEM_TXT_724667,FWC Golden Rephira Helmet,FWCゴールデン・レフィラヘルメット
+PROPITEM_TXT_724668,FWC Golden Rephira Suit,FWCゴールデン・レフィラスーツ
+PROPITEM_TXT_724669,FWC Golden Rephira Gauntlets,FWCゴールデン・レフィラガントレット
+PROPITEM_TXT_724670,FWC Golden Rephira Boots,FWCゴールデン・レフィラブーツ
+PROPITEM_TXT_724671,FWC Golden Reffiro Helmet,FWCゴールデン・レフィロヘルメット
+PROPITEM_TXT_724672,FWC Golden Reffiro Suit,FWCゴールデン・レフィロスーツ
+PROPITEM_TXT_724673,FWC Golden Reffiro Gauntlets,FWCゴールデン・レフィロガントレット
+PROPITEM_TXT_724674,FWC Golden Reffiro Boots,FWCゴールデン・レフィロブーツ
+PROPITEM_TXT_724675,FWC Golden Hanira Helmet,FWCゴールデン・ハニラヘルメット
+PROPITEM_TXT_724676,FWC Golden Hanira Suit,FWCゴールデン・ハニラスーツ
+PROPITEM_TXT_724677,FWC Golden Hanira Gauntlets,FWCゴールデン・ハニラガントレット
+PROPITEM_TXT_724678,FWC Golden Hanira Boots,FWCゴールデン・ハニラブーツ
+PROPITEM_TXT_724679,FWC Golden Hainure Helmet,FWCゴールデン・ハイヌアヘルメット
+PROPITEM_TXT_724680,FWC Golden Hainure Suit,FWCゴールデン・ハイヌアスーツ
+PROPITEM_TXT_724681,FWC Golden Hainure Gauntlets,FWCゴールデン・ハイヌアガントレット
+PROPITEM_TXT_724682,FWC Golden Hainure Boots,FWCゴールデン・ハイヌアブーツ
+PROPITEM_TXT_724683,FWC Golden Rayne Helmet,FWCゴールデン・レインヘルメット
+PROPITEM_TXT_724684,FWC Golden Rayne Suit,FWCゴールデン・レインスーツ
+PROPITEM_TXT_724685,FWC Golden Rayne Gauntlets,FWCゴールデン・レインガントレット
+PROPITEM_TXT_724686,FWC Golden Rayne Boots,FWCゴールデン・レインブーツ
+PROPITEM_TXT_724687,FWC Golden Reine Helmet,FWCゴールデン・レーヌヘルメット
+PROPITEM_TXT_724688,FWC Golden Reine Suit,FWCゴールデン・レーヌスーツ
+PROPITEM_TXT_724689,FWC Golden Reine Gauntlets,FWCゴールデン・レーヌガントレット
+PROPITEM_TXT_724690,FWC Golden Reine Boots,FWCゴールデン・レーヌブーツ
+PROPITEM_TXT_724691,FWC Golden Lusaka's Crystal Axe,FWCゴールデン・ルサカのクリスタルアックス
+PROPITEM_TXT_724692,FWC Golden Lusaka's Crystal Bow,FWCゴールデン・ルサカのクリスタルボウ
+PROPITEM_TXT_724693,FWC Golden Lusaka's Crystal Fist,FWCゴールデン・ルサカのクリスタルフィスト
+PROPITEM_TXT_724694,FWC Golden Lusaka's Crystal Staff,FWCゴールデン・ルサカのクリスタルスタッフ
+PROPITEM_TXT_724695,FWC Golden Lusaka's Crystal Stick,FWCゴールデン・ルサカのクリスタルスティック
+PROPITEM_TXT_724696,FWC Golden Lusaka's Crystal Sword,FWCゴールデン・ルサカのクリスタルソード
+PROPITEM_TXT_724697,FWC Golden Lusaka's Heavy Crystal Axe,FWCゴールデン・ルサカのヘビークリスタルアックス
+PROPITEM_TXT_724698,FWC Golden Lusaka's Heavy Crystal Sword,FWCゴールデン・ルサカのヘビークリスタルソード
+PROPITEM_TXT_724699,FWC Golden Lusaka's Crystal Wand,FWCゴールデン・ルサカのクリスタルワンド
+PROPITEM_TXT_724700,FWC Golden Lusaka's Crystal Yo-Yo,FWCゴールデン・ルサカのクリスタルヨーヨー
 PROPITEM_TXT_724701,FWC Pre-Register Gift Box,FWC事前登録ギフトボックス
 PROPITEM_TXT_724702,Some useful items to start your journey!,旅のスタートに便利なアイテムをぜひ!
 PROPITEM_TXT_724703,Spring Qipao 10% Black Set,春の旗袍10%ブラックセット
@@ -17076,9 +17076,9 @@ PROPITEM_TXT_726132,"A package containing 1x Scroll of PickUp Boost (7 days), 3x
 PROPITEM_TXT_726133,FWC 2024 Final Gift Box C,FWC 2024 Final Gift Box C
 PROPITEM_TXT_726134,"A package containing 1x Feed Bag (7 days), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel.",フィードバッグ(7日)x1、戦神の巻物ESx3、豪傑のスクロール(B)x3、グリルド・イールx3が含まれたパッケージ。
 PROPITEM_TXT_726135,FWC 2024 Early Bird Reward,FWC 2024 Early Bird Reward
-PROPITEM_TXT_726136,"A package containing 1x Ice Crown Weapon Skin Box, 1x Heart Breaker's Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion.",アイスクラウンウェポンスキンボックスx1、ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、虎のフラスコx10、ウサギのフラスコx10、キツネのフラスコx10、ライオンのフラスコx10が含まれたパッケージ。
+PROPITEM_TXT_726136,"A package containing 1x Ice Crown Weapon Skin Box, 1x Heart Breaker's Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion.",アイスクラウンウェポンスキンボックスx1、ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、強力な力の秘薬x10、強力な敏捷の秘薬x10、強力な知能の秘薬x10、強力な体力の秘薬x10が含まれたパッケージ。
 PROPITEM_TXT_726137,FWC 2024 Door Prize Reward,FWC 2024 Door Prize Reward
-PROPITEM_TXT_726138,"A package containing 1x Heart Breaker's Weapon Skin Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 days). All items are also linked.",ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、虎のフラスコx5、ウサギのフラスコx5、キツネのフラスコx5、ライオンのフラスコx5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_726138,"A package containing 1x Heart Breaker's Weapon Skin Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 days). All items are also linked.",ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、強力な力の秘薬x5、強力な敏捷の秘薬x5、強力な知能の秘薬x5、強力な体力の秘薬x5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726139,FWC 2024 Guild Rally Winner Reward,FWC 2024 Guild Rally Winner Reward
 PROPITEM_TXT_726140,"A package containing 1x Shadow Hunter Costume Lucky Box, 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold, 10x Flask Box and 3x Smelting Scroll of Package A.",シャドウハンターコスチュームラッキーボックスx1、クロックワークウェポンスキンボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、スタミナドリンクXまたは魔力ドリンクゴールドx10、秘薬ボックスx10、精錬編の巻物ボックス(A)x3が含まれたパッケージ。
 PROPITEM_TXT_726141,FWC 2024 Guild Rally Runner up Reward,FWC 2024 Guild Rally Runner up Reward
@@ -17377,14 +17377,14 @@ PROPITEM_TXT_131922,[Personal House NPC] Mac (B Grade),[パーソナルハウス
 PROPITEM_TXT_131923,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy B),パーソナルハウスに設置すると、次のボーナスを付与します:ペット育成（ペットキャンディーB）
 PROPITEM_TXT_131924,[Personal House NPC] Mac (A Grade),[パーソナルハウスNPC]マック(Aグレード)
 PROPITEM_TXT_131925,This NPC will grant you the following bonus when placed on the Personal House: Pet Training (Pet Candy A),パーソナルハウスに設置すると、次のボーナスを付与します:ペット育成（ペットキャンディーA）
-PROPITEM_TXT_133000,Hoe,鍬
-PROPITEM_TXT_133001,A hoe that is used for harvesting herbs. Herb gathering success rate: 40%,薬草を採集するための鍬。薬草採集成功率：40%
-PROPITEM_TXT_133002,Well-maintained Hoe,手入れされた鍬
-PROPITEM_TXT_133003,A hoe that has been well-maintained and can be used for harvesting even more herbs. Herb gathering success rate: 50%,手入れされた鍬で、より多くの薬草を採集できる。薬草採集成功率：50%
-PROPITEM_TXT_133004,New Hoe,新型の鍬
-PROPITEM_TXT_133005,A new type of hoe that is used for harvesting herbs. Herb gathering success rate: 60%,薬草を採集するための新型の鍬。薬草採集成功率：60%
-PROPITEM_TXT_133006,Finest Hoe,最高級の鍬
-PROPITEM_TXT_133007,The finest hoe that is used for harvesting herbs. Herb gathering success rate: 70%,薬草を採集するための最高級の鍬。薬草採集成功率：70%
+PROPITEM_TXT_133000,Hoe,くわ
+PROPITEM_TXT_133001,A hoe that is used for harvesting herbs. Herb gathering success rate: 40%,薬草を採集するためのくわ。薬草採集成功率：40%
+PROPITEM_TXT_133002,Well-maintained Hoe,手入れされたくわ
+PROPITEM_TXT_133003,A hoe that has been well-maintained and can be used for harvesting even more herbs. Herb gathering success rate: 50%,手入れされたくわで、より多くの薬草を採集できる。薬草採集成功率：50%
+PROPITEM_TXT_133004,New Hoe,新型のくわ
+PROPITEM_TXT_133005,A new type of hoe that is used for harvesting herbs. Herb gathering success rate: 60%,薬草を採集するための新型のくわ。薬草採集成功率：60%
+PROPITEM_TXT_133006,Finest Hoe,最高級のくわ
+PROPITEM_TXT_133007,The finest hoe that is used for harvesting herbs. Herb gathering success rate: 70%,薬草を採集するための最高級のくわ。薬草採集成功率：70%
 PROPITEM_TXT_133008,Axe,斧
 PROPITEM_TXT_133009,An axe that is used for woodcutting. Woodcutting success rate: 40%,伐採するための斧。伐採成功率：40%
 PROPITEM_TXT_133010,Well-maintained Axe,手入れされた斧
@@ -18172,29 +18172,29 @@ PROPITEM_TXT_133790,Concoction of Rising Power (B),上昇する力の秘薬 (B)
 PROPITEM_TXT_133791,Concoction of Rising Power (A),上昇する力の秘薬 (A)
 PROPITEM_TXT_133792,Concoction of Rising Power (A+),上昇する力の秘薬 (A+)
 PROPITEM_TXT_133793,A mixture that increases max FP when consumed.,摂取すると最大FPが上昇する混合薬。
-PROPITEM_TXT_133794,Potion of Tiger (D),虎の秘薬 (D)
-PROPITEM_TXT_133795,Potion of Tiger (C),虎の秘薬 (C)
-PROPITEM_TXT_133796,Potion of Tiger (B),虎の秘薬 (B)
-PROPITEM_TXT_133797,Potion of Tiger (A),虎の秘薬 (A)
-PROPITEM_TXT_133798,Potion of Tiger (A+),虎の秘薬 (A+)
+PROPITEM_TXT_133794,Potion of Tiger (D),力の秘薬 (D)
+PROPITEM_TXT_133795,Potion of Tiger (C),力の秘薬 (C)
+PROPITEM_TXT_133796,Potion of Tiger (B),力の秘薬 (B)
+PROPITEM_TXT_133797,Potion of Tiger (A),力の秘薬 (A)
+PROPITEM_TXT_133798,Potion of Tiger (A+),力の秘薬 (A+)
 PROPITEM_TXT_133799,A potion that increases STR when consumed.,摂取するとSTRが上昇する秘薬。
-PROPITEM_TXT_133800,Potion of Fox (D),キツネの秘薬 (D)
-PROPITEM_TXT_133801,Potion of Fox (C),キツネの秘薬 (C)
-PROPITEM_TXT_133802,Potion of Fox (B),キツネの秘薬 (B)
-PROPITEM_TXT_133803,Potion of Fox (A),キツネの秘薬 (A)
-PROPITEM_TXT_133804,Potion of Fox (A+),キツネの秘薬 (A+)
+PROPITEM_TXT_133800,Potion of Fox (D),知能の秘薬 (D)
+PROPITEM_TXT_133801,Potion of Fox (C),知能の秘薬 (C)
+PROPITEM_TXT_133802,Potion of Fox (B),知能の秘薬 (B)
+PROPITEM_TXT_133803,Potion of Fox (A),知能の秘薬 (A)
+PROPITEM_TXT_133804,Potion of Fox (A+),知能の秘薬 (A+)
 PROPITEM_TXT_133805,A potion that increases INT when consumed.,摂取するとINTが上昇する秘薬。
-PROPITEM_TXT_133806,Potion of Rabbit (D),ウサギの秘薬 (D)
-PROPITEM_TXT_133807,Potion of Rabbit (C),ウサギの秘薬 (C)
-PROPITEM_TXT_133808,Potion of Rabbit (B),ウサギの秘薬 (B)
-PROPITEM_TXT_133809,Potion of Rabbit (A),ウサギの秘薬 (A)
-PROPITEM_TXT_133810,Potion of Rabbit (A+),ウサギの秘薬 (A+)
+PROPITEM_TXT_133806,Potion of Rabbit (D),敏捷の秘薬 (D)
+PROPITEM_TXT_133807,Potion of Rabbit (C),敏捷の秘薬 (C)
+PROPITEM_TXT_133808,Potion of Rabbit (B),敏捷の秘薬 (B)
+PROPITEM_TXT_133809,Potion of Rabbit (A),敏捷の秘薬 (A)
+PROPITEM_TXT_133810,Potion of Rabbit (A+),敏捷の秘薬 (A+)
 PROPITEM_TXT_133811,A potion that increases DEX when consumed.,摂取するとDEXが上昇する秘薬。
-PROPITEM_TXT_133812,Potion of Lion (D),ライオンの秘薬 (D)
-PROPITEM_TXT_133813,Potion of Lion (C),ライオンの秘薬 (C)
-PROPITEM_TXT_133814,Potion of Lion (B),ライオンの秘薬 (B)
-PROPITEM_TXT_133815,Potion of Lion (A),ライオンの秘薬 (A)
-PROPITEM_TXT_133816,Potion of Lion (A+),ライオンの秘薬 (A+)
+PROPITEM_TXT_133812,Potion of Lion (D),体力の秘薬 (D)
+PROPITEM_TXT_133813,Potion of Lion (C),体力の秘薬 (C)
+PROPITEM_TXT_133814,Potion of Lion (B),体力の秘薬 (B)
+PROPITEM_TXT_133815,Potion of Lion (A),体力の秘薬 (A)
+PROPITEM_TXT_133816,Potion of Lion (A+),体力の秘薬 (A+)
 PROPITEM_TXT_133817,A potion that increases STA when consumed.,摂取するとSTAが上昇する秘薬。
 PROPITEM_TXT_133818,Concoction of Accuracy (D),命中の秘薬 (D)
 PROPITEM_TXT_133819,Concoction of Accuracy (C),命中の秘薬 (C)
@@ -18208,53 +18208,53 @@ PROPITEM_TXT_133826,Concoction of Evasion (B),回避の秘薬 (B)
 PROPITEM_TXT_133827,Concoction of Evasion (A),回避の秘薬 (A)
 PROPITEM_TXT_133828,Concoction of Evasion (A+),回避の秘薬 (A+)
 PROPITEM_TXT_133829,A mixture that increases evasion when consumed.,摂取すると回避率が上昇する混合薬。
-PROPITEM_TXT_133830,Concoction of Swiftness (D),敏捷の秘薬 (D)
-PROPITEM_TXT_133831,Concoction of Swiftness (C),敏捷の秘薬 (C)
-PROPITEM_TXT_133832,Concoction of Swiftness (B),敏捷の秘薬 (B)
-PROPITEM_TXT_133833,Concoction of Swiftness (A),敏捷の秘薬 (A)
-PROPITEM_TXT_133834,Concoction of Swiftness (A+),敏捷の秘薬 (A+)
+PROPITEM_TXT_133830,Concoction of Swiftness (D),攻撃速度上昇の秘薬 (D)
+PROPITEM_TXT_133831,Concoction of Swiftness (C),攻撃速度上昇の秘薬 (C)
+PROPITEM_TXT_133832,Concoction of Swiftness (B),攻撃速度上昇の秘薬 (B)
+PROPITEM_TXT_133833,Concoction of Swiftness (A),攻撃速度上昇の秘薬 (A)
+PROPITEM_TXT_133834,Concoction of Swiftness (A+),攻撃速度上昇の秘薬 (A+)
 PROPITEM_TXT_133835,A mixture that increases attack speed when consumed.,摂取すると攻撃速度が上昇する混合薬。
-PROPITEM_TXT_133836,Concoction of Clarity (D),明晰の秘薬 (D)
-PROPITEM_TXT_133837,Concoction of Clarity (C),明晰の秘薬 (C)
-PROPITEM_TXT_133838,Concoction of Clarity (B),明晰の秘薬 (B)
-PROPITEM_TXT_133839,Concoction of Clarity (A),明晰の秘薬 (A)
-PROPITEM_TXT_133840,Concoction of Clarity (A+),明晰の秘薬 (A+)
-PROPITEM_TXT_133841,A mixture that increases casting time when consumed.,摂取すると詠唱速度が上昇する混合薬。
-PROPITEM_TXT_133842,Concoction of Recklessness (D),無謀の秘薬 (D)
-PROPITEM_TXT_133843,Concoction of Recklessness (C),無謀の秘薬 (C)
-PROPITEM_TXT_133844,Concoction of Recklessness (B),無謀の秘薬 (B)
-PROPITEM_TXT_133845,Concoction of Recklessness (A),無謀の秘薬 (A)
-PROPITEM_TXT_133846,Concoction of Recklessness (A+),無謀の秘薬 (A+)
+PROPITEM_TXT_133836,Concoction of Clarity (D),詠唱の秘薬 (D)
+PROPITEM_TXT_133837,Concoction of Clarity (C),詠唱の秘薬 (C)
+PROPITEM_TXT_133838,Concoction of Clarity (B),詠唱の秘薬 (B)
+PROPITEM_TXT_133839,Concoction of Clarity (A),詠唱の秘薬 (A)
+PROPITEM_TXT_133840,Concoction of Clarity (A+),詠唱の秘薬 (A+)
+PROPITEM_TXT_133841,A mixture that increases casting time when consumed.,摂取すると魔法キャスティング時間が上昇する混合薬。
+PROPITEM_TXT_133842,Concoction of Recklessness (D),するどさの秘薬 (D)
+PROPITEM_TXT_133843,Concoction of Recklessness (C),するどさの秘薬 (C)
+PROPITEM_TXT_133844,Concoction of Recklessness (B),するどさの秘薬 (B)
+PROPITEM_TXT_133845,Concoction of Recklessness (A),するどさの秘薬 (A)
+PROPITEM_TXT_133846,Concoction of Recklessness (A+),するどさの秘薬 (A+)
 PROPITEM_TXT_133847,A mixture that increases critical chance when consumed.,摂取するとクリティカル率が上昇する混合薬。
-PROPITEM_TXT_133848,Concoction of Bleeding (D),出血の秘薬 (D)
-PROPITEM_TXT_133849,Concoction of Bleeding (C),出血の秘薬 (C)
-PROPITEM_TXT_133850,Concoction of Bleeding (B),出血の秘薬 (B)
-PROPITEM_TXT_133851,Concoction of Bleeding (A),出血の秘薬 (A)
-PROPITEM_TXT_133852,Concoction of Bleeding (A+),出血の秘薬 (A+)
+PROPITEM_TXT_133848,Concoction of Bleeding (D),クリティカルダメージ追加の秘薬 (D)
+PROPITEM_TXT_133849,Concoction of Bleeding (C),クリティカルダメージ追加の秘薬 (C)
+PROPITEM_TXT_133850,Concoction of Bleeding (B),クリティカルダメージ追加の秘薬 (B)
+PROPITEM_TXT_133851,Concoction of Bleeding (A),クリティカルダメージ追加の秘薬 (A)
+PROPITEM_TXT_133852,Concoction of Bleeding (A+),クリティカルダメージ追加の秘薬 (A+)
 PROPITEM_TXT_133853,A mixture that increases critical damage when consumed.,摂取するとクリティカルダメージが上昇する混合薬。
-PROPITEM_TXT_133854,Concoction of Swift Footsteps (D),快足の秘薬 (D)
-PROPITEM_TXT_133855,Concoction of Swift Footsteps (C),快足の秘薬 (C)
-PROPITEM_TXT_133856,Concoction of Swift Footsteps (B),快足の秘薬 (B)
-PROPITEM_TXT_133857,Concoction of Swift Footsteps (A),快足の秘薬 (A)
-PROPITEM_TXT_133858,Concoction of Swift Footsteps (A+),快足の秘薬 (A+)
+PROPITEM_TXT_133854,Concoction of Swift Footsteps (D),跳躍の秘薬 (D)
+PROPITEM_TXT_133855,Concoction of Swift Footsteps (C),跳躍の秘薬 (C)
+PROPITEM_TXT_133856,Concoction of Swift Footsteps (B),跳躍の秘薬 (B)
+PROPITEM_TXT_133857,Concoction of Swift Footsteps (A),跳躍の秘薬 (A)
+PROPITEM_TXT_133858,Concoction of Swift Footsteps (A+),跳躍の秘薬 (A+)
 PROPITEM_TXT_133859,A mixture that increases jump height when consumed.,摂取するとジャンプの高さが上昇する混合薬。
-PROPITEM_TXT_133860,Concoction of Swift HP Recovery (D),HP急速回復の秘薬 (D)
-PROPITEM_TXT_133861,Concoction of Swift HP Recovery (C),HP急速回復の秘薬 (C)
-PROPITEM_TXT_133862,Concoction of Swift HP Recovery (B),HP急速回復の秘薬 (B)
-PROPITEM_TXT_133863,Concoction of Swift HP Recovery (A),HP急速回復の秘薬 (A)
-PROPITEM_TXT_133864,Concoction of Swift HP Recovery (A+),HP急速回復の秘薬 (A+)
+PROPITEM_TXT_133860,Concoction of Swift HP Recovery (D),HP回復量上昇の秘薬 (D)
+PROPITEM_TXT_133861,Concoction of Swift HP Recovery (C),HP回復量上昇の秘薬 (C)
+PROPITEM_TXT_133862,Concoction of Swift HP Recovery (B),HP回復量上昇の秘薬 (B)
+PROPITEM_TXT_133863,Concoction of Swift HP Recovery (A),HP回復量上昇の秘薬 (A)
+PROPITEM_TXT_133864,Concoction of Swift HP Recovery (A+),HP回復量上昇の秘薬 (A+)
 PROPITEM_TXT_133865,A mixture that increases HP recovery when consumed.,摂取するとHP回復量が上昇する混合薬。
-PROPITEM_TXT_133866,Concoction of Swift MP Recovery (D),MP急速回復の秘薬 (D)
-PROPITEM_TXT_133867,Concoction of Swift MP Recovery (C),MP急速回復の秘薬 (C)
-PROPITEM_TXT_133868,Concoction of Swift MP Recovery (B),MP急速回復の秘薬 (B)
-PROPITEM_TXT_133869,Concoction of Swift MP Recovery (A),MP急速回復の秘薬 (A)
-PROPITEM_TXT_133870,Concoction of Swift MP Recovery (A+),MP急速回復の秘薬 (A+)
+PROPITEM_TXT_133866,Concoction of Swift MP Recovery (D),MP回復量上昇の秘薬 (D)
+PROPITEM_TXT_133867,Concoction of Swift MP Recovery (C),MP回復量上昇の秘薬 (C)
+PROPITEM_TXT_133868,Concoction of Swift MP Recovery (B),MP回復量上昇の秘薬 (B)
+PROPITEM_TXT_133869,Concoction of Swift MP Recovery (A),MP回復量上昇の秘薬 (A)
+PROPITEM_TXT_133870,Concoction of Swift MP Recovery (A+),MP回復量上昇の秘薬 (A+)
 PROPITEM_TXT_133871,A mixture that increases MP recovery when consumed.,摂取するとMP回復量が上昇する混合薬。
-PROPITEM_TXT_133872,Concoction of Swift FP Recovery (D),FP急速回復の秘薬 (D)
-PROPITEM_TXT_133873,Concoction of Swift FP Recovery (C),FP急速回復の秘薬 (C)
-PROPITEM_TXT_133874,Concoction of Swift FP Recovery (B),FP急速回復の秘薬 (B)
-PROPITEM_TXT_133875,Concoction of Swift FP Recovery (A),FP急速回復の秘薬 (A)
-PROPITEM_TXT_133876,Concoction of Swift FP Recovery (A+),FP急速回復の秘薬 (A+)
+PROPITEM_TXT_133872,Concoction of Swift FP Recovery (D),FP回復量上昇の秘薬 (D)
+PROPITEM_TXT_133873,Concoction of Swift FP Recovery (C),FP回復量上昇の秘薬 (C)
+PROPITEM_TXT_133874,Concoction of Swift FP Recovery (B),FP回復量上昇の秘薬 (B)
+PROPITEM_TXT_133875,Concoction of Swift FP Recovery (A),FP回復量上昇の秘薬 (A)
+PROPITEM_TXT_133876,Concoction of Swift FP Recovery (A+),FP回復量上昇の秘薬 (A+)
 PROPITEM_TXT_133877,A mixture that increases the FP recovery when consumed.,摂取するとFP回復量が上昇する混合薬。
 PROPITEM_TXT_133878,Power Refresher (D),強化魔力ドリンク (D)
 PROPITEM_TXT_133879,Power Refresher (C),強化魔力ドリンク (C)
@@ -19519,11 +19519,11 @@ PROPITEM_TXT_726455,Turkeylicious White Shoes for Female characters,女性キャ
 PROPITEM_TXT_726456,Turkeylicious White Gloves (F),ターキーリシャスホワイトグローブ(F)
 PROPITEM_TXT_726457,Turkeylicious White Gloves for Female characters,女性キャラクター用のターキーリシャスホワイトグローブ
 PROPITEM_TXT_726198,Blood Donation Drive,Blood Donation Drive
-PROPITEM_TXT_726199,"A package containing 1x Heart Breaker's Weapon Skin Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、虎のフラスコx5、ウサギのフラスコx5、キツネのフラスコx5、ライオンのフラスコx5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_726199,"A package containing 1x Heart Breaker's Weapon Skin Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、強力な力の秘薬x5、強力な敏捷の秘薬x5、強力な知能の秘薬x5、強力な体力の秘薬x5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726200,PXP 2024 Early Bird,PXP 2024 Early Bird
-PROPITEM_TXT_726201,"A package containing 1x Ice Crown Weapons, 1x Rudolph Costume Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 Days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion. All items are also linked.",アイスクラウンウェポンx1、ルドルフコスチュームボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、虎のフラスコx10、ウサギのフラスコx10、キツネのフラスコx10、ライオンのフラスコx10が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_726201,"A package containing 1x Ice Crown Weapons, 1x Rudolph Costume Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 Days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion. All items are also linked.",アイスクラウンウェポンx1、ルドルフコスチュームボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、強力な力の秘薬x10、強力な敏捷の秘薬x10、強力な知能の秘薬x10、強力な体力の秘薬x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_726202,PXP 2024 Door Prize,PXP 2024 Door Prize
-PROPITEM_TXT_726203,"A package containing 1x Rudolph Costume Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ルドルフコスチュームボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、虎のフラスコx5、ウサギのフラスコx5、キツネのフラスコx5、ライオンのフラスコx5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
+PROPITEM_TXT_726203,"A package containing 1x Rudolph Costume Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ルドルフコスチュームボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、強力な力の秘薬x5、強力な敏捷の秘薬x5、強力な知能の秘薬x5、強力な体力の秘薬x5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_826187,Extended Emotes,追加エモートパック
 PROPITEM_TXT_826188,"This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11.",このパッケージには、瞑想、宙返り1、「○」「×」「グー」「パー」「チョキ」を掲げる、ダンス10・11の、キャラクター用エモート9種類が含まれています。
 PROPITEM_TXT_826189,Meditation Emote,瞑想エモート
@@ -21816,16 +21816,16 @@ PROPITEM_TXT_828288,Easter Rabbit 2025 2% Rainbow Set (F),女性キャラクタ�
 PROPITEM_TXT_828289,The Easter Rabbit 2025 2% Rainbow Set for female characters.,女性キャラクター用のイースターラビット2025 2%レインボーセット
 PROPITEM_TXT_828290,Easter Rabbit 2025 Costume Lucky Box,イースターラビット2025コスチュームラッキーボックス
 PROPITEM_TXT_828291,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Easter Rabbit 2025 Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,2025 FWC Golden Lusaka's Crystal Axe
-PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,2025 FWC Golden Lusaka's Crystal Bow
-PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,2025 FWC Golden Lusaka's Crystal Fist
-PROPITEM_TXT_900003,2025 FWC Golden Lusaka's Crystal Staff,2025 FWC Golden Lusaka's Crystal Staff
-PROPITEM_TXT_900004,2025 FWC Golden Lusaka's Crystal Stick,2025 FWC Golden Lusaka's Crystal Stick
-PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,2025 FWC Golden Lusaka's Crystal Sword
-PROPITEM_TXT_900006,2025 FWC Golden Lusaka's Heavy Crystal Axe,2025 FWC Golden Lusaka's Heavy Crystal Axe
-PROPITEM_TXT_900007,2025 FWC Golden Lusaka's Heavy Crystal Sword,2025 FWC Golden Lusaka's Heavy Crystal Sword
-PROPITEM_TXT_900008,2025 FWC Golden Lusaka's Crystal Wand,2025 FWC Golden Lusaka's Crystal Wand
-PROPITEM_TXT_900009,2025 FWC Golden Lusaka's Crystal Yo-Yo,2025 FWC Golden Lusaka's Crystal Yo-Yo
+PROPITEM_TXT_900000,2025 FWC Golden Lusaka's Crystal Axe,2025 FWCゴールデン・ルサカのクリスタルアックス
+PROPITEM_TXT_900001,2025 FWC Golden Lusaka's Crystal Bow,2025 FWCゴールデン・ルサカのクリスタルボウ
+PROPITEM_TXT_900002,2025 FWC Golden Lusaka's Crystal Fist,2025 FWCゴールデン・ルサカのクリスタルフィスト
+PROPITEM_TXT_900003,2025 FWC Golden Lusaka's Crystal Staff,2025 FWCゴールデン・ルサカのクリスタルスタッフ
+PROPITEM_TXT_900004,2025 FWC Golden Lusaka's Crystal Stick,2025 FWCゴールデン・ルサカのクリスタルスティック
+PROPITEM_TXT_900005,2025 FWC Golden Lusaka's Crystal Sword,2025 FWCゴールデン・ルサカのクリスタルソード
+PROPITEM_TXT_900006,2025 FWC Golden Lusaka's Heavy Crystal Axe,2025 FWCゴールデン・ルサカのヘビークリスタルアックス
+PROPITEM_TXT_900007,2025 FWC Golden Lusaka's Heavy Crystal Sword,2025 FWCゴールデン・ルサカのヘビークリスタルソード
+PROPITEM_TXT_900008,2025 FWC Golden Lusaka's Crystal Wand,2025 FWCゴールデン・ルサカのクリスタルワンド
+PROPITEM_TXT_900009,2025 FWC Golden Lusaka's Crystal Yo-Yo,2025 FWCゴールデン・ルサカのクリスタルヨーヨー
 PROPITEM_TXT_828300,Android Level 15 Reward Box,Android Level 15 Reward Box
 PROPITEM_TXT_828301,"A package containing 3x Vital Drink X or Refresher Hold, 1x Scroll of Amplification ES, 5x Scroll of Return town and 10x Scroll of Sprint. All items are also linked.",スタミナドリンクXまたは魔力ドリンクゴールドx3、戦神の巻物ESx1、街戻りの巻物x5、疾風の巻物x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_828302,Android Level 30 Reward Box,Android Level 30 Reward Box
@@ -24011,40 +24011,40 @@ PROPITEM_TXT_134849,[Event] Halloween Dungeon Lucky Box,[イベント]ハロウ�
 PROPITEM_TXT_134850,A reward from the 2025 Halloween event dungeon!,2025ハロウィンイベントダンジョンからの報酬！
 PROPITEM_TXT_134851,Longwing Vendor Shop,ロングウィングの売り子
 PROPITEM_TXT_134852,This cute Enchanted Longwing manages a Personal Shop for you! Double click to close the Shop. You get the item back when the Shop is closed. (7 Days),このかわいいエンチャントされたロングウィングは、あなたの代わりに個人商店を開いてくれます。使用後はダブルクリックでショップを閉じることができ、アイテムが戻ってきます。(7日間)
-PROPITEM_TXT_134853,2025 FWC Flame Bilari Helmet (F),2025 FWCフレイムビラリ ヘルメット(F)
+PROPITEM_TXT_134853,2025 FWC Flame Bilari Helmet (F),2025 FWCフレイム・ビラリ ヘルメット(F)
 PROPITEM_TXT_134854,,
-PROPITEM_TXT_134855,2025 FWC Flame Bilari Suit (F),2025 FWCフレイムビラリ スーツ(F)
+PROPITEM_TXT_134855,2025 FWC Flame Bilari Suit (F),2025 FWCフレイム・ビラリ スーツ(F)
 PROPITEM_TXT_134856,,
-PROPITEM_TXT_134857,2025 FWC Flame Bilari Gauntlet (F),2025 FWCフレイムビラリ ガントレット(F)
+PROPITEM_TXT_134857,2025 FWC Flame Bilari Gauntlet (F),2025 FWCフレイム・ビラリ ガントレット(F)
 PROPITEM_TXT_134858,,
-PROPITEM_TXT_134859,2025 FWC Flame Bilari Boots (F),2025 FWCフレイムビラリ ブーツ(F)
+PROPITEM_TXT_134859,2025 FWC Flame Bilari Boots (F),2025 FWCフレイム・ビラリ ブーツ(F)
 PROPITEM_TXT_134860,,
-PROPITEM_TXT_134861,2025 FWC Flame Bileire Helmet (M),2025 FWCフレイムビレイア ヘルメット(M)
+PROPITEM_TXT_134861,2025 FWC Flame Bileire Helmet (M),2025 FWCフレイム・ビレイア ヘルメット(M)
 PROPITEM_TXT_134862,,
-PROPITEM_TXT_134863,2025 FWC Flame Bileire Suit (M),2025 FWCフレイムビレイア スーツ(M)
+PROPITEM_TXT_134863,2025 FWC Flame Bileire Suit (M),2025 FWCフレイム・ビレイア スーツ(M)
 PROPITEM_TXT_134864,,
-PROPITEM_TXT_134865,2025 FWC Flame Bileire Gauntlet (M),2025 FWCフレイムビレイア ガントレット(M)
+PROPITEM_TXT_134865,2025 FWC Flame Bileire Gauntlet (M),2025 FWCフレイム・ビレイア ガントレット(M)
 PROPITEM_TXT_134866,,
-PROPITEM_TXT_134867,2025 FWC Flame Bileire Boots (M),2025 FWCフレイムビレイア ブーツ(M)
+PROPITEM_TXT_134867,2025 FWC Flame Bileire Boots (M),2025 FWCフレイム・ビレイア ブーツ(M)
 PROPITEM_TXT_134868,,
-PROPITEM_TXT_134869,2025 FWC Flame Bilari Costume Set (F),2025FWCフレイムビラリコスチュームセット(F)
-PROPITEM_TXT_134870,The 2025 FWC Flame Bilari Costume Set for female characters.,女性キャラクター用の2025FWCフレイムビラリコスチュームセット
-PROPITEM_TXT_134871,2025 FWC Flame Bileire Costume Set (M),2025FWCフレイムビレイアコスチュームセット(M)
-PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,男性キャラクター用の2025FWCフレイムビレイアコスチュームセット
+PROPITEM_TXT_134869,2025 FWC Flame Bilari Costume Set (F),2025FWCフレイム・ビラリコスチュームセット(F)
+PROPITEM_TXT_134870,The 2025 FWC Flame Bilari Costume Set for female characters.,女性キャラクター用の2025FWCフレイム・ビラリコスチュームセット
+PROPITEM_TXT_134871,2025 FWC Flame Bileire Costume Set (M),2025FWCフレイム・ビレイアコスチュームセット(M)
+PROPITEM_TXT_134872,The 2025 FWC Flame Bileire Costume Set for male characters.,男性キャラクター用の2025FWCフレイム・ビレイアコスチュームセット
 PROPITEM_TXT_134873,FWC Red Wings,FWCレッドウィング
-PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,2025 FWCフレイムルサカの剣
-PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,2025 FWCフレイムルサカの斧
-PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWCフレイムルサカの大剣
-PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,2025 FWCフレイムルサカの両手斧
-PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,2025 FWCフレイムルサカのスティック
-PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,2025 FWCフレイムルサカのナックル
-PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,2025 FWCフレイムルサカの弓
-PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,2025 FWCフレイムルサカのヨーヨー
-PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,2025 FWCフレイムルサカのスタッフ
-PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWCフレイムルサカのワンド
-PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWCフレイムルサカの盾
-PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWCフレイムルサカ武器選択ボックス
-PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,このボックスには2025 FWCフレイムルサカの武器が入っています。
+PROPITEM_TXT_134874,2025 FWC Flame Lusaka Sword,2025 FWCフレイム・ルサカの剣
+PROPITEM_TXT_134875,2025 FWC Flame Lusaka Axe,2025 FWCフレイム・ルサカの斧
+PROPITEM_TXT_134876,2025 FWC Flame Lusaka Big Sword,2025 FWCフレイム・ルサカの大剣
+PROPITEM_TXT_134877,2025 FWC Flame Lusaka Big Axe,2025 FWCフレイム・ルサカの両手斧
+PROPITEM_TXT_134878,2025 FWC Flame Lusaka Stick,2025 FWCフレイム・ルサカのスティック
+PROPITEM_TXT_134879,2025 FWC Flame Lusaka Knuckle,2025 FWCフレイム・ルサカのナックル
+PROPITEM_TXT_134880,2025 FWC Flame Lusaka Bow,2025 FWCフレイム・ルサカの弓
+PROPITEM_TXT_134881,2025 FWC Flame Lusaka Yo-Yo,2025 FWCフレイム・ルサカのヨーヨー
+PROPITEM_TXT_134882,2025 FWC Flame Lusaka Staff,2025 FWCフレイム・ルサカのスタッフ
+PROPITEM_TXT_134883,2025 FWC Flame Lusaka Wand,2025 FWCフレイム・ルサカのワンド
+PROPITEM_TXT_134884,2025 FWC Flame Lusaka Shield,2025 FWCフレイム・ルサカの盾
+PROPITEM_TXT_134885,2025 FWC Flame Lusaka Weapon Select Box,2025 FWCフレイム・ルサカ武器選択ボックス
+PROPITEM_TXT_134886,This box contains the 2025 FWC Flame Lusaka Weapons.,このボックスには2025 FWCフレイム・ルサカの武器が入っています。
 PROPITEM_TXT_155000,Blinkwing of Eillun,ブリンクウイング（エルリウン）
 PROPITEM_TXT_155001,Teleport to Eillun,エルリウンへ移動できるブリンクウイング
 PROPITEM_TXT_155002,Fragment of ???,???の欠片
@@ -25568,7 +25568,7 @@ PROPITEM_TXT_902698,"Your heart races as if meeting a first love, increasing Att
 PROPITEM_TXT_902699,Eye of Sincere Heart,誠実な心の目
 PROPITEM_TXT_902700,"A gaze of unwavering sincerity that sees only one person, increasing Hit Rate by 10%. Lasts for 30 minutes.",ただ一人だけを見つめる、揺るぎない誠実なまなざし。命中率を10%上昇させます。30分間持続します。
 PROPITEM_TXT_902701,Dew of Transparent Affection,透明な愛情の露
-PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes.",複雑な思考が消え去り、愛する人の姿だけが目に映る。心を澄み渡らせ、詠唱時間を10%短縮します。30分間持続します。
+PROPITEM_TXT_902702,"Complex thoughts vanish, leaving only your beloved in sight. Clears the mind to reduce Casting Time by 10%. Lasts for 30 minutes.",複雑な思考が消え去り、愛する人の姿だけが目に映る。心を澄み渡らせ、魔法キャスティング時間を10%短縮します。30分間持続します。
 PROPITEM_TXT_902703,Scroll of Ultimate Bonus Select Box,アルティメットボーナスの巻物セレクトボックス
 PROPITEM_TXT_902704,Select which scroll you want to receive!,受け取りたい巻物を選択してください！
 PROPITEM_TXT_902705,Begging Emote,お願いエモート
@@ -26603,81 +26603,81 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,ローズピンク�
 PROPITEM_TXT_903694,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[イベント]2026スプリングギフトボックス
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),マドリガルフライングセレクションボックス（15日）
-PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWC ゴールデンカータナ アルティメット
-PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate,2026 FWC ゴールデンセレスティアルエッジ アルティメット
-PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate,2026 FWC ゴールデンブッチャーズカーネイジ アルティメット
-PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate,2026 FWC ゴールデンハービンジャー アルティメット
-PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate,2026 FWC ゴールデンマウ・オブ・ジャッジメント アルティメット
-PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate,2026 FWC ゴールデンオラクル アルティメット
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,2026 FWC ゴールデンセプター・オブ・ディスオーダー アルティメット
-PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate,2026 FWC ゴールデンロイカの杖 アルティメット
-PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate,2026 FWC ゴールデンディメンシア アルティメット
-PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate,2026 FWC ゴールデンドラゴンズレイン アルティメット
-PROPITEM_TXT_155839,2026 FWC Golden K Fang Ultimate,2026 FWC ゴールデンケイファング アルティメット
-PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,2026 FWCゴールデンランティエルヘルメット
-PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,2026 FWCゴールデンランティエルスーツ
-PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,2026 FWCゴールデンランティエルガントレット
-PROPITEM_TXT_155843,2026 FWC Golden Runthiel Boots,2026 FWCゴールデンランティエルブーツ
-PROPITEM_TXT_155844,2026 FWC Golden Runthien Helmet,2026 FWCゴールデンランティエンヘルメット
-PROPITEM_TXT_155845,2026 FWC Golden Runthien Suit,2026 FWCゴールデンランティエンスーツ
-PROPITEM_TXT_155846,2026 FWC Golden Runthien Gauntlets,2026 FWCゴールデンランティエンガントレット
-PROPITEM_TXT_155847,2026 FWC Golden Runthien Boots,2026 FWCゴールデンランティエンブーツ
-PROPITEM_TXT_155848,2026 FWC Golden Zaythor Helmet,2026 FWCゴールデンゼイソーヘルメット
-PROPITEM_TXT_155849,2026 FWC Golden Zaythor Suit,2026 FWCゴールデンゼイソースーツ
-PROPITEM_TXT_155850,2026 FWC Golden Zaythor Gauntlets,2026 FWCゴールデンゼイソーガントレット
-PROPITEM_TXT_155851,2026 FWC Golden Zaythor Boots,2026 FWCゴールデンゼイソーブーツ
-PROPITEM_TXT_155852,2026 FWC Golden Zaythar Helmet,2026 FWCゴールデンゼイサーヘルメット
-PROPITEM_TXT_155853,2026 FWC Golden Zaythar Suit,2026 FWCゴールデンゼイサースーツ
-PROPITEM_TXT_155854,2026 FWC Golden Zaythar Gauntlets,2026 FWCゴールデンゼイサーガントレット
-PROPITEM_TXT_155855,2026 FWC Golden Zaythar Boots,2026 FWCゴールデンゼイサーブーツ
-PROPITEM_TXT_155856,2026 FWC Golden Chyrelle Helmet,2026 FWCゴールデンシレルヘルメット
-PROPITEM_TXT_155857,2026 FWC Golden Chyrelle Suit,2026 FWCゴールデンシレルスーツ
-PROPITEM_TXT_155858,2026 FWC Golden Chyrelle Gauntlets,2026 FWCゴールデンシレルガントレット
-PROPITEM_TXT_155859,2026 FWC Golden Chyrelle Boots,2026 FWCゴールデンシレルブーツ
-PROPITEM_TXT_155860,2026 FWC Golden Chyrella Helmet,2026 FWCゴールデンシレラヘルメット
-PROPITEM_TXT_155861,2026 FWC Golden Chyrella Suit,2026 FWCゴールデンシレラスーツ
-PROPITEM_TXT_155862,2026 FWC Golden Chyrella Gauntlets,2026 FWCゴールデンシレラガントレット
-PROPITEM_TXT_155863,2026 FWC Golden Chyrella Boots,2026 FWCゴールデンシレラブーツ
-PROPITEM_TXT_155864,2026 FWC Golden Lenvire Helmet,2026 FWCゴールデンレンヴィールヘルメット
-PROPITEM_TXT_155865,2026 FWC Golden Lenvire Suit,2026 FWCゴールデンレンヴィールスーツ
-PROPITEM_TXT_155866,2026 FWC Golden Lenvire Gauntlets,2026 FWCゴールデンレンヴィールガントレット
-PROPITEM_TXT_155867,2026 FWC Golden Lenvire Boots,2026 FWCゴールデンレンヴィールブーツ
-PROPITEM_TXT_155868,2026 FWC Golden Lenvira Helmet,2026 FWCゴールデンレンヴィラヘルメット
-PROPITEM_TXT_155869,2026 FWC Golden Lenvira Suit,2026 FWCゴールデンレンヴィラスーツ
-PROPITEM_TXT_155870,2026 FWC Golden Lenvira Gauntlets,2026 FWCゴールデンレンヴィラガントレット
-PROPITEM_TXT_155871,2026 FWC Golden Lenvira Boots,2026 FWCゴールデンレンヴィラブーツ
-PROPITEM_TXT_155872,2026 FWC Golden Etranor Helmet,2026 FWCゴールデンエトラノールヘルメット
-PROPITEM_TXT_155873,2026 FWC Golden Etranor Suit,2026 FWCゴールデンエトラノールスーツ
-PROPITEM_TXT_155874,2026 FWC Golden Etranor Gauntlets,2026 FWCゴールデンエトラノールガントレット
-PROPITEM_TXT_155875,2026 FWC Golden Etranor Boots,2026 FWCゴールデンエトラノールブーツ
-PROPITEM_TXT_155876,2026 FWC Golden Etranar Helmet,2026 FWCゴールデンエトラナーヘルメット
-PROPITEM_TXT_155877,2026 FWC Golden Etranar Suit,2026 FWCゴールデンエトラナースーツ
-PROPITEM_TXT_155878,2026 FWC Golden Etranar Gauntlets,2026 FWCゴールデンエトラナーガントレット
-PROPITEM_TXT_155879,2026 FWC Golden Etranar Boots,2026 FWCゴールデンエトラナーブーツ
-PROPITEM_TXT_155880,2026 FWC Golden Kevric Helmet,2026 FWCゴールデンケブリックヘルメット
-PROPITEM_TXT_155881,2026 FWC Golden Kevric Suit,2026 FWCゴールデンケブリックスーツ
-PROPITEM_TXT_155882,2026 FWC Golden Kevric Gauntlets,2026 FWCゴールデンケブリックガントレット
-PROPITEM_TXT_155883,2026 FWC Golden Kevric Boots,2026 FWCゴールデンケブリックブーツ
-PROPITEM_TXT_155884,2026 FWC Golden Kevricar Helmet,2026 FWCゴールデンケブリカーヘルメット
-PROPITEM_TXT_155885,2026 FWC Golden Kevricar Suit,2026 FWCゴールデンケブリカースーツ
-PROPITEM_TXT_155886,2026 FWC Golden Kevricar Gauntlets,2026 FWCゴールデンケブリカーガントレット
-PROPITEM_TXT_155887,2026 FWC Golden Kevricar Boots,2026 FWCゴールデンケブリカーブーツ
-PROPITEM_TXT_155888,2026 FWC Golden Ustamel Helmet,2026 FWCゴールデンウスタメルヘルメット
-PROPITEM_TXT_155889,2026 FWC Golden Ustamel Suit,2026 FWCゴールデンウスタメルスーツ
-PROPITEM_TXT_155890,2026 FWC Golden Ustamel Gauntlets,2026 FWCゴールデンウスタメルガントレット
-PROPITEM_TXT_155891,2026 FWC Golden Ustamel Boots,2026 FWCゴールデンウスタメルブーツ
-PROPITEM_TXT_155892,2026 FWC Golden Ustamen Helmet,2026 FWCゴールデンウスタメンヘルメット
-PROPITEM_TXT_155893,2026 FWC Golden Ustamen Suit,2026 FWCゴールデンウスタメンスーツ
-PROPITEM_TXT_155894,2026 FWC Golden Ustamen Gauntlets,2026 FWCゴールデンウスタメンガントレット
-PROPITEM_TXT_155895,2026 FWC Golden Ustamen Boots,2026 FWCゴールデンウスタメンブーツ
-PROPITEM_TXT_155896,2026 FWC Golden Virashon Helmet,2026 FWCゴールデンヴィラションヘルメット
-PROPITEM_TXT_155897,2026 FWC Golden Virashon Suit,2026 FWCゴールデンヴィラションスーツ
-PROPITEM_TXT_155898,2026 FWC Golden Virashon Gauntlets,2026 FWCゴールデンヴィラションガントレット
-PROPITEM_TXT_155899,2026 FWC Golden Virashon Boots,2026 FWCゴールデンヴィラションブーツ
-PROPITEM_TXT_155900,2026 FWC Golden Verashan Helmet,2026 FWCゴールデンヴェラシャンヘルメット
-PROPITEM_TXT_155901,2026 FWC Golden Verashan Suit,2026 FWCゴールデンヴェラシャンスーツ
-PROPITEM_TXT_155902,2026 FWC Golden Verashan Gauntlets,2026 FWCゴールデンヴェラシャンガントレット
-PROPITEM_TXT_155903,2026 FWC Golden Verashan Boots,2026 FWCゴールデンヴェラシャンブーツ
+PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWCゴールデン・カータナ
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate,2026 FWCゴールデン・セレスティアルエッジ
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate,2026 FWCゴールデン・ブッチャーズカーネイジ
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate,2026 FWCゴールデン・ハービンジャー
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate,2026 FWCゴールデン・マウ・オブ・ジャッジメント
+PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate,2026 FWCゴールデン・オラクル
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,2026 FWCゴールデン・セプター・オブ・ディスオーダー
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate,2026 FWCゴールデン・ロイカの杖
+PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate,2026 FWCゴールデン・ディメンシア
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate,2026 FWCゴールデン・ドラゴンズレイン
+PROPITEM_TXT_155839,2026 FWC Golden K Fang Ultimate,2026 FWCゴールデン・ケイファング
+PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,2026 FWCゴールデン・ランティエルヘルメット
+PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,2026 FWCゴールデン・ランティエルスーツ
+PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,2026 FWCゴールデン・ランティエルガントレット
+PROPITEM_TXT_155843,2026 FWC Golden Runthiel Boots,2026 FWCゴールデン・ランティエルブーツ
+PROPITEM_TXT_155844,2026 FWC Golden Runthien Helmet,2026 FWCゴールデン・ランティエンヘルメット
+PROPITEM_TXT_155845,2026 FWC Golden Runthien Suit,2026 FWCゴールデン・ランティエンスーツ
+PROPITEM_TXT_155846,2026 FWC Golden Runthien Gauntlets,2026 FWCゴールデン・ランティエンガントレット
+PROPITEM_TXT_155847,2026 FWC Golden Runthien Boots,2026 FWCゴールデン・ランティエンブーツ
+PROPITEM_TXT_155848,2026 FWC Golden Zaythor Helmet,2026 FWCゴールデン・ゼイソーヘルメット
+PROPITEM_TXT_155849,2026 FWC Golden Zaythor Suit,2026 FWCゴールデン・ゼイソースーツ
+PROPITEM_TXT_155850,2026 FWC Golden Zaythor Gauntlets,2026 FWCゴールデン・ゼイソーガントレット
+PROPITEM_TXT_155851,2026 FWC Golden Zaythor Boots,2026 FWCゴールデン・ゼイソーブーツ
+PROPITEM_TXT_155852,2026 FWC Golden Zaythar Helmet,2026 FWCゴールデン・ゼイサーヘルメット
+PROPITEM_TXT_155853,2026 FWC Golden Zaythar Suit,2026 FWCゴールデン・ゼイサースーツ
+PROPITEM_TXT_155854,2026 FWC Golden Zaythar Gauntlets,2026 FWCゴールデン・ゼイサーガントレット
+PROPITEM_TXT_155855,2026 FWC Golden Zaythar Boots,2026 FWCゴールデン・ゼイサーブーツ
+PROPITEM_TXT_155856,2026 FWC Golden Chyrelle Helmet,2026 FWCゴールデン・シレルヘルメット
+PROPITEM_TXT_155857,2026 FWC Golden Chyrelle Suit,2026 FWCゴールデン・シレルスーツ
+PROPITEM_TXT_155858,2026 FWC Golden Chyrelle Gauntlets,2026 FWCゴールデン・シレルガントレット
+PROPITEM_TXT_155859,2026 FWC Golden Chyrelle Boots,2026 FWCゴールデン・シレルブーツ
+PROPITEM_TXT_155860,2026 FWC Golden Chyrella Helmet,2026 FWCゴールデン・シレラヘルメット
+PROPITEM_TXT_155861,2026 FWC Golden Chyrella Suit,2026 FWCゴールデン・シレラスーツ
+PROPITEM_TXT_155862,2026 FWC Golden Chyrella Gauntlets,2026 FWCゴールデン・シレラガントレット
+PROPITEM_TXT_155863,2026 FWC Golden Chyrella Boots,2026 FWCゴールデン・シレラブーツ
+PROPITEM_TXT_155864,2026 FWC Golden Lenvire Helmet,2026 FWCゴールデン・レンヴィールヘルメット
+PROPITEM_TXT_155865,2026 FWC Golden Lenvire Suit,2026 FWCゴールデン・レンヴィールスーツ
+PROPITEM_TXT_155866,2026 FWC Golden Lenvire Gauntlets,2026 FWCゴールデン・レンヴィールガントレット
+PROPITEM_TXT_155867,2026 FWC Golden Lenvire Boots,2026 FWCゴールデン・レンヴィールブーツ
+PROPITEM_TXT_155868,2026 FWC Golden Lenvira Helmet,2026 FWCゴールデン・レンヴィラヘルメット
+PROPITEM_TXT_155869,2026 FWC Golden Lenvira Suit,2026 FWCゴールデン・レンヴィラスーツ
+PROPITEM_TXT_155870,2026 FWC Golden Lenvira Gauntlets,2026 FWCゴールデン・レンヴィラガントレット
+PROPITEM_TXT_155871,2026 FWC Golden Lenvira Boots,2026 FWCゴールデン・レンヴィラブーツ
+PROPITEM_TXT_155872,2026 FWC Golden Etranor Helmet,2026 FWCゴールデン・エトラノールヘルメット
+PROPITEM_TXT_155873,2026 FWC Golden Etranor Suit,2026 FWCゴールデン・エトラノールスーツ
+PROPITEM_TXT_155874,2026 FWC Golden Etranor Gauntlets,2026 FWCゴールデン・エトラノールガントレット
+PROPITEM_TXT_155875,2026 FWC Golden Etranor Boots,2026 FWCゴールデン・エトラノールブーツ
+PROPITEM_TXT_155876,2026 FWC Golden Etranar Helmet,2026 FWCゴールデン・エトラナーヘルメット
+PROPITEM_TXT_155877,2026 FWC Golden Etranar Suit,2026 FWCゴールデン・エトラナースーツ
+PROPITEM_TXT_155878,2026 FWC Golden Etranar Gauntlets,2026 FWCゴールデン・エトラナーガントレット
+PROPITEM_TXT_155879,2026 FWC Golden Etranar Boots,2026 FWCゴールデン・エトラナーブーツ
+PROPITEM_TXT_155880,2026 FWC Golden Kevric Helmet,2026 FWCゴールデン・ケブリックヘルメット
+PROPITEM_TXT_155881,2026 FWC Golden Kevric Suit,2026 FWCゴールデン・ケブリックスーツ
+PROPITEM_TXT_155882,2026 FWC Golden Kevric Gauntlets,2026 FWCゴールデン・ケブリックガントレット
+PROPITEM_TXT_155883,2026 FWC Golden Kevric Boots,2026 FWCゴールデン・ケブリックブーツ
+PROPITEM_TXT_155884,2026 FWC Golden Kevricar Helmet,2026 FWCゴールデン・ケブリカーヘルメット
+PROPITEM_TXT_155885,2026 FWC Golden Kevricar Suit,2026 FWCゴールデン・ケブリカースーツ
+PROPITEM_TXT_155886,2026 FWC Golden Kevricar Gauntlets,2026 FWCゴールデン・ケブリカーガントレット
+PROPITEM_TXT_155887,2026 FWC Golden Kevricar Boots,2026 FWCゴールデン・ケブリカーブーツ
+PROPITEM_TXT_155888,2026 FWC Golden Ustamel Helmet,2026 FWCゴールデン・ウスタメルヘルメット
+PROPITEM_TXT_155889,2026 FWC Golden Ustamel Suit,2026 FWCゴールデン・ウスタメルスーツ
+PROPITEM_TXT_155890,2026 FWC Golden Ustamel Gauntlets,2026 FWCゴールデン・ウスタメルガントレット
+PROPITEM_TXT_155891,2026 FWC Golden Ustamel Boots,2026 FWCゴールデン・ウスタメルブーツ
+PROPITEM_TXT_155892,2026 FWC Golden Ustamen Helmet,2026 FWCゴールデン・ウスタメンヘルメット
+PROPITEM_TXT_155893,2026 FWC Golden Ustamen Suit,2026 FWCゴールデン・ウスタメンスーツ
+PROPITEM_TXT_155894,2026 FWC Golden Ustamen Gauntlets,2026 FWCゴールデン・ウスタメンガントレット
+PROPITEM_TXT_155895,2026 FWC Golden Ustamen Boots,2026 FWCゴールデン・ウスタメンブーツ
+PROPITEM_TXT_155896,2026 FWC Golden Virashon Helmet,2026 FWCゴールデン・ヴィラションヘルメット
+PROPITEM_TXT_155897,2026 FWC Golden Virashon Suit,2026 FWCゴールデン・ヴィラションスーツ
+PROPITEM_TXT_155898,2026 FWC Golden Virashon Gauntlets,2026 FWCゴールデン・ヴィラションガントレット
+PROPITEM_TXT_155899,2026 FWC Golden Virashon Boots,2026 FWCゴールデン・ヴィラションブーツ
+PROPITEM_TXT_155900,2026 FWC Golden Verashan Helmet,2026 FWCゴールデン・ヴェラシャンヘルメット
+PROPITEM_TXT_155901,2026 FWC Golden Verashan Suit,2026 FWCゴールデン・ヴェラシャンスーツ
+PROPITEM_TXT_155902,2026 FWC Golden Verashan Gauntlets,2026 FWCゴールデン・ヴェラシャンガントレット
+PROPITEM_TXT_155903,2026 FWC Golden Verashan Boots,2026 FWCゴールデン・ヴェラシャンブーツ
 PROPITEM_TXT_903695,FWC Convenience Pack,FWCコンビニエンスパック
 PROPITEM_TXT_903696,"A package containing 10x Blinkwing of Madrigal, 10x Scroll of Velocity, 5x Scroll of Resurrection, 5x Activition, 3x Potion Box and 5x Vital Drink X or Refresher Hold. All items are also linked.",ブリンクウイング（マドリガル）x10、神風の巻物x10、復活の巻物x5、アクティビションx5、ポーションボックスx3、スタミナドリンクX または 魔力ドリンクゴールドx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_903697,FWC Hunter's Pack,FWCハンターズパック
