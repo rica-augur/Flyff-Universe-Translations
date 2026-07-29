@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL --max-redirs 5 \"http://mmofan.blog39.fc2.com/blog-entry-7737.html\")",
+      "Bash(curl -sL --max-redirs 5 \"http://moondia.web.fc2.com/item/monster.html\")",
+      "Bash(curl -sL --max-redirs 5 \"http://moondia.web.fc2.com/item/monster.html\" 2>&1 | iconv -f SHIFT_JIS -t UTF-8 -c > /tmp/monster.html *)",
+      "Bash(iconv -f EUC-JP -t UTF-8 -c)",
+      "Bash(curl -sL --max-redirs 5 \"http://moondia.web.fc2.com/item/monster.html\" -o /tmp/monster_raw.html)",
+      "Bash(awk -F',' 'NF>=3 {if \\($2==$3 && $2!=\"\"\\) print}' Japanese/MoverMenus.csv)",
+      "Bash(grep -viE \"\\\\.\\(dds|tga|bmp|png|jpg|dll|exe|obj|dae|max|3ds\\)$\")",
+      "Bash(iconv -f SHIFT_JIS -t UTF-8 -c propMover.txt)",
+      "Bash(iconv -f SHIFT_JIS -t UTF-8 -c propMover.txt.txt)"
+    ],
+    "additionalDirectories": [
+      "\\tmp"
+    ]
+  }
+}

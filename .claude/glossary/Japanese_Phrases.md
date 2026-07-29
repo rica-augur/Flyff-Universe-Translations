@@ -26,3 +26,7 @@
 ### 表記揺れ（備考・修正しない）
 
 - `Movers.csv`の「ジャイアント・〇〇」系で漢字混じりの訳が3件ある（`PROPMOVER_TXT_000116` Giant Mr. Pumpkin→「ジャイアント・カボチャ男爵」、`PROPMOVER_TXT_000588` Mutant Giant 2nd Class Fefern→「ジャイアント・2級フェフェルン」、`PROPMOVER_TXT_000600` Mutant Giant Bang King→「ジャイアント・ヴァン改」）。上記の`Cursed Warden`と類似のパターンだが、これらは古くからの既存訳のためユーザー指示により**触らない**（2026-07-28確認）。
+
+## 職業（First Job）フレーバーテキストの文体（`TextClient.csv`の`TEXTCLIENT_STATUE_*`、2026-07-30）
+
+北フラリスの職業別銅像の説明文。`TEXTCLIENT_STATUE_VAGRANT`（"The start of all. You are Vagrant."→「すべての始まり。あなたは放浪者。」）の体言止め・詩的な文体に合わせ、他の職業（BP=ビルポスター、RM=リングマスター、JESTER=ジェスター、RANGER=レンジャー、KNIGHT=ナイト、BLADE=ブレード、ELE=エレメンター、PSY=サイキーパー）も「{形容表現}、{役割を表す一文}。」の体言止め＋文語調で統一（例：BP「伝説の戦士、その身に宿るは戦の魂。」）。通常のシステムメッセージ（だ・である調やですます調）とは別扱いの、演出用の特別な文体である点に注意。

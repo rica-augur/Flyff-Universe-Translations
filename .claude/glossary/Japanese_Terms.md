@@ -295,3 +295,44 @@
 - `Blue/Yellow/Red/Purple/Pink/Black Flying Sheep`：「色+空飛ぶ羊」と「色+フライングシープ」の2系統が混在
 - `Cheirang`／`Mawrang`：表記自体は揺れなしだが重複キーあり（参考情報）
 
+## スキル名（`Skills.csv`）
+
+| English | 日本語 | 備考 |
+| --- | --- | --- |
+| Lightning Strike（`PROPSKILL_TXT_000190`） | ライトニングストライク | 同ファイル内に別スキル`Thunder Strike`（`PROPSKILL_TXT_150381`）が存在し、双方とも旧訳が「サンダーストライク」で重複していたため2026-07-30にユーザーが手修正 |
+| Thunder Strike（`PROPSKILL_TXT_150381`） | サンダーストライク | 上記参照。こちらは訳語を変更せず据え置き |
+
+## 地名・拠点名の追加訳（2026-07-30、未翻訳分の一斉確認で対応）
+
+| English | 日本語 | 備考 |
+| --- | --- | --- |
+| Wandering Shop | 行商 | `TextClient.csv`の`TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL`に先例あり。`MoverMenus.csv`の`MMI_1101`もこれに統一 |
+| Sea Shell（`MoverMenus.csv`の`MMI_1080`「Sea Shell Upgrading」） | 貝殻 | `Items.csv`の`PROPITEM_TXT_121662`（単体アイテム名）に準拠。「Sea Shell Upgrading」→「貝殻のアップグレード」。なおイベント限定アイテム`[Event] Red/Yellow/Blue Sea Shell`は別表記「シーシェル」（音訳）のため混同しないこと |
+| Northern Flarine | フラリス北広場 | `World.csv`の`WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000008`（地域名としての表記）に準拠。文中で地の文として使う場合は「フラリス北部」表記の先例もある（`Quests.csv`） |
+| Dreknir Ridge/Lionrath Falls/Velora Cliffs/Dreknir Forest（`World.csv`のMadrigal新規地名） | ドレクニルの尾根／ライオンラスの滝／ヴェローラの断崖／ドレクニルの森 | 音訳した固有名詞＋地形語の組み合わせ。地形語が「尾根／滝／断崖／森」の場合は間に「の」を入れる（自然な日本語のため）。同じ並びの`Orbalune Port`（オルバルーン港）のみ「の」なしで直接複合させる（「港」は複合語になりやすいため） |
+
+## Eillun村関連の固有名詞（`Dialogs.csv`のNPC_150xxx/155xxx/156xxx、2026-07-30の未訳分一斉翻訳で確認）
+
+| English | 日本語 | 備考 |
+| --- | --- | --- |
+| Eillun | エルリウン | `Characters.csv`の`[Eillun Guard]`→`[エルリウン衛兵]`、`[Eillun Farmer]`→`[エルリウンの農夫]`に準拠 |
+| Lycan(s) | ライカン | `Items.csv`の`PROPITEM_TXT_155017`等に準拠 |
+| Myuran(s) | ムラン | `Quests.csv`の`PROPQUEST_INC_150295`（Myurang→ムラン）に準拠。エルリウン村の住民を指す種族名 |
+| Ankou's Asylum（守衛の文脈） | ベヒモス神殿 | 既存の`Ankou's Asylum`→`ベヒモス神殿`訳に準拠して「Asylum Guard」を「ベヒモス神殿の守衛」と訳出 |
+| Village Chief / Mayor（Huntrang、村長格） | 族長 | `Characters.csv`の`[Village Chief] Huntrang`→`[族長]フンツラン`に準拠。名前を出さない一般的な「mayor of Eillun」の言及もこれに合わせる |
+| Guild Siege | ギルドコンバット | 既存訳（`Dialogs.csv`の`NPC_000198`等）に準拠。マネージャー職の略称は「ギルコン」 |
+| Waldo（`NPC_150036`のジョーク的言及） | ワルド | 元ネタ（Where's Waldo）を意識し音訳のみ、意訳しない |
+| Khajiit（`NPC_150051`） | カジート | 他作品由来のジョーク的言及、定訳の音訳をそのまま採用 |
+| "arrow to the knee"ミーム（`NPC_150024`） | 「昔は冒険者だったんだが……膝に矢を受けてしまってな」 | Skyrimの有名な衛兵セリフの日本語ミーム訳をそのまま踏襲 |
+| 標準的な「……」（英語`...`のみの行） | …… | `Quests.csv`の`PROPQUEST_INC_110015`に先例あり |
+| IDS_Hael_Letter（`Dialogs.csv`の`NPC_100108`） | 翻訳せず据え置き | 未解決のテンプレートID文字列で実際の対話文ではない（`PROPITEM_TXT_134598`の`#ERROR!`と同様、ソース側の不具合のため翻訳対象外） |
+
+## `UI.csv`のGMコマンド文字列（2026-07-30確認）
+
+`UI.csv`には`UI_GUILDCHAT`（値`guildchat`）～`UI_WHISPERREFUSE`（値`whisperrefuse`）付近、および`UI_FORCEWEEKLYLIFESTYLERESET`（値`forceweeklylifestylereset`）等、**全て小文字・スペースなしの英単語**が200件以上まとまって存在する。これらはチャット/コンソール経由で入力するGM管理コマンドのキーワードそのもの（サーバー側の構文と一致する必要がある識別子）であり、表示用テキストではないため**翻訳しない**。同じファイル内の`UI_MENU_*`（例：`UI_MENU_BAN`→`BAN`、`UI_MENU_GUILDJOIN`→`ギルド参加`）はGM右クリックメニューの表示ラベルであり、これらは通常のUIテキストとして翻訳対象。
+
+| English | 日本語 | 備考 |
+| --- | --- | --- |
+| PProtect（`UI_PVP_UPGRADE_PROTECTSCROLL`） | 翻訳せず据え置き | `Items.csv`の`PROPITEM_TXT_913715`（Scroll of PProtect→鍛冶屋の心得・PVP編）の説明文に「(通称:PProtect)」と明記されており、英語表記がそのまま日本語コミュニティの通称になっているため |
+| Tenacity（`UI_TOOLTIP_TENACITY`） | テナシティ | `Skills.csv`の`PROPSKILL_TXT_150331`に準拠 |
+

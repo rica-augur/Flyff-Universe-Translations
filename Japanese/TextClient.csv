@@ -416,7 +416,7 @@ TEXTCLIENT_COLLECT_ERROROTHER,Unable to collect resource from a monster killed b
 TEXTCLIENT_HARVEST_EQUIP,You need to equip harvesting gloves.,収穫用手袋を装備する必要があります。
 TEXTCLIENT_HARVEST_RECEIVE,You have harvested %s x%d.,%sx%dを収穫しました。
 TEXTCLIENT_HARVEST_CARRIER,A harvest carrier has been revealed! Kill it to gain its extra berries.,収穫キャリアが明らかになりました！それらを倒して余分なベリーを手に入れましょう。
-TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.","You cannot currently open it, try again in a few seconds."
+TEXTCLIENT_HARVEST_COOLDOWN,"You cannot currently open it, try again in a few seconds.",現在開くことができません。数秒後にもう一度お試しください。
 TEXTCLIENT_NOTREADY_USESHOP,Please try again after taking off the head item,頭に装備しているアイテムを外してから、利用してください。
 TEXTCLIENT_SHOP_CHOICE,Selected,選択した
 TEXTCLIENT_CHANGE_HAIR,Change your Hair,選択したヘアーチェンジの費用は
@@ -1279,7 +1279,7 @@ TEXTCLIENT_ACCOUNTDISCONNECTSELF,You cannot disconnect yourself.,自分自身を
 TEXTCLIENT_APP_SEARCHSHOP,Search Shop,ショップ検索
 TEXTCLIENT_PARTY_READY_ON,There is already a ready check in progress.,準備確認は既に進行中です。
 TEXTCLIENT_PIRATESHIP_APPEARS,There is a Pirate Ship above the Madrigal!!,マドリガルの上空に海賊船が出現しました！！
-TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.","Only the leader may start a ready check, and there is not one currently in progress."
+TEXTCLIENT_PARTY_READY_LEADER,"Only the leader may start a ready check, and there is not one currently in progress.",準備確認を開始できるのはパーティーリーダーのみで、現在進行中の準備確認はありません。
 TEXTCLIENT_THROWITEM_ERROR_15,It can only be used when the target is within 15 meters.,対象が15メートル以内にいる場合のみ使用できます。
 TEXTCLIENT_THROWITEM_ERROR_TARGET,There is no target to use it on.,使用対象がありません。
 TEXTCLIENT_THROWITEM_ERROR_AREA,You cannot use it there.,そこでは使用できません。
@@ -1303,7 +1303,7 @@ TEXTCLIENT_PVPMATCH_MANUAL_ALREADYIN,This player is already in a team.,このプ
 TEXTCLIENT_PVPMATCH_MANUAL_NOTGM,You can only add gamemasters to the observers team.,観戦者チームにはゲームマスターのみ追加できます。
 TEXTCLIENT_PVPMATCH_MANUAL_NOTONLINE,This character is needs to be online.,このキャラクターはオンラインである必要があります。
 TEXTCLIENT_PVPMATCH_MANUAL_NOTYOURSELF,You can't invite yourself in a match.,自分自身を試合に招待することはできません。
-TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.","All players are not ready, you can't start the match yet."
+TEXTCLIENT_PVPMATCH_MANUAL_NOTALLREADY,"All players are not ready, you can't start the match yet.",全プレイヤーの準備が完了していないため、まだ試合を開始できません。
 TEXTCLIENT_PVPMATCH_MANUAL_MAXPLAYERS,You can't add more than %d players in the same team!,同じチームには%d人を超えて追加できません！
 TEXTCLIENT_GAME_MATOURNAMENT_NOTUSE,In Madrigal Tournament,マドリガルトーナメント中
 TEXTCLIENT_MATOURNAMENT_NO_OUTWAR,You cannot use Blinkwings to escape the Madrigal Tournament.,マドリガルトーナメント中はブリンクウィングで離脱できません。
@@ -1367,7 +1367,7 @@ TEXTCLIENT_MANUFACTURE_ULTIMATEJEWEL_FAIL,Ultimate jewel creation failed.,アル
 TEXTCLIENT_COUPLENOTARGET,You must select a player first.,先にプレイヤーを選択してください。
 TEXTCLIENT_COUPLE_REFUSE,Your proposal was refused.,プロポーズが拒否されました。
 TEXTCLIENT_COUPLE_BREAKUP_REFUSE,Your request for break up was refused.,破局のリクエストが拒否されました。
-TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!","You are now a couple, congratulations!"
+TEXTCLIENT_COUPLE_FORM,"You are now a couple, congratulations!",カップルになりました！おめでとうございます！
 TEXTCLIENT_COUPLE_NOTSINGLE,Your target is already in a couple.,対象は既にカップルです。
 TEXTCLIENT_COUPLE_ANNOUNCE,%s and %s have become a couple!,%sと%sがカップルになりました！
 TEXTCLIENT_COUPLE_SKILL,The couple skill %s has been used.,カップルスキル%sが使用されました。
@@ -1407,7 +1407,7 @@ TEXTCLIENT_PETTRAINING_COMPLETE,Trainer %s has completed your pet training!,ト�
 TEXTCLIENT_HOUSEPETSLOTS_MAX,You have already unlocked the maximum pet inventory slots!,ペットインベントリ枠は既に上限まで解放されています！
 TEXTCLIENT_PLAYERHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your house!,家のペットインベントリ枠を新しく解放しました！
 TEXTCLIENT_GUILDHOUSEPETSLOTS_NOGUILD,You need a guild to use this scroll!,この巻物を使用するにはギルドが必要です！
-TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.","You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses."
+TEXTCLIENT_GUILDHOUSEPETSLOTS_SUCCESS,"You have successfully unlocked a new pet inventory slot for the guild ship. If you do not have a house yet, it will be applied to your future houses.",ギルド船のペットインベントリ枠を新しく解放しました！家をまだ所有していない場合は、今後所有する家に適用されます。
 TEXTCLIENT_COUPLE_MOTION,You must be in a level %d couple to use this emote.,このエモートを使用するには、カップルレベル%d以上である必要があります。
 TEXTCLIENT_COUPLE_MOTION_NOTARGET,You must select your partner in order to request this emote.,このエモートをリクエストするには、パートナーを選択する必要があります。
 TEXTCLIENT_COUPLE_MOTION_REFUSE,Your partner refused to perform the emote.,パートナーがエモートの実行を拒否しました。
@@ -1430,7 +1430,7 @@ TEXTCLIENT_PRODUCTION_FAIL_CHECK_ITEM,Unable to check your ingredients.,材料�
 TEXTCLIENT_PRODUCTION_FAIL_ALREADY,You are already producing this item.,このアイテムは既に製作中です。
 TEXTCLIENT_PROUCTIONREDUCTION_SUCCESS,The production time has been reduced by %d minutes.,製作時間が%d分短縮されました。
 TEXTCLIENT_WANDERINGSHOPRENEWAL_SUCCESS,Wondering shop inventory renewed successfully.,行商の品揃えが更新されました。
-TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.","No space in inventory, %d empty slots needed."
+TEXTCLIENT_LIFEMASTERYRANKINGREWARD_FAIL_INVENTORY,"No space in inventory, %d empty slots needed.",インベントリに空きがありません。%d個の空きスロットが必要です。
 TEXTCLIENT_FISHING_FAIL_NOWATER,You can only fish near a body of water.,水辺の近くでのみ釣りができます。
 TEXTCLIENT_FISHING_FAIL_NOROD,You need to equip a fishing rod.,釣り竿を装備する必要があります。
 TEXTCLIENT_FISHING_FAIL_BROKENROD,Your fishing rod must be repaired.,釣り竿を修理する必要があります。
@@ -1477,14 +1477,14 @@ TEXTCLIENT_HARVEST_COUNT,Harvests %d/%d,収穫回数：%d/%d
 TEXTCLIENT_HARVEST_COUNT_INFINITE,Infinite harvests,収穫回数無制限
 TEXTCLIENT_PET_REROLL_TIER_SAME,The same level was rolled. No scrolls were consumed.,同じレベルが出たため、巻物は消費されませんでした。
 TEXTCLIENT_PET_REROLL_TIER_SUCCESS,The selected tier has been rerolled to a %d.,選択したティアが%dに再抽選されました。
-TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.","Legendary fighters, imbued with the spirit of war."
-TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.","Mystical leaders, channeling Rhisis' powers to command and protect their allies."
-TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.","Cunning tricksters, weaving illusions and chaos."
-TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.","Elusive hunters, guided by the spirits of nature."
-TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.","Noble defenders, bound by honor and unbreakable resolve."
-TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.","Agile warriors, masters of swift, lethal strikes."
-TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.","Powerful sorcerers, commanding the raw forces of nature."
-TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.","Enigmatic mystics, harnessing the power of the mind."
+TEXTCLIENT_STATUE_BP,"Legendary fighters, imbued with the spirit of war.",伝説の戦士、その身に宿るは戦の魂。
+TEXTCLIENT_STATUE_RM,"Mystical leaders, channeling Rhisis' powers to command and protect their allies.",神秘なる指導者、リシスの力を操り、仲間を導き守る。
+TEXTCLIENT_STATUE_JESTER,"Cunning tricksters, weaving illusions and chaos.",狡猾なる道化師、幻影と混沌を紡ぐ。
+TEXTCLIENT_STATUE_RANGER,"Elusive hunters, guided by the spirits of nature.",とらえがたき狩人、自然の精霊に導かれし者。
+TEXTCLIENT_STATUE_KNIGHT,"Noble defenders, bound by honor and unbreakable resolve.",気高き守護者、名誉と不屈の意志に生きる。
+TEXTCLIENT_STATUE_BLADE,"Agile warriors, masters of swift, lethal strikes.",俊敏なる戦士、迅速にして必殺の一撃を極める。
+TEXTCLIENT_STATUE_ELE,"Powerful sorcerers, commanding the raw forces of nature.",強大なる魔導士、自然の猛威を操る。
+TEXTCLIENT_STATUE_PSY,"Enigmatic mystics, harnessing the power of the mind.",謎めきし神秘家、心の力を我がものとする。
 TEXTCLIENT_STATUE_VAGRANT,The start of all. You are Vagrant.,すべての始まり。あなたは放浪者。
 TEXTCLIENT_PRODUCTION_RECIPE_UNLOCK_FAIL,Failed to reveal a recipe.,レシピの解放に失敗しました。
 TEXTCLIENT_ARENA_LIMITED,You cannot use that in the arena.,アリーナ内ではそれを使用できません。
@@ -1492,7 +1492,7 @@ TEXTCLIENT_CANTUSEAWAKENING,You can't use an item while it's being awakened.,覚
 TEXTCLIENT_FLYERROR_NOFLY_FISHING,You can't fly when fishing.,釣り中は飛行できません。
 TEXTCLIENT_COUPLEHOUSEPETSLOTS_SUCCESS,You have successfully unlocked a new pet inventory slot for your current or further couple house!,現在または今後のカップルハウスのペットインベントリ枠を新しく解放しました！
 TEXTCLIENT_WANDERING_SHOP_TICKET_FAIL,You can only use this item when the Wandering Shop is open.,このアイテムは行商が開いている時のみ使用できます。
-TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.","There is already a Private Shop at this position, please move a little bit."
+TEXTCLIENT_VENDOR_RADIUS,"There is already a Private Shop at this position, please move a little bit.",この位置にはすでに個人商店があります。少し移動してください。
 TEXTCLIENT_NO_SPECTATE_WORLD,You cannot spectate in this world.,このワールドでは観戦できません。
 TEXTCLIENT_NO_SPECTATE_PLAYER,You cannot spectate this player.,このプレイヤーは観戦できません。
 TEXTCLIENT_NO_SPECTATE_WAR,You cannot spectate right now.,現在は観戦できません。
@@ -1502,14 +1502,14 @@ TEXTCLIENT_START_SPECTATE,You are now spectating %s.,%sを観戦中です。
 UI_TOOLTIP_PICKUP_RANGE,Pickup boost range,アイテム取得範囲
 TEXTCLIENT_INVALIDORIGIN,Server refused the connection. Please make sure you are accessing from the official game page.,サーバーが接続を拒否しました。公式ゲームページからアクセスしているかご確認ください。
 TEXTCLIENT_GATHERING_EVE_PICKAXE,[Event] Chroma Pickaxe,[イベント]クロマつるはし
-TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,Shader Debug
+TEXTCLIENT_APP_SHADER_DEBUG,Shader Debug,シェーダーデバッグ
 TEXTCLIENT_APP_ACCOUNT,Account,アカウント
 TEXTCLIENT_NOT_ENOUGH_ITEM2,You need %d %s.,%d個の%sが必要です。
 TEXTCLIENT_ITEMPACK_UPGRADE_DESTROY,Item destroyed due to the failure.,失敗によりアイテムが破壊されました。
 TEXTCLIENT_ITEMPACK_UPGRADE_LEVELDOWN,Item downgraded due to the failure.,強化失敗によりアイテムが降格しました。
 TEXTCLIENT_ITEMPACK_UPGRADE_LIMIT,This item has exceeded its upgrade attempt limit,このアイテムは強化試行回数の上限を超えています
-TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum level, has been erected in Northern Flarine."
-TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.","A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine."
+TEXTCLIENT_STATUE_MAXLEVEL,"A statue in the name of %s, the first maximum level, has been erected in Northern Flarine.",初めて最大レベルに到達した%sの名を刻んだ像が、フラリス北広場に建立されました。
+TEXTCLIENT_STATUE_MAXUPGRADE,"A statue in the name of %s, the first maximum upgrader, has been erected in Northern Flarine.",初めて最大強化に到達した%sの名を刻んだ像が、フラリス北広場に建立されました。
 TEXTCLIENT_ALERT_TIME,[%d hours have passed] Excessive gaming can interfere with normal daily life.,[%d時間が経過しました]過度なプレイは日常生活に支障をきたす恐れがあります。
 TEXTCLIENT_SERVERNOTALLOWED,Your account is not allowed to access this server.,このアカウントはこのサーバーへのアクセスが許可されていません。
 TEXTCLIENT_STATUE_BASE01,A statue in the name of the first person to reach maximum level.,最大レベルに初めて到達した者の名を刻んだ像。
