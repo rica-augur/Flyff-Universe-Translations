@@ -900,7 +900,7 @@ ACHIEVEMENT_STAT_DEXTERITY_NAME,Dexterity,敏捷
 ACHIEVEMENT_STAT_DEXTERITY_DESC,Get 253 BASE DEX.,基準ステータスの敏捷が253に到達
 ACHIEVEMENT_STAT_DEXTERITY_TITLE,Nimble,疾風
 ACHIEVEMENT_STAT_INTELLIGENCE_NAME,Intelligence,知能
-ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,ベースINT253取得
+ACHIEVEMENT_STAT_INTELLIGENCE_DESC,Get 253 BASE INT.,基準ステータスの知能が253に到達
 ACHIEVEMENT_STAT_INTELLIGENCE_TITLE,Sage,全知
 ACHIEVEMENT_DAILY_PLAY_TIME_NAME,Daily Playtime,今日のプレイ時間
 ACHIEVEMENT_DAILY_PLAY_TIME_DESC,"Unlock rewards at 10, 20, 30, and 40 minutes of playtime. Resets daily at midnight.",毎日10、20、30、40分以上プレイして、報酬をゲットしよう！カウントは深夜0時にリセットされます。
@@ -1283,13 +1283,13 @@ ACHIEVEMENT_15UPDATE_ATTENDANCE_NAME,1.5 Update Playtime Event,1.5アップデ�
 ACHIEVEMENT_15UPDATE_ATTENDANCE_DESC,Log in each day for 40 minutes to receive rewards!,毎日40分間ログインして報酬を受け取りましょう!
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_NAME,Into the Eillun,エイルンの中へ
 ACHIEVEMENT_15UPDATE_INTOTHEEILLUN_DESC,Complete the main quests to earn rewards during the event!,メインクエストを完了してイベント期間中の報酬を獲得しよう！
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,カイルンの労働者たち
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,カイルンのデイリークエストを完了してイベント期間中の報酬を獲得しよう！
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,カイルンのデイリークエストを10回完了する。
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,カイルンのデイリークエストを20回完了する。
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,カイルンのデイリークエストを30回完了する。
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,カイルンのデイリークエストを45回完了する。
-ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,カイルンのデイリークエストを60回完了する。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_NAME,Workers of the Kaillun,カイルルンの労働者たち
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_DESC,Complete the daily quests in Kaillun to earn rewards during the event!,カイルルンのデイリークエストを完了してイベント期間中の報酬を獲得しよう！
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL1,Complete Kaillun Daily Quests 10 times.,カイルルンのデイリークエストを10回完了する。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL2,Complete Kaillun Daily Quests 20 times.,カイルルンのデイリークエストを20回完了する。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL3,Complete Kaillun Daily Quests 30 times.,カイルルンのデイリークエストを30回完了する。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL4,Complete Kaillun Daily Quests 45 times.,カイルルンのデイリークエストを45回完了する。
+ACHIEVEMENT_15UPDATE_WORKERSOFTHEKAILLUN_LVL5,Complete Kaillun Daily Quests 60 times.,カイルルンのデイリークエストを60回完了する。
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_NAME,Take the Ankou's Asylum,ベヒモス神殿を攻略せよ
 ACHIEVEMENT_TAKETHEANKOUSASYLUM_DESC,Challenge yourself with a new dungeon! Defeat Ankou to earn rewards during the event!,新しいダンジョンに挑戦しよう！神獣ベヒモスを倒してイベント期間中の報酬を獲得しよう！
 ACHIEVEMENT_KILL_ANKOU,Defeat Ankou,神獣ベヒモスを倒す
