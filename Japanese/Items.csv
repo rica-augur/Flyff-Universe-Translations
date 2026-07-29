@@ -4898,7 +4898,7 @@ PROPITEM_TXT_011972,Alice Gloves (F),アリスハンド(女の子用)
 PROPITEM_TXT_014256,Flower Faerie Gloves (F),花のピンキーガール手袋(女の子用)
 PROPITEM_TXT_012900,Suit of the Setting Sun (F),エビルシェードスーツ(女の子用)
 PROPITEM_TXT_015669,Gloves of the Almighty Dragon King (F),破壊の竜王グローブ(女の子用)
-PROPITEM_TXT_020493,Blue Santa Suit (M),ブルーサンタの衣装（男）
+PROPITEM_TXT_020493,Blue Santa Suit (M),ブルーサンタの衣装 (M)
 PROPITEM_TXT_020397,Neo Workout Suit (F),ネオワークアウトスーツ(F)
 PROPITEM_TXT_009762,Kung Fu Hands (M),拳法手袋(男の子用)
 PROPITEM_TXT_012432,Bijin Yukata Hair (F),秋桜と蝶の帽子(女の子用)
@@ -4981,7 +4981,7 @@ PROPITEM_TXT_010179,This Cloak has a full length depiction of the flag of German
 PROPITEM_TXT_009890,Traditional Philippines Hat (M),フィリピンヘアー(男の子用)
 PROPITEM_TXT_011032,Bathroom Slippers (F),シャワースリッパ(女の子用)
 PROPITEM_TXT_020341,Red Casual Shoes (F),レッドカジュアルシューズ(F)
-PROPITEM_TXT_018703,Dark Prince Crown (M),ダークプリンスクラウン（男）
+PROPITEM_TXT_018703,Dark Prince Crown (M),ダークプリンスクラウン (M)
 PROPITEM_TXT_010218,Panda Suit (F),パンダの着ぐるみ(女の子用)
 PROPITEM_TXT_010286,NFL Uniform (M),アメフトプロテクター(男の子用)
 PROPITEM_TXT_014251,Forest Faerie Shoes for female characters.,森の妖精シューズ。
@@ -6995,18 +6995,18 @@ PROPITEM_TXT_100506,Music Beat 6% Blue / Pink Set,ミュージックビート6%�
 PROPITEM_TXT_100507,Music Beat 4% Purple Set,ミュージックビート4%パープルセット
 PROPITEM_TXT_100508,Music Beat 10% Black Set,ミュージックビート10%ブラックセット
 PROPITEM_TXT_100509,Music Beat 2% Green Set,ミュージックビート2%グリーンセット
-PROPITEM_TXT_100510,Music Beat 2% Orange Set (F),ミュージックビート2% オレンジセット（女）
-PROPITEM_TXT_100511,Music Beat 8% White Set (F),ミュージックビート8%ホワイトセット（女）
-PROPITEM_TXT_100512,Music Beat 6% Pink Set (F),ミュージックビート6% ピンクセット（女）
-PROPITEM_TXT_100513,Music Beat 4% Purple Set (F),ミュージックビート4% パープルセット（女）
-PROPITEM_TXT_100514,Music Beat 10% Black Set (F),ミュージックビート10%ブラックセット（女）
-PROPITEM_TXT_100515,Music Beat 2% Green Set (F),ミュージックビート2%グリーンセット（女）
-PROPITEM_TXT_100516,Music Beat 2% Orange Set (M),ミュージックビート2%オレンジセット(男)
-PROPITEM_TXT_100517,Music Beat 8% White Set (M),ミュージックビート8% ホワイトセット(男)
-PROPITEM_TXT_100518,Music Beat 6% Blue Set (M),ミュージックビート6%ブルーセット(男)
-PROPITEM_TXT_100519,Music Beat 4% Purple Set (M),ミュージックビート4%パープルセット(男)
-PROPITEM_TXT_100520,Music Beat 10% Black Set (M),ミュージックビート10%ブラックセット(男)
-PROPITEM_TXT_100521,Music Beat 2% Green Set (M),ミュージックビート 2%グリーンセット(男)
+PROPITEM_TXT_100510,Music Beat 2% Orange Set (F),ミュージックビート2% オレンジセット (F)
+PROPITEM_TXT_100511,Music Beat 8% White Set (F),ミュージックビート8%ホワイトセット (F)
+PROPITEM_TXT_100512,Music Beat 6% Pink Set (F),ミュージックビート6% ピンクセット (F)
+PROPITEM_TXT_100513,Music Beat 4% Purple Set (F),ミュージックビート4% パープルセット (F)
+PROPITEM_TXT_100514,Music Beat 10% Black Set (F),ミュージックビート10%ブラックセット (F)
+PROPITEM_TXT_100515,Music Beat 2% Green Set (F),ミュージックビート2%グリーンセット (F)
+PROPITEM_TXT_100516,Music Beat 2% Orange Set (M),ミュージックビート2%オレンジセット (M)
+PROPITEM_TXT_100517,Music Beat 8% White Set (M),ミュージックビート8% ホワイトセット (M)
+PROPITEM_TXT_100518,Music Beat 6% Blue Set (M),ミュージックビート6%ブルーセット (M)
+PROPITEM_TXT_100519,Music Beat 4% Purple Set (M),ミュージックビート4%パープルセット (M)
+PROPITEM_TXT_100520,Music Beat 10% Black Set (M),ミュージックビート10%ブラックセット (M)
+PROPITEM_TXT_100521,Music Beat 2% Green Set (M),ミュージックビート 2%グリーンセット (M)
 PROPITEM_TXT_100522,The Music Beat Orange set for female characters.,女性用ミュージックビートオレンジセットです。
 PROPITEM_TXT_100523,The Music Beat White set for female characters.,女性用ミュージックビートホワイトセットです。
 PROPITEM_TXT_100524,The Music Beat Pink set for female characters.,女性用ミュージックビートピンクセットです。
@@ -7055,11 +7055,11 @@ PROPITEM_TXT_100566,Music Beat Black Headset (F),ミュージック ビート �
 PROPITEM_TXT_100567,Music Beat Green Headset (F),ミュージック ビート グリーン ヘッドセット (F)
 PROPITEM_TXT_100568,Music Beat Headset for female characters.,女性用ミュージックビートヘッドセット。
 PROPITEM_TXT_100569,Music Beat Orange Headset (M),ミュージック ビート オレンジ ヘッドセット (M)
-PROPITEM_TXT_100570,Music Beat White Headset (M),ミュージックビートホワイトヘッドセット（男）
-PROPITEM_TXT_100571,Music Beat Blue Headset (M),ミュージックビートブルーヘッドセット（男）
-PROPITEM_TXT_100572,Music Beat Purple Headset (M),ミュージックビートパープルヘッドセット（男）
-PROPITEM_TXT_100573,Music Beat Black Headset (M),ミュージックビートブラックヘッドセット（男）
-PROPITEM_TXT_100574,Music Beat Green Headset (M),ミュージックビートグリーンヘッドセット（男）
+PROPITEM_TXT_100570,Music Beat White Headset (M),ミュージックビートホワイトヘッドセット (M)
+PROPITEM_TXT_100571,Music Beat Blue Headset (M),ミュージックビートブルーヘッドセット (M)
+PROPITEM_TXT_100572,Music Beat Purple Headset (M),ミュージックビートパープルヘッドセット (M)
+PROPITEM_TXT_100573,Music Beat Black Headset (M),ミュージックビートブラックヘッドセット (M)
+PROPITEM_TXT_100574,Music Beat Green Headset (M),ミュージックビートグリーンヘッドセット (M)
 PROPITEM_TXT_100575,Music Beat Headset for male characters.,女性用ミュージックビートヘッドセット
 PROPITEM_TXT_100576,Music Beat Orange Gloves (F),ミュージックビートオレンジグローブ(F)
 PROPITEM_TXT_100577,Music Beat White Gloves (F),ミュージックビートホワイトグローブ(F)
@@ -16894,13 +16894,13 @@ PROPITEM_TXT_725945,Navy 2024 White Cloak,ネイビー2024 ホワイトマント
 PROPITEM_TXT_725946,Navy 2024 White Glasses,ネイビー2024 ホワイトメガネ
 PROPITEM_TXT_725947,Navy 2024 Costume Lucky Box,ネイビー2024コスチュームラッキーボックス
 PROPITEM_TXT_725948,This box contains a Navy 2024 Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのネイビー2024セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
-PROPITEM_TXT_725949,Red Navy Ship,Red Navy Ship
-PROPITEM_TXT_725950,Glide through the stars in your new Red Navy Ship ! Maximum Speed: 64 km/h.,Glide through the stars in your new Red Navy Ship ! Maximum Speed: 64 km/h.
-PROPITEM_TXT_725951,Purple Navy Ship,Purple Navy Ship
-PROPITEM_TXT_725952,Glide through the stars in your new Purple Navy Ship ! Maximum Speed: 64 km/h.,Glide through the stars in your new Purple Navy Ship ! Maximum Speed: 64 km/h.
-PROPITEM_TXT_725953,Cyan Navy Ship,Cyan Navy Ship
-PROPITEM_TXT_725954,Glide through the stars in your new Cyan Navy Ship ! Maximum Speed: 64 km/h.,Glide through the stars in your new Cyan Navy Ship ! Maximum Speed: 64 km/h.
-PROPITEM_TXT_725955,Teleport to Shop,Teleport to Shop
+PROPITEM_TXT_725949,Red Navy Ship,レッドネイビーシップ
+PROPITEM_TXT_725950,Glide through the stars in your new Red Navy Ship ! Maximum Speed: 64 km/h.,新しいレッドネイビーシップに乗って、星々の間を滑空しよう！最高速度：64km/h。
+PROPITEM_TXT_725951,Purple Navy Ship,パープルネイビーシップ
+PROPITEM_TXT_725952,Glide through the stars in your new Purple Navy Ship ! Maximum Speed: 64 km/h.,新しいパープルネイビーシップに乗って、星々の間を滑空しよう！最高速度：64km/h。
+PROPITEM_TXT_725953,Cyan Navy Ship,シアンネイビーシップ
+PROPITEM_TXT_725954,Glide through the stars in your new Cyan Navy Ship ! Maximum Speed: 64 km/h.,新しいシアンネイビーシップに乗って、星々の間を滑空しよう！最高速度：64km/h。
+PROPITEM_TXT_725955,Teleport to Shop,ショップへテレポート
 PROPITEM_TXT_725956,Purple Gothic Set,パープルゴシックセット
 PROPITEM_TXT_725957,Purple Gothic Set (M),パープルゴシックセット(M)
 PROPITEM_TXT_725958,The Purple Gothic Set for male characters.,男性キャラクター用のパープルゴシックセット
@@ -16992,96 +16992,96 @@ PROPITEM_TXT_726043,Persian Warrior Black Hands (F),ペルシャの戦士ブラ�
 PROPITEM_TXT_726044,Persian Warrior Black Cloak,ペルシャの戦士ブラックマント
 PROPITEM_TXT_726045,Persian Warrior Black Mask,ペルシャの戦士ブラックマスク
 PROPITEM_TXT_726046,Persian Warrior Costume Lucky Box,ペルシャの戦士コスチュームラッキーボックス
-PROPITEM_TXT_726047,This box contains a Persian Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,This box contains a Persian Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.
-PROPITEM_TXT_726048,Red Persian Magic Carpet,Red Persian Magic Carpet
-PROPITEM_TXT_726050,Green Persian Magic Carpet,Green Persian Magic Carpet
-PROPITEM_TXT_726052,Purple Persian Magic Carpet,Purple Persian Magic Carpet
-PROPITEM_TXT_726053,The coziest way to travel ! Hold tight or enjoy the sky dive ! Maximum Speed: 64 km/h.,The coziest way to travel ! Hold tight or enjoy the sky dive ! Maximum Speed: 64 km/h.
-PROPITEM_TXT_726054,Oceanic Weapon Set,オーシャニックウェポンセット
-PROPITEM_TXT_726055,Select which Oceanic weapon skin you want to receive!,Select which Oceanic weapon skin you want to receive!
-PROPITEM_TXT_726056,Oceanic Big Axe,Oceanic Big Axe
-PROPITEM_TXT_726057,Oceanic Big Sword,Oceanic Big Sword
-PROPITEM_TXT_726058,Oceanic Axe,Oceanic Axe
-PROPITEM_TXT_726059,Oceanic Stick,Oceanic Stick
-PROPITEM_TXT_726060,Oceanic Knuckle,Oceanic Knuckle
-PROPITEM_TXT_726061,Oceanic Bow,Oceanic Bow
-PROPITEM_TXT_726062,Oceanic Yo-Yo,Oceanic Yo-Yo
-PROPITEM_TXT_726063,Oceanic Staff,Oceanic Staff
-PROPITEM_TXT_726064,Oceanic Force Gem,Oceanic Force Gem
-PROPITEM_TXT_726065,Oceanic Shield,Oceanic Shield
-PROPITEM_TXT_726066,Oceanic Book,Oceanic Book
-PROPITEM_TXT_726067,Blue Speedo Shark,Blue Speedo Shark
-PROPITEM_TXT_726069,Pink Speedo Shark,Pink Speedo Shark
-PROPITEM_TXT_726070,"When land travel gets boring, just add fins and a lot of bite ! Maximum Speed: 64 km/h.","When land travel gets boring, just add fins and a lot of bite ! Maximum Speed: 64 km/h."
-PROPITEM_TXT_726071,Rubber Ducky,Rubber Ducky
-PROPITEM_TXT_726072,"Waddle your way to the sky ! Quacking optional, fun guaranteed ! Maximum Speed: 64 km/h.","Waddle your way to the sky ! Quacking optional, fun guaranteed ! Maximum Speed: 64 km/h."
-PROPITEM_TXT_726073,Oceanic Sword,Oceanic Sword
-PROPITEM_TXT_726074,Oceanic Wand,Oceanic Wand
-PROPITEM_TXT_726075,Charlie Hunter Blue Set,チャーリーハンターブルーセット
-PROPITEM_TXT_726076,Charlie Hunter Blue Set (M),チャーリーハンターブルーセット(M)
-PROPITEM_TXT_726077,The Charlie Hunter Blue Set for male characters.,男性キャラクター用のチャーリーハンターブルーセット
-PROPITEM_TXT_726078,Charlie Hunter Blue Hat (M),Charlie Hunter Blue Hat (M)
-PROPITEM_TXT_726079,Charlie Hunter Blue Suit (M),Charlie Hunter Blue Suit (M)
-PROPITEM_TXT_726080,Charlie Hunter Blue Shoes (M),Charlie Hunter Blue Shoes (M)
-PROPITEM_TXT_726081,Charlie Hunter Blue Hands (M),Charlie Hunter Blue Hands (M)
-PROPITEM_TXT_726082,Charlie Hunter Blue Set (F),チャーリーハンターブルーセット(F)
-PROPITEM_TXT_726083,The Charlie Hunter Blue Set for female characters.,女性キャラクター用のチャーリーハンターブルーセット
-PROPITEM_TXT_726084,Charlie Hunter Blue Hat (F),Charlie Hunter Blue Hat (F)
-PROPITEM_TXT_726085,Charlie Hunter Blue Suit (F),Charlie Hunter Blue Suit (F)
-PROPITEM_TXT_726086,Charlie Hunter Blue Shoes (F),Charlie Hunter Blue Shoes (F)
-PROPITEM_TXT_726087,Charlie Hunter Blue Hands (F),Charlie Hunter Blue Hands (F)
-PROPITEM_TXT_726088,Charlie Hunter Blue Backpack,Charlie Hunter Blue Backpack
-PROPITEM_TXT_726089,Charlie Hunter Blue Mask,Charlie Hunter Blue Mask
+PROPITEM_TXT_726047,This box contains a Persian Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのペルシャの戦士セットが含まれています。ラッキーボックスを開いた後、性別を選択できます。
+PROPITEM_TXT_726048,Red Persian Magic Carpet,レッドペルシアンマジックカーペット
+PROPITEM_TXT_726050,Green Persian Magic Carpet,グリーンペルシアンマジックカーペット
+PROPITEM_TXT_726052,Purple Persian Magic Carpet,パープルペルシアンマジックカーペット
+PROPITEM_TXT_726053,The coziest way to travel ! Hold tight or enjoy the sky dive ! Maximum Speed: 64 km/h.,最も快適な移動手段！しっかりつかまるか、スカイダイビングを楽しもう！最高速度：64km/h。
+PROPITEM_TXT_726054,Oceanic Weapon Set,オーシャニック武器セット
+PROPITEM_TXT_726055,Select which Oceanic weapon skin you want to receive!,受け取るオーシャニック武器スキンを選択してください！
+PROPITEM_TXT_726056,Oceanic Big Axe,オーシャニック・ビッグアックス
+PROPITEM_TXT_726057,Oceanic Big Sword,オーシャニック・ビッグソード
+PROPITEM_TXT_726058,Oceanic Axe,オーシャニック・アックス
+PROPITEM_TXT_726059,Oceanic Stick,オーシャニック・スティック
+PROPITEM_TXT_726060,Oceanic Knuckle,オーシャニック・ナックル
+PROPITEM_TXT_726061,Oceanic Bow,オーシャニック・ボウ
+PROPITEM_TXT_726062,Oceanic Yo-Yo,オーシャニック・ヨーヨー
+PROPITEM_TXT_726063,Oceanic Staff,オーシャニック・スタッフ
+PROPITEM_TXT_726064,Oceanic Force Gem,オーシャニック・フォースジェム
+PROPITEM_TXT_726065,Oceanic Shield,オーシャニック・シールド
+PROPITEM_TXT_726066,Oceanic Book,オーシャニック・ブック
+PROPITEM_TXT_726067,Blue Speedo Shark,ブルースピードシャーク
+PROPITEM_TXT_726069,Pink Speedo Shark,ピンクスピードシャーク
+PROPITEM_TXT_726070,"When land travel gets boring, just add fins and a lot of bite ! Maximum Speed: 64 km/h.",陸の旅に飽きたら、ヒレと鋭い牙を追加しよう！最高速度：64km/h。
+PROPITEM_TXT_726071,Rubber Ducky,ラバーダック
+PROPITEM_TXT_726072,"Waddle your way to the sky ! Quacking optional, fun guaranteed ! Maximum Speed: 64 km/h.",よちよち歩きで空へ！鳴き声はお好みで、楽しさは保証付き！最高速度：64km/h。
+PROPITEM_TXT_726073,Oceanic Sword,オーシャニック・ソード
+PROPITEM_TXT_726074,Oceanic Wand,オーシャニック・ワンド
+PROPITEM_TXT_726075,Charlie Hunter Blue Set,チャーリーハンター・ブルーセット
+PROPITEM_TXT_726076,Charlie Hunter Blue Set (M),チャーリーハンター・ブルーセット (M)
+PROPITEM_TXT_726077,The Charlie Hunter Blue Set for male characters.,男性キャラクター用のチャーリーハンター・ブルーセット
+PROPITEM_TXT_726078,Charlie Hunter Blue Hat (M),チャーリーハンター・ブルーハット (M)
+PROPITEM_TXT_726079,Charlie Hunter Blue Suit (M),チャーリーハンター・ブルースーツ (M)
+PROPITEM_TXT_726080,Charlie Hunter Blue Shoes (M),チャーリーハンター・ブルーシューズ (M)
+PROPITEM_TXT_726081,Charlie Hunter Blue Hands (M),チャーリーハンター・ブルーグローブ (M)
+PROPITEM_TXT_726082,Charlie Hunter Blue Set (F),チャーリーハンター・ブルーセット (F)
+PROPITEM_TXT_726083,The Charlie Hunter Blue Set for female characters.,女性キャラクター用のチャーリーハンター・ブルーセット
+PROPITEM_TXT_726084,Charlie Hunter Blue Hat (F),チャーリーハンター・ブルーハット (F)
+PROPITEM_TXT_726085,Charlie Hunter Blue Suit (F),チャーリーハンター・ブルースーツ (F)
+PROPITEM_TXT_726086,Charlie Hunter Blue Shoes (F),チャーリーハンター・ブルーシューズ (F)
+PROPITEM_TXT_726087,Charlie Hunter Blue Hands (F),チャーリーハンター・ブルーグローブ (F)
+PROPITEM_TXT_726088,Charlie Hunter Blue Backpack,チャーリーハンター・ブルーバックパック
+PROPITEM_TXT_726089,Charlie Hunter Blue Mask,チャーリーハンター・ブルーマスク
 PROPITEM_TXT_726090,Charlie Hunter Gray Set,チャーリーハンターグレーセット
-PROPITEM_TXT_726091,Charlie Hunter Gray Set (M),チャーリーハンターグレーセット(M)
-PROPITEM_TXT_726092,The Charlie Hunter Gray Set for male characters.,男性キャラクター用のチャーリーハンターグレーセット
-PROPITEM_TXT_726093,Charlie Hunter Gray Hat (M),Charlie Hunter Gray Hat (M)
-PROPITEM_TXT_726094,Charlie Hunter Gray Suit (M),Charlie Hunter Gray Suit (M)
-PROPITEM_TXT_726095,Charlie Hunter Gray Shoes (M),Charlie Hunter Gray Shoes (M)
-PROPITEM_TXT_726096,Charlie Hunter Gray Hands (M),Charlie Hunter Gray Hands (M)
-PROPITEM_TXT_726097,Charlie Hunter Gray Set (F),チャーリーハンターグレーセット(F)
-PROPITEM_TXT_726098,The Charlie Hunter Gray Set for female characters.,女性キャラクター用のチャーリーハンターグレーセット
-PROPITEM_TXT_726099,Charlie Hunter Gray Hat (F),Charlie Hunter Gray Hat (F)
-PROPITEM_TXT_726100,Charlie Hunter Gray Suit (F),Charlie Hunter Gray Suit (F)
-PROPITEM_TXT_726101,Charlie Hunter Gray Shoes (F),Charlie Hunter Gray Shoes (F)
-PROPITEM_TXT_726102,Charlie Hunter Gray Hands (F),Charlie Hunter Gray Hands (F)
-PROPITEM_TXT_726103,Charlie Hunter Gray Backpack,Charlie Hunter Gray Backpack
-PROPITEM_TXT_726104,Charlie Hunter Gray Mask,Charlie Hunter Gray Mask
+PROPITEM_TXT_726091,Charlie Hunter Gray Set (M),チャーリーハンター・グレーセット(M)
+PROPITEM_TXT_726092,The Charlie Hunter Gray Set for male characters.,男性キャラクター用のチャーリーハンター・グレーセット
+PROPITEM_TXT_726093,Charlie Hunter Gray Hat (M),チャーリーハンター・グレーハット(M)
+PROPITEM_TXT_726094,Charlie Hunter Gray Suit (M),チャーリーハンター・グレースーツ(M)
+PROPITEM_TXT_726095,Charlie Hunter Gray Shoes (M),チャーリーハンター・グレーシューズ(M)
+PROPITEM_TXT_726096,Charlie Hunter Gray Hands (M),チャーリーハンター・グレーグローブ(M)
+PROPITEM_TXT_726097,Charlie Hunter Gray Set (F),チャーリーハンター・グレーセット(F)
+PROPITEM_TXT_726098,The Charlie Hunter Gray Set for female characters.,女性キャラクター用のチャーリーハンター・グレーセット
+PROPITEM_TXT_726099,Charlie Hunter Gray Hat (F),チャーリーハンター・グレーハット(F)
+PROPITEM_TXT_726100,Charlie Hunter Gray Suit (F),チャーリーハンター・グレースーツ(F)
+PROPITEM_TXT_726101,Charlie Hunter Gray Shoes (F),チャーリーハンター・グレーシューズ(F)
+PROPITEM_TXT_726102,Charlie Hunter Gray Hands (F),チャーリーハンター・グレーグローブ(F)
+PROPITEM_TXT_726103,Charlie Hunter Gray Backpack,チャーリーハンター・グレーバックパック
+PROPITEM_TXT_726104,Charlie Hunter Gray Mask,チャーリーハンター・グレーマスク
 PROPITEM_TXT_726107,Persian Warrior 10% Blue Set,ペルシャの戦士 10%ブルーセット
 PROPITEM_TXT_726108,Persian Warrior 10% Blue Set (M),ペルシャの戦士 10%ブルーセット(M)
 PROPITEM_TXT_726109,The Persian Warrior 10% Blue Set for male characters.,男性キャラクター用のペルシャの戦士 10%ブルーセット
 PROPITEM_TXT_726110,Persian Warrior Blue Hat (M),ペルシャの戦士ブルーハット(M)
 PROPITEM_TXT_726111,Persian Warrior Blue Suit (M),ペルシャの戦士ブルースーツ(M)
-PROPITEM_TXT_726112,Charlie Hunter Sword,Charlie Hunter Sword
-PROPITEM_TXT_726113,Charlie Hunter Axe,Charlie Hunter Axe
-PROPITEM_TXT_726114,Charlie Hunter Big Sword,Charlie Hunter Big Sword
-PROPITEM_TXT_726115,Charlie Hunter Big Axe,Charlie Hunter Big Axe
-PROPITEM_TXT_726116,Charlie Hunter Stick,Charlie Hunter Stick
-PROPITEM_TXT_726117,Charlie Hunter Knuckle,Charlie Hunter Knuckle
-PROPITEM_TXT_726118,Charlie Hunter Bow,Charlie Hunter Bow
-PROPITEM_TXT_726119,Charlie Hunter Yo-Yo,Charlie Hunter Yo-Yo
-PROPITEM_TXT_726120,Charlie Hunter Staff,Charlie Hunter Staff
-PROPITEM_TXT_726121,Charlie Hunter Wand,Charlie Hunter Wand
-PROPITEM_TXT_726122,Charlie Hunter Shield,Charlie Hunter Shield
-PROPITEM_TXT_726123,Charlie Hunter Weapon Skin Box,Charlie Hunter Weapon Skin Box
-PROPITEM_TXT_726124,Select which Charlie Hunter Weapon you want to receive!,Select which Charlie Hunter Weapon you want to receive!
-PROPITEM_TXT_726125,Guild Scroll Package,Guild Scroll Package
+PROPITEM_TXT_726112,Charlie Hunter Sword,チャーリーハンター・ソード
+PROPITEM_TXT_726113,Charlie Hunter Axe,チャーリーハンター・アックス
+PROPITEM_TXT_726114,Charlie Hunter Big Sword,チャーリーハンター・ビッグソード
+PROPITEM_TXT_726115,Charlie Hunter Big Axe,チャーリーハンター・ビッグアックス
+PROPITEM_TXT_726116,Charlie Hunter Stick,チャーリーハンター・スティック
+PROPITEM_TXT_726117,Charlie Hunter Knuckle,チャーリーハンター・ナックル
+PROPITEM_TXT_726118,Charlie Hunter Bow,チャーリーハンター・ボウ
+PROPITEM_TXT_726119,Charlie Hunter Yo-Yo,チャーリーハンター・ヨーヨー
+PROPITEM_TXT_726120,Charlie Hunter Staff,チャーリーハンター・スタッフ
+PROPITEM_TXT_726121,Charlie Hunter Wand,チャーリーハンター・ワンド
+PROPITEM_TXT_726122,Charlie Hunter Shield,チャーリーハンター・シールド
+PROPITEM_TXT_726123,Charlie Hunter Weapon Skin Box,チャーリーハンターウェポンスキンボックス
+PROPITEM_TXT_726124,Select which Charlie Hunter Weapon you want to receive!,受け取りたいチャーリーハンター武器を選択してください!
+PROPITEM_TXT_726125,Guild Scroll Package,ギルドスクロールパッケージ
 PROPITEM_TXT_726126,"A package containing 1x Scroll of Guild Members, 1x Scroll of G-Name Change and 1x Scroll of G-Logo Change. All items are also linked.",ギルドメンバー増幅の巻物x1、ギルド名変更申込書x1、ギルドロゴ変更巻物x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_726127,Character Change Pack,Character Change Pack
+PROPITEM_TXT_726127,Character Change Pack,キャラクター変更パック
 PROPITEM_TXT_726128,A package containing 1x Scroll of Name Change and 1x Transy. All items are also linked.,改名の巻物x1、トランシーx1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_726129,FWC 2024 Final Gift Box A,FWC 2024 Final Gift Box A
+PROPITEM_TXT_726129,FWC 2024 Final Gift Box A,FWC 2024 ファイナルギフトボックスA
 PROPITEM_TXT_726130,"A package containing 1x Card Disc (7 days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activation.",カードディスク(7日)x1、スタミナドリンクX または 魔力ドリンクゴールドx3、パワーストーンx3、アクティビションx3が含まれたパッケージ。
-PROPITEM_TXT_726131,FWC 2024 Final Gift Box B,FWC 2024 Final Gift Box B
+PROPITEM_TXT_726131,FWC 2024 Final Gift Box B,FWC 2024 ファイナルギフトボックスB
 PROPITEM_TXT_726132,"A package containing 1x Scroll of PickUp Boost (7 days), 3x Scroll of Resurrection, 5x Def-Upcut Stone and 1x Extra Bag (30 days).",ピックアップブーストスクロール（7日）x1、復活の巻物x3、ディフェンスストーンx5、魔法の携帯バッグ(30日)x1が含まれたパッケージ。
-PROPITEM_TXT_726133,FWC 2024 Final Gift Box C,FWC 2024 Final Gift Box C
+PROPITEM_TXT_726133,FWC 2024 Final Gift Box C,FWC 2024 ファイナルギフトボックスC
 PROPITEM_TXT_726134,"A package containing 1x Feed Bag (7 days), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel.",フィードバッグ(7日)x1、戦神の巻物ESx3、豪傑のスクロール(B)x3、グリルド・イールx3が含まれたパッケージ。
-PROPITEM_TXT_726135,FWC 2024 Early Bird Reward,FWC 2024 Early Bird Reward
+PROPITEM_TXT_726135,FWC 2024 Early Bird Reward,FWC 2024 アーリーバード報酬
 PROPITEM_TXT_726136,"A package containing 1x Ice Crown Weapon Skin Box, 1x Heart Breaker's Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion.",アイスクラウンウェポンスキンボックスx1、ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、強力な力の秘薬x10、強力な敏捷の秘薬x10、強力な知能の秘薬x10、強力な体力の秘薬x10が含まれたパッケージ。
-PROPITEM_TXT_726137,FWC 2024 Door Prize Reward,FWC 2024 Door Prize Reward
+PROPITEM_TXT_726137,FWC 2024 Door Prize Reward,FWC 2024 ドア賞品
 PROPITEM_TXT_726138,"A package containing 1x Heart Breaker's Weapon Skin Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 days). All items are also linked.",ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、強力な力の秘薬x5、強力な敏捷の秘薬x5、強力な知能の秘薬x5、強力な体力の秘薬x5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_726139,FWC 2024 Guild Rally Winner Reward,FWC 2024 Guild Rally Winner Reward
+PROPITEM_TXT_726139,FWC 2024 Guild Rally Winner Reward,FWC 2024 ギルドラリー優勝報酬
 PROPITEM_TXT_726140,"A package containing 1x Shadow Hunter Costume Lucky Box, 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold, 10x Flask Box and 3x Smelting Scroll of Package A.",シャドウハンターコスチュームラッキーボックスx1、クロックワークウェポンスキンボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、スタミナドリンクXまたは魔力ドリンクゴールドx10、秘薬ボックスx10、精錬編の巻物ボックス(A)x3が含まれたパッケージ。
-PROPITEM_TXT_726141,FWC 2024 Guild Rally Runner up Reward,FWC 2024 Guild Rally Runner up Reward
+PROPITEM_TXT_726141,FWC 2024 Guild Rally Runner up Reward,FWC 2024 ギルドラリー準優勝報酬
 PROPITEM_TXT_726142,"A package containing 1x Clockworks Weapon Skin Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 days), 10x Vital Drink X or Refresher Hold and 10x Flask Box. All items are also linked.",クロックワークウェポンスキンボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、スタミナドリンクXまたは魔力ドリンクゴールドx10、秘薬ボックスx10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_800003,Shining Topaz (1),輝くトパーズ (1)
 PROPITEM_TXT_800004,Shining Topaz (2),輝くトパーズ (2)
@@ -17093,16 +17093,16 @@ PROPITEM_TXT_800009,Shining Topaz (7),輝くトパーズ (7)
 PROPITEM_TXT_800010,Shining Topaz (8),輝くトパーズ (8)
 PROPITEM_TXT_800011,Shining Topaz (9),輝くトパーズ (9)
 PROPITEM_TXT_800012,Shining Topaz (10),輝くトパーズ (10)
-PROPITEM_TXT_800013,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+5を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800014,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+10を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800015,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+15を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800016,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+20を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800017,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+25を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800018,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+30を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800019,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+35を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800020,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+40を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800021,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+45を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800022,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+50を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800013,Gives +5 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+5を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800014,Gives +10 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800015,Gives +15 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+15を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800016,Gives +20 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+20を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800017,Gives +25 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+25を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800018,Gives +30 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+30を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800019,Gives +35 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+35を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800020,Gives +40 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+40を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800021,Gives +45 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+45を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800022,Gives +50 Defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+50を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800023,Shining Ruby (1),輝くルビー (1)
 PROPITEM_TXT_800024,Shining Ruby (2),輝くルビー (2)
 PROPITEM_TXT_800025,Shining Ruby (3),輝くルビー (3)
@@ -17113,16 +17113,16 @@ PROPITEM_TXT_800029,Shining Ruby (7),輝くルビー (7)
 PROPITEM_TXT_800030,Shining Ruby (8),輝くルビー (8)
 PROPITEM_TXT_800031,Shining Ruby (9),輝くルビー (9)
 PROPITEM_TXT_800032,Shining Ruby (10),輝くルビー (10)
-PROPITEM_TXT_800033,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+1を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800034,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+2を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800035,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+3を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800036,Gives +4 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+4を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800037,Gives +5 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+5を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800038,Gives +6 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+6を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800039,Gives +7 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+7を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800040,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+8を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800041,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+9を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800042,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると力+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800033,Gives +1 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+1を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800034,Gives +2 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+2を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800035,Gives +3 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+3を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800036,Gives +4 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+4を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800037,Gives +5 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+5を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800038,Gives +6 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+6を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800039,Gives +7 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+7を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800040,Gives +8 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+8を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800041,Gives +9 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+9を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800042,Gives +10 Strength when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると力+10を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800043,Shining Sapphire (1),輝くサファイア (1)
 PROPITEM_TXT_800044,Shining Sapphire (2),輝くサファイア (2)
 PROPITEM_TXT_800045,Shining Sapphire (3),輝くサファイア (3)
@@ -17133,16 +17133,16 @@ PROPITEM_TXT_800049,Shining Sapphire (7),輝くサファイア (7)
 PROPITEM_TXT_800050,Shining Sapphire (8),輝くサファイア (8)
 PROPITEM_TXT_800051,Shining Sapphire (9),輝くサファイア (9)
 PROPITEM_TXT_800052,Shining Sapphire (10),輝くサファイア (10)
-PROPITEM_TXT_800053,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+1を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800054,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+2を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800055,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+3を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800056,Gives +4 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+4を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800057,Gives +5 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+5を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800058,Gives +6 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+6を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800059,Gives +7 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+7を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800060,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+8を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800061,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+9を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800062,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると知能+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800053,Gives +1 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+1を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800054,Gives +2 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+2を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800055,Gives +3 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+3を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800056,Gives +4 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+4を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800057,Gives +5 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+5を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800058,Gives +6 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+6を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800059,Gives +7 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+7を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800060,Gives +8 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+8を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800061,Gives +9 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+9を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800062,Gives +10 Intelligence when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると知能+10を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800063,Shining Emerald (1),輝くエメラルド (1)
 PROPITEM_TXT_800064,Shining Emerald (2),輝くエメラルド (2)
 PROPITEM_TXT_800065,Shining Emerald (3),輝くエメラルド (3)
@@ -17153,16 +17153,16 @@ PROPITEM_TXT_800069,Shining Emerald (7),輝くエメラルド (7)
 PROPITEM_TXT_800070,Shining Emerald (8),輝くエメラルド (8)
 PROPITEM_TXT_800071,Shining Emerald (9),輝くエメラルド (9)
 PROPITEM_TXT_800072,Shining Emerald (10),輝くエメラルド (10)
-PROPITEM_TXT_800073,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+1を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800074,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+2を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800075,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+3を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800076,Gives +4 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+4を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800077,Gives +5 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+5を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800078,Gives +6 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+6を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800079,Gives +7 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+7を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800080,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+8を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800081,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+9を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800082,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると敏捷+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800073,Gives +1 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+1を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800074,Gives +2 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+2を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800075,Gives +3 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+3を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800076,Gives +4 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+4を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800077,Gives +5 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+5を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800078,Gives +6 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+6を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800079,Gives +7 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+7を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800080,Gives +8 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+8を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800081,Gives +9 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+9を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800082,Gives +10 Dexterity when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると敏捷+10を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800083,Shining Amethyst (1),輝くアメジスト (1)
 PROPITEM_TXT_800084,Shining Amethyst (2),輝くアメジスト (2)
 PROPITEM_TXT_800085,Shining Amethyst (3),輝くアメジスト (3)
@@ -17173,16 +17173,16 @@ PROPITEM_TXT_800089,Shining Amethyst (7),輝くアメジスト (7)
 PROPITEM_TXT_800090,Shining Amethyst (8),輝くアメジスト (8)
 PROPITEM_TXT_800091,Shining Amethyst (9),輝くアメジスト (9)
 PROPITEM_TXT_800092,Shining Amethyst (10),輝くアメジスト (10)
-PROPITEM_TXT_800093,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+1を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800094,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+2を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800095,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+3を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800096,Gives +4 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+4を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800097,Gives +5 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+5を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800098,Gives +6 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+6を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800099,Gives +7 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+7を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800100,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+8を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800101,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+9を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800102,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると体力+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800093,Gives +1 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+1を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800094,Gives +2 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+2を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800095,Gives +3 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+3を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800096,Gives +4 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+4を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800097,Gives +5 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+5を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800098,Gives +6 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+6を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800099,Gives +7 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+7を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800100,Gives +8 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+8を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800101,Gives +9 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+9を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800102,Gives +10 Stamina when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると体力+10を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800103,Shining Diamond (1),輝くダイヤモンド (1)
 PROPITEM_TXT_800104,Shining Diamond (2),輝くダイヤモンド (2)
 PROPITEM_TXT_800105,Shining Diamond (3),輝くダイヤモンド (3)
@@ -17193,16 +17193,16 @@ PROPITEM_TXT_800109,Shining Diamond (7),輝くダイヤモンド (7)
 PROPITEM_TXT_800110,Shining Diamond (8),輝くダイヤモンド (8)
 PROPITEM_TXT_800111,Shining Diamond (9),輝くダイヤモンド (9)
 PROPITEM_TXT_800112,Shining Diamond (10),輝くダイヤモンド (10)
-PROPITEM_TXT_800113,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+50を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800114,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+100を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800115,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+150を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800116,Gives +200 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+200を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800117,Gives +250 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+250を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800118,Gives +300 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+300を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800119,Gives +350 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+350を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800120,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+400を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800121,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+450を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800122,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+500を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800113,Gives +50 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+50を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800114,Gives +100 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+100を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800115,Gives +150 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+150を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800116,Gives +200 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+200を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800117,Gives +250 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+250を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800118,Gives +300 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+300を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800119,Gives +350 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+350を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800120,Gives +400 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+400を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800121,Gives +450 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+450を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800122,Gives +500 HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+500を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800123,Shining Onyx (1),輝くオニキス (1)
 PROPITEM_TXT_800124,Shining Onyx (2),輝くオニキス (2)
 PROPITEM_TXT_800125,Shining Onyx (3),輝くオニキス (3)
@@ -17213,16 +17213,16 @@ PROPITEM_TXT_800129,Shining Onyx (7),輝くオニキス (7)
 PROPITEM_TXT_800130,Shining Onyx (8),輝くオニキス (8)
 PROPITEM_TXT_800131,Shining Onyx (9),輝くオニキス (9)
 PROPITEM_TXT_800132,Shining Onyx (10),輝くオニキス (10)
-PROPITEM_TXT_800133,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+10を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800134,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+20を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800135,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+30を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800136,Gives +40 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+40を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800137,Gives +50 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+50を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800138,Gives +60 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+60を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+70を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+80を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+90を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+100を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800133,Gives +10 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800134,Gives +20 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+20を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800135,Gives +30 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+30を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800136,Gives +40 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+40を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800137,Gives +50 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+50を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800138,Gives +60 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+60を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800139,Gives +70 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+70を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800140,Gives +80 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+80を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800141,Gives +90 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+90を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800142,Gives +100 Attack Power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+100を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800143,Jewel Tweezers,ジュエルツイーザー
 PROPITEM_TXT_800144,You can get the attached jewel without destruction.,取り付けられたジュエルを破壊せずに回収できます。
 PROPITEM_TXT_800145,Rune of Increasing HP,HP増加のルーン
@@ -17242,23 +17242,23 @@ PROPITEM_TXT_800158,Rune of Block Range,遠距離ブロックのルーン
 PROPITEM_TXT_800159,Rune of Skill Range,スキル範囲のルーン
 PROPITEM_TXT_800160,Rune of MP Decrease Rate,MP消費減少のルーン
 PROPITEM_TXT_800161,Rune of FP Decrease Rate,FP消費減少のルーン
-PROPITEM_TXT_800162,Gives +10% HP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとHP+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800163,Gives +10% MP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとMP+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800164,Gives +10% FP when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとFP+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800165,Gives +10% attack power when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃力+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800166,Gives +10% defense when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると防御力+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800167,Gives +10% attack speed when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると攻撃速度+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800168,Gives +10% speed when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとスピード+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800169,Gives +10% critical chance when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとクリティカル率+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800170,Gives +10% critical bonus when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとクリティカルダメージ+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800171,Gives +10% hit rate when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると命中率+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると魔法抵抗+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800173,Gives +10% critical resistance when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとクリティカル耐性+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800174,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると近接ブロック+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800175,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると遠距離ブロック+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800176,Gives +10% skill range when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとスキル範囲+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800177,Gives +10% MP consumption decrease when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとMP消費減少+10%を付与します。1回のみ装着可能です。
-PROPITEM_TXT_800178,Gives +10% FP consumption decrease when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着するとFP消費減少+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800162,Gives +10% HP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとHP+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800163,Gives +10% MP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとMP+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800164,Gives +10% FP when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとFP+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800165,Gives +10% attack power when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃力+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800166,Gives +10% defense when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると防御力+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800167,Gives +10% attack speed when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると攻撃速度+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800168,Gives +10% speed when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとスピード+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800169,Gives +10% critical chance when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとクリティカル率+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800170,Gives +10% critical bonus when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとクリティカルダメージ+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800171,Gives +10% hit rate when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると命中率+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800172,Gives +10% magic resist when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると魔法抵抗+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800173,Gives +10% critical resistance when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとクリティカル耐性+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800174,Gives +10% melee block when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると近接ブロック+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800175,Gives +10% range block when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると遠距離ブロック+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800176,Gives +10% skill range when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとスキル範囲+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800177,Gives +10% MP consumption decrease when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとMP消費減少+10%を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800178,Gives +10% FP consumption decrease when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着するとFP消費減少+10%を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800179,Shining Topaz Piece,輝くトパーズの欠片
 PROPITEM_TXT_800180,Shining Ruby Piece,輝くルビーの欠片
 PROPITEM_TXT_800181,Shining Sapphire Piece,輝くサファイアの欠片
@@ -17268,7 +17268,7 @@ PROPITEM_TXT_800184,Shining Amethyst Piece,輝くアメジストの欠片
 PROPITEM_TXT_800185,Shining Onyx Piece,輝くオニキスの欠片
 PROPITEM_TXT_800186,It's a piece where you can get a complete jewel if you collect and process 10 pieces.,10個集めて加工することで、完成したジュエルを入手できる欠片です。
 PROPITEM_TXT_800187,Ultimate Jewel Box,アルティメットジュエルボックス
-PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",このボックスには、アルティメット武器に付与できる様々なアルティメットジュエル、ルーン、欠片が入っています。欠片は10個集めて加工することで、完成したジュエルにすることができます。
+PROPITEM_TXT_800188,"This box contains various ultimate jewels, runes, and pieces that can be added to an ultimate weapon. You can make a complete jewel by processing 10 individual pieces.",このボックスには、アルティマ武器に付与できる様々なアルティメットジュエル、ルーン、欠片が入っています。欠片は10個集めて加工することで、完成したジュエルにすることができます。
 PROPITEM_TXT_800189,Advanced Mana Stone,アドバンスド・マナストーン
 PROPITEM_TXT_800190,Recovers between 1 and 3 jewels if fusion fails.,合成に失敗した場合、1～3個のジュエルを回収できます。
 PROPITEM_TXT_800191,Mana Stone,マナストーン
@@ -17280,25 +17280,25 @@ PROPITEM_TXT_800196,First-grade jewels and jewel pieces can be extracted from th
 PROPITEM_TXT_800197,Cutting Knife,カッティングナイフ
 PROPITEM_TXT_800198,Guarantees the success of extracting jewel pieces or first-grade jewels from a gemstone.,原石からジュエルの欠片または1級ジュエルを抽出する際の成功を保証します。
 PROPITEM_TXT_800199,Rainbow Jewel (1),レインボージュエル (1)
-PROPITEM_TXT_800200,Gives +1 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+1を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800200,Gives +1 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+1を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800201,Rainbow Jewel (2),レインボージュエル (2)
-PROPITEM_TXT_800202,Gives +2 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+2を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800202,Gives +2 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+2を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800203,Rainbow Jewel (3),レインボージュエル (3)
-PROPITEM_TXT_800204,Gives +3 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+3を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800204,Gives +3 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+3を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800205,Rainbow Jewel (4),レインボージュエル (4)
-PROPITEM_TXT_800206,Gives +4 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+4を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800206,Gives +4 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+4を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800207,Rainbow Jewel (5),レインボージュエル (5)
-PROPITEM_TXT_800208,Gives +5 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+5を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800208,Gives +5 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+5を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800209,Rainbow Jewel (6),レインボージュエル (6)
-PROPITEM_TXT_800210,Gives +6 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+6を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800210,Gives +6 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+6を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800211,Rainbow Jewel (7),レインボージュエル (7)
-PROPITEM_TXT_800212,Gives +7 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+7を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800212,Gives +7 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+7を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800213,Rainbow Jewel (8),レインボージュエル (8)
-PROPITEM_TXT_800214,Gives +8 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+8を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800214,Gives +8 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+8を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800215,Rainbow Jewel (9),レインボージュエル (9)
-PROPITEM_TXT_800216,Gives +9 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+9を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800216,Gives +9 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+9を付与します。1回のみ装着可能です。
 PROPITEM_TXT_800217,Rainbow Jewel (10),レインボージュエル (10)
-PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.,アルティメット武器に装着すると全ステータス+10を付与します。1回のみ装着可能です。
+PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can only be attached once.,アルティマ武器に装着すると全ステータス+10を付与します。1回のみ装着可能です。
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House),ペットインベントリの巻物(キャラクターハウス)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!,この巻物を使用すると、キャラクターハウスのペットインベントリの最大スロット数が1つ増加します！
 PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship),ペットインベントリの巻物(ギルド船)
@@ -19491,10 +19491,10 @@ PROPITEM_TXT_801367,Turkeylicious 2% Black Set (F),ターキーリシャス 2%�
 PROPITEM_TXT_801368,The Turkeylicious 2% Black Set for female characters.,女性キャラクター用のターキーリシャス 2%ブラックセット
 PROPITEM_TXT_801369,Turkeylicious Costume Lucky Box,ターキーリシャスコスチュームラッキーボックス
 PROPITEM_TXT_801370,This box contains a Turkeylicious Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きのターキーリシャスセットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
-PROPITEM_TXT_726300,[Event] 2024 Thanksgiving Gift Box,[Event] 2024 Thanksgiving Gift Box
-PROPITEM_TXT_726301,"A Thanksgiving gift from the Mayor to show his appreciation. When used, a random gift of 1 type can be obtained.","A Thanksgiving gift from the Mayor to show his appreciation. When used, a random gift of 1 type can be obtained."
-PROPITEM_TXT_726302,[Event] Turkey,[Event] Turkey
-PROPITEM_TXT_726303,A cooking ingredient stolen by a monster. Bring it to the Mayor.,A cooking ingredient stolen by a monster. Bring it to the Mayor.
+PROPITEM_TXT_726300,[Event] 2024 Thanksgiving Gift Box,[イベント]2024感謝祭ギフトボックス
+PROPITEM_TXT_726301,"A Thanksgiving gift from the Mayor to show his appreciation. When used, a random gift of 1 type can be obtained.",町長からの感謝祭の贈り物です。使用するとランダムで1種類のギフトを獲得できます。
+PROPITEM_TXT_726302,[Event] Turkey,[イベント]ターキー
+PROPITEM_TXT_726303,A cooking ingredient stolen by a monster. Bring it to the Mayor.,モンスターに盗まれた料理の材料です。町長に届けてください。
 PROPITEM_TXT_726305,Turkeylicious White Set,ターキーリシャスホワイトセット
 PROPITEM_TXT_726313,Turkeylicious White Set (M),ターキーリシャスホワイトセット(M)
 PROPITEM_TXT_726314,The Turkeylicious White set for male characters.,男性キャラクター用のターキーリシャスホワイトセット
@@ -19518,11 +19518,11 @@ PROPITEM_TXT_726454,Turkeylicious White Shoes (F),ターキーリシャスホワ
 PROPITEM_TXT_726455,Turkeylicious White Shoes for Female characters,女性キャラクター用のターキーリシャスホワイトシューズ
 PROPITEM_TXT_726456,Turkeylicious White Gloves (F),ターキーリシャスホワイトグローブ(F)
 PROPITEM_TXT_726457,Turkeylicious White Gloves for Female characters,女性キャラクター用のターキーリシャスホワイトグローブ
-PROPITEM_TXT_726198,Blood Donation Drive,Blood Donation Drive
+PROPITEM_TXT_726198,Blood Donation Drive,献血キャンペーン
 PROPITEM_TXT_726199,"A package containing 1x Heart Breaker's Weapon Skin Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ハートブレイカーの武器スキンボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、強力な力の秘薬x5、強力な敏捷の秘薬x5、強力な知能の秘薬x5、強力な体力の秘薬x5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_726200,PXP 2024 Early Bird,PXP 2024 Early Bird
+PROPITEM_TXT_726200,PXP 2024 Early Bird,PXP 2024 アーリーバード
 PROPITEM_TXT_726201,"A package containing 1x Ice Crown Weapons, 1x Rudolph Costume Box, 10x Scroll of Amplification ES, 2x Extra Bag (30 Days), 10x Flask of the Tiger, 10x Flask of the Rabbit, 10x Flask of the Fox and 10x Flask of the Lion. All items are also linked.",アイスクラウンウェポンx1、ルドルフコスチュームボックスx1、戦神の巻物ESx10、魔法の携帯バッグ(30日)x2、強力な力の秘薬x10、強力な敏捷の秘薬x10、強力な知能の秘薬x10、強力な体力の秘薬x10が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_726202,PXP 2024 Door Prize,PXP 2024 Door Prize
+PROPITEM_TXT_726202,PXP 2024 Door Prize,PXP 2024 ドア賞品
 PROPITEM_TXT_726203,"A package containing 1x Rudolph Costume Box, 5x Scroll of Amplification ES, 2x Extra Bag (30 Days), 5x Flask of the Tiger, 5x Flask of the Rabbit, 5x Flask of the Fox, 5x Flask of the Lion and 1x Baby Lawolf (7 Days). All items are also linked.",ルドルフコスチュームボックスx1、戦神の巻物ESx5、魔法の携帯バッグ(30日)x2、強力な力の秘薬x5、強力な敏捷の秘薬x5、強力な知能の秘薬x5、強力な体力の秘薬x5、ベビーラーウルフ(7日)x1が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_826187,Extended Emotes,追加エモートパック
 PROPITEM_TXT_826188,"This package contains 9 emotes for your character: Meditation, Flip Jump 1, Lift O/X/Rock/Paper/Scissors, and Dance 10/11.",このパッケージには、瞑想、宙返り1、「○」「×」「グー」「パー」「チョキ」を掲げる、ダンス10・11の、キャラクター用エモート9種類が含まれています。
@@ -19539,29 +19539,29 @@ PROPITEM_TXT_826198,Dance 11 Emote,ダンス11エモート
 PROPITEM_TXT_826199,Provides a new emote for your character!,キャラクターに新しいエモートを追加します！
 PROPITEM_TXT_826200,Card and Dice Bag,カード＆ダイスバッグ
 PROPITEM_TXT_826201,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",このバッグはカード、カードピース、ダイス、ダイスピースのアイテムスロットが10個追加されます。
-PROPITEM_TXT_145000,Blessing of the Demon,Blessing of the Demon
-PROPITEM_TXT_145001,Card and Dice Bag,Card and Dice Bag
-PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.","This bag gives you 10 additional card, card piece, dice and dice piece item slots."
-PROPITEM_TXT_145003,Pet Reroll Scroll,Pet Reroll Scroll
-PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll."
-PROPITEM_TXT_145005,Scale of Luminfin,Scale of Luminfin
-PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.
-PROPITEM_TXT_145007,Magic water stone,Magic water stone
-PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,Quest Item: Magic water stone to help identify the area.
-PROPITEM_TXT_145009,Magic Water Stone analysis results,Magic Water Stone analysis results
-PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?","Quest Item: Results of the Magic water stone analysis, is it really Herneos?"
-PROPITEM_TXT_145011,Dreadfin Tooth,Dreadfin Tooth
-PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.
-PROPITEM_TXT_145013,Dreadscale Medallion,Dreadscale Medallion
-PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.
-PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),Random Housing NPC Box (7 Days)
-PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,Contains a random 7 days housing NPC. The NPC will be soul-linked.
-PROPITEM_TXT_145017,Shop Advertisement (Gold),Shop Advertisement (Gold)
-PROPITEM_TXT_145018,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a golden adorner. It is consumed when opening the shop and disappears when closing it.,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a golden adorner. It is consumed when opening the shop and disappears when closing it.
-PROPITEM_TXT_145019,Shop Advertisement (Green),Shop Advertisement (Green)
-PROPITEM_TXT_145020,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a green adorner. It is consumed when opening the shop and disappears when closing it.,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a green adorner. It is consumed when opening the shop and disappears when closing it.
-PROPITEM_TXT_145021,High Pet Reroll Scroll,High Pet Reroll Scroll
-PROPITEM_TXT_145022,"Allows you to reroll the level of one pet tier, choosing whether or not to keep the result. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.","Allows you to reroll the level of one pet tier, choosing whether or not to keep the result. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll."
+PROPITEM_TXT_145000,Blessing of the Demon,悪魔の祝福
+PROPITEM_TXT_145001,Card and Dice Bag,カード＆ダイスバッグ
+PROPITEM_TXT_145002,"This bag gives you 10 additional card, card piece, dice and dice piece item slots.",このバッグはカード、カードピース、ダイス、ダイスピースのアイテムスロットが10個追加されます。
+PROPITEM_TXT_145003,Pet Reroll Scroll,ペット再抽選の巻物
+PROPITEM_TXT_145004,"Allows you to reroll the level of one pet tier. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.",ペットの1段階分のレベルを再抽選できます。一度いずれかの段階を再抽選すると、他の段階は再抽選の巻物で再抽選できなくなります。
+PROPITEM_TXT_145005,Scale of Luminfin,ルミンフィンの鱗
+PROPITEM_TXT_145006,A quest item acquired from Luminfin in Herneos. It seems that this Luminfin scale is fluorescent.,ヘルネオスのルミンフィンから入手したクエストアイテム。このルミンフィンの鱗は蛍光を放っているようだ。
+PROPITEM_TXT_145007,Magic water stone,魔法の水石
+PROPITEM_TXT_145008,Quest Item: Magic water stone to help identify the area.,クエストアイテム：エリアの特定に役立つ魔法の水石。
+PROPITEM_TXT_145009,Magic Water Stone analysis results,魔法の水石の分析結果
+PROPITEM_TXT_145010,"Quest Item: Results of the Magic water stone analysis, is it really Herneos?",クエストアイテム：魔法の水石の分析結果。本当にヘルネオスなのか？
+PROPITEM_TXT_145011,Dreadfin Tooth,ドレッドフィンの牙
+PROPITEM_TXT_145012,A quest item acquired from Dreadfin in Herneos. The Dreadfin must have lost this tooth during the battle.,ヘルネオスのドレッドフィンから入手したクエストアイテム。戦闘中に失った牙のようだ。
+PROPITEM_TXT_145013,Dreadscale Medallion,ドレッドスケイルのメダリオン
+PROPITEM_TXT_145014,A quest item acquired from Dreadscale in Herneos. The dreadscale believe this medallion increases their power.,ヘルネオスのドレッドスケイルから入手したクエストアイテム。ドレッドスケイルたちはこのメダリオンが自分たちの力を高めると信じている。
+PROPITEM_TXT_145015,Random Housing NPC Box (7 Days),ランダムハウジングNPCボックス(7日)
+PROPITEM_TXT_145016,Contains a random 7 days housing NPC. The NPC will be soul-linked.,7日間のハウジングNPCがランダムで手に入ります。NPCはプレイヤーに帰属されます。
+PROPITEM_TXT_145017,Shop Advertisement (Gold),ショップ広告(ゴールド)
+PROPITEM_TXT_145018,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a golden adorner. It is consumed when opening the shop and disappears when closing it.,この巻物を使用すると、個人商店またはベンダーショップがショップ検索結果の上部にゴールドの飾りつきで表示されます。ショップを開くと消費され、閉じると効果が消えます。
+PROPITEM_TXT_145019,Shop Advertisement (Green),ショップ広告(グリーン)
+PROPITEM_TXT_145020,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a green adorner. It is consumed when opening the shop and disappears when closing it.,この巻物を使用すると、個人商店またはベンダーショップがショップ検索結果の上部にグリーンの飾りつきで表示されます。ショップを開くと消費され、閉じると効果が消えます。
+PROPITEM_TXT_145021,High Pet Reroll Scroll,ハイペット再抽選の巻物
+PROPITEM_TXT_145022,"Allows you to reroll the level of one pet tier, choosing whether or not to keep the result. Once you choose to reroll a tier, all other tiers will not be rerollable using a reroll scroll.",ペットの1段階分のレベルを再抽選し、結果を保持するかどうかを選択できます。一度いずれかの段階を再抽選すると、他の段階は再抽選の巻物で再抽選できなくなります。
 PROPITEM_TXT_826202,Men In Black Set,メン・イン・ブラックセット
 PROPITEM_TXT_826203,Select which Gender you want to receive,受け取りたい性別を選択してください
 PROPITEM_TXT_826204,Men In Black Glasses,メン・イン・ブラックメガネ
@@ -19575,27 +19575,27 @@ PROPITEM_TXT_826211,Men In Black Suit (F),メン・イン・ブラックスー�
 PROPITEM_TXT_826212,Men In Black Shoes (F),メン・イン・ブラックシューズ(F)
 PROPITEM_TXT_826213,Men In Black Set (F),メン・イン・ブラックセット(F)
 PROPITEM_TXT_826214,The Men In Black Set for female character.,女性キャラクター用のメン・イン・ブラックセット
-PROPITEM_TXT_144023,[Event] Fish D,[Event] Fish D
-PROPITEM_TXT_144024,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.
-PROPITEM_TXT_144025,[Event] Fish C,[Event] Fish C
-PROPITEM_TXT_144026,[Event] Fish B,[Event] Fish B
-PROPITEM_TXT_144027,[Event] Fish A,[Event] Fish A
-PROPITEM_TXT_144028,[Event] Normal Bait,[Event] Normal Bait
-PROPITEM_TXT_144029,This is a standard lure for event participation. You can get fish ranked D to B.,This is a standard lure for event participation. You can get fish ranked D to B.
-PROPITEM_TXT_144030,[Event] Premium Bait,[Event] Premium Bait
-PROPITEM_TXT_144031,This is a standard lure for event participation. You can get fish ranked C to A.,This is a standard lure for event participation. You can get fish ranked C to A.
-PROPITEM_TXT_144032,Polite Greeting Emote,Polite Greeting Emote
-PROPITEM_TXT_144033,Hurray Emote,Hurray Emote
-PROPITEM_TXT_144034,Clap Emote,Clap Emote
-PROPITEM_TXT_144035,Brrr Emote,Brrr Emote
-PROPITEM_TXT_144036,Dance 12 Emote,Dance 12 Emote
-PROPITEM_TXT_144037,Hot Emote,Hot Emote
-PROPITEM_TXT_144038,LMAO Emote,LMAO Emote
-PROPITEM_TXT_144039,Ninja Emote,Ninja Emote
-PROPITEM_TXT_144040,Aha Emote,Aha Emote
-PROPITEM_TXT_144041,Provoke Emote,Provoke Emote
-PROPITEM_TXT_144042,Surprised Emote,Surprised Emote
-PROPITEM_TXT_144043,Look Around Emote,Look Around Emote
+PROPITEM_TXT_144023,[Event] Fish D,[イベント]魚D
+PROPITEM_TXT_144024,[Event] Fish that you can obtain when using the [Event] Bait. Bring it back to Mr.Kang to exchange for various items.,[イベント]ベイトを使うと手に入る魚です。Mr.カンに持って行くと、様々なアイテムと交換できます。
+PROPITEM_TXT_144025,[Event] Fish C,[イベント]魚C
+PROPITEM_TXT_144026,[Event] Fish B,[イベント]魚B
+PROPITEM_TXT_144027,[Event] Fish A,[イベント]魚A
+PROPITEM_TXT_144028,[Event] Normal Bait,[イベント]ノーマルベイト
+PROPITEM_TXT_144029,This is a standard lure for event participation. You can get fish ranked D to B.,イベント参加用の標準的なルアーです。DランクからBランクの魚が手に入ります。
+PROPITEM_TXT_144030,[Event] Premium Bait,[イベント]プレミアムベイト
+PROPITEM_TXT_144031,This is a standard lure for event participation. You can get fish ranked C to A.,イベント参加用の標準的なルアーです。CランクからAランクの魚が手に入ります。
+PROPITEM_TXT_144032,Polite Greeting Emote,丁寧な挨拶エモート
+PROPITEM_TXT_144033,Hurray Emote,万歳エモート
+PROPITEM_TXT_144034,Clap Emote,拍手エモート
+PROPITEM_TXT_144035,Brrr Emote,寒がるエモート
+PROPITEM_TXT_144036,Dance 12 Emote,ダンス12エモート
+PROPITEM_TXT_144037,Hot Emote,暑がるエモート
+PROPITEM_TXT_144038,LMAO Emote,大爆笑エモート
+PROPITEM_TXT_144039,Ninja Emote,忍者エモート
+PROPITEM_TXT_144040,Aha Emote,ひらめきエモート
+PROPITEM_TXT_144041,Provoke Emote,挑発エモート
+PROPITEM_TXT_144042,Surprised Emote,驚きエモート
+PROPITEM_TXT_144043,Look Around Emote,周りを見渡すエモート
 PROPITEM_TXT_201001,5th grade Jewel Selection Box,5等級ジュエルセレクトボックス
 PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,5等級アルティマ武器のジュエル、全7種類の中から1つを選択できます。
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,ティアAピアスカードラッキーボックス
@@ -19743,9 +19743,9 @@ PROPITEM_TXT_826316,Eastern Warrior Red Force Gem,東洋の戦士レッドフォ
 PROPITEM_TXT_826317,Eastern Warrior Red Book,東洋の戦士レッドブック
 PROPITEM_TXT_826318,Eastern Warrior Red Weapon Set,東洋の戦士レッドウェポンセット
 PROPITEM_TXT_826319,Select which Eastern Warrior Red Weapon you want to receive!,受け取りたい東洋の戦士レッド武器を選択してください!
-PROPITEM_TXT_144016,This package contains gathering items that can be placed in your house for harvesting.,This package contains gathering items that can be placed in your house for harvesting.
+PROPITEM_TXT_144016,This package contains gathering items that can be placed in your house for harvesting.,ハウスに設置して採集できる採集アイテムが含まれたパッケージです。
 PROPITEM_TXT_144017,Scroll of Pet Inventory (Couple House),ペットインベントリの巻物(カップルハウス)
-PROPITEM_TXT_144018,Using this scroll will increase your maximum couple house pet inventory slots by 1!,Using this scroll will increase your maximum couple house pet inventory slots by 1!
+PROPITEM_TXT_144018,Using this scroll will increase your maximum couple house pet inventory slots by 1!,この巻物を使用すると、カップルハウスのペットインベントリの最大スロット数が1つ増加します！
 PROPITEM_TXT_826320,Dark Dragon Set,ダークドラゴンセット
 PROPITEM_TXT_826321,Hero Cloak,ヒーローのマント
 PROPITEM_TXT_826322,Dark Dragon Hat (M),ダークドラゴンハット(M)
@@ -19791,16 +19791,16 @@ PROPITEM_TXT_201068,Archangel Black Force Gem,アークエンジェルブラッ�
 PROPITEM_TXT_201069,Archangel Black Book,アークエンジェルブラック・ブック
 PROPITEM_TXT_201070,Archangel Black Weapon Set,アークエンジェルブラックウェポンセット
 PROPITEM_TXT_201071,Select which Archangel Black Weapon you want to receive!,受け取りたいアークエンジェルブラック武器を選択してください!
-PROPITEM_TXT_144044,[Event] 2024 Santa's Present,[Event] 2024 Santa's Present
-PROPITEM_TXT_144045,It is a box filled with gifts from Santa. You'll get 1 randomly.,It is a box filled with gifts from Santa. You'll get 1 randomly.
-PROPITEM_TXT_144046,[Event] Christmas Invasion Box 1,[Event] Christmas Invasion Box 1
-PROPITEM_TXT_144047,First reward for the Christmas Invasion!\nYou can earn 5 2024 Santa's Present and 5 Christmas Cookie.,First reward for the Christmas Invasion!\nYou can earn 5 2024 Santa's Present and 5 Christmas Cookie.
-PROPITEM_TXT_144054,Silverwork (A) Select Box,Silverwork (A) Select Box
-PROPITEM_TXT_144055,A box containing a silverwork buff item. You can choose 1 item to receive.,A box containing a silverwork buff item. You can choose 1 item to receive.
-PROPITEM_TXT_144056,Power Vital drink or Refresher(A),Power Vital drink or Refresher(A)
-PROPITEM_TXT_144057,You can choose between a Power Vital Drink and a Power Refresher,You can choose between a Power Vital Drink and a Power Refresher
-PROPITEM_TXT_144058,Potion (A) Select Box,Potion (A) Select Box
-PROPITEM_TXT_144059,A box containing various buff items. You can choose 1 item to receive.,A box containing various buff items. You can choose 1 item to receive.
+PROPITEM_TXT_144044,[Event] 2024 Santa's Present,[イベント]2024サンタさんのプレゼント
+PROPITEM_TXT_144045,It is a box filled with gifts from Santa. You'll get 1 randomly.,サンタさんからのプレゼントが詰まったボックスです。ランダムで1つ獲得できます。
+PROPITEM_TXT_144046,[Event] Christmas Invasion Box 1,[イベント]クリスマス・インベイジョンボックス1
+PROPITEM_TXT_144047,First reward for the Christmas Invasion!\nYou can earn 5 2024 Santa's Present and 5 Christmas Cookie.,クリスマス・インベイジョンの1回目の報酬！\n2024サンタさんのプレゼントx5、クリスマスクッキーx5を獲得できます。
+PROPITEM_TXT_144054,Silverwork (A) Select Box,銀細工 (A) 選択ボックス
+PROPITEM_TXT_144055,A box containing a silverwork buff item. You can choose 1 item to receive.,銀細工のバフアイテムが入ったボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_144056,Power Vital drink or Refresher(A),強化スタミナドリンク または 強化魔力ドリンク(A)
+PROPITEM_TXT_144057,You can choose between a Power Vital Drink and a Power Refresher,強化スタミナドリンクと強化魔力ドリンクのどちらかを選択できます。
+PROPITEM_TXT_144058,Potion (A) Select Box,ポーション (A) 選択ボックス
+PROPITEM_TXT_144059,A box containing various buff items. You can choose 1 item to receive.,様々なバフアイテムが入ったボックスです。1つ選んで受け取れます。
 PROPITEM_TXT_201080,Shop Advertisement (Red),ショップ広告(レッド)
 PROPITEM_TXT_201073,This scroll makes your Private or Vendor Shop appear at the top of the Search Shop results with a red adorner. It is consumed when opening the shop and disappears when closing it.,この巻物を使用すると、個人商店またはベンダーショップがショップ検索結果の上部にレッドの飾りつきで表示されます。ショップを開くと消費され、閉じると効果が消えます。
 PROPITEM_TXT_201074,Shop Advertisement (Blue),ショップ広告(ブルー)
@@ -19845,31 +19845,31 @@ PROPITEM_TXT_201113,Kalgas' Fury Wing (30 days),カルガスフューリーウ�
 PROPITEM_TXT_201114,Kalgas' Fury Wing box (Lasts 30 Days),カルガスフューリーウィングボックス(30日)
 PROPITEM_TXT_201115,Kuma Pet Package,くるりんベアーペットパッケージ
 PROPITEM_TXT_201116,A package containing 1x Kuma and 1x Scroll of PickUp Boost (15 Days). All items are also linked.,くるりんベアーx1、ピックアップブーストスクロール(15日)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_144138,2025 New Year Lottery Coin,2025 New Year Lottery Coin
-PROPITEM_TXT_144139,2025 Rice Cake Soup Select Box,2025 Rice Cake Soup Select Box
-PROPITEM_TXT_144140,A Lucky Box filled with variety buff items. You can choose 1 item from it,A Lucky Box filled with variety buff items. You can choose 1 item from it
-PROPITEM_TXT_144141,Goldwork (B) Select Box,Goldwork (B) Select Box
-PROPITEM_TXT_144142,A Lucky Box filled with variety Goldwork(B) items. You can choose 1 item from it,A Lucky Box filled with variety Goldwork(B) items. You can choose 1 item from it
-PROPITEM_TXT_144143,2025 Gold Fortune Pouch,2025 Gold Fortune Pouch
-PROPITEM_TXT_144144,A Gold Fortune Pouch to wish you a happy new year in 2025.,A Gold Fortune Pouch to wish you a happy new year in 2025.
-PROPITEM_TXT_144145,2025 Silver Fortune Pouch,2025 Silver Fortune Pouch
-PROPITEM_TXT_144146,A Silver Fortune Pouch to wish you a happy new year in 2025.,A Silver Fortune Pouch to wish you a happy new year in 2025.
-PROPITEM_TXT_144147,2025 Bronze Fortune Pouch,2025 Bronze Fortune Pouch
-PROPITEM_TXT_144148,A Bronze Fortune Pouch to wish you a happy new year in 2025.,A Bronze Fortune Pouch to wish you a happy new year in 2025.
-PROPITEM_TXT_144149,2025 New Year Fortune Pouch,2025 New Year Fortune Pouch
-PROPITEM_TXT_144150,A Fortune Pouch to wish you a happy new year in 2025.,A Fortune Pouch to wish you a happy new year in 2025.
-PROPITEM_TXT_144151,[Event] Christmas Invasion Box 2,[Event] Christmas Invasion Box 2
+PROPITEM_TXT_144138,2025 New Year Lottery Coin,2025 新年抽選コイン
+PROPITEM_TXT_144139,2025 Rice Cake Soup Select Box,2025 お雑煮選択ボックス
+PROPITEM_TXT_144140,A Lucky Box filled with variety buff items. You can choose 1 item from it,様々なバフアイテムが入ったラッキーボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_144141,Goldwork (B) Select Box,金細工 (B) 選択ボックス
+PROPITEM_TXT_144142,A Lucky Box filled with variety Goldwork(B) items. You can choose 1 item from it,様々な金細工 (B) が入ったラッキーボックスです。1つ選んで受け取れます。
+PROPITEM_TXT_144143,2025 Gold Fortune Pouch,2025 ゴールド福袋
+PROPITEM_TXT_144144,A Gold Fortune Pouch to wish you a happy new year in 2025.,2025年の新年を祝うゴールド福袋。
+PROPITEM_TXT_144145,2025 Silver Fortune Pouch,2025 シルバー福袋
+PROPITEM_TXT_144146,A Silver Fortune Pouch to wish you a happy new year in 2025.,2025年の新年を祝うシルバー福袋。
+PROPITEM_TXT_144147,2025 Bronze Fortune Pouch,2025 ブロンズ福袋
+PROPITEM_TXT_144148,A Bronze Fortune Pouch to wish you a happy new year in 2025.,2025年の新年を祝うブロンズ福袋。
+PROPITEM_TXT_144149,2025 New Year Fortune Pouch,2025 新年福袋
+PROPITEM_TXT_144150,A Fortune Pouch to wish you a happy new year in 2025.,2025年の新年を祝う福袋。
+PROPITEM_TXT_144151,[Event] Christmas Invasion Box 2,[イベント]クリスマス・インベイジョンボックス2
 PROPITEM_TXT_144152,Final reward for the Christmas Invasion!\nYou can earn 1 2024 Christmas Set,クリスマス・インベイジョンの最終報酬！\n2024クリスマスセットx1を獲得できます
-PROPITEM_TXT_144153,Blue Cobra,Blue Cobra
-PROPITEM_TXT_144154,A Cobra that follows its master around and picks up dropped items,A Cobra that follows its master around and picks up dropped items
-PROPITEM_TXT_144155,2025 Red Rice Cake Soup,2025 Red Rice Cake Soup
-PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,This soup made of rice cake will grant you +25 STR for 30 minutes.
-PROPITEM_TXT_144157,2025 Green Rice Cake Soup,2025 Green Rice Cake Soup
-PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,This soup made of rice cake will grant you +25 DEX for 30 minutes.
-PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,2025 Blue Rice Cake Soup
-PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,This soup made of rice cake will grant you +25 INT for 30 minutes.
-PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,2025 Yellow Rice Cake Soup
-PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,This soup made of rice cake will grant you +25 STA for 30 minutes.
+PROPITEM_TXT_144153,Blue Cobra,ブルーコブラ
+PROPITEM_TXT_144154,A Cobra that follows its master around and picks up dropped items,ブルーコブラを召喚させ、ドロップしたアイテムを拾ってくれる収集ペット
+PROPITEM_TXT_144155,2025 Red Rice Cake Soup,2025 赤いお雑煮
+PROPITEM_TXT_144156,This soup made of rice cake will grant you +25 STR for 30 minutes.,このお雑煮は、30分間力+25を付与します。
+PROPITEM_TXT_144157,2025 Green Rice Cake Soup,2025 緑のお雑煮
+PROPITEM_TXT_144158,This soup made of rice cake will grant you +25 DEX for 30 minutes.,このお雑煮は、30分間敏捷+25を付与します。
+PROPITEM_TXT_144159,2025 Blue Rice Cake Soup,2025 青いお雑煮
+PROPITEM_TXT_144160,This soup made of rice cake will grant you +25 INT for 30 minutes.,このお雑煮は、30分間知能+25を付与します。
+PROPITEM_TXT_144161,2025 Yellow Rice Cake Soup,2025 黄色いお雑煮
+PROPITEM_TXT_144162,This soup made of rice cake will grant you +25 STA for 30 minutes.,このお雑煮は、30分間体力+25を付与します。
 PROPITEM_TXT_826335,Xmas 2024 White Edition 10% Red Set,Xmas 2024 ホワイトエディション 10%レッドセット
 PROPITEM_TXT_826336,Xmas 2024 White Edition Red Wings,Xmas 2024 ホワイトエディションレッドウィング
 PROPITEM_TXT_826337,Xmas 2024 White Edition Red Sunglasses,Xmas 2024 ホワイトエディションレッドサングラス
@@ -20191,7 +20191,7 @@ PROPITEM_TXT_826630,Dark Christmas Adventurer Red Sunglasses,ダーククリス�
 PROPITEM_TXT_826631,Dark Christmas Adventurer Beard & Red Sunglasses,ダーククリスマスアドベンチャーヒゲ＆レッドサングラス
 PROPITEM_TXT_826632,Dark Christmas Adventurer Beard & Red Sunglasses,ダーククリスマスアドベンチャーヒゲ＆レッドサングラス
 PROPITEM_TXT_144163,Extended 2025 New Year Pass,拡張2025年正月パス
-PROPITEM_TXT_144164,This purchase will give you access to many advantages until the end of the 2025 New Year Pass season,This purchase will give you access to many advantages until the end of the 2025 New Year Pass season
+PROPITEM_TXT_144164,This purchase will give you access to many advantages until the end of the 2025 New Year Pass season,この購入により、2025正月パスシーズン終了まで様々な特典が利用可能になります
 PROPITEM_TXT_826633,Christmas Pouch,クリスマスポーチ
 PROPITEM_TXT_826634,A package containing 5x Christmas Cookie and 5x Scroll of Amplification ES. All items are also linked.,クリスマスクッキーx5、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_826635,Christmas Costume Package,クリスマスコスチュームパッケージ
@@ -21008,74 +21008,74 @@ PROPITEM_TXT_827586,Playtime Coupon Box,プレイタイムクーポンボック�
 PROPITEM_TXT_827587,A package containing 1x Bonus Playtime Coupon and 5x Scroll of Amplification ES. All items are also linked.,追加参加クーポンx1、戦神の巻物ESx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_827588,Magical Potion Box,マジカルポーションボックス
 PROPITEM_TXT_827589,"A package containing 5x Upcut Stone, 5x Potion Box, 5x Flask Box and 1x Power Scroll. All items are also linked.",パワーストーンx5、ポーションボックスx5、秘薬ボックスx5、豪傑のスクロール(B)x1が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_829999,Lifestyle Mastery Bag,Lifestyle Mastery Bag
-PROPITEM_TXT_830000,Bag gifted by Livi. You can put up to 32 items obtained via lifestyle skills.,Bag gifted by Livi. You can put up to 32 items obtained via lifestyle skills.
-PROPITEM_TXT_830001,Premium Lifestyle Bag,Premium Lifestyle Bag
-PROPITEM_TXT_830002,A bag where you can put up to 32 items obtained via lifestyle skills.,A bag where you can put up to 32 items obtained via lifestyle skills.
-PROPITEM_TXT_830003,Herb Gathering Bag (4 Slots),Herb Gathering Bag (4 Slots)
-PROPITEM_TXT_830004,A bag where you can put up to 4 items obtained via Herb Gathering.,A bag where you can put up to 4 items obtained via Herb Gathering.
-PROPITEM_TXT_830005,Herb Gathering Bag (8 Slots),Herb Gathering Bag (8 Slots)
-PROPITEM_TXT_830006,A bag where you can put up to 8 items obtained via Herb Gathering.,A bag where you can put up to 8 items obtained via Herb Gathering.
-PROPITEM_TXT_830007,Herb Gathering Bag (12 Slots),Herb Gathering Bag (12 Slots)
-PROPITEM_TXT_830008,A bag where you can put up to 12 items obtained via Herb Gathering.,A bag where you can put up to 12 items obtained via Herb Gathering.
-PROPITEM_TXT_830009,Herb Gathering Bag (16 Slots),Herb Gathering Bag (16 Slots)
-PROPITEM_TXT_830010,A bag where you can put up to 16 items obtained via Herb Gathering.,A bag where you can put up to 16 items obtained via Herb Gathering.
-PROPITEM_TXT_830011,Wood Cutting Bag (4 Slots),Wood Cutting Bag (4 Slots)
-PROPITEM_TXT_830012,A bag where you can put up to 4 items obtained via Wood Cutting.,A bag where you can put up to 4 items obtained via Wood Cutting.
-PROPITEM_TXT_830013,Wood Cutting Bag (8 Slots),Wood Cutting Bag (8 Slots)
-PROPITEM_TXT_830014,A bag where you can put up to 8 items obtained via Wood Cutting.,A bag where you can put up to 8 items obtained via Wood Cutting.
-PROPITEM_TXT_830015,Wood Cutting Bag (12 Slots),Wood Cutting Bag (12 Slots)
-PROPITEM_TXT_830016,A bag where you can put up to 12 items obtained via Wood Cutting.,A bag where you can put up to 12 items obtained via Wood Cutting.
-PROPITEM_TXT_830017,Wood Cutting Bag (16 Slots),Wood Cutting Bag (16 Slots)
-PROPITEM_TXT_830018,A bag where you can put up to 16 items obtained via Wood Cutting.,A bag where you can put up to 16 items obtained via Wood Cutting.
-PROPITEM_TXT_830019,Mining Bag (4 Slots),Mining Bag (4 Slots)
-PROPITEM_TXT_830020,A bag where you can put up to 4 items obtained via Mining.,A bag where you can put up to 4 items obtained via Mining.
-PROPITEM_TXT_830021,Mining Bag (8 Slots),Mining Bag (8 Slots)
-PROPITEM_TXT_830022,A bag where you can put up to 8 items obtained via Mining.,A bag where you can put up to 8 items obtained via Mining.
-PROPITEM_TXT_830023,Mining Bag (12 Slots),Mining Bag (12 Slots)
-PROPITEM_TXT_830024,A bag where you can put up to 12 items obtained via Mining.,A bag where you can put up to 12 items obtained via Mining.
-PROPITEM_TXT_830025,Mining Bag (16 Slots),Mining Bag (16 Slots)
-PROPITEM_TXT_830026,A bag where you can put up to 16 items obtained via Mining.,A bag where you can put up to 16 items obtained via Mining.
-PROPITEM_TXT_830027,Fishing Bag (4 Slots),Fishing Bag (4 Slots)
-PROPITEM_TXT_830028,A bag where you can put up to 4 items obtained via Fishing.,A bag where you can put up to 4 items obtained via Fishing.
-PROPITEM_TXT_830029,Fishing Bag (8 Slots),Fishing Bag (8 Slots)
-PROPITEM_TXT_830030,A bag where you can put up to 8 items obtained via Fishing.,A bag where you can put up to 8 items obtained via Fishing.
-PROPITEM_TXT_830031,Fishing Bag (12 Slots),Fishing Bag (12 Slots)
-PROPITEM_TXT_830032,A bag where you can put up to 12 items obtained via Fishing.,A bag where you can put up to 12 items obtained via Fishing.
-PROPITEM_TXT_830033,Fishing Bag (16 Slots),Fishing Bag (16 Slots)
-PROPITEM_TXT_830034,A bag where you can put up to 16 items obtained via Fishing.,A bag where you can put up to 16 items obtained via Fishing.
-PROPITEM_TXT_830035,Alchemy Bag (4 Slots),Alchemy Bag (4 Slots)
-PROPITEM_TXT_830036,A bag where you can put up to 16 items obtained via Alchemy.,A bag where you can put up to 16 items obtained via Alchemy.
-PROPITEM_TXT_830037,Alchemy Bag (8 Slots),Alchemy Bag (8 Slots)
-PROPITEM_TXT_830038,A bag where you can put up to 8 items obtained via Alchemy.,A bag where you can put up to 8 items obtained via Alchemy.
-PROPITEM_TXT_830039,Alchemy Bag (12 Slots),Alchemy Bag (12 Slots)
-PROPITEM_TXT_830040,A bag where you can put up to 16 items obtained via Alchemy.,A bag where you can put up to 16 items obtained via Alchemy.
-PROPITEM_TXT_830041,Alchemy Bag (16 Slots),Alchemy Bag (16 Slots)
-PROPITEM_TXT_830042,A bag where you can put up to 16 items obtained via Alchemy.,A bag where you can put up to 16 items obtained via Alchemy.
-PROPITEM_TXT_830043,Cooking Bag (4 Slots),Cooking Bag (4 Slots)
-PROPITEM_TXT_830044,A bag where you can put up to 4 items obtained via Cooking.,A bag where you can put up to 4 items obtained via Cooking.
-PROPITEM_TXT_830045,Cooking Bag (8 Slots),Cooking Bag (8 Slots)
-PROPITEM_TXT_830046,A bag where you can put up to 8 items obtained via Cooking.,A bag where you can put up to 8 items obtained via Cooking.
-PROPITEM_TXT_830047,Cooking Bag (12 Slots),Cooking Bag (12 Slots)
-PROPITEM_TXT_830048,A bag where you can put up to 12 items obtained via Cooking.,A bag where you can put up to 12 items obtained via Cooking.
-PROPITEM_TXT_830049,Cooking Bag (16 Slots),Cooking Bag (16 Slots)
-PROPITEM_TXT_830050,A bag where you can put up to 16 items obtained via Cooking.,A bag where you can put up to 16 items obtained via Cooking.
-PROPITEM_TXT_830067,Carpentry Bag (4 Slots),Carpentry Bag (4 Slots)
-PROPITEM_TXT_830068,A bag where you can put up to 4 items obtained via Carpentry.,A bag where you can put up to 4 items obtained via Carpentry.
-PROPITEM_TXT_830069,Carpentry Bag (8 Slots),Carpentry Bag (8 Slots)
-PROPITEM_TXT_830070,A bag where you can put up to 8 items obtained via Carpentry.,A bag where you can put up to 8 items obtained via Carpentry.
-PROPITEM_TXT_830071,Carpentry Bag (12 Slots),Carpentry Bag (12 Slots)
-PROPITEM_TXT_830072,A bag where you can put up to 12 items obtained via Carpentry.,A bag where you can put up to 12 items obtained via Carpentry.
-PROPITEM_TXT_830073,Carpentry Bag (16 Slots),Carpentry Bag (16 Slots)
-PROPITEM_TXT_830074,A bag where you can put up to 16 items obtained via Carpentry.,A bag where you can put up to 16 items obtained via Carpentry.
-PROPITEM_TXT_830075,Smithing Bag (4 Slots),Smithing Bag (4 Slots)
-PROPITEM_TXT_830076,A bag where you can put up to 4 items obtained via Smithing.,A bag where you can put up to 4 items obtained via Smithing.
-PROPITEM_TXT_830077,Smithing Bag (8 Slots),Smithing Bag (8 Slots)
-PROPITEM_TXT_830078,A bag where you can put up to 8 items obtained via Smithing.,A bag where you can put up to 8 items obtained via Smithing.
-PROPITEM_TXT_830079,Smithing Bag (12 Slots),Smithing Bag (12 Slots)
-PROPITEM_TXT_830080,A bag where you can put up to 12 items obtained via Smithing.,A bag where you can put up to 12 items obtained via Smithing.
-PROPITEM_TXT_830081,Smithing Bag (16 Slots),Smithing Bag (16 Slots)
-PROPITEM_TXT_830082,A bag where you can put up to 16 items obtained via Smithing.,A bag where you can put up to 16 items obtained via Smithing.
+PROPITEM_TXT_829999,Lifestyle Mastery Bag,ライフスタイルマスタリーバッグ
+PROPITEM_TXT_830000,Bag gifted by Livi. You can put up to 32 items obtained via lifestyle skills.,リヴィからもらったバッグ。ライフスタイルスキルで入手したアイテムを最大32個まで収納できます。
+PROPITEM_TXT_830001,Premium Lifestyle Bag,プレミアムライフスタイルバッグ
+PROPITEM_TXT_830002,A bag where you can put up to 32 items obtained via lifestyle skills.,ライフスタイルスキルで入手したアイテムを最大32個まで収納できるバッグ。
+PROPITEM_TXT_830003,Herb Gathering Bag (4 Slots),薬草採集バッグ(4スロット)
+PROPITEM_TXT_830004,A bag where you can put up to 4 items obtained via Herb Gathering.,薬草採集で入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830005,Herb Gathering Bag (8 Slots),薬草採集バッグ(8スロット)
+PROPITEM_TXT_830006,A bag where you can put up to 8 items obtained via Herb Gathering.,薬草採集で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830007,Herb Gathering Bag (12 Slots),薬草採集バッグ(12スロット)
+PROPITEM_TXT_830008,A bag where you can put up to 12 items obtained via Herb Gathering.,薬草採集で入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830009,Herb Gathering Bag (16 Slots),薬草採集バッグ(16スロット)
+PROPITEM_TXT_830010,A bag where you can put up to 16 items obtained via Herb Gathering.,薬草採集で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830011,Wood Cutting Bag (4 Slots),伐採バッグ(4スロット)
+PROPITEM_TXT_830012,A bag where you can put up to 4 items obtained via Wood Cutting.,伐採で入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830013,Wood Cutting Bag (8 Slots),伐採バッグ(8スロット)
+PROPITEM_TXT_830014,A bag where you can put up to 8 items obtained via Wood Cutting.,伐採で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830015,Wood Cutting Bag (12 Slots),伐採バッグ(12スロット)
+PROPITEM_TXT_830016,A bag where you can put up to 12 items obtained via Wood Cutting.,伐採で入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830017,Wood Cutting Bag (16 Slots),伐採バッグ(16スロット)
+PROPITEM_TXT_830018,A bag where you can put up to 16 items obtained via Wood Cutting.,伐採で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830019,Mining Bag (4 Slots),採掘バッグ(4スロット)
+PROPITEM_TXT_830020,A bag where you can put up to 4 items obtained via Mining.,採掘で入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830021,Mining Bag (8 Slots),採掘バッグ(8スロット)
+PROPITEM_TXT_830022,A bag where you can put up to 8 items obtained via Mining.,採掘で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830023,Mining Bag (12 Slots),採掘バッグ(12スロット)
+PROPITEM_TXT_830024,A bag where you can put up to 12 items obtained via Mining.,採掘で入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830025,Mining Bag (16 Slots),採掘バッグ(16スロット)
+PROPITEM_TXT_830026,A bag where you can put up to 16 items obtained via Mining.,採掘で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830027,Fishing Bag (4 Slots),釣りバッグ(4スロット)
+PROPITEM_TXT_830028,A bag where you can put up to 4 items obtained via Fishing.,釣りで入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830029,Fishing Bag (8 Slots),釣りバッグ(8スロット)
+PROPITEM_TXT_830030,A bag where you can put up to 8 items obtained via Fishing.,釣りで入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830031,Fishing Bag (12 Slots),釣りバッグ(12スロット)
+PROPITEM_TXT_830032,A bag where you can put up to 12 items obtained via Fishing.,釣りで入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830033,Fishing Bag (16 Slots),釣りバッグ(16スロット)
+PROPITEM_TXT_830034,A bag where you can put up to 16 items obtained via Fishing.,釣りで入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830035,Alchemy Bag (4 Slots),錬金術バッグ(4スロット)
+PROPITEM_TXT_830036,A bag where you can put up to 16 items obtained via Alchemy.,錬金術で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830037,Alchemy Bag (8 Slots),錬金術バッグ(8スロット)
+PROPITEM_TXT_830038,A bag where you can put up to 8 items obtained via Alchemy.,錬金術で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830039,Alchemy Bag (12 Slots),錬金術バッグ(12スロット)
+PROPITEM_TXT_830040,A bag where you can put up to 16 items obtained via Alchemy.,錬金術で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830041,Alchemy Bag (16 Slots),錬金術バッグ(16スロット)
+PROPITEM_TXT_830042,A bag where you can put up to 16 items obtained via Alchemy.,錬金術で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830043,Cooking Bag (4 Slots),料理バッグ(4スロット)
+PROPITEM_TXT_830044,A bag where you can put up to 4 items obtained via Cooking.,料理で入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830045,Cooking Bag (8 Slots),料理バッグ(8スロット)
+PROPITEM_TXT_830046,A bag where you can put up to 8 items obtained via Cooking.,料理で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830047,Cooking Bag (12 Slots),料理バッグ(12スロット)
+PROPITEM_TXT_830048,A bag where you can put up to 12 items obtained via Cooking.,料理で入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830049,Cooking Bag (16 Slots),料理バッグ(16スロット)
+PROPITEM_TXT_830050,A bag where you can put up to 16 items obtained via Cooking.,料理で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830067,Carpentry Bag (4 Slots),木工バッグ(4スロット)
+PROPITEM_TXT_830068,A bag where you can put up to 4 items obtained via Carpentry.,木工で入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830069,Carpentry Bag (8 Slots),木工バッグ(8スロット)
+PROPITEM_TXT_830070,A bag where you can put up to 8 items obtained via Carpentry.,木工で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830071,Carpentry Bag (12 Slots),木工バッグ(12スロット)
+PROPITEM_TXT_830072,A bag where you can put up to 12 items obtained via Carpentry.,木工で入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830073,Carpentry Bag (16 Slots),木工バッグ(16スロット)
+PROPITEM_TXT_830074,A bag where you can put up to 16 items obtained via Carpentry.,木工で入手したアイテムを最大16個まで収納できるバッグ。
+PROPITEM_TXT_830075,Smithing Bag (4 Slots),鍛冶バッグ(4スロット)
+PROPITEM_TXT_830076,A bag where you can put up to 4 items obtained via Smithing.,鍛冶で入手したアイテムを最大4個まで収納できるバッグ。
+PROPITEM_TXT_830077,Smithing Bag (8 Slots),鍛冶バッグ(8スロット)
+PROPITEM_TXT_830078,A bag where you can put up to 8 items obtained via Smithing.,鍛冶で入手したアイテムを最大8個まで収納できるバッグ。
+PROPITEM_TXT_830079,Smithing Bag (12 Slots),鍛冶バッグ(12スロット)
+PROPITEM_TXT_830080,A bag where you can put up to 12 items obtained via Smithing.,鍛冶で入手したアイテムを最大12個まで収納できるバッグ。
+PROPITEM_TXT_830081,Smithing Bag (16 Slots),鍛冶バッグ(16スロット)
+PROPITEM_TXT_830082,A bag where you can put up to 16 items obtained via Smithing.,鍛冶で入手したアイテムを最大16個まで収納できるバッグ。
 PROPITEM_TXT_201153,Spring Picnic Green Bag,春のピクニックグリーンバッグ
 PROPITEM_TXT_201154,Spring Picnic Green Hat (M),春のピクニックグリーンハット(M)
 PROPITEM_TXT_201155,Spring Picnic Green Suit (M),春のピクニックグリーンスーツ(M)
@@ -24142,25 +24142,25 @@ PROPITEM_TXT_155112,Defense Statted Ankou's Mask,防御力スタットベヒモ�
 PROPITEM_TXT_155113,Healing Statted Ankou's Mask,回復力スタットベヒモスの仮面
 PROPITEM_TXT_155114,Statted Ankou's Mask Select Box,スタットベヒモスの仮面選択ボックス
 PROPITEM_TXT_155115,Select which statted mask you want!,欲しいスタットマスクを選択してください！
-PROPITEM_TXT_750000,Lower Scroll of Jewel Conversion,Lower Scroll of Jewel Conversion
-PROPITEM_TXT_750001,Jewels of tier 1~5 will be randomly changed with jewels of the same tier.,Jewels of tier 1~5 will be randomly changed with jewels of the same tier.
-PROPITEM_TXT_750002,Scroll of Jewel Conversion,Scroll of Jewel Conversion
-PROPITEM_TXT_750003,Jewels of tier 6~10 will be randomly changed with jewels of the same tier.,Jewels of tier 6~10 will be randomly changed with jewels of the same tier.
-PROPITEM_TXT_750004,Random Ultimate Jewel,Random Ultimate Jewel
-PROPITEM_TXT_750005,Scroll of increased Topaz synthesis chance,Scroll of increased Topaz synthesis chance
-PROPITEM_TXT_750006,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Topaz.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Topaz."
-PROPITEM_TXT_750007,Scroll of increased Ruby synthesis chance,Scroll of increased Ruby synthesis chance
-PROPITEM_TXT_750008,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Ruby.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Ruby."
-PROPITEM_TXT_750009,Scroll of increased Sapphire synthesis chance,Scroll of increased Sapphire synthesis chance
-PROPITEM_TXT_750010,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Sapphire.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Sapphire."
-PROPITEM_TXT_750011,Scroll of increased Emerald synthesis chance,Scroll of increased Emerald synthesis chance
-PROPITEM_TXT_750012,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Emerald.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Emerald."
-PROPITEM_TXT_750013,Scroll of increased Diamond synthesis chance,Scroll of increased Diamond synthesis chance
-PROPITEM_TXT_750014,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Diamond.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Diamond."
-PROPITEM_TXT_750015,Scroll of increased Amethyst synthesis chance,Scroll of increased Amethyst synthesis chance
-PROPITEM_TXT_750016,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Amethyst.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Amethyst."
-PROPITEM_TXT_750017,Scroll of increased Onyx synthesis chance,Scroll of increased Onyx synthesis chance
-PROPITEM_TXT_750018,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Onyx.","When synthesizing jewels, it gives you a 2x chance of synthesizing a Onyx."
+PROPITEM_TXT_750000,Lower Scroll of Jewel Conversion,下級ジュエル変換の巻物
+PROPITEM_TXT_750001,Jewels of tier 1~5 will be randomly changed with jewels of the same tier.,1~5段階のジュエルが、同じ段階の中でランダムな別のジュエルに変化します。
+PROPITEM_TXT_750002,Scroll of Jewel Conversion,ジュエル変換の巻物
+PROPITEM_TXT_750003,Jewels of tier 6~10 will be randomly changed with jewels of the same tier.,6~10段階のジュエルが、同じ段階の中でランダムな別のジュエルに変化します。
+PROPITEM_TXT_750004,Random Ultimate Jewel,ランダムアルティメットジュエル
+PROPITEM_TXT_750005,Scroll of increased Topaz synthesis chance,トパーズ合成確率上昇の巻物
+PROPITEM_TXT_750006,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Topaz.",ジュエルの合成時に、トパーズの合成確率を2倍にします。
+PROPITEM_TXT_750007,Scroll of increased Ruby synthesis chance,ルビー合成確率上昇の巻物
+PROPITEM_TXT_750008,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Ruby.",ジュエルの合成時に、ルビーの合成確率を2倍にします。
+PROPITEM_TXT_750009,Scroll of increased Sapphire synthesis chance,サファイア合成確率上昇の巻物
+PROPITEM_TXT_750010,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Sapphire.",ジュエルの合成時に、サファイアの合成確率を2倍にします。
+PROPITEM_TXT_750011,Scroll of increased Emerald synthesis chance,エメラルド合成確率上昇の巻物
+PROPITEM_TXT_750012,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Emerald.",ジュエルの合成時に、エメラルドの合成確率を2倍にします。
+PROPITEM_TXT_750013,Scroll of increased Diamond synthesis chance,ダイヤモンド合成確率上昇の巻物
+PROPITEM_TXT_750014,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Diamond.",ジュエルの合成時に、ダイヤモンドの合成確率を2倍にします。
+PROPITEM_TXT_750015,Scroll of increased Amethyst synthesis chance,アメジスト合成確率上昇の巻物
+PROPITEM_TXT_750016,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Amethyst.",ジュエルの合成時に、アメジストの合成確率を2倍にします。
+PROPITEM_TXT_750017,Scroll of increased Onyx synthesis chance,オニキス合成確率上昇の巻物
+PROPITEM_TXT_750018,"When synthesizing jewels, it gives you a 2x chance of synthesizing a Onyx.",ジュエルの合成時に、オニキスの合成確率を2倍にします。
 PROPITEM_TXT_155116,Brathiel Helmet,ブラシエル・ヘルメット
 PROPITEM_TXT_155117,Brathiel Suit,ブラシエル・スーツ
 PROPITEM_TXT_155118,Brathiel Gauntlets,ブラシエル・ガントレット
@@ -24607,7 +24607,7 @@ PROPITEM_TXT_155558,Battle-Worn Dementia,歴戦のディメンシア
 PROPITEM_TXT_155559,Cursed Dementia,呪われたディメンシア
 PROPITEM_TXT_155560,Dementia,ディメンシア
 PROPITEM_TXT_155561,Scroll of Ultimate Bonus II,アルティメットボーナスの巻物II
-PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,アルティメット武器に付与されたランダムなステータスと特殊オプションの値をリセットします。
+PROPITEM_TXT_155562,Resets the random stats and values of special options applied to the Ultimate Weapon.,アルティマ武器に付与されたランダムなステータスと特殊オプションの値をリセットします。
 PROPITEM_TXT_155563,FWC 2025 Bloody Death Messenger’s Set (Winners),FWC2025ブラッディー・デスメッセンジャーセット（優勝者）
 PROPITEM_TXT_155564,FWC 2025 Bloody Death Messenger’s Scroll,FWC2025ブラッディー・デスメッセンジャーの巻物
 PROPITEM_TXT_155565,FWC 2025 Bloody Death Messenger’s Hat (M),FWC2025ブラッディー・デスメッセンジャーハット(M)
@@ -26603,13 +26603,13 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,ローズピンク�
 PROPITEM_TXT_903694,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[イベント]2026スプリングギフトボックス
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),マドリガルフライングセレクションボックス（15日）
-PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWCゴールデン・カータナ
+PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWCゴールデン・カータナ・アルティマ
 PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate,2026 FWCゴールデン・セレスティアルエッジ
 PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate,2026 FWCゴールデン・ブッチャーズカーネイジ
 PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate,2026 FWCゴールデン・ハービンジャー
 PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate,2026 FWCゴールデン・マウ・オブ・ジャッジメント
 PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate,2026 FWCゴールデン・オラクル
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,2026 FWCゴールデン・セプター・オブ・ディスオーダー
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,2026 FWCゴールデン・セプター・オブ・ディスオーダー・アルティマ
 PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate,2026 FWCゴールデン・ロイカの杖
 PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate,2026 FWCゴールデン・ディメンシア
 PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate,2026 FWCゴールデン・ドラゴンズレイン
@@ -29146,28 +29146,28 @@ PROPITEM_TXT_161060,PvP Verashan Helmet,PvPヴェラシャン・ヘルメット
 PROPITEM_TXT_161061,PvP Verashan Suit,PvPヴェラシャン・スーツ
 PROPITEM_TXT_161062,PvP Verashan Gauntlets,PvPヴェラシャン・ガントレット
 PROPITEM_TXT_161063,PvP Verashan Boots,PvPヴェラシャン・ブーツ
-PROPITEM_TXT_161064,Leafloop,Leafloop
-PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.","A tiny vine coiled in a spiral, brimming with gentle nature magic."
-PROPITEM_TXT_161066,Silent Petal,Silent Petal
-PROPITEM_TXT_161067,"A delicate purple petal with a subtle, whispering magical aura.","A delicate purple petal with a subtle, whispering magical aura."
-PROPITEM_TXT_161068,Thorny Shroom,Thorny Shroom
-PROPITEM_TXT_161069,"A small red mushroom with sharp thorns, releasing tiny poisonous spores.","A small red mushroom with sharp thorns, releasing tiny poisonous spores."
-PROPITEM_TXT_161070,Petal Charm,Petal Charm
-PROPITEM_TXT_161071,A pink flower petal used since ancient times in charms and magical potions.,A pink flower petal used since ancient times in charms and magical potions.
-PROPITEM_TXT_161072,Mossy Shroom,Mossy Shroom
-PROPITEM_TXT_161073,"A small mushroom covered in moss, looking a bit moldy… yuck, but still magical.","A small mushroom covered in moss, looking a bit moldy… yuck, but still magical."
-PROPITEM_TXT_161074,Mystred,Mystred
-PROPITEM_TXT_161075,"A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers.","A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers."
-PROPITEM_TXT_161076,Mutated Vine Core,Mutated Vine Core
-PROPITEM_TXT_161077,"A pulsating core of twisted vines, radiating a faint and unstable corrupt energy.","A pulsating core of twisted vines, radiating a faint and unstable corrupt energy."
-PROPITEM_TXT_913710,Glow Footsteps,Glow Footsteps
-PROPITEM_TXT_913711,New footstep effect,New footstep effect
-PROPITEM_TXT_913712,Sparkle Footsteps,Sparkle Footsteps
-PROPITEM_TXT_913713,New footstep effect,New footstep effect
-PROPITEM_TXT_913714,Scroll of PProtect,Scroll of PProtect
-PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.","This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process."
-PROPITEM_TXT_913716,Yellow Chips 2,Yellow Chips 2
-PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,Madrigal Tournament reward (Used to buy items from Waforu).
+PROPITEM_TXT_161064,Leafloop,リーフループ
+PROPITEM_TXT_161065,"A tiny vine coiled in a spiral, brimming with gentle nature magic.",螺旋状に巻いた小さなつる。穏やかな自然の魔力に満ちている。
+PROPITEM_TXT_161066,Silent Petal,静寂の花びら
+PROPITEM_TXT_161067,"A delicate purple petal with a subtle, whispering magical aura.",デリケートな紫色の花びらで、かすかにささやくような魔力を帯びている。
+PROPITEM_TXT_161068,Thorny Shroom,棘のキノコ
+PROPITEM_TXT_161069,"A small red mushroom with sharp thorns, releasing tiny poisonous spores.",鋭い棘に覆われた小さな赤いキノコで、わずかに毒の胞子を放出する。
+PROPITEM_TXT_161070,Petal Charm,花びらのお守り
+PROPITEM_TXT_161071,A pink flower petal used since ancient times in charms and magical potions.,太古より魔除けや魔法薬に使われてきたピンク色の花びら。
+PROPITEM_TXT_161072,Mossy Shroom,苔むしたキノコ
+PROPITEM_TXT_161073,"A small mushroom covered in moss, looking a bit moldy… yuck, but still magical.",苔に覆われた小さなキノコ。少しカビ臭く見えるが…うぇっ、それでも魔力は健在だ。
+PROPITEM_TXT_161074,Mystred,ミストレッド
+PROPITEM_TXT_161075,"A crimson ruby taken from the forehead of a Nightmyst, said to enhance their magical powers.",ナイトミストの額から採れた深紅のルビーで、その魔力を高めると言われている。
+PROPITEM_TXT_161076,Mutated Vine Core,変異したつるの核
+PROPITEM_TXT_161077,"A pulsating core of twisted vines, radiating a faint and unstable corrupt energy.",ねじれたつるが脈打つ核で、かすかで不安定な堕落したエネルギーを放っている。
+PROPITEM_TXT_913710,Glow Footsteps,光る足跡
+PROPITEM_TXT_913711,New footstep effect,新しい足跡エフェクト
+PROPITEM_TXT_913712,Sparkle Footsteps,煌めく足跡
+PROPITEM_TXT_913713,New footstep effect,新しい足跡エフェクト
+PROPITEM_TXT_913714,Scroll of PProtect,鍛冶屋の心得・PVP編
+PROPITEM_TXT_913715,"This scroll prevents the loss of equipment in the event of upgrade or elemental attribute upgrade failure for PVP items. To use, place scroll in the appropriate box on the Upgrade Menu before attempting the upgrade. The scroll is consumed in the process.",通常精錬、属性精錬、スプレット精錬に失敗してもPVPアイテムの消失を1回だけ防止してくれる巻物。成功・失敗に関わらず消費します。(通称:PProtect)
+PROPITEM_TXT_913716,Yellow Chips 2,イエローチップ2
+PROPITEM_TXT_913717,Madrigal Tournament reward (Used to buy items from Waforu).,マドリガルトーナメントの報酬（ワフォルからアイテムを購入する際に使用）。
 PROPITEM_TXT_913718,PvP Runthiel Armor Set (M),PvPランティエルアーマーセット(M)
 PROPITEM_TXT_913719,Level 180 PvP Templar Set.,レベル180 PvPテンプラーセット。
 PROPITEM_TXT_913720,PvP Runthien Armor Set (F),PvPランティエンアーマーセット(F)
@@ -29200,62 +29200,62 @@ PROPITEM_TXT_913746,PvP Virashon Armor Set (M),PvPヴィラションアーマー
 PROPITEM_TXT_913747,Level 180 PvP Arcanist Set.,レベル180 PvPアルカニストセット。
 PROPITEM_TXT_913748,PvP Verashan Armor Set (F),PvPヴェラシャンアーマーセット(F)
 PROPITEM_TXT_913749,Level 180 PvP Arcanist Set.,レベル180 PvPアルカニストセット。
-PROPITEM_TXT_913750,1 Hour Kebaras 2 Ticket,1 Hour Kebaras 2 Ticket
-PROPITEM_TXT_913751,You have unlimited access to Kebaras 2 area for 1 hour after activating this Ticket. Kebaras contains monsters from level 140 to 200.,You have unlimited access to Kebaras 2 area for 1 hour after activating this Ticket. Kebaras contains monsters from level 140 to 200.
-PROPITEM_TXT_913752,1 Day Kebaras 2 Ticket,1 Day Kebaras 2 Ticket
-PROPITEM_TXT_913753,You have unlimited access to Kebaras 2 area for 1 day after activating this Ticket. Kebaras contains monsters from level 140 to 200.,You have unlimited access to Kebaras 2 area for 1 day after activating this Ticket. Kebaras contains monsters from level 140 to 200.
-PROPITEM_TXT_913754,Kalgas Chip 2,Kalgas Chip 2
-PROPITEM_TXT_913755,Exchange this Kalgas chip to Waforu for wonderful rewards!,Exchange this Kalgas chip to Waforu for wonderful rewards!
-PROPITEM_TXT_913756,Red Chips 2,Red Chips 2
-PROPITEM_TXT_913757,Guild Siege reward. Used to buy items from Waforu.,Guild Siege reward. Used to buy items from Waforu.
-PROPITEM_TXT_913758,Purple Spirit Shard,Purple Spirit Shard
-PROPITEM_TXT_913759,That's strange... It seems to be a fragment of Drifter's soul.,That's strange... It seems to be a fragment of Drifter's soul.
-PROPITEM_TXT_913760,Red Spirit Shard,Red Spirit Shard
-PROPITEM_TXT_913761,That's strange... It seems to be a fragment of Maiden's soul.,That's strange... It seems to be a fragment of Maiden's soul.
-PROPITEM_TXT_913762,Orange Spirit Shard,Orange Spirit Shard
-PROPITEM_TXT_913763,That's strange... It seems to be a fragment of Reaver's soul.,That's strange... It seems to be a fragment of Reaver's soul.
-PROPITEM_TXT_913764,Blue Spirit Shard,Blue Spirit Shard
-PROPITEM_TXT_913765,That's strange... It seems to be a fragment of Mystica's soul.,That's strange... It seems to be a fragment of Mystica's soul.
-PROPITEM_TXT_913766,Green Spirit Shard,Green Spirit Shard
-PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,That's strange... It seems to be a fragment of Anae's soul.
-PROPITEM_TXT_913768,Black Spirit Shard,Black Spirit Shard
-PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,That's strange... It seems to be a fragment of Rifter's soul.
-PROPITEM_TXT_913770,Phantasmal Shield,Phantasmal Shield
-PROPITEM_TXT_913771,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.
-PROPITEM_TXT_913772,Book of Thorns,Book of Thorns
-PROPITEM_TXT_913773,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.
-PROPITEM_TXT_913774,Soul of Entaness,Soul of Entaness
-PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.
-PROPITEM_TXT_913776,Sword of Whisper,Sword of Whisper
-PROPITEM_TXT_913777,Sword of Mist,Sword of Mist
-PROPITEM_TXT_913778,Phantasmal Slayer,Phantasmal Slayer
-PROPITEM_TXT_913779,Specter's Axe ,Specter's Axe 
-PROPITEM_TXT_913780,Clever of the mist,Clever of the mist
-PROPITEM_TXT_913781,Knuckle of Madness,Knuckle of Madness
-PROPITEM_TXT_913782,Mirage,Mirage
-PROPITEM_TXT_913783,Wand of apparitions,Wand of apparitions
-PROPITEM_TXT_913784,Staff of Ethereal Dreams,Staff of Ethereal Dreams
-PROPITEM_TXT_913785,Bow of Echoes,Bow of Echoes
-PROPITEM_TXT_913786,Jewel of Nightmare,Jewel of Nightmare
-PROPITEM_TXT_913787,Sword of Whisper Ultimate,Sword of Whisper Ultimate
-PROPITEM_TXT_913788,Sword of Mist Ultimate,Sword of Mist Ultimate
-PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,Phantasmal Slayer Ultimate
-PROPITEM_TXT_913790,Specter's Axe Ultimate,Specter's Axe Ultimate
-PROPITEM_TXT_913791,Clever of the mist Ultimate,Clever of the mist Ultimate
-PROPITEM_TXT_913792,Knuckle of Madness Ultimate,Knuckle of Madness Ultimate
-PROPITEM_TXT_913793,Mirage Ultimate,Mirage Ultimate
-PROPITEM_TXT_913794,Wand of apparitions Ultimate,Wand of apparitions Ultimate
-PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,Staff of Ethereal Dreams Ultimate
-PROPITEM_TXT_913796,Bow of Echoes Ultimate,Bow of Echoes Ultimate
-PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,Jewel of Nightmare Ultimate
-PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5 Update Pass
-PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season
-PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5 Update Lucky Box
-PROPITEM_TXT_913801,You can obtain 1 random gift when you use it.,You can obtain 1 random gift when you use it.
-PROPITEM_TXT_913802,Mob Weapon: Mystica,Mob Weapon: Mystica
-PROPITEM_TXT_913803,Cloak of Majesty,Cloak of Majesty
-PROPITEM_TXT_913804,Baby Okean,Baby Okean
-PROPITEM_TXT_913805,Lord-exclusive pick-up pet.,Lord-exclusive pick-up pet.
+PROPITEM_TXT_913750,1 Hour Kebaras 2 Ticket,ケバラス2 1時間券
+PROPITEM_TXT_913751,You have unlimited access to Kebaras 2 area for 1 hour after activating this Ticket. Kebaras contains monsters from level 140 to 200.,このチケットを有効にしてから1時間、ケバラス2エリアに無制限にアクセスできます。ケバラス2にはレベル140から200までのモンスターが含まれています。
+PROPITEM_TXT_913752,1 Day Kebaras 2 Ticket,ケバラス2 1日券
+PROPITEM_TXT_913753,You have unlimited access to Kebaras 2 area for 1 day after activating this Ticket. Kebaras contains monsters from level 140 to 200.,このチケットを有効にしてから1日間、ケバラス2エリアに無制限にアクセスできます。ケバラス2にはレベル140から200までのモンスターが含まれています。
+PROPITEM_TXT_913754,Kalgas Chip 2,カルガスチップ2
+PROPITEM_TXT_913755,Exchange this Kalgas chip to Waforu for wonderful rewards!,このカルガスチップをワフォルに渡すと、素晴らしい報酬と交換できます！
+PROPITEM_TXT_913756,Red Chips 2,レッドチップ2
+PROPITEM_TXT_913757,Guild Siege reward. Used to buy items from Waforu.,ギルドコンバットの報酬。ワポールからアイテムを購入するのに使用できます。
+PROPITEM_TXT_913758,Purple Spirit Shard,パープルスピリットシャード
+PROPITEM_TXT_913759,That's strange... It seems to be a fragment of Drifter's soul.,おかしいな…ドリフターの魂の欠片のようだ。
+PROPITEM_TXT_913760,Red Spirit Shard,レッドスピリットシャード
+PROPITEM_TXT_913761,That's strange... It seems to be a fragment of Maiden's soul.,おかしいな…メイデンの魂の欠片のようだ。
+PROPITEM_TXT_913762,Orange Spirit Shard,オレンジスピリットシャード
+PROPITEM_TXT_913763,That's strange... It seems to be a fragment of Reaver's soul.,おかしいな…リーバーの魂の欠片のようだ。
+PROPITEM_TXT_913764,Blue Spirit Shard,ブルースピリットシャード
+PROPITEM_TXT_913765,That's strange... It seems to be a fragment of Mystica's soul.,おかしいな…ミスティカの魂の欠片のようだ。
+PROPITEM_TXT_913766,Green Spirit Shard,グリーンスピリットシャード
+PROPITEM_TXT_913767,That's strange... It seems to be a fragment of Anae's soul.,おかしいな…アナエの魂の欠片のようだ。
+PROPITEM_TXT_913768,Black Spirit Shard,ブラックスピリットシャード
+PROPITEM_TXT_913769,That's strange... It seems to be a fragment of Rifter's soul.,おかしいな…リフターの魂の欠片のようだ。
+PROPITEM_TXT_913770,Phantasmal Shield,幻影の盾
+PROPITEM_TXT_913771,A shield forged around a phantasmal crystal born from Entaness' nightmares. Its eerie glow is said to reveal dangers hidden beyond mortal sight.,エンタネスの悪夢から生まれた幻影の結晶を核として鍛えられた盾。その不気味な輝きは、人知を超えた危険を映し出すと言われている。
+PROPITEM_TXT_913772,Book of Thorns,茨の書
+PROPITEM_TXT_913773,An ancient tome nourished by the Queen of Thorns herself. The crystal embedded within its cover preserves forbidden knowledge from the depths of Euphrasia.,茨の女王自らが育んだ古の書物。表紙に埋め込まれた結晶には、ユーフラシアの深淵に眠る禁断の知識が封じられている。
+PROPITEM_TXT_913774,Soul of Entaness,エンタネスの魂
+PROPITEM_TXT_913775,A sacred targe infused with a fragment of Entaness' lingering soul. Its tranquil radiance grants strength to those who walk the path of enlightenment.,エンタネスの残された魂の欠片が宿る神聖な小盾。その静謐な輝きは、悟りの道を歩む者に力を与える。
+PROPITEM_TXT_913776,Sword of Whisper,囁きの剣
+PROPITEM_TXT_913777,Sword of Mist,霧の剣
+PROPITEM_TXT_913778,Phantasmal Slayer,幻影のスレイヤー
+PROPITEM_TXT_913779,Specter's Axe ,スペクターの斧
+PROPITEM_TXT_913780,Clever of the mist,霧のクリーヴァー
+PROPITEM_TXT_913781,Knuckle of Madness,狂気のナックル
+PROPITEM_TXT_913782,Mirage,ミラージュ
+PROPITEM_TXT_913783,Wand of apparitions,亡霊のワンド
+PROPITEM_TXT_913784,Staff of Ethereal Dreams,儚い夢の杖
+PROPITEM_TXT_913785,Bow of Echoes,残響の弓
+PROPITEM_TXT_913786,Jewel of Nightmare,悪夢のジュエル
+PROPITEM_TXT_913787,Sword of Whisper Ultimate,囁きの剣・アルティマ
+PROPITEM_TXT_913788,Sword of Mist Ultimate,霧の剣・アルティマ
+PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,幻影のスレイヤー・アルティマ
+PROPITEM_TXT_913790,Specter's Axe Ultimate,スペクターの斧・アルティマ
+PROPITEM_TXT_913791,Clever of the mist Ultimate,霧のクリーヴァー・アルティマ
+PROPITEM_TXT_913792,Knuckle of Madness Ultimate,狂気のナックル・アルティマ
+PROPITEM_TXT_913793,Mirage Ultimate,ミラージュ・アルティマ
+PROPITEM_TXT_913794,Wand of apparitions Ultimate,亡霊のワンド・アルティマ
+PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,儚い夢の杖・アルティマ
+PROPITEM_TXT_913796,Bow of Echoes Ultimate,残響の弓・アルティマ
+PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,悪夢のジュエル・アルティマ
+PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5アップデートパス
+PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,この購入により、1.5.5アップデートパスシーズン終了まで様々な特典が利用可能になります
+PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5アップデートラッキーボックス
+PROPITEM_TXT_913801,You can obtain 1 random gift when you use it.,使用するとランダムで1つのギフトを獲得できます。
+PROPITEM_TXT_913802,Mob Weapon: Mystica,ミスティカ・武器
+PROPITEM_TXT_913803,Cloak of Majesty,威厳のマント
+PROPITEM_TXT_913804,Baby Okean,ベビーオケアノス
+PROPITEM_TXT_913805,Lord-exclusive pick-up pet.,ロードの威厳を象徴するロード専用の収集ペットです。
 PROPITEM_TXT_1902501,Caveman Chief Overlap Damage Attack 1,ケイブマンチーフ・ダメージスタック攻撃1
 PROPITEM_TXT_1902502,Caveman Chief Pull Target Attack 2,ケイブマンチーフ・引き寄せ攻撃2
 PROPITEM_TXT_1902503,Caveman Chief Knock Back Attack 3,ケイブマンチーフ・ノックバック攻撃3

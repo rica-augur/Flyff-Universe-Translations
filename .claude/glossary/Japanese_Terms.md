@@ -78,7 +78,7 @@
 | Bundle | バンドル | `Items.csv`のパッケージ系アイテム名 |
 | Door Prize | ドア賞品 | `Items.csv`のイベント抽選アイテム名 |
 | Soul-Linked / (Scroll of Unbinding文脈のSoul-Bound) | 帰属 | 「All items are Soul-Linked.」→「全てのアイテムはプレイヤーに帰属されています。」（パッケージ説明文の「All items are also linked.」→「アイテムは全て帰属です。」とは文体が少し異なるが同義） |
-| Ultimate Weapon / Ultimate Accessory（装備の等級名） | アルティマ武器 / アルティマアクセサリー | `PROPITEM_TXT_122501`等に準拠。同じ「Ultimate」でも「Scroll of Ultimate Bonus」等のバフ・巻物文脈では音訳「アルティメット」を使う（例：アルティメットボーナスの巻物）。等級名としての武器・アクセサリーか、バフ効果名かで訳し分ける |
+| Ultimate Weapon / Ultimate Accessory（装備の等級名） | アルティマ武器 / アルティマアクセサリー | `PROPITEM_TXT_122501`等に準拠。同じ「Ultimate」でも「Scroll of Ultimate Bonus」等のバフ・巻物文脈では音訳「アルティメット」を使う（例：アルティメットボーナスの巻物）。等級名としての武器・アクセサリーか、バフ効果名かで訳し分ける。武器名末尾の"〇〇 Ultimate"（強化版武器、例：`PROPITEM_TXT_913787〜913797`）は「〇〇・アルティマ」（中点＋アルティマ、スペース区切りの「アルティメット」ではない）に統一（2026-07-29、ユーザー指示で修正） |
 | Lunar（Lunar New Year文脈） | 旧正月 | `PROPITEM_TXT_200302`等に準拠。「Lunar New Year Coupon」等はそのまま「旧正月」を使い、音訳「ルナー」にしない |
 | Trans（ペット変身オーブ、`PROPITEM_TXT_006094`等の`~ Trans`） | オーブ | 例：「Aibatt Trans」→「アイバット・オーブ」。「Trans Random Box」のような単独のカテゴリ名としても使う |
 | Elixir/Flask/Potion of the Tiger・Rabbit・Fox・Lion（ステータス強化秘薬） | 力の秘薬／敏捷の秘薬／知能の秘薬／体力の秘薬（Flaskは頭に「強力な」、`Potion of Tiger (D)`等の等級付きは「力の秘薬 (D)」のように末尾に等級を残す） | `PROPITEM_TXT_007180〜007326`（Elixir/Flask）および`PROPITEM_TXT_133794〜133816`（Potion、D/C/B/A/A+の5段階）準拠。動物名は直訳せず、付与される効果（STR/DEX/INT/STA）で意訳する。同様に`Elixir of Stone`→防御の秘薬、`Elixir of Anti-Magic`→抵抗の秘薬、`Elixir of the Sorcerer`→魔法攻撃力増幅の秘薬など、Items.csvのElixir/Flask/Potion系は一貫して効果ベースの意訳。2026-07-29にユーザー指摘で発覚した表記揺れ（`PROPITEM_TXT_726136`等のパッケージ説明文で「虎のフラスコ」等の直訳、および`PROPITEM_TXT_133794`等の「虎の秘薬」等の直訳）はユーザー指示によりいずれも効果ベース表記に統一済み |
@@ -88,6 +88,26 @@
 | Casting Speed（%上昇バフ・カード） | 詠唱速度 | `PROPITEM_TXT_004373`等。「Attack Speed」→「攻撃速度」と同じ言葉遣い |
 | Casting Time（%増減の秘薬・効果文） | 魔法キャスティング時間 | `PROPITEM_TXT_007179`等。「詠唱時間」ではなく、既存の古いアイテムに合わせて必ず「魔法キャスティング時間」を使う（2026-07-29、ユーザー指示で確定。「詠唱速度」と語が異なる点に注意 — 同じCasting系でも「Speed」は詠唱速度、「Time」は魔法キャスティング時間で使い分ける） |
 | Set（アイテム名末尾の"〇〇 Set"） | 〇〇セット（英語の語順通り、訳した/音訳したシリーズ名の直後に「セット」を置く。「セット〇〇」のように前置しない） | `PROPITEM_TXT_828037`Mizu Yukata Set→「みず浴衣セット」、`PROPITEM_TXT_828073`Yukata 2025 Set (F)→「浴衣2025セット(F)」、`PROPITEM_TXT_828348`Set of the Rising Moon→「ライジングムーンセット」等に準拠（2026-07-29確認）。性別表記(M)/(F)は英語と同じくセットの後ろに残す |
+| Rice Cake Soup（新年イベントのバフ飲食物、`PROPITEM_TXT_144155〜144162`＝2025年版、`PROPITEM_TXT_135044〜135048`＝2026年版） | お雑煮（{色}Rice Cake Soup→{色}のお雑煮、例：Red→赤いお雑煮。効果文は「このお雑煮は、30分間{ステータス}+25を付与します。」） | 直訳「餅スープ」ではなく日本の正月料理「お雑煮」を採用。ただし`PROPITEM_TXT_200294〜200300`（無印Red/Green/Blue/Yellow Rice Cake Soup）は既存訳が「赤餅スープ」等の直訳のため据え置き（別シリーズ扱い、2026-07-29確認） |
+| Mr.Kang（NPC名） | Mr.カン | `Characters.csv`の`CHARACTER_INC_100107`（[Event] Mr.Kang→[イベント]Mr.カン）に準拠 |
+| New Year Pass（`PROPITEM_TXT_144163〜144164`＝2025年版「正月パス」、`PROPITEM_TXT_135085〜135086`＝2026年版「新年パス」） | 年度により表記が異なる（2025は「正月パス」、2026以降は「新年パス」）。新規追加時は該当年度の既存訳（同じアイテム名内の表記）に合わせる | 2026-07-29確認。統一はせず既存表記をそのまま踏襲 |
+| Entaness（`[Queen of Thorns] Entaness`のボスモンスター名） | 単独表記の場合は音訳「エンタネス」、`[Queen of Thorns] Entaness`という完全なタイトル表記の場合のみ既存の創作訳「クイーンエンプティネス」（`Movers.csv`の`PROPMOVER_TXT_002070`、`Achievements.csv`のKILL系実績準拠） | `Quests.csv`の`PROPQUEST_INC_155091`で先に「[茨の女王]エンタネス」という訳し分けが確認済み。`Items.csv`の`PROPITEM_TXT_913771〜913775`（Entaness武器/防具セットの説明文）もこの使い分けに準拠（2026-07-29） |
+| Queen of Thorns（単独、称号としての言及） | 茨の女王 | 上記Entanessの項参照。`Items.csv`の`PROPITEM_TXT_913773`で確認 |
+| Euphrasia（地名、Entaness武器セットの説明文に登場） | ユーフラシア | `PROPITEM_TXT_913773`。他ファイルに先例なし、音訳で新規採用（2026-07-29） |
+| Drifter/Maiden/Reaver/Mystica/Anae/Rifter（`[Forgotten]`系モンスター種族名、`Movers.csv`の`PROPMOVER_TXT_505001〜505030`準拠） | ドリフター／メイデン／リーバー／ミスティカ／アナエ／リフター | `Items.csv`の`PROPITEM_TXT_913758〜913769`（Spirit Shard系アイテムの説明文で種族名のみ再利用、`[Forgotten]`の接頭語は付けない）で確認（2026-07-29）。`Mystica`は`Achievements.csv`の`Okean`とは別モンスター（Okeanは「オケアノス」） |
+| Chip/Chips系交換通貨のナンバリング（`Kalgas Chip`→`Kalgas Chip 2`、`Yellow/Red Chips`→`Yellow/Red Chips 2`等） | 既存の音訳（カルガスチップ／イエローチップ／レッドチップ、単数形カタカナ）の直後に半角スペースなしで数字を付与（カルガスチップ2／イエローチップ2／レッドチップ2） | `PROPITEM_TXT_913716`,`913754`,`913756`で確認（2026-07-29）。`Waforu`は既存訳に「ワフォル」（`PROPITEM_TXT_131907`等）と「ワポール」（`PROPITEM_TXT_008903`,`1902586`等）の表記揺れが既にあり、新規追加時は直前の類似文（同一パターンの既存文）に合わせる |
+| Kebaras 2（新ダンジョン名、`Kebaras`の続編） | ケバラス2（「ケバラス」との間にスペースなし） | `PROPITEM_TXT_1902589〜1902626`に先例あり。チケット名は「ケバラス2 {期間}券」のように数字とチケット期間の間にスペースを入れる（`PROPITEM_TXT_913750`,`913752`、番号の連続による可読性低下を避けるため） |
+| Update Pass（バージョン番号付き、例：`1.5 Update Pass`→「1.5アップデートパス」） | {バージョン番号}アップデートパス／{バージョン番号}アップデートラッキーボックス（バージョン番号とアップデートの間にスペースなし） | `PROPITEM_TXT_135002〜135009`（1.5系）に準拠して`PROPITEM_TXT_913798〜913800`（1.5.5系）を翻訳（2026-07-29） |
+| Life Mastery系スキル名（`PROPITEM_TXT_830003〜830082`のバッグ名等） | Herb Gathering→薬草採集／Wood Cutting→伐採／Mining→採掘／Fishing→釣り／Alchemy→錬金術／Cooking→料理／Carpentry→木工／Smithing→鍛冶 | `UI.csv`の`UI_LIFE_MASTERY_*_SUCCESS`系（`UI_LIFE_MASTERY_HERBGATHERING_SUCCESS`等）に準拠。`{スキル名}バッグ({N}スロット)`／「{スキル名}で入手したアイテムを最大{N}個まで収納できるバッグ。」の定型文で2026-07-29に翻訳 |
+| Shop Advertisement（{色}） | ショップ広告({色}、括弧内は英語色名のカタカナ) | `PROPITEM_TXT_201073〜201080`,`155623〜155626`等に準拠。説明文は「この巻物を使用すると、個人商店またはベンダーショップがショップ検索結果の上部に{色}の飾りつきで表示されます。ショップを開くと消費され、閉じると効果が消えます。」で統一 |
+| Jewel Conversion（`Lower Scroll of Jewel Conversion`/`Scroll of Jewel Conversion`） | 下級ジュエル変換の巻物／ジュエル変換の巻物 | `PROPITEM_TXT_902535`のパッケージ説明文に先例あり。`PROPITEM_TXT_750000〜750018`翻訳時に確認（2026-07-29） |
+| 宝石名（ジュエル合成システム共通） | Topaz→トパーズ／Ruby→ルビー／Sapphire→サファイア／Emerald→エメラルド／Diamond→ダイヤモンド／Amethyst→アメジスト／Onyx→オニキス | `Items.csv`内の既存音訳に準拠（`PROPITEM_TXT_008052〜008060`等） |
+| Herneos（ダンジョン/エリア名） | ヘルネオス | `Map.csv`の`PROPMAX_TXT_200023`、`QuestDestinations.csv`に準拠 |
+| Livi（NPC名、ライフスキル関連） | リヴィ | `Characters.csv`の`CHARACTER_INC_100104`（[Life Master] Livi→[ライフマスター]リヴィ）に準拠 |
+| Turkeylicious（感謝祭コスチュームシリーズ） | ターキーリシャス | `PROPITEM_TXT_801367〜801370`,`726305〜726457`に準拠 |
+| Charlie Hunter（コスチューム/武器シリーズ） | チャーリーハンター | `PROPITEM_TXT_726075〜726124`に準拠 |
+| Persian Warrior（コスチュームシリーズ） | ペルシャの戦士 | `PROPITEM_TXT_726037〜726111`に準拠。関連の乗り物「Persian Magic Carpet」は同シリーズだが音訳「ペルシアンマジックカーペット」（コスチュームの意訳とは表記を分ける、2026-07-29） |
+| 単独の英字/記号アイテム（例：`PROPITEM_TXT_206421〜206425`の I/♥/Y/O/U、`PROPITEM_TXT_723376〜723378`の2/N/D、`OST`,`PSP`等の略語アイテム名） | 翻訳せず英語のまま残す | 「I♥YOU」「2ND」等をコレクションで綴らせるイベント文字アイテムのため、1文字単位の翻訳は不可能。既存の翻訳済み周辺行も同様に英語のまま据え置かれている（2026-07-29確認）。`PROPITEM_TXT_134598`の`#ERROR!`は英語原文自体が壊れているソース側の不具合のため対象外 |
 
 ## 防具シリーズ名の語幹（音訳）
 
