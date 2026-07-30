@@ -1665,7 +1665,7 @@ UI_MSGBOX_COPY,Copy,コピー
 UI_MSGBOX_COPY_CONFIRM,Copied to Clipboard,クリップボードにコピーしました。
 UI_DUNGEON_TITLE,Dungeon,ダンジョン
 UI_DUNGEON_EASY,Easy,イージー
-UI_DUNGEON_MEDIUM,Medium,中
+UI_DUNGEON_MEDIUM,Medium,ミディアム
 UI_DUNGEON_HARD,Hard,ハード
 UI_DUNGEON_LOW_DROPS,Low Drop Rate,低ドロップ
 UI_DUNGEON_NORMAL_DROPS,Normal Drop Rate,通常ドロップ
