@@ -694,6 +694,8 @@ UI_UPGRADE_MATERIAL,Power Dice/Card,パワーダイス/カード
 UI_UPGRADE_PROTECTSCROLL,SProtect,精錬編(SProtect)
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,エクスプロテクト
 UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,PProtect
+UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect,PProtect / エクスプロテクト
+UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,PProtect / 精錬編(SProtect)
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,サンストーン
 UI_UPGRADE_CHANCESCROLL,SFusion,鍛冶屋の魂+10
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",失敗した場合、アイテムは消失しませんが、精錬値が下がります。
@@ -3385,3 +3387,5 @@ UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward,階層クリア報酬
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward,ランキング報酬
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?,入場すると神秘の城リトライクーポンを1枚消費します。続行しますか？
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!,どこでもタップして入力！
+UI_DUNGEON_DEFEND,Defend,防衛
+UI_DUNGEON_ESCORT,Rescue,救出
