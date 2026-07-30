@@ -693,9 +693,9 @@ UI_UPGRADE_ITEM,Item,アイテム
 UI_UPGRADE_MATERIAL,Power Dice/Card,パワーダイス/カード
 UI_UPGRADE_PROTECTSCROLL,SProtect,精錬編(SProtect)
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect,アルティマ編(XProtect)
-UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,PProtect
-UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect,PProtect / アルティマ編(XProtect)
-UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,PProtect / 精錬編(SProtect)
+UI_PVP_UPGRADE_PROTECTSCROLL,PProtect,PVP編(PProtect)
+UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect,PVP編(PProtect) / アルティマ編(XProtect)
+UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect,PVP編(PProtect) / 精錬編(SProtect)
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone,サンストーン
 UI_UPGRADE_CHANCESCROLL,SFusion,鍛冶屋の魂+10
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed.",失敗した場合、アイテムは消失しませんが、精錬値が下がります。
