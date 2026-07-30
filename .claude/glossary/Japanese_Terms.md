@@ -334,6 +334,6 @@
 | English | 日本語 | 備考 |
 | --- | --- | --- |
 | PProtect（`UI_PVP_UPGRADE_PROTECTSCROLL`） | 翻訳せず据え置き | `Items.csv`の`PROPITEM_TXT_913715`（Scroll of PProtect→鍛冶屋の心得・PVP編）の説明文に「(通称:PProtect)」と明記されており、英語表記がそのまま日本語コミュニティの通称になっているため |
-| XProtect | 鍛冶屋の心得・アルティマ | `Items.csv`の`PROPITEM_TXT_122510`（Scroll of XProtect）に準拠。`UI.csv`の`UI_ULTIMATE_UPGRADE_UNSAFE`でも同表記。`UI_ULTIMATE_UPGRADE_PROTECTSCROLL`は旧訳で音訳「エクスプロテクト」だったが2026-07-30にユーザー指示で統一（同じくSProtect/PProtectについても`UI.csv`内で「精錬編(SProtect)」「PProtect」という独自の略記が使われており`Items.csv`の正式訳「鍛冶屋の心得・精錬編」等と表記が異なるが、ユーザー指示があったXProtect以外は未修正のため備考として記録） |
+| XProtect（`UI.csv`の`UI_ULTIMATE_UPGRADE_PROTECTSCROLL`等、短いラベル文脈のみ） | アルティマ(XProtect) | `UI_UPGRADE_PROTECTSCROLL`（SProtect→精錬編(SProtect)）の「カテゴリ名(英語略称)」形式に合わせた表記。この「精錬編(SProtect)」はGame Version 1.5.1導入時点（コミット`58c51bf`、作者lsaos）からの既存のオリジナル訳であり、我々の過去の翻訳ではないため変更せず、これに倣う方針とした（2026-07-30、ユーザー指示）。同コミットで導入されたXProtectの旧訳「エクスプロテクト」（音訳）とは表記スタイルを統一する形で修正。なお`Items.csv`の`PROPITEM_TXT_122510`（Scroll of XProtect）等、アイテム名としてのフル文脈では「鍛冶屋の心得・アルティマ」を使用し続ける（これは変更しない）。PProtectは引き続き上記の理由で英語表記のまま据え置き |
 | Tenacity（`UI_TOOLTIP_TENACITY`） | テナシティ | `Skills.csv`の`PROPSKILL_TXT_150331`に準拠 |
 
