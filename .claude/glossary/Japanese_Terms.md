@@ -334,5 +334,6 @@
 | English | 日本語 | 備考 |
 | --- | --- | --- |
 | PProtect（`UI_PVP_UPGRADE_PROTECTSCROLL`） | 翻訳せず据え置き | `Items.csv`の`PROPITEM_TXT_913715`（Scroll of PProtect→鍛冶屋の心得・PVP編）の説明文に「(通称:PProtect)」と明記されており、英語表記がそのまま日本語コミュニティの通称になっているため |
+| XProtect | 鍛冶屋の心得・アルティマ | `Items.csv`の`PROPITEM_TXT_122510`（Scroll of XProtect）に準拠。`UI.csv`の`UI_ULTIMATE_UPGRADE_UNSAFE`でも同表記。`UI_ULTIMATE_UPGRADE_PROTECTSCROLL`は旧訳で音訳「エクスプロテクト」だったが2026-07-30にユーザー指示で統一（同じくSProtect/PProtectについても`UI.csv`内で「精錬編(SProtect)」「PProtect」という独自の略記が使われており`Items.csv`の正式訳「鍛冶屋の心得・精錬編」等と表記が異なるが、ユーザー指示があったXProtect以外は未修正のため備考として記録） |
 | Tenacity（`UI_TOOLTIP_TENACITY`） | テナシティ | `Skills.csv`の`PROPSKILL_TXT_150331`に準拠 |
 
