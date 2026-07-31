@@ -1,7 +1,7 @@
 ﻿Key,English,Japanese
 NPC_WHOAREYOU,Who are you?,紹介
 NPC_GOODBYE,Goodbye!,さようなら
-NPC_CARGO,CARGO,CARGO
+NPC_CARGO,CARGO,貨物
 NPC_WHATSGOINGON,What's going on?,近況
 NPC_EXIT,Exit,出る方法
 NPC_HOWTOFLY,How to Fly,飛行操縦
@@ -90,7 +90,7 @@ NPC_000097,"I hope the information I gave you was helpful. You're on your own no
 NPC_000098,"1. Occasionally, you will run into some pesky masquerpets while flying. You will see a red box surrounding them.",1. 空を飛んでいると、空中でもモンスターに出くわすことがあるの。たまに怒って攻撃されるかもしれないから、くれぐれも気を付けることね。
 NPC_000099,"2. You can target these creatures with the Left Mouse Button. If you lose sight of them while flying, a green arrow appears on the edge of the screen to indicate which direction you need to turn. ",2. ターゲットする対象をクリックすると狙うことができるわ。もし飛行中に相手を見失っても、画面の端に緑色の矢印が表示されて、行くべき方向が示されるはずよ。
 NPC_000100,"3. To attack the creature, simply get as close as you can and press the Left Mouse Button or the Insert Key.\n 4. If you want to follow the monster automatically, press the Z Key.",3. ターゲッティングしたモンスターに近づき、マウス左ボタンをクリックすると攻撃ができるわ。\n 4. モンスターをターゲットしている状態でZキーを押すと、目標を自動的に追いかけることができるわよ。
-NPC_000101,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!
+NPC_000101,5. Magicians and Acrobats can shoot from range while in the air. Mercenaries and Assists must rely on melee attacks. You can also use your skills!,5. マジシャンとアクロバットは空中から遠距離攻撃ができます。マーシナリーとアシストは近接攻撃に頼る必要があります。スキルも使えますよ！
 NPC_000102,"6. When you destroy a flying masquerpet, any dropped loot will be placed into your inventory automatically. If there is no room in your inventory, the loot is lost, so be careful!",6. 飛行中のモンスターを倒した時は、ドロップしたアイテムが自動でインベントリに入るから安心してね。でも、もしインベントリに空きがなかったら消えてしまうからそこは要注意よ！
 NPC_000103,"7. That about covers it for your flying combat training, cadet! Just one more thing... Don't crash and burn! Hahaha, just a little pilot humor.",7. これであなたはもう一人前ね！そうそう、最後に1つだけ。きれいなお姉さんを見つけたからって、よそ見運転なんか絶対やめてね？事故起こされたらたまったもんじゃないわ。えへへ、冗談よ。
 NPC_000104,Have fun out there and be safe! Don't forget to check your six!,カッコ良く飛び回りながら、スリル溢れる空中戦を楽しんでくださいね！
@@ -864,10 +864,10 @@ NPC_001046,"Hey, you two! Stop that bickering, it's pointless! Take it to the ar
 NPC_001047,"In the PvP arena, you can fight other adventurers such as yourself. If you meet unfortunate circumstances, and are slain on the arena floor, you will not incur any death penalties.",アリーナは1次転職を終えたヤツらが自由に闘うことのできる場所だ。力試しだと思って挑戦してみろ。
 NPC_001048,My name is Lay and I am in charge of the PvP arena. I'll only let you in if you've chosen your first job.,私はアリーナの入場を管理しているレイだ。アリーナに入場するなら話かけてくれ。
 NPC_001049,Another one bites the dust!,自信を持って生きるんだ。
-NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.
-NPC_001051,"Madrigal Tournament is about to begin. Hurry, to the arena!","Madrigal Tournament is about to begin. Hurry, to the arena!"
-NPC_001052,Would you like to take a bet on who will win this tournament?,Would you like to take a bet on who will win this tournament?
-NPC_001053,The odds have been released. Check the payout for the team you bet on.,The odds have been released. Check the payout for the team you bet on.
+NPC_001050,Why don't you sign up for a Madrigal tournament right away? Prove you are the best.,マドリガルトーナメントに今すぐ登録してみない？自分が最強だって証明してみせてよ。
+NPC_001051,"Madrigal Tournament is about to begin. Hurry, to the arena!",マドリガルトーナメントがまもなく始まります！急いでアリーナへ！
+NPC_001052,Would you like to take a bet on who will win this tournament?,このトーナメントの勝者に賭けてみませんか？
+NPC_001053,The odds have been released. Check the payout for the team you bet on.,オッズが発表されました。賭けたチームの配当を確認してください。
 NPC_001078,Only the strongest of guilds can achieve victory in the Secret Room!,勇気のあるギルドは、ギルド・オルタナティヴに挑戦を！
 NPC_001079,"If your guild is top ranked in the Secret Room, you will receive weekly rewards!",あなたのギルドがオルタナティヴでトップランクにある場合、あなたは毎週報酬を受け取ります!
 NPC_001080,"Hello, adventurer! I'm in charge of the Secret Room and the Forsaken Tower. If you have any questions about this heroic challenge, please don't hesitate to ask. ",俺様はバリトン。東部地域のギルド・オルタナティヴを担当している。ギルド・オルタナティヴに関連することは全て俺に聞いてくれ。あと、東部の税率も教えてやるぞ？ガッハッハ。
@@ -880,7 +880,7 @@ NPC_001090,Would anyone like a jewel crafted or perhaps a jewelry setting create
 NPC_001091,"Hi there! I offer jewelry services to the citizens of Flarine and create and set jewels for those wishing to modify their Rare Weapons. I also remove blessings and level reductions from items, among other things!",宝石はあなたの力をより強くしてくれるの。宝石の作成やユニーク武器への変換は私に任せてください。レベル減少の解除も私が適任ね。あぁ宝石ってステキ･･･。
 NPC_001092,My name is Peach! I'm here to assist Boboku and help supplement his upgrading business. Stop by anytime!,アタシはピーチ！最近、ボボタ先輩の仕事が多くなっちゃって、仕方なくアタシが手伝いに来たってわけ。彼らにできないことはアタシができるから、いつでも声かけてな～！
 NPC_001093,"Take care. Remember, for anything to do with jewels, I'm your girl!",宝石は素晴らしいわぁ。この美しさ、たまらないでしょう？
-NPC_001130,We're running out of time! The newly appointed lord will be here soon!,We're running out of time! The newly appointed lord will be here soon!
+NPC_001130,We're running out of time! The newly appointed lord will be here soon!,時間がありません！新しく任命された領主がもうすぐここに来ます！
 NPC_001219,Attention everyone! We are looking for new Mentors. I will get you started on your way to becoming a Mentor!,マドリガルの有能な人材を捜しています。心当たりのある方はいませんか？
 NPC_001220,Come see me if you want to become a Mentor. ,「師匠」になるには、まず私の話を聞いてください。
 NPC_001221,"It is not easy to find worthy people to walk the path of a Mentor, it isn't for everyone.",有能な人材を捜すのはとても難しいことですね…。
@@ -989,7 +989,7 @@ NPC_100042,Welcome to Azria!,アズリアへようこそ！
 NPC_100043,"Stay safe out there, traveler.",旅人さん、どうかお気をつけて。
 NPC_100044,Stay safe.,おげんきで。
 NPC_100045,Hm... Yes...,うーん...はい...
-NPC_100046,...,...
+NPC_100046,...,……
 NPC_100047,May Rhisis be with you.,リシスがあなたと共にありますように。
 NPC_100048,You should not be here...,あなたはここにいるべきではありません...
 NPC_100049,Volkane is an ancient and once forgotten cavern in the depths of Magmient. The air is filled with volcanic ash and hot gases. This is no place for you.,ヴォルケインはマガミエントの奥深くにある、かつては忘れ去られていた古代の洞窟です。空気は火山灰と高温ガスで満たされています。ここはあなたのための場所ではありません。
@@ -1064,7 +1064,7 @@ NPC_100117,"Ah! You've brought everything needed to cleanse the evil from your b
 NPC_100118,,
 NPC_100119,,
 NPC_100120,,
-NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!
+NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,#bマニラ決勝戦#nb に出場し、#bFlyff World チャンピオンシップ2026#nb で優勝するのは誰だ？お前が一番だということを証明してみせろ！
 NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",ようこそ、ライバル!私はフリフワールドチャンピオンシップのマネージャーであるアヴァです。競争に勝つために手に入れることができる最高の機器を交換します!
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",うーん、あなたは最高のPvE競技者であると感じます!待たないでいいです。。。PvPかな?はぁ、わかんない。がんばって！
 NPC_100124,May the best win!,最高の勝利がありますように!
@@ -1126,259 +1126,259 @@ NPC_100178,Happy New Year~!\nMay the new year of 2024 be full of fun adventures!
 NPC_100179,"Hi! I would like to ask you a favor, could you hear me out?",こんにちは！お願いがあるのですが、聞いてもらえますか?
 NPC_100180,"Have you heard of the rumor? The rumor that a blacksmith made a couple ring thinking only about his beloved until he died after losing her in an accident! When lovers put on the couple's ring and think about going to their lover, they fly to their lover in an instant, which is amazing, isn't it?",その噂を聞いたことがありますか?ある鍛冶屋が、事故で彼女を失って亡くなるまで、最愛の人のことだけを考えてカップルリングを作ったという噂!恋人同士が夫婦の指輪をはめて恋人のところへ行こうと思うと、一瞬で恋人のところに飛んでいく、すごいですよね。
 NPC_100181,Do you want to exit the dungeon?,ダンジョンから出ますか?
-NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you","Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you"
-NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...","It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history..."
-NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!","In order for me to give you a quest, all partners of your couple must be online!"
-NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!","I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!"
-NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.","Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me."
-NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.","Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it."
-NPC_100188,We reuse our food - of course joking!,We reuse our food - of course joking!
-NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,Hello there! I may have something useful for you. Would you mind taking a look in my bag?
-NPC_100190,I'm just walking around and selling stuff.,I'm just walking around and selling stuff.
-NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe","I don't know what items will be available when, so come back whenever you have time. Hehe"
-NPC_100192,"Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes.","Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes."
-NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!","Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!"
-NPC_100194,"As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!","As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!"
-NPC_100195,"Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!","Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!"
-NPC_100196,"Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!","Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!"
-NPC_100197,"Uncover the secrets within the Revolutionary Journal, and great rewards await you","Uncover the secrets within the Revolutionary Journal, and great rewards await you"
-NPC_150001,"I mean… what could really happen in a place this quiet? A short break won’t hurt, right?","I mean… what could really happen in a place this quiet? A short break won’t hurt, right?"
-NPC_150002,"My name’s Doran. I’m an airport guard… though it’s honestly duller than I expected. You’re from across the sea, right? Seen anything interesting?","My name’s Doran. I’m an airport guard… though it’s honestly duller than I expected. You’re from across the sea, right? Seen anything interesting?"
-NPC_150003,"I don’t recognize any of you. Who are you? You’re not one of those wolves, are you?","I don’t recognize any of you. Who are you? You’re not one of those wolves, are you?"
-NPC_150004,"I'm Chiron, a soldier stationed here. We can forgive an old man for failing a mission, but not for neglecting his watch.","I'm Chiron, a soldier stationed here. We can forgive an old man for failing a mission, but not for neglecting his watch."
-NPC_150005,"Hey, look at those clouds. Doesn’t that one look like a cat’s face?","Hey, look at those clouds. Doesn’t that one look like a cat’s face?"
-NPC_150006,"Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?","Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?"
-NPC_150007,"This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?","This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?"
-NPC_150008,"I'm Karr. If you drop your guard during wartime, that moment might be your last.","I'm Karr. If you drop your guard during wartime, that moment might be your last."
-NPC_150009,…Do you need something?,…Do you need something?
-NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,My name’s Zerke. Keep your questions short. I’ll help if I can.
-NPC_150011,"It feels good to protect something, doesn’t it?","It feels good to protect something, doesn’t it?"
-NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,I'm Elin. My job is to make sure everyone coming through here stays safe.
-NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,Protecting a village isn’t simple. All those lives rest on us.
-NPC_150014,I am Gard. I’m one of the guardians who protect this place.,I am Gard. I’m one of the guardians who protect this place.
-NPC_150015,"Hello! Beautiful morning, isn’t it? I’m Gard.","Hello! Beautiful morning, isn’t it? I’m Gard."
-NPC_150016,"Even cats need a break sometimes. Still, patrol never stops.","Even cats need a break sometimes. Still, patrol never stops."
-NPC_150017,"I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe.","I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe."
-NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,Why am I a guard? Because it’s cool. Simple as that.
-NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,War? I’m not afraid of it. I’ll fight until my last breath.
-NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.
-NPC_150021,Let’s make today a good one. Victory awaits.,Let’s make today a good one. Victory awaits.
-NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,Why don’t those dogs come near us? Easy. They’re scared of our claws.
-NPC_150023,Call me Kras. I protect this village.,Call me Kras. I protect this village.
-NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,I used to be an adventurer like you… until I took an arrow to the knee.
-NPC_150025,A new face. I hope we stay on friendly terms.,A new face. I hope we stay on friendly terms.
-NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.","I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win."
-NPC_150027,You’re not ready.,You’re not ready.
-NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,Great day for patrol. Is there even such a thing as bad weather? Not for me.
-NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.
-NPC_150030,"Go, adventurer… go.","Go, adventurer… go."
-NPC_150031,"It’s wonderful seeing everyone living in peace, isn’t it?","It’s wonderful seeing everyone living in peace, isn’t it?"
-NPC_150032,I’m Raon! No one loves this village more than me.,I’m Raon! No one loves this village more than me.
-NPC_150033,You can’t pass.,You can’t pass.
-NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?","Stay calm. If the soldiers panic, who will the villagers rely on?"
-NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.","I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village."
-NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?
-NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.","You’ve made it this far… but from here on, things might get dangerous."
-NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?","I’m Merk, head of scouting. Seen any Lycan activity?"
-NPC_150039,Quiet. Scouting only works if we stay hidden.,Quiet. Scouting only works if we stay hidden.
-NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.","Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs."
-NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.","I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off."
-NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,The Lycans are growing bolder. Keep your weapon ready.
-NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.
-NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?","I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?"
-NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,Welcome to Eillun Village. I hope you enjoy your stay.
-NPC_150046,A new visitor… Let’s hope that’s a good sign.,A new visitor… Let’s hope that’s a good sign.
-NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.","I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change."
-NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.
-NPC_150049,Do you always trust what you see? Think it through.,Do you always trust what you see? Think it through.
-NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?","I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?"
-NPC_150051,We’re not like the Khajiit… not like them at all.,We’re not like the Khajiit… not like them at all.
-NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.","Sometimes protecting the village requires sacrifice. It’s harsh, but true."
-NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.","I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you."
-NPC_150054,It’s dangerous to go alone.,It’s dangerous to go alone.
-NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,How long are we going to sit around? We need to strike back and show them who we are.
-NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.
-NPC_150057,We have a great communicator here… want to guess who?,We have a great communicator here… want to guess who?
-NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.","Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you."
-NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.","I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t."
-NPC_150060,"Time is a strange thing, isn’t it?","Time is a strange thing, isn’t it?"
-NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,Stock up on supplies before you leave. Better to have too much than too little.
-NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.","I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need."
-NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.","Hand over the Penya peacefully, and no one gets hurt."
-NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,Look at this gemstone! It’s not just jewelry—it’s art.
-NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.","I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you."
-NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.
-NPC_150067,Good armor is like having a second life.,Good armor is like having a second life.
-NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.
-NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.
-NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,A good weapon never betrays its wielder. Find one that suits you.
-NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.","Name’s Domir. Swords, axes, bows—whatever you need, I can forge it."
-NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.
-NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.","Attacking is important, but if you can’t defend yourself, you won’t last a battle."
-NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.","I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy."
-NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.","That shield won’t last long out here. Lucky for you, I’ve got a sturdier one."
-NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?
-NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.","I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere."
-NPC_150078,Fresh goods from the forest! Stock up before you travel.,Fresh goods from the forest! Stock up before you travel.
-NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,A staff or wand is just a tool. The real magic depends on the person holding it.
-NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.","I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power."
-NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.","Interested in magic? I’ve got wands, staves, robes—take a look."
-NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,Color carries emotion. The flowers around here create shades no dye can match.
-NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.
-NPC_150084,Take a look.,Take a look.
-NPC_150085,Wounds heal with time… but the right treatment helps a lot.,Wounds heal with time… but the right treatment helps a lot.
-NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.","I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting."
-NPC_150087,"Time is money, friend.","Time is money, friend."
-NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.","Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit."
-NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.
-NPC_150090,"If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.","If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly."
-NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,The stars reveal many things. Tonight’s constellations hint at change.
-NPC_150092,"I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say.","I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say."
-NPC_150093,But I do believe you’re strong enough to face whatever comes.,But I do believe you’re strong enough to face whatever comes.
-NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,Hunting isn’t just catching prey—it’s understanding nature.
-NPC_150095,"I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job.","I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job."
-NPC_150096,Wanna communicate with mother Nature? Follow me!,Wanna communicate with mother Nature? Follow me!
-NPC_150097,Trees are alive. I just help shape their lives into new forms.,Trees are alive. I just help shape their lives into new forms.
-NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.
-NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.","To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael."
-NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,Dreams send messages from within. Understanding them can reveal the truth.
-NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?
-NPC_150102,Let me show you… a world of dreams and imagination.,Let me show you… a world of dreams and imagination.
-NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,The stars hold the stories of our ancestors. Their wisdom still guides us.
-NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.","I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack."
-NPC_150105,May the ancestors watch over you.,May the ancestors watch over you.
-NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.
-NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.","I’m Selin, a maker of perfumes. I wonder which scent suits you best."
-NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,The same fragrance smells different on everyone. That’s the magic of it.
-NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,Hey! Don’t tell the adults you saw me here. Seriously—don’t.
-NPC_150110,"I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself.","I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself."
-NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,Grown-ups love saying “no.” It’s the one word I can’t stand.
-NPC_150112,Every event carries a lesson. A good story makes it easier to hear.,Every event carries a lesson. A good story makes it easier to hear.
-NPC_150113,I’m Livia. I collect and share our people’s stories. Want to share yours?,I’m Livia. I collect and share our people’s stories. Want to share yours?
-NPC_150114,Old legends always hide clues—ways to survive today.,Old legends always hide clues—ways to survive today.
-NPC_150115,"One day… I’ll earn their respect, no matter what it takes.","One day… I’ll earn their respect, no matter what it takes."
-NPC_150116,"I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more.","I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more."
-NPC_150117,"If I say it out loud, I feel like everything might fall apart. So it stays a secret.","If I say it out loud, I feel like everything might fall apart. So it stays a secret."
-NPC_150118,What are you doing here? Most people don’t even know this place exists.,What are you doing here? Most people don’t even know this place exists.
-NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.
-NPC_150120,Turn back. You’re not qualified.,Turn back. You’re not qualified.
-NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…","Where did we go so wrong!? It’s good they aren’t attacking, but still…"
-NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.","I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly."
-NPC_150123,People—! A person is here! Help!,People—! A person is here! Help!
-NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,Keeping watch here isn’t easy. You never know what might creep out of the darkness.
-NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.
-NPC_150126,Feeling brave today? Just remember—I warned you.,Feeling brave today? Just remember—I warned you.
-NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.","If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane."
-NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,Earn 2 random Statue Effects (buffs or debuffs).
-NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,Earn 1 Statue Buff (buff only).
-NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,Change your current statue buff at random.
-NPC_150128,Just… leave me alone. I need to rest my eyes.,Just… leave me alone. I need to rest my eyes.
-NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.
-NPC_150130,Alone… I didn't stand a chance.,Alone… I didn't stand a chance.
-NPC_150131,Very well. What do you need?,Very well. What do you need?
-NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.","Stay vigilant. In wartime, a moment's carelessness can be fatal."
-NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,Come see me if you're hurt. Proper treatment makes all the difference.
-NPC_150134,Safety is my responsibility here. I take that duty seriously.,Safety is my responsibility here. I take that duty seriously.
-NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.","This place is quiet, but that doesn't mean we can let our guard down completely."
-NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,A soldier's watch must never fail. We protect this place with our lives.
-NPC_150137,I hope your visit brings good fortune to our village.,I hope your visit brings good fortune to our village.
-NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.","Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching."
-NPC_150139,"The ship left without me, but I can't dwell on that. Life goes on, and so must I.","The ship left without me, but I can't dwell on that. Life goes on, and so must I."
-NPC_150140,Quick question—can you handle a task for me?,Quick question—can you handle a task for me?
-NPC_150141,I need someone reliable. Think you're up for it?,I need someone reliable. Think you're up for it?
-NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,I've got injured people piling up. Could you help me gather some supplies?
-NPC_150143,There's something dangerous out there. I need someone to investigate.,There's something dangerous out there. I need someone to investigate.
-NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,Bored of guard duty yet? I've got something more interesting if you're interested.
-NPC_150145,We've spotted suspicious activity. I need someone to check it out.,We've spotted suspicious activity. I need someone to check it out.
-NPC_150146,A visitor like you might be able to help with something the locals can't.,A visitor like you might be able to help with something the locals can't.
-NPC_150147,I overheard something important. Want to help me follow up on it?,I overheard something important. Want to help me follow up on it?
-NPC_150148,"I'm stuck here, but maybe you could help me with something back home?","I'm stuck here, but maybe you could help me with something back home?"
-NPC_150149,Our supplies are running low. Could you help me gather what we need?,Our supplies are running low. Could you help me gather what we need?
-NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,That shield you're carrying looks weak. I've got a job that might earn you a better one.
-NPC_150151,"I've found some interesting gems, but I need help appraising them properly.","I've found some interesting gems, but I need help appraising them properly."
-NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?","There's something I need to tell you… but first, can you help me with a small task?"
-NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,Those Lycans are getting bolder. I need someone to help me track their movements.
-NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,I'm looking for a real fight. Think you can point me toward something challenging?
-NPC_150155,I've been working on some new colors. Want to help me test them out?,I've been working on some new colors. Want to help me test them out?
-NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,I've been hearing strange things in people's dreams lately. Can you help me investigate?
-NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,More wounded keep coming in. I could really use some help gathering medical supplies.
-NPC_150158,"I love this village, but there's something I need help protecting.","I love this village, but there's something I need help protecting."
-NPC_150159,The trees have been whispering. They want me to find something. Will you help?,The trees have been whispering. They want me to find something. Will you help?
-NPC_150160,"I've got some powerful magic tools, but I need help testing them safely.","I've got some powerful magic tools, but I need help testing them safely."
-NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,You shouldn't be here. But since you are… maybe you can help me with something.
-NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,I've spotted some unusual Lycan movements. Want to help me scout the area?
-NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,I've been fighting for so long. Maybe you can help me finish this once and for all.
-NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,I've been having strange dreams about you. Want to help me understand what they mean?
-NPC_150165,"I collect stories, and I think yours might be worth hearing. But first, help me with something?","I collect stories, and I think yours might be worth hearing. But first, help me with something?"
-NPC_150166,"Those dogs won't come near us, but something else might. Want to help me keep watch?","Those dogs won't come near us, but something else might. Want to help me keep watch?"
-NPC_150167,"I'm on patrol, but I spotted something that needs investigating. Care to join me?","I'm on patrol, but I spotted something that needs investigating. Care to join me?"
-NPC_150168,The stars are telling me something important. I need your help to understand it.,The stars are telling me something important. I need your help to understand it.
-NPC_150169,"I've got fresh food ready, but I need help delivering it to some people. Interested?","I've got fresh food ready, but I need help delivering it to some people. Interested?"
-NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.","Hey, don't tell anyone you saw me, but I could use your help with something."
-NPC_150171,This village has secrets. I might share one if you help me with a task.,This village has secrets. I might share one if you help me with a task.
-NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.","I've been watching the constellations. Something's coming, and I need help preparing."
-NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,I've got injured soldiers who need better armor. Can you help me gather materials?
-NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?","I thought I could handle it alone, but I was wrong. Can you help me finish what I started?"
-NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.","The stars have shown me something about you. Help me, and I'll tell you what I saw."
-NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,Good armor saves lives. I need help getting materials to make more. Can you assist?
-NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?","I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?"
-NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.","I've lived too long in one place. Help me with this, and maybe I can finally move on."
-NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?","I've been teaching the young ones, but there's something I need to learn myself. Can you help?"
-NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?","I forge weapons, but I need rare materials. Think you can help me find them?"
-NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?","The village needs protection, and I need someone I can trust. Are you that person?"
-NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.","I'm an elder, and I've seen many things. Help me with this, and I'll share what I know."
-NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,The nightmares are getting stronger. I need someone brave enough to help me contain them.
-NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,Hunting's been tough lately. I could use help tracking down some prey.
-NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,Security is getting worse every day. I need someone to help me investigate a threat.
-NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...
+NPC_100182,"Did you know that the more you polish seashells in the sea, the more beautiful they become? I once saw seashells that were very highly polished. It was so beautiful.\nI know where I can get the materials I need to polish clams. Can you get the material there and polish the shells? It's dangerous, but it might be a great vacation for you",海で貝殻を磨けば磨くほど美しくなるって知ってた？前にすごく磨き込まれた貝殻を見たことがあるんだ。本当に綺麗だったよ。\n貝を磨くのに必要な材料がどこで手に入るか知ってるんだ。そこで材料を集めて、貝殻を磨いてきてくれないか？危険だけど、いい息抜きになるかもしれないよ
+NPC_100183,"It's the 20th anniversary of Flyff! How are you celebrating this lovely occasion? I'm going to be reminiscing, reading up on all kinds of history...",Flyffの20周年だよ！この素敵な日をどうやって祝う？僕はいろんな歴史を読み返して思い出に浸るつもりさ……
+NPC_100184,"In order for me to give you a quest, all partners of your couple must be online!",クエストを渡すには、あなたのカップルのパートナー全員がオンラインである必要があります！
+NPC_100185,"I am Cupid, the messenger of love sent from the heavens. I've been dispatched to fill Madrigal with love. If you have someone you love, don't hesitate, confess your feelings using a ring!",私は天から遣わされた愛の使者、キューピッドです。マドリガルを愛で満たすために遣わされました。愛する人がいるなら、ためらわずリングを使って想いを伝えなさい！
+NPC_100186,"Hello there. Enjoying your life in Madrigal? If you wish to expand your horizons, come see me.",こんにちは。マドリガルでの生活を楽しんでいますか？視野を広げたいなら、私に会いに来てください。
+NPC_100187,"Speaking of me, I'm a master of thousand crafts. Herbs, trees, ores, fish, anything you don't know about this world, ask me. I'll tell you all about it.",私と言えば、あらゆる技に通じた達人です。薬草、木、鉱石、魚……この世界について知らないことがあれば、何でも聞いてください。すべてお教えします。
+NPC_100188,We reuse our food - of course joking!,食べ物は再利用してるんだ――なんてね、冗談だよ！
+NPC_100189,Hello there! I may have something useful for you. Would you mind taking a look in my bag?,こんにちは！何か役に立つものがあるかもしれません。私のカバンの中を覗いてみませんか？
+NPC_100190,I'm just walking around and selling stuff.,ただ歩き回って物を売っているだけですよ。
+NPC_100191,"I don't know what items will be available when, so come back whenever you have time. Hehe",いつ何が手に入るかは私にも分からないので、時間のある時にまた来てください。へへ
+NPC_100192,"Arrr, ye got that look in yer eye! Reminds me of when I was a young scallywag, barely old enough to tie me own boots. There I was, face to face with a storm that could sink the fiercest ship. But here I am, still breathin'! Takes a bit o' grit to survive out here, but I reckon ye've got what it takes.",おお、その目つき……いいねぇ！わしがまだ駆け出しの悪童で、自分のブーツもろくに結べなかった頃を思い出すぜ。あの時は、どんな猛者の船でも沈めちまいそうな嵐と真正面から向き合ったもんさ。だが見ろ、わしはまだこうして息をしてる！ここで生き延びるにはちいとばかし度胸が要るが、お前さんにはそれがありそうだな。
+NPC_100193,"Ahoy! Captain Sovann, scourge o’ the seas of Madrigal! I’ve clashed blades and cannons in countless battles, and more than a few of 'em against the dark forces of Shade herself. Ain't many who could boast survivin’ such encounters! If there’s danger to face or treasure to seize, ye can bet ol' Sovann’s been there!",よお！マドリガルの海の脅威、キャプテン・ソヴァンだ！数えきれねぇ戦いで剣と大砲を交えてきたし、その中にはシェイドの闇の勢力との戦いも少なくねぇ。そんな戦いを生き延びたって言える奴はそういねぇだろうよ！危険に立ち向かうにしろ、宝を手に入れるにしろ、このソヴァンならとっくに経験済みだぜ！
+NPC_100194,"As ye embark on yer journey through these treacherous waters and enchanted lands, remember Madrigal’s beauty is as deadly as it is mesmerizing. Stay sharp, bold traveler, for adventure may beckon, but danger lurks beneath every wave. Fare thee well, and may the tides favor ye till we cross paths again!",この危険な海と魔法の地を旅するなら、覚えておけ。マドリガルの美しさは、その魅惑的な姿と同じくらい命取りにもなる。気を抜くなよ、勇敢な旅人よ。冒険はお前を誘うだろうが、波の下には危険が潜んでる。それじゃあな、また会う日まで潮がお前に味方しますように！
+NPC_100195,"Ahoy! Fresh faces like yers bring new fire to these old sails. With a mate like ye, I just might find the spark for me next grand venture on the high seas!",よお！お前さんみたいな新しい顔ぶれは、この古びた帆に新しい火をくれるもんだ。お前さんのような仲間がいれば、次の壮大な航海への火種が見つかるかもしれねぇな！
+NPC_100196,"Sailing the high seas is more than just a test of strengt it’s an art, a blend of courage, wit, and the call o’ the unknown. If yer heart yearns for the thrill of discovery and the clash of steel, know that I’ll be here, ready to welcome ye on ventures wild and grand!",大海原を渡るってのは、ただの力試しじゃねぇ。勇気と機知、そして未知への呼び声が織りなす芸術さ。発見の興奮と剣の激突に心が疼くなら、覚えておけ。わしはいつでもここにいて、荒々しくも壮大な冒険にお前を迎え入れる準備ができてるぜ！
+NPC_100197,"Uncover the secrets within the Revolutionary Journal, and great rewards await you",革命の日誌に隠された秘密を暴け。豪華な報酬がお前を待っている
+NPC_150001,"I mean… what could really happen in a place this quiet? A short break won’t hurt, right?",……こんな静かな場所で、一体何が起きるっていうんだ？少し休んだって構わないよな？
+NPC_150002,"My name’s Doran. I’m an airport guard… though it’s honestly duller than I expected. You’re from across the sea, right? Seen anything interesting?",俺の名前はドラン。空港の衛兵をやっている……思ってたよりずっと退屈な仕事だけどな。お前さん、海の向こうから来たのか？何か面白いものは見なかったか？
+NPC_150003,"I don’t recognize any of you. Who are you? You’re not one of those wolves, are you?",お前たちのことは知らないな。何者だ？まさか、あの狼どもの一味じゃないだろうな？
+NPC_150004,"I'm Chiron, a soldier stationed here. We can forgive an old man for failing a mission, but not for neglecting his watch.",俺はカイロン、ここに配属された兵士だ。任務に失敗した老兵は許されても、見張りを怠った者は許されない。
+NPC_150005,"Hey, look at those clouds. Doesn’t that one look like a cat’s face?",おい、あの雲を見てみろ。あれ、猫の顔に見えないか？
+NPC_150006,"Hey there, I’m Bran! Sometimes listening is more important than guarding… don’t you think?",やあ、俺はブラン！時には見張るより、耳を傾ける方が大事なこともある……そう思わないか？
+NPC_150007,"This airport feels safe, doesn’t it? But have you ever seen fire fall from the sky where you thought you were safe?",この空港は安全に感じるだろ？でも、安全だと思っていた場所に空から火が降ってくるのを見たことはあるか？
+NPC_150008,"I'm Karr. If you drop your guard during wartime, that moment might be your last.",俺はカー。戦時中に気を抜けば、その瞬間が命取りになるかもしれない。
+NPC_150009,…Do you need something?,……何か用か？
+NPC_150010,My name’s Zerke. Keep your questions short. I’ll help if I can.,俺の名前はザーク。質問は手短に頼む。できる限り力になろう。
+NPC_150011,"It feels good to protect something, doesn’t it?",何かを守るってのは、いい気分だろ？
+NPC_150012,I'm Elin. My job is to make sure everyone coming through here stays safe.,私はエリン。ここを通る皆の安全を守るのが仕事です。
+NPC_150013,Protecting a village isn’t simple. All those lives rest on us.,村を守るのは簡単なことじゃない。すべての命が私たちにかかっているんだ。
+NPC_150014,I am Gard. I’m one of the guardians who protect this place.,私はガード。この場所を守る守護者の一人だ。
+NPC_150015,"Hello! Beautiful morning, isn’t it? I’m Gard.",こんにちは！いい朝ですね？私はガードです。
+NPC_150016,"Even cats need a break sometimes. Still, patrol never stops.",猫だってたまには休憩が必要さ。とはいえ、パトロールは止まらないけどな。
+NPC_150017,"I’m Liont. If my jokes get old, bear with me. I’ll keep this village safe.",私はリオント。私の冗談が古くさくても勘弁してくれ。この村は俺が守るからな。
+NPC_150018,Why am I a guard? Because it’s cool. Simple as that.,なぜ衛兵になったかって？かっこいいからさ。それだけだよ。
+NPC_150019,War? I’m not afraid of it. I’ll fight until my last breath.,戦争？怖くなんかない。最後の一息まで戦い抜くさ。
+NPC_150020,I’m Serkan. Need a reason to fight? I don’t. I just enjoy facing strong enemies.,私はセルカン。戦う理由が要るかって？いらないね。強い敵と向き合うのが、ただ好きなだけさ。
+NPC_150021,Let’s make today a good one. Victory awaits.,今日をいい日にしよう。勝利は目前だ。
+NPC_150022,Why don’t those dogs come near us? Easy. They’re scared of our claws.,なんであの犬どもは俺たちに近づいてこないと思う？簡単さ。俺たちの爪を恐れてるのさ。
+NPC_150023,Call me Kras. I protect this village.,私はクラス。この村を守っている。
+NPC_150024,I used to be an adventurer like you… until I took an arrow to the knee.,俺も昔はお前みたいな冒険者だったんだが……膝に矢を受けてしまってな。
+NPC_150025,A new face. I hope we stay on friendly terms.,新しい顔だな。友好的な関係を築けるといいが。
+NPC_150026,"I’m Maeron. I’ve fought for a long time, and I’ll keep fighting until we win.",私はメイロン。長いこと戦ってきたが、勝利するまで戦い続けるつもりだ。
+NPC_150027,You’re not ready.,お前はまだ準備ができていない。
+NPC_150028,Great day for patrol. Is there even such a thing as bad weather? Not for me.,パトロール日和だな。悪天候なんてものがそもそもあるのか？少なくとも俺には関係ないね。
+NPC_150029,My name’s Kerion. I’m on patrol—let me know if you spot anything odd.,私の名前はケリオン。パトロール中だ――何か変わったものを見かけたら教えてくれ。
+NPC_150030,"Go, adventurer… go.",行け、冒険者よ……行くんだ。
+NPC_150031,"It’s wonderful seeing everyone living in peace, isn’t it?",みんなが平和に暮らしているのを見るのは、素晴らしいことだよな？
+NPC_150032,I’m Raon! No one loves this village more than me.,私はラオン！この村を私ほど愛している者はいない！
+NPC_150033,You can’t pass.,お前は通れない。
+NPC_150034,"Stay calm. If the soldiers panic, who will the villagers rely on?",落ち着け。兵士が慌てたら、村人たちは誰を頼ればいい？
+NPC_150035,"I am Dreon, Captain Baron’s loyal left hand. Everything I do is for this village.",私はドレオン、バロン隊長の忠実な左腕だ。私のすることはすべて、この村のためにある。
+NPC_150036,The guy next to me? He’s connected. Says he’s friends with someone named Waldo.\nDo you know who that is?,隣にいるあいつ？顔が広いらしいぜ。ワルドとかいう奴と知り合いだって言ってた。\nそいつが誰か知ってるか？
+NPC_150037,"You’ve made it this far… but from here on, things might get dangerous.",ここまでよく来たな……だが、ここから先は危険が増すかもしれない。
+NPC_150038,"I’m Merk, head of scouting. Seen any Lycan activity?",私はメルク、斥候隊長だ。ライカンの動きを見なかったか？
+NPC_150039,Quiet. Scouting only works if we stay hidden.,静かに。斥候の仕事は隠れていてこそ成り立つんだ。
+NPC_150040,"Protecting the village is an honor, but never easy—especially when those beasts outside keep baring their fangs.",村を守るのは誇り高いことだが、簡単じゃない――特に、外にいるあの獣どもが牙をむき続けている限りはな。
+NPC_150041,"I am Baron, captain of Eillun’s guards. As the shield and sword of this place, I won’t allow any threat near our people. Under my command, no one slacks off.",私はバロン、エルリウン衛兵の隊長だ。この地の盾であり剣である以上、住民に迫るいかなる脅威も許しはしない。私の指揮下では、誰一人怠けることは許されない。
+NPC_150042,The Lycans are growing bolder. Keep your weapon ready.,ライカンどもが大胆になってきている。武器をいつでも使えるようにしておけ。
+NPC_150043,This village has a long history… a very long one. But you don’t need to know everything. Sometimes knowledge becomes a burden.,この村には長い歴史がある……とても長い歴史がな。だが、お前がすべてを知る必要はない。時に知識は重荷になる。
+NPC_150044,"I am Gaurang, the Jarl. I’ve protected this village for decades. My bones ache with age, yet the afterlife still refuses to take me. Strange, isn’t it?",私はガウラング、ヤールだ。何十年もこの村を守ってきた。年老いた体は軋むが、あの世はまだ私を迎えてくれないらしい。奇妙なものだろう？
+NPC_150045,Welcome to Eillun Village. I hope you enjoy your stay.,エルリウン村へようこそ。滞在を楽しんでくれ。
+NPC_150046,A new visitor… Let’s hope that’s a good sign.,新しい客人か……いい兆しだといいが。
+NPC_150047,"I am Ayr, one of the elders. I’ve helped uphold this village for a long time. It’s been harder lately, though. Maybe you’ll bring change.",私はエア、長老の一人だ。長いことこの村を支えてきた。だが最近はどんどん難しくなっている。もしかすると、お前が変化をもたらしてくれるかもしれないな。
+NPC_150048,sigh The jarl threw his work at me again today…\nI’m too old for this. Can’t even retire quietly.,（ため息）今日もまたヤールに仕事を押し付けられた……\n年寄りにはきついよ。静かに引退することもできやしない。
+NPC_150049,Do you always trust what you see? Think it through.,いつも見たものをそのまま信じるのか？よく考えてみるといい。
+NPC_150050,"I’m Elder Traitus, in charge of supplies. Now then… how am I supposed to find enough for today?",私はトレイタス長老、物資の管理を任されている。さて……今日の分をどうやって工面したものか。
+NPC_150051,We’re not like the Khajiit… not like them at all.,私たちはカジートとは違う……まったく違う。
+NPC_150052,"Sometimes protecting the village requires sacrifice. It’s harsh, but true.",村を守るには、時に犠牲が必要だ。厳しいが、それが真実だ。
+NPC_150053,"I’m Melak, responsible for security with Baron. Things get worse every day. Please don’t give me another reason to worry. I’ll be keeping an eye on you.",私はメラク、バロンと共に治安を担当している。日に日に状況は悪化している。頼むから、これ以上心配の種を増やさないでくれ。お前のことは見張らせてもらう。
+NPC_150054,It’s dangerous to go alone.,一人で行くのは危険だぞ。
+NPC_150055,How long are we going to sit around? We need to strike back and show them who we are.,いつまでこうして座っているつもりだ？反撃に出て、俺たちの力を見せつける必要がある。
+NPC_150056,I am Silar. There’s one way to protect this village: make our enemies fear us more than we fear them.,私はサイラー。この村を守る方法は一つしかない――敵が俺たちを恐れる以上に、俺たちが敵を恐れないことだ。
+NPC_150057,We have a great communicator here… want to guess who?,ここには話がうまい奴がいるんだ……誰だと思う？
+NPC_150058,"Is a long life a blessing? Stay too long in a place you were meant to leave, and the ground starts to feel like it’s sinking under you.",長生きは祝福なのか？去るべき場所に長くとどまりすぎると、足元の地面が沈んでいくように感じ始める。
+NPC_150059,"I’m Ebron, just an old man with too much spare time. Live long enough and you start noticing things others don’t.",私はエブロン、ただの暇を持て余した老人さ。長く生きていると、他人が気づかないことに気づくようになるものだ。
+NPC_150060,"Time is a strange thing, isn’t it?",時というのは、奇妙なものだろう？
+NPC_150061,Stock up on supplies before you leave. Better to have too much than too little.,旅立つ前に物資を蓄えておけ。多すぎるくらいがちょうどいい。
+NPC_150062,"I’m Liana, owner of the general store. Traveler or villager, I’ll make sure you get what you need.",私はリアナ、雑貨店の店主です。旅人でも村人でも、必要なものは必ずお渡しします。
+NPC_150063,"Hand over the Penya peacefully, and no one gets hurt.",大人しくペニャを渡せば、誰も痛い目には遭わない。
+NPC_150064,Look at this gemstone! It’s not just jewelry—it’s art.,この宝石を見てくれ！ただの装飾品じゃない――芸術品だ。
+NPC_150065,"I’m Teron. When it comes to gems, my eyes are sharper than anyone’s. I can find the perfect one for you.",私はテロン。宝石にかけては、誰よりも目が利く自信がある。あなたにぴったりの一品を見つけてあげよう。
+NPC_150066,Jewels are art! Do you appreciate art? Train your eye—your skills might improve along with it.,宝石は芸術だ！芸術を分かるかい？目を鍛えれば、腕前も一緒に磨かれるかもしれないよ。
+NPC_150067,Good armor is like having a second life.,良い防具は、まるでもう一つの命を持つようなものだ。
+NPC_150068,I’m Haret. Picking armor isn’t about preference—it’s survival. Think you’ll find better quality anywhere else? Doubt it.,私はハレット。防具選びは好みの問題じゃない――生死を分ける問題だ。他所でこれ以上の品質が見つかると思うか？まさかな。
+NPC_150069,You won’t find armor like this anywhere else. Buy today and I’ll even give you a small discount.,こんな防具、他ではまず手に入らないぞ。今日買ってくれるなら、ちょっとしたおまけもつけよう。
+NPC_150070,A good weapon never betrays its wielder. Find one that suits you.,良い武器は、使い手を決して裏切らない。自分に合う一振りを見つけろ。
+NPC_150071,"Name’s Domir. Swords, axes, bows—whatever you need, I can forge it.",私はドミール。剣も斧も弓も、必要なものは何でも打ってやろう。
+NPC_150072,You sure you’re happy with that weapon? You deserve better. Let me show you something nice.,本当にその武器で満足なのか？お前ならもっといいものにふさわしい。何かいいものを見せてやろう。
+NPC_150073,"Attacking is important, but if you can’t defend yourself, you won’t last a battle.",攻撃も大事だが、自分の身を守れなければ戦いを乗り切れない。
+NPC_150074,"I’m Toran, the best shieldsmith in the village. If you need a shield crafted, I’m your guy.",私はトラン、この村一番の盾職人だ。盾を打ってほしければ、私に任せろ。
+NPC_150075,"That shield won’t last long out here. Lucky for you, I’ve got a sturdier one.",その盾はここじゃ長持ちしない。運がいいことに、もっと頑丈なやつを用意してあるぞ。
+NPC_150076,Fresh off the fire! I’ve even got a warm pot of soup. Want a bowl?,焼きたてだよ！温かいスープも用意してある。一杯どうだい？
+NPC_150077,"I’m Karen, the best cook in the village. And no, my secret recipes aren’t going anywhere.",私はカレン、この村一番の料理人さ。それと、秘伝のレシピは誰にも教えないからね。
+NPC_150078,Fresh goods from the forest! Stock up before you travel.,森から届いたばかりの新鮮な品だよ！旅立つ前に買いだめしておきな。
+NPC_150079,A staff or wand is just a tool. The real magic depends on the person holding it.,杖や魔導具はただの道具にすぎない。本当の魔力は、それを扱う者次第だ。
+NPC_150080,"I’m Nebrah, seller of magical tools. If you know how to handle these properly, they’ll bring great power.",私はネブラ、魔法道具を売っている。正しい扱い方を知っていれば、これらは大きな力をもたらしてくれる。
+NPC_150081,"Interested in magic? I’ve got wands, staves, robes—take a look.",魔法に興味があるのかい？杖に魔導書、ローブも取り揃えてるよ。見ていくといい。
+NPC_150082,Color carries emotion. The flowers around here create shades no dye can match.,色には感情が宿る。この辺りに咲く花は、どんな染料にも出せない色合いを生み出すんだ。
+NPC_150083,I’m Sena. I dye fabrics with flowers and plants. Your clothes would look beautiful with my colors.,私はセナ。花や植物で布を染めているの。私の色なら、あなたの服もきっと美しく映えるわ。
+NPC_150084,Take a look.,見ていって。
+NPC_150085,Wounds heal with time… but the right treatment helps a lot.,傷は時間とともに癒えるけれど……正しい治療があれば、ずっと早くなるわ。
+NPC_150086,"I’m Rohan. I tend to the injured. It used to be peaceful work, but lately it’s been exhausting.",私はロハン。怪我人の手当てをしている。昔は穏やかな仕事だったけど、最近は本当に大変なの。
+NPC_150087,"Time is money, friend.",時は金なり、だよ。
+NPC_150088,"Knowledge is the strongest weapon. Those beasts fight with teeth, but we defeat them with wit.",知識こそ最強の武器だ。あの獣どもは牙で戦うが、我々は知恵で打ち勝つ。
+NPC_150089,I’m Belia. I teach young Myurans our history and wisdom. Learning never ends.,私はベリア。若いムランたちに我々の歴史と知恵を教えている。学びに終わりはないわ。
+NPC_150090,"If you want to share knowledge with us, you’d better learn our unit system. The YP Law is pretty great, honestly.",知識を私たちと共有したいなら、まず私たちの単位系を学んだほうがいい。YPの法則は、正直かなり優れているのよ。
+NPC_150091,The stars reveal many things. Tonight’s constellations hint at change.,星々は多くを語る。今夜の星座は、変化の兆しを示している。
+NPC_150092,"I’m Kerin. I read the stars for glimpses of the future. Your fate… well, I’m not supposed to say.",私はケリン。星を読んで未来の断片を垣間見ている。あなたの運命は……いえ、それは話せないことになっているの。
+NPC_150093,But I do believe you’re strong enough to face whatever comes.,でも、あなたはどんなことが来ても立ち向かえるだけの強さを持っていると信じているわ。
+NPC_150094,Hunting isn’t just catching prey—it’s understanding nature.,狩りとは、ただ獲物を捕らえることじゃない――自然を理解することだ。
+NPC_150095,"I’m Artin, the village hunter. I bring in fresh meat. Those dogs make it harder lately, but it’s still my job.",私はアーティン、この村の猟師だ。新鮮な肉を届けている。最近はあの犬どものせいでやりにくくなったが、それでも俺の仕事だ。
+NPC_150096,Wanna communicate with mother Nature? Follow me!,母なる自然と語り合いたいか？ついてこい！
+NPC_150097,Trees are alive. I just help shape their lives into new forms.,木々は生きている。私はただ、その命を新しい形に変える手伝いをしているだけだ。
+NPC_150098,I’m Pael. I carve fallen branches from the great town tree. Their memories live through my work.,私はパエル。大樹から落ちた枝を彫っている。その記憶は、私の作品を通して生き続ける。
+NPC_150099,"To speak to living trees, you must use your true name and put your heart into it. I am Pael. I am Pael.",生きた木々と語り合うには、真の名を使い、心を込めなければならない。私はパエル。私はパエルだ。
+NPC_150100,Dreams send messages from within. Understanding them can reveal the truth.,夢は内なる心からのメッセージだ。それを理解すれば、真実が見えてくる。
+NPC_150101,I’m Lumi. I listen to people’s dreams and help them find meaning. Had any strange ones lately?,私はルミ。人々の夢に耳を傾け、その意味を見つける手伝いをしているの。最近、何か不思議な夢は見た？
+NPC_150102,Let me show you… a world of dreams and imagination.,見せてあげる……夢と想像の世界を。
+NPC_150103,The stars hold the stories of our ancestors. Their wisdom still guides us.,星々は先祖たちの物語を宿している。その知恵は今も私たちを導いてくれる。
+NPC_150104,"I’m Ivelyn. I study the constellations. If I learn enough, I might even predict when those dogs will attack.",私はアイヴェリン。星座を研究している。もっと学べば、あの犬どもがいつ襲ってくるかさえ予測できるかもしれないわ。
+NPC_150105,May the ancestors watch over you.,祖先たちがあなたを見守ってくれますように。
+NPC_150106,A scent can hold a memory. One drop of my perfume might bring back something long forgotten.,香りは記憶を宿すことがある。私の香水の一滴が、忘れていた何かを呼び覚ますかもしれない。
+NPC_150107,"I’m Selin, a maker of perfumes. I wonder which scent suits you best.",私はセリン、香水を作っている。どの香りがあなたに一番似合うかしら。
+NPC_150108,The same fragrance smells different on everyone. That’s the magic of it.,同じ香りでも、つける人によって違う匂いになる。それがこの魔法なの。
+NPC_150109,Hey! Don’t tell the adults you saw me here. Seriously—don’t.,ねえ！私をここで見たって大人に言わないでよね。本当に――絶対に言わないで。
+NPC_150110,"I'm Kaela. Go home? Not happening. Wolves or not, I can handle myself.",私はカエラ。家に帰る？冗談じゃないわ。狼がいようがいまいが、自分の身くらい自分で守れるもの。
+NPC_150111,Grown-ups love saying “no.” It’s the one word I can’t stand.,大人はすぐ「だめ」って言うのが好きよね。あの一言だけは我慢できない。
+NPC_150112,Every event carries a lesson. A good story makes it easier to hear.,どんな出来事にも教訓がある。良い物語は、それを聞きやすくしてくれるものだ。
+NPC_150113,I’m Livia. I collect and share our people’s stories. Want to share yours?,私はリビア。私たちの民の物語を集めて語り継いでいる。あなたの物語も聞かせてくれる？
+NPC_150114,Old legends always hide clues—ways to survive today.,古い伝説にはいつも手がかりが隠されている――今日を生き延びるための術がね。
+NPC_150115,"One day… I’ll earn their respect, no matter what it takes.",いつか……何をしてでも、あの人たちの尊敬を勝ち取ってみせる。
+NPC_150116,"I’m Taila. It’s a secret, but I’m actually the jarl’s—…no, I shouldn’t say more.",私はタイラ。秘密なんだけど、実は私、ヤールの……ううん、これ以上は言えないわ。
+NPC_150117,"If I say it out loud, I feel like everything might fall apart. So it stays a secret.",口に出したら、何もかも崩れてしまう気がするの。だから秘密のままにしておくのよ。
+NPC_150118,What are you doing here? Most people don’t even know this place exists.,こんなところで何してるんだ？この場所の存在すら、ほとんどの人は知らないのに。
+NPC_150119,You’re not ready to know the truth. But if you grow stronger… maybe that’ll change.,お前はまだ真実を知る準備ができていない。だが、もっと強くなれば……変わるかもしれない。
+NPC_150120,Turn back. You’re not qualified.,引き返せ。お前にその資格はない。
+NPC_150121,"Where did we go so wrong!? It’s good they aren’t attacking, but still…",一体どこで間違えたんだ！？奴らが襲ってこないのは幸いだが、それにしても……
+NPC_150122,"I'm Beck, from Saint City. I joined the New World Expedition and ended up stuck here. Missed the ship home, sadly.",俺はベック、セイントモーニング出身だ。ニューワールド遠征隊に参加したんだが、結局ここに取り残されちまった。帰りの船に乗り遅れちまってな、悲しいことにさ。
+NPC_150123,People—! A person is here! Help!,誰か――！人がいるぞ！助けてくれ！
+NPC_150124,Keeping watch here isn’t easy. You never know what might creep out of the darkness.,ここの見張りは楽じゃない。闇の中から何が這い出してくるか分からないんだ。
+NPC_150125,Me? I’m the guardian of Ankou’s Asylum. Someone has to make sure the nightmares stay inside.,俺か？俺はベヒモス神殿の守衛だ。悪夢がちゃんと中に留まっているか、誰かが見張らなきゃならないんでね。
+NPC_150126,Feeling brave today? Just remember—I warned you.,今日は勇気があるみたいだな。ただ、警告はしたからな。
+NPC_150127,"If you make it through Ankou’s madness, come find me. I’d love to hear your story… assuming you’re still sane.",もしベヒモスの狂気を乗り越えられたら、俺に会いに来てくれ。お前の話を聞きたいもんだ……その時にまだ正気ならな。
+NPC_DUNGEONBUFF_000001,Earn 2 random Statue Effects (buffs or debuffs).,ランダムな石像効果（バフまたはデバフ）を2つ獲得する。
+NPC_DUNGEONBUFF_000002,Earn 1 Statue Buff (buff only).,石像バフ（バフのみ）を1つ獲得する。
+NPC_DUNGEONBUFF_000003,Change your current statue buff at random.,現在の石像バフをランダムに変更する。
+NPC_150128,Just… leave me alone. I need to rest my eyes.,……ちょっと放っておいてくれ。目を休めたいんだ。
+NPC_150129,I thought I could face him alone… but he was much stronger than I expected. Please be ready if you plan to fight him.,一人で奴に立ち向かえると思ってたんだが……予想よりずっと強かった。戦うつもりなら、覚悟しておいてくれ。
+NPC_150130,Alone… I didn't stand a chance.,一人じゃ……歯が立たなかった。
+NPC_150131,Very well. What do you need?,よかろう。何が必要だ？
+NPC_150132,"Stay vigilant. In wartime, a moment's carelessness can be fatal.",気を抜くな。戦時中は、わずかな油断が命取りになる。
+NPC_150133,Come see me if you're hurt. Proper treatment makes all the difference.,怪我をしたら私のところに来い。適切な治療が何より違いを生む。
+NPC_150134,Safety is my responsibility here. I take that duty seriously.,ここの安全を守るのが私の責任だ。その務めを真剣に果たしている。
+NPC_150135,"This place is quiet, but that doesn't mean we can let our guard down completely.",ここは静かな場所だが、だからといって完全に油断していいわけじゃない。
+NPC_150136,A soldier's watch must never fail. We protect this place with our lives.,兵士の見張りは決して途切れさせてはならない。私たちは命を懸けてこの場所を守っている。
+NPC_150137,I hope your visit brings good fortune to our village.,あなたの訪問が、この村に幸運をもたらしますように。
+NPC_150138,"Pay attention to what you hear. Sometimes the most important information comes when you're listening, not watching.",耳にしたことに気を配れ。時には、見ているときよりも聞いているときのほうが、重要な情報が入ってくるものだ。
+NPC_150139,"The ship left without me, but I can't dwell on that. Life goes on, and so must I.",船は俺を置いて出てしまったが、いつまでも引きずってはいられない。人生は続くし、俺もそうしなきゃな。
+NPC_150140,Quick question—can you handle a task for me?,ちょっと聞きたいんだが――一つ、頼まれてくれないか？
+NPC_150141,I need someone reliable. Think you're up for it?,信頼できる人が必要なんだ。任せられるか？
+NPC_150142,I've got injured people piling up. Could you help me gather some supplies?,怪我人がどんどん増えている。物資を集めるのを手伝ってくれないか？
+NPC_150143,There's something dangerous out there. I need someone to investigate.,外に何か危険なものがいる。調べてくれる人が必要なんだ。
+NPC_150144,Bored of guard duty yet? I've got something more interesting if you're interested.,見張り番に飽きたか？興味があるなら、もっと面白い仕事があるぞ。
+NPC_150145,We've spotted suspicious activity. I need someone to check it out.,怪しい動きを見かけたんだ。調べてくれる人が必要だ。
+NPC_150146,A visitor like you might be able to help with something the locals can't.,お前のような旅人なら、地元の者には手に負えない何かを手伝えるかもしれない。
+NPC_150147,I overheard something important. Want to help me follow up on it?,重要な話を耳にしたんだ。それを追ってくれるのを手伝ってくれないか？
+NPC_150148,"I'm stuck here, but maybe you could help me with something back home?",俺はここに取り残されてるんだが、故郷のことで力を貸してもらえないか？
+NPC_150149,Our supplies are running low. Could you help me gather what we need?,物資が底をつきそうだ。必要なものを集めるのを手伝ってくれないか？
+NPC_150150,That shield you're carrying looks weak. I've got a job that might earn you a better one.,その盾、頼りなさそうだな。もっといいものが手に入る仕事があるぞ。
+NPC_150151,"I've found some interesting gems, but I need help appraising them properly.",面白い宝石を見つけたんだが、きちんと鑑定するのに手を貸してほしい。
+NPC_150152,"There's something I need to tell you… but first, can you help me with a small task?",話したいことがあるんだが……その前に、ちょっとした頼み事を聞いてくれないか？
+NPC_150153,Those Lycans are getting bolder. I need someone to help me track their movements.,ライカンどもが大胆になってきている。奴らの動きを追うのを手伝ってほしい。
+NPC_150154,I'm looking for a real fight. Think you can point me toward something challenging?,本気の戦いを探してるんだ。何か歯応えのあるものを教えてくれないか？
+NPC_150155,I've been working on some new colors. Want to help me test them out?,新しい色をいろいろ試してるんだ。試すのを手伝ってくれない？
+NPC_150156,I've been hearing strange things in people's dreams lately. Can you help me investigate?,最近、人々の夢の中で奇妙なことが起きているらしいの。調べるのを手伝ってくれる？
+NPC_150157,More wounded keep coming in. I could really use some help gathering medical supplies.,負傷者がどんどん運ばれてくる。医療物資を集めるのに、本当に手を貸してほしいの。
+NPC_150158,"I love this village, but there's something I need help protecting.",この村を愛しているけど、守らなきゃいけないものがあるの。手伝ってくれる？
+NPC_150159,The trees have been whispering. They want me to find something. Will you help?,木々がささやいているの。何かを見つけてほしいって。手伝ってくれる？
+NPC_150160,"I've got some powerful magic tools, but I need help testing them safely.",強力な魔法道具を手に入れたんだけど、安全に試すのを手伝ってほしいの。
+NPC_150161,You shouldn't be here. But since you are… maybe you can help me with something.,ここに来るべきじゃなかったのに……まあ、来ちゃったんだし、何か手伝ってもらおうかしら。
+NPC_150162,I've spotted some unusual Lycan movements. Want to help me scout the area?,普段と違うライカンの動きを見つけたの。周辺を偵察するのを手伝ってくれる？
+NPC_150163,I've been fighting for so long. Maybe you can help me finish this once and for all.,もう長いこと戦い続けている。これを終わらせるのを手伝ってくれないか。
+NPC_150164,I've been having strange dreams about you. Want to help me understand what they mean?,最近、あなたについて奇妙な夢を見るの。その意味を理解する手伝いをしてくれる？
+NPC_150165,"I collect stories, and I think yours might be worth hearing. But first, help me with something?",私は物語を集めているんだけど、あなたの話は聞く価値がありそう。でもその前に、何か手伝ってくれる？
+NPC_150166,"Those dogs won't come near us, but something else might. Want to help me keep watch?",あの犬どもは私たちに近づかないけど、他の何かが来るかもしれない。見張りを手伝ってくれる？
+NPC_150167,"I'm on patrol, but I spotted something that needs investigating. Care to join me?",パトロール中に、調べるべきものを見つけたんだ。一緒に来てくれるか？
+NPC_150168,The stars are telling me something important. I need your help to understand it.,星々が重要なことを伝えている。理解するのに、あなたの助けが必要なの。
+NPC_150169,"I've got fresh food ready, but I need help delivering it to some people. Interested?",新鮮な食材の用意はできたんだけど、何人かに届けるのを手伝ってほしいの。興味ある？
+NPC_150170,"Hey, don't tell anyone you saw me, but I could use your help with something.",ねえ、私をここで見たって誰にも言わないでね。でも、ちょっと手を貸してほしいことがあるの。
+NPC_150171,This village has secrets. I might share one if you help me with a task.,この村には秘密があるの。頼み事を聞いてくれたら、一つ教えてあげてもいいわ。
+NPC_150172,"I've been watching the constellations. Something's coming, and I need help preparing.",星座をずっと観察しているの。何かが近づいている――その備えに手を貸してほしいの。
+NPC_150173,I've got injured soldiers who need better armor. Can you help me gather materials?,怪我をした兵士たちにもっと良い防具が必要なんだ。材料を集めるのを手伝ってくれないか？
+NPC_150174,"I thought I could handle it alone, but I was wrong. Can you help me finish what I started?",一人でなんとかできると思ってたが、間違いだった。始めたことを終わらせるのを手伝ってくれないか？
+NPC_150175,"The stars have shown me something about you. Help me, and I'll tell you what I saw.",星があなたについて何かを示したの。手伝ってくれたら、見えたものを教えてあげる。
+NPC_150176,Good armor saves lives. I need help getting materials to make more. Can you assist?,良い防具は命を救う。もっと作るための材料集めに手を貸してほしいの。手伝ってくれる？
+NPC_150177,"I'm loyal to Captain Baron, but there's something I need to handle personally. Will you help?",私はバロン隊長に忠誠を誓っているが、個人的に片づけなければならないことがある。手伝ってくれるか？
+NPC_150178,"I've lived too long in one place. Help me with this, and maybe I can finally move on.",同じ場所に長く住みすぎたわ。これを手伝ってくれたら、ようやく前に進めるかもしれない。
+NPC_150179,"I've been teaching the young ones, but there's something I need to learn myself. Can you help?",若い子たちに教えているけど、私自身も学ばなきゃいけないことがあるの。手伝ってくれる？
+NPC_150180,"I forge weapons, but I need rare materials. Think you can help me find them?",武器を打つ仕事をしているが、希少な素材が要る。見つけるのを手伝ってくれないか？
+NPC_150181,"The village needs protection, and I need someone I can trust. Are you that person?",村には守りが必要で、私には信頼できる誰かが必要だ。お前がその相手か？
+NPC_150182,"I'm an elder, and I've seen many things. Help me with this, and I'll share what I know.",私は長老で、多くのことを見てきた。これを手伝ってくれたら、知っていることを教えよう。
+NPC_150183,The nightmares are getting stronger. I need someone brave enough to help me contain them.,悪夢はどんどん強くなっている。それを封じ込める手伝いをしてくれる、勇気ある人が必要なんだ。
+NPC_150184,Hunting's been tough lately. I could use help tracking down some prey.,最近、狩りがうまくいかなくてね。獲物を追うのを手伝ってくれないか。
+NPC_150185,Security is getting worse every day. I need someone to help me investigate a threat.,治安が日に日に悪化している。脅威を調べるのを手伝ってくれる人が必要だ。
+NPC_150186,Welcome to the #b#cffff0000Eillun Quest Office#nc#nb! Looking for work? I may have a job for you...,#b#cffff0000エルリウン依頼所#nc#nb へようこそ！仕事をお探しですか？あなたにぴったりの仕事があるかもしれません……
 NPC_150187,Welcome to the Quest Office! The local citizens have issued the following quests. Please select the quest you wish to take from the list below.,こんにちは、いくつか依頼があります。以下を選択してください。
 NPC_150188,"My apologies, there are no quests available for an adventurer of your talent and skill at this time. ",ご提供できるクエストがありません。申し訳ありません。またいらしてくださいね。
-NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!","My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!"
+NPC_150189,"My name is Miorang and I am the manager of the Eillun Quest Office. When our citizens post a hunting order or another task, it is my job to find the right candidate for the job. Check back in from time to time to see if I have anything available!",私の名前はミオラン、エルリウン依頼所の管理人です。村の住民が討伐依頼やその他の仕事を持ち込むと、それに相応しい人材を見つけるのが私の仕事です。何か空きがないか、時々確認しに来てくださいね！
 NPC_150190,Farewell!,みなさんがんばってください～！
-NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?
+NPC_150191,Welcome to the #b#cffff0000Office.#nc#nb of Eillun. How can I be of service?,#b#cffff0000エルリウンの依頼所#nc#nb へようこそ。何かご用でしょうか？
 NPC_150192,"So what can you do for me, huh?",何ができますか？
-NPC_150193,Ugh... maybe next time.,Ugh... maybe next time.
-NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,My name is Cheirang and I manage the Office of Eillun. How can I help you today?
+NPC_150193,Ugh... maybe next time.,うぐ……また今度にするか。
+NPC_150194,My name is Cheirang and I manage the Office of Eillun. How can I help you today?,私の名前はチェイラン、エルリウンの依頼所を管理しています。今日はどのようなご用件でしょうか？
 NPC_150195,Farewell!,みなさんがんばってください～！
-NPC_150196,"Welcome to Eillun! Please, enjoy your stay!","Welcome to Eillun! Please, enjoy your stay!"
+NPC_150196,"Welcome to Eillun! Please, enjoy your stay!",エルリウンへようこそ！どうぞごゆっくりお過ごしください！
 NPC_150197,"Hello, traveler. I have some missions for you!",元気ですか？旅人さん。ミッションを用意しておきますね。
-NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.","Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom."
-NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?
+NPC_150198,"Eillun is the heart of Madrigal’s blooming spirit. Our trees may tower over the skies, but our hospitality always reaches further. Should you ever seek guidance, come find me beneath the Great Blossom.",エルリウンは、マドリガルに息づく繁栄の心臓部です。私たちの木々は空高くそびえ立ちますが、もてなしの心はさらに遠くまで届きます。導きが必要になったら、大いなる花の下で私を訪ねてください。
+NPC_150199,I am the mayor of Eillun. The harmony of our blossoms and our people is what I cherish most. How may I assist you today beneath our great trees?,私はエルリウンの族長です。花々と民の調和こそ、私が最も大切にしているものです。この大樹の下で、今日はどのようなご用件でしょうか？
 NPC_150200,Farewell!,みなさんがんばってください～！
-NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,I've spotted a security issue that needs immediate attention. Can you handle it?
-NPC_100198,Let luck do its thing.,Let luck do its thing.
-NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,I deal in pieces and fortune.\nCare to try your luck?
-NPC_100200,Wanna test your luck?,Wanna test your luck?
-NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb
-NPC_150203,Good Luck!,Good Luck!
-NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.
-NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…","O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…"
-NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.","So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them."
-NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.","Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately."
-NPC_155010,"P-Please help! The plants here... they're moving, they're alive!","P-Please help! The plants here... they're moving, they're alive!"
-NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...","I'm Sprout. I used to work on this farm... well, I guess it WAS a farm..."
-NPC_155012,Please save me... I just want to get out of here...,Please save me... I just want to get out of here...
-NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!","Tch, those damn Lycan... If I get out of here alive, they'll pay...!"
-NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.","Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it."
-NPC_155015,"Damn it, there are still people trapped inside!","Damn it, there are still people trapped inside!"
-NPC_155016,You're the rescue team? Good. You'll need my observation records.,You're the rescue team? Good. You'll need my observation records.
-NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.","I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident."
-NPC_155018,Hmm... I should document that mutation pattern...,Hmm... I should document that mutation pattern...
-NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.","This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast."
-NPC_155020,Baron here. Have you found the three yet?,Baron here. Have you found the three yet?
-NPC_155021,We don’t have much time. Every delay makes things worse.,We don’t have much time. Every delay makes things worse.
-NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...
-NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...","W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone..."
-NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...
-NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.
-NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!","Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!"
-NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.
-NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.
-NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.","Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback."
-NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.
-NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.","Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now."
-NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.
-NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.
-NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.
-NPC_156013,Oh... alright. Come find me whenever you feel ready.,Oh... alright. Come find me whenever you feel ready.
-NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.
+NPC_150201,I've spotted a security issue that needs immediate attention. Can you handle it?,すぐに対応が必要な治安問題を見つけたんだ。対処してくれるか？
+NPC_100198,Let luck do its thing.,運を天に任せよう。
+NPC_100199,I deal in pieces and fortune.\nCare to try your luck?,運試しと財運を扱っているんだ。\n運試ししてみるかい？
+NPC_100200,Wanna test your luck?,運試ししてみる？
+NPC_150202,#b#cff8a004fThe #cfff60000Level 165 Guild Siege Application Center #cff8a004fis open! Enjoy it before your third class!#nc#nb,#b#cff8a004f#cfff60000Lv165ギルドコンバット申込センター#cff8a004fが開設中です！3次職になる前にぜひご利用ください！#nc#nb
+NPC_150203,Good Luck!,幸運を！
+NPC_155001,The fields are still in trouble. Stay sharp—whatever's in there isn't done yet.,畑はまだ厄介な状態だ。油断するな――中にいる何かは、まだ終わっていない。
+NPC_155002,"O-oh! You're from the guard, r-right? I-I swear, it's not just bad farming! The mushrooms just… changed. S-something's not right, I'm telling you…",お、おお！衛兵さんだよな、そ、そうだろ？い、いや、ただの不作じゃないんだ！キノコが……ただ、変わっちまったんだよ。な、何かがおかしいんだ……
+NPC_155003,"So the guard finally noticed, huh. Took you long enough. If you want answers, you'd better be ready to hear them.",ようやく衛兵が気づいたか。遅すぎるくらいだけどな。答えが欲しいなら、覚悟して聞くんだな。
+NPC_155004,"Fascinating, isn't it? The crops here aren't simply rotting—they're changing. Now that you're here, we should report this immediately.",興味深いだろう？ここの作物はただ腐っているんじゃない――変化しているんだ。お前が来たからには、すぐに報告すべきだな。
+NPC_155010,"P-Please help! The plants here... they're moving, they're alive!",た、助けて！ここの植物が……動いてる、生きてるんだ！
+NPC_155011,"I'm Sprout. I used to work on this farm... well, I guess it WAS a farm...",俺はスプラウト。この農場で働いてたんだ……いや、もう〝農場だった〟って言うべきかな……
+NPC_155012,Please save me... I just want to get out of here...,頼む、助けてくれ……ここから出たいだけなんだ……
+NPC_155013,"Tch, those damn Lycan... If I get out of here alive, they'll pay...!",ちっ、あのクソったれなライカンども……生きてここを出られたら、必ず償わせてやる……！
+NPC_155014,"Name's Thorn. This wasn't exactly the thing to shed blood... but now it's gotten real interesting, hasn't it.",名前はソーン。もとはこんな血まみれになる予定じゃなかったんだが……いや、こうなるとかえって面白くなってきたな。
+NPC_155015,"Damn it, there are still people trapped inside!",くそっ、まだ中に閉じ込められてる奴らがいるんだ！
+NPC_155016,You're the rescue team? Good. You'll need my observation records.,お前が救助隊か？よし。俺の観察記録が必要になるはずだ。
+NPC_155017,"I'm Root. I was in charge of plant mutation management and cultivation... Well, I WAS. Now I'm investigating this incident.",私はルート。植物の変異管理と栽培を担当していた……いや、〝していた〟だな。今はこの事件を調査している。
+NPC_155018,Hmm... I should document that mutation pattern...,ふむ……あの変異パターンは記録しておくべきだな……
+NPC_155019,"This is serious… For something like this to happen inside the village…\nWe need to contain it, and fast.",これは深刻だ……こんなことが村の中で起きるとはな……\n早急に封じ込めなければならない。
+NPC_155020,Baron here. Have you found the three yet?,バロンだ。三人はもう見つかったか？
+NPC_155021,We don’t have much time. Every delay makes things worse.,時間がない。遅れるほど事態は悪化する。
+NPC_156000,P-please help me! I-I can't go back to the village like this! W-what if those things show up again? I-I won't make it on my own...,た、助けてくれ！こ、こんな姿で村には戻れない！も、もしまたあれが現れたら？お、俺一人じゃ無理だ……
+NPC_156001,"W-wait... you're leaving me here?! P-please, I'm begging you... I can't do this alone...",ま、待てよ……お、俺をここに置いていくのか！？た、頼む、一人じゃ無理なんだ……
+NPC_156002,Y-you did it! Th-thank you so much! I... I don't know what I would have done without you. Th-thank you...,や、やったな！あ、ありがとう！お前がいなかったら、俺はどうなってたか……本当にありがとう……
+NPC_156003,You. Good. Something out there is watching us... I'm not letting it compromise this operation. Stay sharp and stay close to me.,お前か。よし。外で何かがこっちを見てる……この作戦を邪魔させはしない。気を抜くな、俺のそばを離れるなよ。
+NPC_156004,"Coward! Without your help, how am I supposed to protect anyone out there? This is unacceptable!",腰抜けが！お前の助けなしで、どうやって誰かを守れって言うんだ！冗談じゃない！
+NPC_156005,Well done. You've proven your worth. That's the kind of strength we need. My thanks... and respect.,よくやった。お前の実力は本物だ。俺たちに必要なのはそういう強さだよ。感謝する……そして、認めよう。
+NPC_156006,...This is unexpected. Something beneath the soil is actively reacting to your presence. I need time to observe it. The data could be critical.,……これは予想外だ。土の下の何かが、お前の存在に明らかに反応している。観察する時間が要る。このデータは重要かもしれない。
+NPC_156007,"Don't slow down. If those creatures interrupt my readings, everything is compromised. I can't afford another setback.",手を緩めるな。あの生物どもに観測を邪魔されたら、すべてが台無しになる。もう後がないんだ。
+NPC_156008,The readings are clear now. Your protection allowed me to gather the information we needed. Excellent work. This changes everything.,測定結果がはっきりしたぞ。お前が守ってくれたおかげで、必要なデータを集められた。見事な働きだ。これで状況が変わる。
+NPC_156009,"Like I said, we should not stay here any longer. The activity beneath the soil is escalating faster than expected. We need to relocate now.",言った通りだ、これ以上ここに留まるべきじゃない。土の下の活動は予想以上の速さで悪化している。今すぐ移動する必要がある。
+NPC_156010,Don't abandon me out here. The creatures are reacting to what I'm carrying. I need your cover to escape safely.,俺を置き去りにしないでくれ。あの生物どもは、俺が持っているものに反応しているんだ。無事に逃げるには、お前の護衛が要る。
+NPC_156011,You made it out. Good. The data is secure and the specimens are intact. This expedition was a success. My gratitude.,よく生き延びたな。データは無事、標本も無傷だ。この遠征は成功だった。感謝する。
+NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,へへ～勇気があるじゃない？もう一度エンタネスに挑ませてあげてもいいわよ。
+NPC_156013,Oh... alright. Come find me whenever you feel ready.,あら……分かったわ。準備ができたら、いつでも私を訪ねてきて。
+NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,私はムシャ。この場所を見張って、もう一度エンタネスに挑みたい冒険者を案内しているの。
