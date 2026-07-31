@@ -13,7 +13,7 @@ PROPQUEST_SCENARIO_INC_000314,Cracked Continent,暗殺者の影
 PROPQUEST_SCENARIO_INC_000315,"Thank you very much for your help! I received plenty of money to study history thanks to you. Listen, it looks like all of the data about Madrigal is distorted.",研究費はちゃんといただきました、ありがとう。これで安心して研究が進められます。あの…まだ、誰にも話してないことですが…ええ、信じてくださらない方もいるでしょうけど…。実は、今のマドリガルの歴史に関する資料は、全て歪曲されているのです。
 PROPQUEST_SCENARIO_INC_000316,I have been studying Madrigal history apart from the History Society and it seems that they do not want to correct the distorted history in these books.,マドリガルの歴史を詳しく調べると、おかしなところがたくさんあるんです。でも、マドリガル歴史協会は矛盾点を知っているにも関わらず、修正しようとしないのです。私はそれが何だか気になって…それで一人でいろいろ調べてみたのです。
 PROPQUEST_SCENARIO_INC_000317,The other day I was almost killed by renegade Blades but I cannot stop now. No matter what the History Society wants.,調査を始めて少し経った頃でしょうか…恐ろしいことに、ある日私は何者かによって命を狙われそうになりました。何となくそれが、私の調べている歴史の事に関係しているような気がしてならないのです。何か私の知らない大きな力が動いているような…
-PROPQUEST_SCENARIO_INC_000318,"I will find out the true history of Madrigal, I have to. Would you please help me? The danger for you could be great however.","I will find out the true history of Madrigal, I have to. Would you please help me? The danger for you could be great however."
+PROPQUEST_SCENARIO_INC_000318,"I will find out the true history of Madrigal, I have to. Would you please help me? The danger for you could be great however.",マドリガルの真の歴史を必ず突き止めなければなりません。手伝ってもらえますか？ただし、あなたにとって大きな危険が伴うかもしれません。
 PROPQUEST_SCENARIO_INC_000319,Will you help me regardless of the danger?,マドリガルの真実を知るため、そして正義のために。どうかお願いします。
 PROPQUEST_SCENARIO_INC_000320,"I knew you would! First, bring me 5 rocks from each of the 3 inhabited continents. Each continent has an Altar, bring me the rocks from each of these.",ありがとうございます、とても心強いです。さて、マドリガルに存在する３つの大陸には古代のものと思われる、奇妙で神秘的な祭壇があります。そこにある＜岩石の欠片＞を5個づつ集めてきてくれませんか？それぞれの大陸ごとに、5個づつです。宜しくお願いしますね。
 PROPQUEST_SCENARIO_INC_000321,Thanks for listening to me anyway. I understand if you are unwilling to risk your life.,そうですか。命をかけるほどの問題ではない、ということですね？ご理解いただけないのは仕方ないです。話だけでも聞いてくれてありがとう。
@@ -156,9 +156,9 @@ PROPQUEST_SCENARIO_INC_000471,*sigh* Would you help me return this to Martinyc. 
 PROPQUEST_SCENARIO_INC_000473,"I see, you have something important to do. Would you come back to me after finishing that?",おや、何か急用があるようだね。では、その用事が済んだら、また来てくれ。
 PROPQUEST_SCENARIO_INC_000474,Long time no see! Are you coming back to let me know that I was right?,お久しぶり！ようやく戻ってきましたね、待ってましたよ。私の調査が真実だったというニュースを持ってきてくれましたか？
 PROPQUEST_SCENARIO_INC_000475,"Yeah! I knew it! By the way, what is that?",わあ！やっぱり、やっぱりわたしの見解は真実だったのですね！ようやく人に信じてもらえることができたわ！嬉しい！
-PROPQUEST_SCENARIO_INC_000476,"Oh, now I wish I had been wrong! Thank you for bringing this to me. We will see each other again. Goodbye.",あら？これは？これまでの調査をまとめたゴタンテ会長の調書ですね、さっそく読んでみます！本当にありがとう！
+PROPQUEST_SCENARIO_INC_000476,"Oh, now I wish I had been wrong! Thank you for bringing this to me. We will see each other again. Goodbye.",あら？これは？これまでの調査をまとめたゴダンテ会長の調書ですね、さっそく読んでみます！本当にありがとう！
 PROPQUEST_SCENARIO_INC_000477,Have you brought something from the History Society? No? Then are you coming back just to talk to me? I am too shy for that.,歴史協会から何か返事を貰ってきてくれましたか？あら、まだなのですね。ひょっとして、私に会いにきたとか？うふふ。
-PROPQUEST_SCENARIO_INC_000478,Here is all the data I have. Please deliver this to Martinyc.,ゴタンテが今までの調査をまとめて書き綴った巻物を、マルティニークへ届けに行こう。
+PROPQUEST_SCENARIO_INC_000478,Here is all the data I have. Please deliver this to Martinyc.,ゴダンテが今までの調査をまとめて書き綴った巻物を、マルティニークへ届けに行こう。
 PROPQUEST_SCENARIO_INC_000480,Journal of an Adventurer,ある冒険者の手記
 PROPQUEST_SCENARIO_INC_000482,Journal of an Adventurer (1),冒険者の日記（1）
 PROPQUEST_SCENARIO_INC_000483,"Hello Adventurer. Although you don't know me, I must ask a favor of you. I have found something… incredible. Bring it to the Mayor of Darkon right away.",そこの君！急で申し訳ないが、１つ頼まれてくれないか？ダーコン市長が依頼していた書物をやっと手に入れたんだが、オイラは店を空ける事ができないんだ。オイラの代わりに君がこの本を渡してくれないか？
@@ -204,12 +204,12 @@ PROPQUEST_SCENARIO_INC_001253,Kill 10 Lawolfs & 5 Grownup Lawolfs and go back to
 PROPQUEST_SCENARIO_INC_001254,Ah! I admire your courage. It appears you could very well be the champion I have sought.,お、すべて倒してきたか。まずはお前さんの功績を讃えよう！
 PROPQUEST_SCENARIO_INC_001256,Bridge to Terror-bithia,チャネルの恐怖
 PROPQUEST_SCENARIO_INC_001257,"But, let us not be too hasty as arrogance may lead to an early grave. Though vicious, slaying a few lawolves is just the beginning…",ふむ、しかしラーウルフ程度で満足してはいかんな。その程度で英雄になれるくらいならフラリスは英雄だらけになるだろう。
-PROPQUEST_SCENARIO_INC_001258,"Here is your next task. Rumors have it, numerous villagers have been attacked by a monstrous Lord Demian just outside of Flaris. Please defeat him and return to me","Here is your next task. Rumors have it, numerous villagers have been attacked by a monstrous Lord Demian just outside of Flaris. Please defeat him and return to me"
-PROPQUEST_SCENARIO_INC_001259,The Lord Demian has been seen wandering nearby the Madren Town recently so search for him there.,The Lord Demian has been seen wandering nearby the Madren Town recently so search for him there.
+PROPQUEST_SCENARIO_INC_001258,"Here is your next task. Rumors have it, numerous villagers have been attacked by a monstrous Lord Demian just outside of Flaris. Please defeat him and return to me",次の任務だ。噂によると、フラリスのすぐ外で怪物のようなロード・デミアンに多くの村人が襲われているらしい。奴を倒して、私のところへ戻ってきてくれ
+PROPQUEST_SCENARIO_INC_001259,The Lord Demian has been seen wandering nearby the Madren Town recently so search for him there.,最近、ロード・デミアンがマッドランタウン付近をうろついているのが目撃されている。そこを探してみてくれ。
 PROPQUEST_SCENARIO_INC_001260,"What? I know I ask much of you, but I never thought you would turn down a chance to prove your worth.",そうか、この程度で怖気づくようじゃとても英雄は目指せんな。
-PROPQUEST_SCENARIO_INC_001261,The Lord Demian can be found nearby Madren Town amongst the other Demians.,The Lord Demian can be found nearby Madren Town amongst the other Demians.
-PROPQUEST_SCENARIO_INC_001262,Get rid of the Lord Demian and return to Reonan.,Get rid of the Lord Demian and return to Reonan.
-PROPQUEST_SCENARIO_INC_001263,"Finally, the villagers may rest assured that the Lord Demian shall no longer terrorize them. You have much potential.","Finally, the villagers may rest assured that the Lord Demian shall no longer terrorize them. You have much potential."
+PROPQUEST_SCENARIO_INC_001261,The Lord Demian can be found nearby Madren Town amongst the other Demians.,ロード・デミアンは、マッドランタウン付近の他のデミアンたちに紛れて見つかる。
+PROPQUEST_SCENARIO_INC_001262,Get rid of the Lord Demian and return to Reonan.,ロード・デミアンを倒し、レオナンの元へ戻る。
+PROPQUEST_SCENARIO_INC_001263,"Finally, the villagers may rest assured that the Lord Demian shall no longer terrorize them. You have much potential.",これでようやく、村人たちもロード・デミアンに怯えずに済む。お前には大きな可能性があるな。
 PROPQUEST_SCENARIO_INC_001265,Weed Whacked!,凶暴化した植物
 PROPQUEST_SCENARIO_INC_001266,I now have another favor to ask of you. A mysterious curse has turned the once docile Fefern into foul beasts which are ravaging the land. Will you defeat them?,さて、いまのお前さんならこの依頼も余裕だろう。フラリスの北に生息していた植物が凶暴化し人々を襲っているようだ。こいつらを退治してきてくれないか。
 PROPQUEST_SCENARIO_INC_001267,Fefern can be found in the Northwest region of Flaris. Please kill 10 Fefern & 5 2nd Class Fefern and come back.,フェフェルンは橋を渡って道沿いを北にいくと発見できるはずだ。フェフェルン10匹、２クラス・フェフェルン10匹だけ倒して来てくれ。
@@ -939,13 +939,13 @@ PROPQUEST_SCENARIO_INC_002215,The Shuhammas should be right at the bottom of thi
 PROPQUEST_SCENARIO_INC_002216,Hunt 50 Small Shuhammas & 35 Shuhammas and then speak with Sury,シューハンマーを倒した後、シュリに報告せよ。
 PROPQUEST_SCENARIO_INC_002218,Sury's Test (2),シュリの試練(3)
 PROPQUEST_SCENARIO_INC_002219,This will be my final task. Complete this and you will have proven yourself worthy enough to speak with me regarding Reonan's request.,これが私からの最後の仕事になります。 これを完了すると、レオナンのリクエストには十分に答えられます。
-PROPQUEST_SCENARIO_INC_002220,The Shuhamma were hardly a challenge for you. Now I really wanna test your skill!. Please go hunt the Lord Shuhamma which servers as their leader!,The Shuhamma were hardly a challenge for you. Now I really wanna test your skill!. Please go hunt the Lord Shuhamma which servers as their leader!
-PROPQUEST_SCENARIO_INC_002221,"Hunting the Lord Shuhamma by yourself will be a daunting task. You might wish to enlist the aid of other warriors. But, if you DO defeat him solo, you will have truly earned my respect!","Hunting the Lord Shuhamma by yourself will be a daunting task. You might wish to enlist the aid of other warriors. But, if you DO defeat him solo, you will have truly earned my respect!"
-PROPQUEST_SCENARIO_INC_002222,You are a quite a brave adventurer. Go hunt 40 Captain Shuhammas & the Lord Shuhamma and let's see what you are truly made of!,You are a quite a brave adventurer. Go hunt 40 Captain Shuhammas & the Lord Shuhamma and let's see what you are truly made of!
+PROPQUEST_SCENARIO_INC_002220,The Shuhamma were hardly a challenge for you. Now I really wanna test your skill!. Please go hunt the Lord Shuhamma which servers as their leader!,シューハンマーごときでは、お前の相手にもならなかったようだな。今度こそ本当の実力を試させてもらうぞ！奴らのリーダーであるロード・シューハンマーを狩ってきてくれ！
+PROPQUEST_SCENARIO_INC_002221,"Hunting the Lord Shuhamma by yourself will be a daunting task. You might wish to enlist the aid of other warriors. But, if you DO defeat him solo, you will have truly earned my respect!",ロード・シューハンマーを一人で狩るのは、かなり骨が折れるだろう。他の戦士たちの助けを借りるのもいいかもしれない。だが、もし一人で倒せたなら、私は心から敬意を表そう！
+PROPQUEST_SCENARIO_INC_002222,You are a quite a brave adventurer. Go hunt 40 Captain Shuhammas & the Lord Shuhamma and let's see what you are truly made of!,なかなか勇敢な冒険者のようだな。キャプテン・シューハンマーを40体と、ロード・シューハンマーを狩ってこい。お前の本当の実力を見せてもらおう！
 PROPQUEST_SCENARIO_INC_002223,And here I was thinking you could do it! Maybe I was wrong about you...,そうか。では、もう話しかけないでくれ。
 PROPQUEST_SCENARIO_INC_002224,"That was surely no easy feat. You have earned my respect stranger! My name is Sury, the original Billposter Hero",それは確かに簡単なことではありません。 私の名前は、元ビルポスターヒーローであるシュリです。
-PROPQUEST_SCENARIO_INC_002225,You still have yet to hunt 40 Captain Shuhammas & the Lord Shuhamma? Return to me once you are finished!,You still have yet to hunt 40 Captain Shuhammas & the Lord Shuhamma? Return to me once you are finished!
-PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and go back to Sury.,Hunt 40 Captain Shuhammas & the Lord Shuhamma and go back to Sury.
+PROPQUEST_SCENARIO_INC_002225,You still have yet to hunt 40 Captain Shuhammas & the Lord Shuhamma? Return to me once you are finished!,キャプテン・シューハンマー40体とロード・シューハンマーの討伐がまだ終わっていないようだな？終わったら戻ってこい！
+PROPQUEST_SCENARIO_INC_002226,Hunt 40 Captain Shuhammas & the Lord Shuhamma and go back to Sury.,キャプテン・シューハンマーを40体とロード・シューハンマーを狩り、シュリの元へ戻る。
 PROPQUEST_SCENARIO_INC_002228,Sury's Dilemma,シュリのジレンマ
 PROPQUEST_SCENARIO_INC_002229,"I've been training up here so long. I feel that I'm so close to achieving a heightened level of power, but there is something missing…",なるほど。君は英雄を探しているとのことだが私は残念ながら英雄の生まれ変わりかどうかが自信がない。いくら修行をしても悟りが開けぬのだ。
 PROPQUEST_SCENARIO_INC_002230,"I don't know why… I just feel like there is something missing… and this ""thing"" is keeping me from realizing my true inner potential.",何か重要なことを見落としているのかもしれない。とはいえ、もし私が英雄の生まれ変わりであるならば、このようなことを尋ねるわけにもいかん。
@@ -1058,11 +1058,11 @@ PROPQUEST_SCENARIO_INC_002346,The legend states that long ago packs of trolls ru
 PROPQUEST_SCENARIO_INC_002347,"Through disease, famine, and bickering betweeen Masquerpets, the trolls retreated from the Leren Mountains into the caves.",病気、飢饉、そしてマスケルペッツ間の口論を通して、トロルはレレン山脈から洞窟に後退しました。
 PROPQUEST_SCENARIO_INC_002348,"The caves were said to contain magical mushrooms that could prolong the life of those who ate them, and it is said that the trolls who once lived in the cave may still live there, in the darkness.",洞窟には、それらを食べた人々の寿命を延ばすことができる魔法のキノコが含まれていると言われており、かつて洞窟に住んでいたトロルは、暗闇の中でまだそこに住んでいる可能性があると言われています。
 PROPQUEST_SCENARIO_INC_002349,Perhaps a sample of the local fungi could hold some clues...,おそらく、地元の真菌のサンプルがいくつかの手がかりを保持している可能性があります..
-PROPQUEST_SCENARIO_INC_002350,"A Lord Mushpang roams just north of Eastern Flarine... Bring a sample of the giant mushroom to the cook Sotta, who can tell you more about the magical properties of Flaris fungi.","A Lord Mushpang roams just north of Eastern Flarine... Bring a sample of the giant mushroom to the cook Sotta, who can tell you more about the magical properties of Flaris fungi."
+PROPQUEST_SCENARIO_INC_002350,"A Lord Mushpang roams just north of Eastern Flarine... Bring a sample of the giant mushroom to the cook Sotta, who can tell you more about the magical properties of Flaris fungi.",東フラリスの北にロード・マッシュファングが徘徊している……。この巨大キノコのサンプルを料理人ソタに届けてくれ。フラリス菌の不思議な力について、詳しく教えてくれるはずだ。
 PROPQUEST_SCENARIO_INC_002351,Oh... are you allergic to mushrooms!? Nevermind... perhaps we can find another person for the job.,おや。。キノコアレルギー!?用事。。おそらく、その仕事のために別の人を見つけることができるでしょう。
 PROPQUEST_SCENARIO_INC_002352,"Ah, Flaris fungi! The mushrooms of Flaris have always been said to have magical properties...",ああ、フラリス菌!フラリスのキノコは常に魔法の特性を持っていると言われています。
-PROPQUEST_SCENARIO_INC_002353,Collect a sample of the Lord Mushpang and deliver it to Sotta.,Collect a sample of the Lord Mushpang and deliver it to Sotta.
-PROPQUEST_SCENARIO_INC_002354,Collect a sample of Flaris Fungi from a Lord Mushpang.,Collect a sample of Flaris Fungi from a Lord Mushpang.
+PROPQUEST_SCENARIO_INC_002353,Collect a sample of the Lord Mushpang and deliver it to Sotta.,ロード・マッシュファングのサンプルを採取し、ソタに届ける。
+PROPQUEST_SCENARIO_INC_002354,Collect a sample of Flaris Fungi from a Lord Mushpang.,ロード・マッシュファングからフラリス菌のサンプルを採取する。
 PROPQUEST_SCENARIO_INC_002355,Fun with Fungi,菌類で楽しむ
 PROPQUEST_SCENARIO_INC_002356,Cooking with Flaris fungi brings out the properties of vitality in a dish...,フラリス菌を使った調理は、料理の活力の特性を引き出します。
 PROPQUEST_SCENARIO_INC_002357,It is not hard to believe that a Masquerpet may be able to extend its life by eating the magical fungi.,モンスターが魔法の菌類を食べることで寿命を延ばすことができるかもしれないと信じるのは難しいことではありません。
@@ -1155,11 +1155,11 @@ PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリーヌと会う。
 PROPQUEST_SCENARIO_INC_002444,Grab a Bull by the Horns,角で雄牛をつかむ
 PROPQUEST_SCENARIO_INC_002445,We need some sort of lightning rod to attract the storm's fury away from the airships heading into Saint City...,セントシティに向かう飛行船から嵐の怒りを引き付けるには、ある種の避雷針が必要です。
 PROPQUEST_SCENARIO_INC_002446,"I am unsure of who could build such a device, but you will certainly need a large amount of metal to do it.",誰がそのようなデバイスを構築できるかはわかりませんが、それを行うには確かに大量の金属が必要になります。
-PROPQUEST_SCENARIO_INC_002447,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!
+PROPQUEST_SCENARIO_INC_002447,The largest piece of unrefined metal in Saint Morning hangs off the head of the Lord Dumb Bull... Defeat the Lord and collect the Metallurgical Bull Ring!,セイントモーニングで最大の未精製の金属は、ロード・ダンブルの頭に付いている……。奴を倒して、メタリジカルブルリングを手に入れてくれ！
 PROPQUEST_SCENARIO_INC_002448,I suppose we could collect scrap metal...,スクラップぐらいならすぐ集められると思いますが...
 PROPQUEST_SCENARIO_INC_002449,You have found the ring!,指輪を見つけてくれたんですね！
-PROPQUEST_SCENARIO_INC_002450,Hunt down the Lord Dumb Bull and take its ring.,Hunt down the Lord Dumb Bull and take its ring.
-PROPQUEST_SCENARIO_INC_002451,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.
+PROPQUEST_SCENARIO_INC_002450,Hunt down the Lord Dumb Bull and take its ring.,ロード・ダンブルを狩り、そのリングを手に入れる。
+PROPQUEST_SCENARIO_INC_002451,Collect a Metallurgical Bull Ring from the Lord Dumb Bull.,ロード・ダンブルからメタリジカルブルリングを入手する。
 PROPQUEST_SCENARIO_INC_002452,Ring of Power,力の指輪
 PROPQUEST_SCENARIO_INC_002453,I only know of the ring's metallurgical properties. ,私はリングの冶金学的特性しか知りません。
 PROPQUEST_SCENARIO_INC_002454,The Strange Collector may know more about what the bull ring can do.,ストレンジコレクターは、闘牛場が何ができるかについてもっと知っているかもしれません。
@@ -1191,18 +1191,18 @@ PROPQUEST_SCENARIO_INC_002479,Thank you for delivering the lightning rod! I beli
 PROPQUEST_SCENARIO_INC_002480,You cannot deliver the lightning rod until has been supercharged...,過給されるまで避雷針を届けることはできません。
 PROPQUEST_SCENARIO_INC_002481,"Locate the Altar of Violet, supercharge the lightning rod, then report to Tina.",バイオレットの祭壇を見つけ、避雷針を過給してから、ティナに報告してください。
 PROPQUEST_SCENARIO_INC_002482,Spark in the Dark,暗闇の中で火花
-PROPQUEST_SCENARIO_INC_002483,"Something still bothers me... why are these storms happening at all? Maybe the Chairman of the History Society, Gothante, might know.",何かがまだ私を悩ませています...なぜこれらの嵐が起こっているのですか?たぶん、歴史協会の会長であるゴサンテは知っているかもしれません。
-PROPQUEST_SCENARIO_INC_002484,"Seek out a forum with Gothante, and figure out what is going on with the weather.",ゴサンテとのフォーラムを探して、天気で何が起こっているのかを理解してください。
+PROPQUEST_SCENARIO_INC_002483,"Something still bothers me... why are these storms happening at all? Maybe the Chairman of the History Society, Gothante, might know.",何かがまだ私を悩ませています...なぜこれらの嵐が起こっているのですか?たぶん、歴史協会の会長であるゴダンテは知っているかもしれません。
+PROPQUEST_SCENARIO_INC_002484,"Seek out a forum with Gothante, and figure out what is going on with the weather.",ゴダンテとのフォーラムを探して、天気で何が起こっているのかを理解してください。
 PROPQUEST_SCENARIO_INC_002485,"Well... at least the airships are safe for now. I wonder why all the bad weather, though?",まぁ。。少なくとも飛行船は今のところ安全です。しかし、なぜすべての悪天候なのかしら?
 PROPQUEST_SCENARIO_INC_002486,The storms lately have raged on for far too long! I have a feeling I know what has caused these storms.,最近の嵐はあまりにも長い間猛威を振るっています!私はこれらの嵐の原因を知っていると感じています。
-PROPQUEST_SCENARIO_INC_002487,Find Gothante and see if he knows what is happening with the weather.,ゴタンテを見つけて、天気で何が起こっているのか知っているかどうかを確認してください。
-PROPQUEST_SCENARIO_INC_002488,Meet with Gothante.,ゴサンテと会う。
+PROPQUEST_SCENARIO_INC_002487,Find Gothante and see if he knows what is happening with the weather.,ゴダンテを見つけて、天気で何が起こっているのか知っているかどうかを確認してください。
+PROPQUEST_SCENARIO_INC_002488,Meet with Gothante.,ゴダンテと会う。
 PROPQUEST_SCENARIO_INC_002489,Ishirut's Return?,イシルートの帰還?
 PROPQUEST_SCENARIO_INC_002490,Over many years our society has collected rare texts that reveal the history of the world of Madrigal. Eons ago a god of lightning helped create this world. That god was named Ishirut. ,長年にわたり、私たちの社会はマドリガルの世界の歴史を明らかにする珍しいテキストを収集してきました。はるか昔、稲妻の神がこの世界を創造するのを助けました。その神はイシルトと名付けられました。
 PROPQUEST_SCENARIO_INC_002491,"Perhaps ripples of Ishirut's spirit have returned to give us a sign, but I have no connection to the gods. Perhaps this is work for a mystic of sorts.",おそらくイシルートの精神の波紋が戻ってきてしるしを与えてくれたのかもしれませんが、私は神々とは何の関係もありません。おそらくこれはある種の神秘家のための仕事です。
 PROPQUEST_SCENARIO_INC_002492,"I believe that YaoRin of the MewMew people has the power to reveal the truth, but the MewMew clan are distrusting of most humans. Anyway, I recommend you go speak with YaoRin and see if they are willing to cooperate. They are our best chance at learning what the gods are up to.",ミュウミュウ族のヤオリンには真実を明らかにする力があると思いますが、ミュウミュウ一族はほとんどの人間に不信感を抱いています。とにかく、YaoRinと話をして、彼らが協力してくれるかどうかを確認することをお勧めします。彼らは神々が何をしているのかを学ぶための私たちの最高のチャンスです。
 PROPQUEST_SCENARIO_INC_002493,"While a bit standoffish, the MewMew clan is not that scary...",少しスタンドオフですが、ミュウミュー一族はそれほど怖くありません..
-PROPQUEST_SCENARIO_INC_002494,"*Hmmph* So you were sent by that man Gothante. Even so, I do not trust you one bit.",*うーん*それで、あなたはその男ゴタンテによって送られました。それでも、私はあなたを少しも信用していません。
+PROPQUEST_SCENARIO_INC_002494,"*Hmmph* So you were sent by that man Gothante. Even so, I do not trust you one bit.",*うーん*それで、あなたはその男ゴダンテによって送られました。それでも、私はあなたを少しも信用していません。
 PROPQUEST_SCENARIO_INC_002495,Find YaoRin in the MewMew camp just outside the walls of western Saint City.,聖都市西部の城壁のすぐ外にあるミュウミューキャンプでヤオリンを見つけましょう。
 PROPQUEST_SCENARIO_INC_002496,Speak to YaoRin.,ヤオリンと話してください。
 PROPQUEST_SCENARIO_INC_002497,Remnant of Ishirut Part 2,イシルートの残党パート2
@@ -1221,7 +1221,7 @@ PROPQUEST_SCENARIO_INC_002509,"Thin the herd of Totemia that taint the Southern 
 PROPQUEST_SCENARIO_INC_002510,"If you refuse this task, the MewMew will not assist you in your mission.",このタスクを拒否した場合、ミュウミュウはあなたの任務を支援しません。
 PROPQUEST_SCENARIO_INC_002511,You have earned the MewMew clan's trust... for now.,あなたはミュウミュウ一族の信頼を得ました。今のところ。
 PROPQUEST_SCENARIO_INC_002512,Go defeat Totemia and eliminate their leader.,トテミアを倒し、彼らのリーダーを排除してください。
-PROPQUEST_SCENARIO_INC_002513,Kill 20 Totemia and 1 Lord Totemia.,Kill 20 Totemia and 1 Lord Totemia.
+PROPQUEST_SCENARIO_INC_002513,Kill 20 Totemia and 1 Lord Totemia.,トーテミアを20体、ロード・トーテミアを1体倒す。
 PROPQUEST_SCENARIO_INC_002514,The Third Eye Opens,第三の目が開く
 PROPQUEST_SCENARIO_INC_002515,"I will grant you one reading, but I require special materials to perform the ritual.",私はあなたに1つの読書を許可しますが、私は儀式を行うために特別な材料を必要とします。
 PROPQUEST_SCENARIO_INC_002516,Please bring me a Black Curse Book and 5 Black Heroca from the Garden of Rhisis.,リシスの庭から黒い呪いの本と5つの黒いヘロカを持ってきてください。
@@ -1586,34 +1586,34 @@ PROPQUEST_SCENARIO_INC_002874,Take all the time you require to make your prepara
 PROPQUEST_SCENARIO_INC_002875,"Astounding, hero! You've vanquished the very King of Beasts himself!",驚異的、英雄!百獣の王を倒した!
 PROPQUEST_SCENARIO_INC_002876,Return to me if you emerge victorious against Beast King Khan.,獣王カーンに勝利したら、私のところに戻ってきてください。
 PROPQUEST_SCENARIO_INC_002877,Collect the Oversized Heart from Beast King Khan.,獣王カーンから特大のハートを集める。
-PROPQUEST_SCENARIO_INC_002878,Flyff's 20 year anniversary,Flyff's 20 year anniversary
-PROPQUEST_SCENARIO_INC_002879,The Beginnings,The Beginnings
-PROPQUEST_SCENARIO_INC_002880,"Happy 20 year anniversary! Why don't you let me take you on a leisurely trip through a little history in celebration? As a reward, my mayor friends and I will reward you with a special glow.","Happy 20 year anniversary! Why don't you let me take you on a leisurely trip through a little history in celebration? As a reward, my mayor friends and I will reward you with a special glow."
-PROPQUEST_SCENARIO_INC_002881,"The rest of the city mayors and I will guide you through some iconic Flyff experiences, and tell you about some milestones.","The rest of the city mayors and I will guide you through some iconic Flyff experiences, and tell you about some milestones."
-PROPQUEST_SCENARIO_INC_002882,"The first and biggest milestone this 20 year old game hit was the grand opening, this month 20 years ago in Japan!","The first and biggest milestone this 20 year old game hit was the grand opening, this month 20 years ago in Japan!"
-PROPQUEST_SCENARIO_INC_002883,"As you might expect, the world of Madrigal looked quite different at that time... I was still a newly elected mayor! My only friends were the mayors of Saint City and Darken back then.","As you might expect, the world of Madrigal looked quite different at that time... I was still a newly elected mayor! My only friends were the mayors of Saint City and Darken back then."
-PROPQUEST_SCENARIO_INC_002884,"You know, the only continents that were formed at that time were Flaris, Saint Morning, The Garden of Rhisis, and Darkon 1. If you'd like to see some pictures, check out the article on our website.","You know, the only continents that were formed at that time were Flaris, Saint Morning, The Garden of Rhisis, and Darkon 1. If you'd like to see some pictures, check out the article on our website."
-PROPQUEST_SCENARIO_INC_002885,"Now, why don't you go kill some Aibatts for old time's sake and come back to me?","Now, why don't you go kill some Aibatts for old time's sake and come back to me?"
-PROPQUEST_SCENARIO_INC_002886,I'll be waiting!,I'll be waiting!
-PROPQUEST_SCENARIO_INC_002887,"Well, that's a shame. Happy anniversary anyway!","Well, that's a shame. Happy anniversary anyway!"
-PROPQUEST_SCENARIO_INC_002888,Nice! This is nostalgic... It's been a while since I've seen an Aibatt kill mission.,Nice! This is nostalgic... It's been a while since I've seen an Aibatt kill mission.
-PROPQUEST_SCENARIO_INC_002889,Go ahead and meet with the mayor of Saint City. He's a great storyteller.,Go ahead and meet with the mayor of Saint City. He's a great storyteller.
-PROPQUEST_SCENARIO_INC_002890,Kill the Aibatts the mayor of Flarine told you about.,Kill the Aibatts the mayor of Flarine told you about.
-PROPQUEST_SCENARIO_INC_002891,Hello there. My friend in Flarine said you'd be coming. Now... where was the story?,Hello there. My friend in Flarine said you'd be coming. Now... where was the story?
-PROPQUEST_SCENARIO_INC_002892,"Right. You just killed some Aibatts, and while that's something everyone is familiar with, there are some experiences that the veterans only know about.","Right. You just killed some Aibatts, and while that's something everyone is familiar with, there are some experiences that the veterans only know about."
-PROPQUEST_SCENARIO_INC_002893,"Were you around when you had to level your skills by using them?! Yep, different world back then.","Were you around when you had to level your skills by using them?! Yep, different world back then."
-PROPQUEST_SCENARIO_INC_002894,"Have you ever had to repair your weapon? Until the 9th version of Flyff, players like yourself had to repair their weapons over time...","Have you ever had to repair your weapon? Until the 9th version of Flyff, players like yourself had to repair their weapons over time..."
-PROPQUEST_SCENARIO_INC_002895,"As a matter of fact... I happen to have an 18 year old relic of mine which I never got to repair! My friend Bulrox used to love these things. Why don't you give it to him for me, as an Anniversary gift?","As a matter of fact... I happen to have an 18 year old relic of mine which I never got to repair! My friend Bulrox used to love these things. Why don't you give it to him for me, as an Anniversary gift?"
-PROPQUEST_SCENARIO_INC_002896,"I hope he still has the equipment to repair it, it's a sentimental piece... After you give it to Bulrox, the mayor of Darken will have some more to tell you.","I hope he still has the equipment to repair it, it's a sentimental piece... After you give it to Bulrox, the mayor of Darken will have some more to tell you."
-PROPQUEST_SCENARIO_INC_002897,Ah. He probably doesn't have the equipment for it anymore anyway.,Ah. He probably doesn't have the equipment for it anymore anyway.
-PROPQUEST_SCENARIO_INC_002898,"Wow! I never thought I'd see one of these in this condition again! This is an incredible gift for a weapons' master, I'll be spending all my time off work fixing this.","Wow! I never thought I'd see one of these in this condition again! This is an incredible gift for a weapons' master, I'll be spending all my time off work fixing this."
-PROPQUEST_SCENARIO_INC_002899,"Deliver the broken Wooden Sword to Bulrox, as a gift from the mayor.","Deliver the broken Wooden Sword to Bulrox, as a gift from the mayor."
-PROPQUEST_SCENARIO_INC_002900,An Old Gift From an Old Friend,An Old Gift From an Old Friend
-PROPQUEST_SCENARIO_INC_002901,"Happy 20th to us! Now that we've looked back on the last 20 years, we arrive to today. Flyff Universe was launched in May of 2022, and brings Madrigal to many different corners of the world.","Happy 20th to us! Now that we've looked back on the last 20 years, we arrive to today. Flyff Universe was launched in May of 2022, and brings Madrigal to many different corners of the world."
-PROPQUEST_SCENARIO_INC_002902,"As we continue to appreciate Flyff and its memories over the next 20 years, why don't you do one final, iconic task for me?","As we continue to appreciate Flyff and its memories over the next 20 years, why don't you do one final, iconic task for me?"
-PROPQUEST_SCENARIO_INC_002903,"I want you to head back to flaris and speak with Mr. Flyff, right after you kill some Mothbees on your flying device!","I want you to head back to flaris and speak with Mr. Flyff, right after you kill some Mothbees on your flying device!"
-PROPQUEST_SCENARIO_INC_002904,He's waiting for you!,He's waiting for you!
-PROPQUEST_SCENARIO_INC_002905,"He's going to wait for another 20 years, no problem.","He's going to wait for another 20 years, no problem."
-PROPQUEST_SCENARIO_INC_002906,"Welcome back! As promised, here's your token of participation, wear it proudly.","Welcome back! As promised, here's your token of participation, wear it proudly."
-PROPQUEST_SCENARIO_INC_002907,"To The Skies, For Fun!","To The Skies, For Fun!"
-PROPQUEST_SCENARIO_INC_002908,Kill the Mothbees and return to Mr. Flyff.,Kill the Mothbees and return to Mr. Flyff.
+PROPQUEST_SCENARIO_INC_002878,Flyff's 20 year anniversary,Flyff 20周年記念
+PROPQUEST_SCENARIO_INC_002879,The Beginnings,はじまりの物語
+PROPQUEST_SCENARIO_INC_002880,"Happy 20 year anniversary! Why don't you let me take you on a leisurely trip through a little history in celebration? As a reward, my mayor friends and I will reward you with a special glow.",20周年おめでとう！お祝いに、少しばかり歴史を振り返る、のんびりとした旅に連れて行ってあげようか？報酬として、私と仲間の市長たちから特別な輝きを贈らせてもらうよ。
+PROPQUEST_SCENARIO_INC_002881,"The rest of the city mayors and I will guide you through some iconic Flyff experiences, and tell you about some milestones.",私や他の街の市長たちが、Flyffの象徴的な出来事を案内し、いくつかの節目について教えてあげよう。
+PROPQUEST_SCENARIO_INC_002882,"The first and biggest milestone this 20 year old game hit was the grand opening, this month 20 years ago in Japan!",この20年の歴史を持つゲームにとって、最初にして最大の節目は、20年前のこの月、日本でのグランドオープンだった！
+PROPQUEST_SCENARIO_INC_002883,"As you might expect, the world of Madrigal looked quite different at that time... I was still a newly elected mayor! My only friends were the mayors of Saint City and Darken back then.",想像通り、当時のマドリガルの世界は今とはかなり違っていたよ……。私もまだ、選ばれたばかりの新米市長だった！当時の友人といえば、セイントシティとダーコンの市長くらいのものだったな。
+PROPQUEST_SCENARIO_INC_002884,"You know, the only continents that were formed at that time were Flaris, Saint Morning, The Garden of Rhisis, and Darkon 1. If you'd like to see some pictures, check out the article on our website.",当時形成されていた大陸は、フラリス、セイントモーニング、リシスの庭園、ダーコン1のみだったんだ。写真が見たければ、公式サイトの記事をチェックしてみてくれ。
+PROPQUEST_SCENARIO_INC_002885,"Now, why don't you go kill some Aibatts for old time's sake and come back to me?",さあ、昔を懐かしんでアイバットでも狩ってきて、私のところへ戻ってきてはどうだい？
+PROPQUEST_SCENARIO_INC_002886,I'll be waiting!,待っているよ！
+PROPQUEST_SCENARIO_INC_002887,"Well, that's a shame. Happy anniversary anyway!",そうか、それは残念だ。それでも、おめでとう！
+PROPQUEST_SCENARIO_INC_002888,Nice! This is nostalgic... It's been a while since I've seen an Aibatt kill mission.,いいね！懐かしいな……アイバット討伐の依頼を見るのは久しぶりだ。
+PROPQUEST_SCENARIO_INC_002889,Go ahead and meet with the mayor of Saint City. He's a great storyteller.,さあ、セイントシティの市長に会いに行ってくれ。彼は語り上手だぞ。
+PROPQUEST_SCENARIO_INC_002890,Kill the Aibatts the mayor of Flarine told you about.,フラリスの市長が話していたアイバットを倒す。
+PROPQUEST_SCENARIO_INC_002891,Hello there. My friend in Flarine said you'd be coming. Now... where was the story?,やあ、こんにちは。フラリスの友人から、君が来ると聞いていたよ。さて……どこまで話したかな？
+PROPQUEST_SCENARIO_INC_002892,"Right. You just killed some Aibatts, and while that's something everyone is familiar with, there are some experiences that the veterans only know about.",そうそう。君は今、アイバットを倒してきたわけだが、それは誰もが知っていることだ。だが、ベテランだけが知る経験というものもある。
+PROPQUEST_SCENARIO_INC_002893,"Were you around when you had to level your skills by using them?! Yep, different world back then.",スキルを使うことでレベルを上げなければならなかった時代を知っているかい？！そう、当時は今とはまったく違う世界だったんだ。
+PROPQUEST_SCENARIO_INC_002894,"Have you ever had to repair your weapon? Until the 9th version of Flyff, players like yourself had to repair their weapons over time...",武器を修理しなければならなかった経験はあるかい？Flyffのバージョン9まで、君のようなプレイヤーは時間が経つと武器を修理する必要があったんだ……
+PROPQUEST_SCENARIO_INC_002895,"As a matter of fact... I happen to have an 18 year old relic of mine which I never got to repair! My friend Bulrox used to love these things. Why don't you give it to him for me, as an Anniversary gift?",実はな……修理しないままの、18年前の遺物を私が持っているんだ！友人のブルックはこういう物が大好きでね。記念日の贈り物として、私の代わりに彼に渡してきてくれないか？
+PROPQUEST_SCENARIO_INC_002896,"I hope he still has the equipment to repair it, it's a sentimental piece... After you give it to Bulrox, the mayor of Darken will have some more to tell you.",彼がまだ修理道具を持っていればいいのだが、これは思い出の品でね……。ブルックに渡した後、ダーコンの市長がさらに話を聞かせてくれるはずだ。
+PROPQUEST_SCENARIO_INC_002897,Ah. He probably doesn't have the equipment for it anymore anyway.,ああ。彼はもう、そのための道具を持っていないだろうけどね。
+PROPQUEST_SCENARIO_INC_002898,"Wow! I never thought I'd see one of these in this condition again! This is an incredible gift for a weapons' master, I'll be spending all my time off work fixing this.",おお！こんな状態のものをまた目にするとは思わなかったよ！これは武器職人にとって最高の贈り物だ、休みはすべてこれを直すのに費やすことになりそうだな。
+PROPQUEST_SCENARIO_INC_002899,"Deliver the broken Wooden Sword to Bulrox, as a gift from the mayor.",市長からの贈り物として、壊れたウッド・ソードをブルックに届ける。
+PROPQUEST_SCENARIO_INC_002900,An Old Gift From an Old Friend,古き友からの、古き贈り物
+PROPQUEST_SCENARIO_INC_002901,"Happy 20th to us! Now that we've looked back on the last 20 years, we arrive to today. Flyff Universe was launched in May of 2022, and brings Madrigal to many different corners of the world.",私たちの20周年おめでとう！これまでの20年を振り返ったところで、いよいよ現在にたどり着いた。Flyff Universeは2022年5月にローンチされ、マドリガルを世界中の様々な場所へと届けている。
+PROPQUEST_SCENARIO_INC_002902,"As we continue to appreciate Flyff and its memories over the next 20 years, why don't you do one final, iconic task for me?",これから先の20年も、Flyffとその思い出を大切にしていくために、最後にひとつ、象徴的な任務をこなしてくれないか？
+PROPQUEST_SCENARIO_INC_002903,"I want you to head back to flaris and speak with Mr. Flyff, right after you kill some Mothbees on your flying device!",フラリスに戻って、Mr. Flyffと話してきてほしい。ただしその前に、飛行デバイスに乗ってモスビーを何匹か倒してくること！
+PROPQUEST_SCENARIO_INC_002904,He's waiting for you!,彼が待っているよ！
+PROPQUEST_SCENARIO_INC_002905,"He's going to wait for another 20 years, no problem.",彼ならあと20年でも待ってくれるだろう、問題ないさ。
+PROPQUEST_SCENARIO_INC_002906,"Welcome back! As promised, here's your token of participation, wear it proudly.",おかえり！約束通り、参加の証を渡そう。誇りを持って身に着けてくれ。
+PROPQUEST_SCENARIO_INC_002907,"To The Skies, For Fun!",楽しみのために、大空へ！
+PROPQUEST_SCENARIO_INC_002908,Kill the Mothbees and return to Mr. Flyff.,モスビーを倒し、Mr. Flyffの元へ戻る。
