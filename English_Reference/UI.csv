@@ -694,6 +694,8 @@ UI_UPGRADE_MATERIAL,Power Dice/Card
 UI_UPGRADE_PROTECTSCROLL,SProtect
 UI_ULTIMATE_UPGRADE_PROTECTSCROLL,XProtect
 UI_PVP_UPGRADE_PROTECTSCROLL,PProtect
+UI_PVP_ULT_UPGRADE_PROTECTSCROLL,PProtect / XProtect
+UI_PVP_NORMAL_UPGRADE_PROTECTSCROLL,PProtect / SProtect
 UI_ULTIMATE_UPGRADE_MATERIAL,Sunstone
 UI_UPGRADE_CHANCESCROLL,SFusion
 UI_UPGRADE_DEGRADE,"If upgrading fails, the item's upgrade level will decrease, but the item will not be destroyed."
@@ -3385,3 +3387,5 @@ UI_MYSTCASTLE_REWARD_TAB_FLOOR,Floor Clear Reward
 UI_MYSTCASTLE_REWARD_TAB_RANK,Ranking Reward
 UI_MYSTCASTLE_ENTER_FLOOR_USE_TICKET,Entering will consume a Mysterious Castle retry coupon. Do you want to continue?
 UI_MYSTCASTLE_TOUCH_ANYWHERE,Touch anywhere to type!
+UI_DUNGEON_DEFEND,Defend
+UI_DUNGEON_ESCORT,Rescue

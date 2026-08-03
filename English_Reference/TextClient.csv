@@ -1573,3 +1573,4 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD,You received a reward for clearing a new 
 TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for clearing a new floor. Check your mail.
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.
+TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.
