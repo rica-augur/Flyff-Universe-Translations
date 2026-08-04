@@ -166,7 +166,7 @@
 | Brakiven | ブラキヴェン | |
 | Brakivar | ブラキヴァー | |
 | Zorect | ゾレクト | |
-| Zoracet | ゾラセット | 語幹自体が「セット」で終わるため、Set表記では「ゾラセットセット」となる（Items.csvの既存音訳に準拠） |
+| Zoracet | ゾラセト | 当初「ゾラセット」（Items.csvの`PROPITEM_TXT_155400〜155403`）としていたが、`EquipSets.csv`のSet表記で「ゾラセットセット」と「セット」が重複し語呂が悪いとCopilotレビューで指摘されたため、2026-08-04にユーザー指示で促音を落とした「ゾラセト」に統一（Items.csvの防具4件・EquipSets.csvのSet表記1件とも変更済み、いずれも当時PR未送信のため後方互換の問題なし） |
 | Sholthar | ショルサー | |
 | Sholtharen | ショルサレン | |
 | Ustamel | ウスタメル | |

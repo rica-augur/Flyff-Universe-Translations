@@ -24445,10 +24445,10 @@ PROPITEM_TXT_155396,Zorect Helmet,ゾレクト・ヘルメット
 PROPITEM_TXT_155397,Zorect Suit,ゾレクト・スーツ
 PROPITEM_TXT_155398,Zorect Gauntlets,ゾレクト・ガントレット
 PROPITEM_TXT_155399,Zorect Boots,ゾレクト・ブーツ
-PROPITEM_TXT_155400,Zoracet Helmet,ゾラセット・ヘルメット
-PROPITEM_TXT_155401,Zoracet Suit,ゾラセット・スーツ
-PROPITEM_TXT_155402,Zoracet Gauntlets,ゾラセット・ガントレット
-PROPITEM_TXT_155403,Zoracet Boots,ゾラセット・ブーツ
+PROPITEM_TXT_155400,Zoracet Helmet,ゾラセト・ヘルメット
+PROPITEM_TXT_155401,Zoracet Suit,ゾラセト・スーツ
+PROPITEM_TXT_155402,Zoracet Gauntlets,ゾラセト・ガントレット
+PROPITEM_TXT_155403,Zoracet Boots,ゾラセト・ブーツ
 PROPITEM_TXT_155404,Quevril Helmet,クェヴリル・ヘルメット
 PROPITEM_TXT_155405,Quevril Suit,クェヴリル・スーツ
 PROPITEM_TXT_155406,Quevril Gauntlets,クェヴリル・ガントレット
@@ -29109,54 +29109,54 @@ PROPITEM_TXT_906048,Forest Pocket Shinobi,フォレストポケット忍者
 PROPITEM_TXT_906049,White Pocket Shinobi,ホワイトポケット忍者
 PROPITEM_TXT_906050,Japanese Warrior Costume Lucky Box,和風武者コスチュームラッキーボックス
 PROPITEM_TXT_906051,This box contains a Japanese Warrior Set with Speed Bonus. You can select your gender after opening the Lucky Box.,このボックスには、スピードボーナス付きの和風武者セットが含まれています。ラッキーボックスを開けた後、性別を選択できます。
-PROPITEM_TXT_161000,Primordial Runthiel Helmet,プリモーディアルランティエル・ヘルメット
-PROPITEM_TXT_161001,Primordial Runthiel Suit,プリモーディアルランティエル・スーツ
-PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,プリモーディアルランティエル・ガントレット
-PROPITEM_TXT_161003,Primordial Runthiel Boots,プリモーディアルランティエル・ブーツ
-PROPITEM_TXT_161004,Primordial Runthien Helmet,プリモーディアルランティエン・ヘルメット
-PROPITEM_TXT_161005,Primordial Runthien Suit,プリモーディアルランティエン・スーツ
-PROPITEM_TXT_161006,Primordial Runthien Gauntlets,プリモーディアルランティエン・ガントレット
-PROPITEM_TXT_161007,Primordial Runthien Boots,プリモーディアルランティエン・ブーツ
-PROPITEM_TXT_161008,Primordial Zaythor Helmet,プリモーディアルゼイソー・ヘルメット
-PROPITEM_TXT_161009,Primordial Zaythor Suit,プリモーディアルゼイソー・スーツ
-PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,プリモーディアルゼイソー・ガントレット
-PROPITEM_TXT_161011,Primordial Zaythor Boots,プリモーディアルゼイソー・ブーツ
-PROPITEM_TXT_161012,Primordial Zaythar Helmet,プリモーディアルゼイサー・ヘルメット
-PROPITEM_TXT_161013,Primordial Zaythar Suit,プリモーディアルゼイサー・スーツ
-PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,プリモーディアルゼイサー・ガントレット
-PROPITEM_TXT_161015,Primordial Zaythar Boots,プリモーディアルゼイサー・ブーツ
-PROPITEM_TXT_161016,Primordial Chyrelle Helmet,プリモーディアルシレル・ヘルメット
-PROPITEM_TXT_161017,Primordial Chyrelle Suit,プリモーディアルシレル・スーツ
-PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,プリモーディアルシレル・ガントレット
-PROPITEM_TXT_161019,Primordial Chyrelle Boots,プリモーディアルシレル・ブーツ
-PROPITEM_TXT_161020,Primordial Chyrella Helmet,プリモーディアルシレラ・ヘルメット
-PROPITEM_TXT_161021,Primordial Chyrella Suit,プリモーディアルシレラ・スーツ
-PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,プリモーディアルシレラ・ガントレット
-PROPITEM_TXT_161023,Primordial Chyrella Boots,プリモーディアルシレラ・ブーツ
-PROPITEM_TXT_161024,Primordial Lenvire Helmet,プリモーディアルレンヴィール・ヘルメット
-PROPITEM_TXT_161025,Primordial Lenvire Suit,プリモーディアルレンヴィール・スーツ
-PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,プリモーディアルレンヴィール・ガントレット
-PROPITEM_TXT_161027,Primordial Lenvire Boots,プリモーディアルレンヴィール・ブーツ
-PROPITEM_TXT_161028,Primordial Lenvira Helmet,プリモーディアルレンヴィラ・ヘルメット
-PROPITEM_TXT_161029,Primordial Lenvira Suit,プリモーディアルレンヴィラ・スーツ
-PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,プリモーディアルレンヴィラ・ガントレット
-PROPITEM_TXT_161031,Primordial Lenvira Boots,プリモーディアルレンヴィラ・ブーツ
-PROPITEM_TXT_161032,Primordial Etranor Helmet,プリモーディアルエトラノール・ヘルメット
-PROPITEM_TXT_161033,Primordial Etranor Suit,プリモーディアルエトラノール・スーツ
-PROPITEM_TXT_161034,Primordial Etranor Gauntlets,プリモーディアルエトラノール・ガントレット
-PROPITEM_TXT_161035,Primordial Etranor Boots,プリモーディアルエトラノール・ブーツ
-PROPITEM_TXT_161036,Primordial Etranar Helmet,プリモーディアルエトラナー・ヘルメット
-PROPITEM_TXT_161037,Primordial Etranar Suit,プリモーディアルエトラナー・スーツ
-PROPITEM_TXT_161038,Primordial Etranar Gauntlets,プリモーディアルエトラナー・ガントレット
-PROPITEM_TXT_161039,Primordial Etranar Boots,プリモーディアルエトラナー・ブーツ
-PROPITEM_TXT_161040,Primordial Kevric Helmet,プリモーディアルケブリック・ヘルメット
-PROPITEM_TXT_161041,Primordial Kevric Suit,プリモーディアルケブリック・スーツ
-PROPITEM_TXT_161042,Primordial Kevric Gauntlets,プリモーディアルケブリック・ガントレット
-PROPITEM_TXT_161043,Primordial Kevric Boots,プリモーディアルケブリック・ブーツ
-PROPITEM_TXT_161044,Primordial Kevricar Helmet,プリモーディアルケブリカー・ヘルメット
-PROPITEM_TXT_161045,Primordial Kevricar Suit,プリモーディアルケブリカー・スーツ
-PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,プリモーディアルケブリカー・ガントレット
-PROPITEM_TXT_161047,Primordial Kevricar Boots,プリモーディアルケブリカー・ブーツ
+PROPITEM_TXT_161000,Primordial Runthiel Helmet,プリモーディアル・ランティエル・ヘルメット
+PROPITEM_TXT_161001,Primordial Runthiel Suit,プリモーディアル・ランティエル・スーツ
+PROPITEM_TXT_161002,Primordial Runthiel Gauntlets,プリモーディアル・ランティエル・ガントレット
+PROPITEM_TXT_161003,Primordial Runthiel Boots,プリモーディアル・ランティエル・ブーツ
+PROPITEM_TXT_161004,Primordial Runthien Helmet,プリモーディアル・ランティエン・ヘルメット
+PROPITEM_TXT_161005,Primordial Runthien Suit,プリモーディアル・ランティエン・スーツ
+PROPITEM_TXT_161006,Primordial Runthien Gauntlets,プリモーディアル・ランティエン・ガントレット
+PROPITEM_TXT_161007,Primordial Runthien Boots,プリモーディアル・ランティエン・ブーツ
+PROPITEM_TXT_161008,Primordial Zaythor Helmet,プリモーディアル・ゼイソー・ヘルメット
+PROPITEM_TXT_161009,Primordial Zaythor Suit,プリモーディアル・ゼイソー・スーツ
+PROPITEM_TXT_161010,Primordial Zaythor Gauntlets,プリモーディアル・ゼイソー・ガントレット
+PROPITEM_TXT_161011,Primordial Zaythor Boots,プリモーディアル・ゼイソー・ブーツ
+PROPITEM_TXT_161012,Primordial Zaythar Helmet,プリモーディアル・ゼイサー・ヘルメット
+PROPITEM_TXT_161013,Primordial Zaythar Suit,プリモーディアル・ゼイサー・スーツ
+PROPITEM_TXT_161014,Primordial Zaythar Gauntlets,プリモーディアル・ゼイサー・ガントレット
+PROPITEM_TXT_161015,Primordial Zaythar Boots,プリモーディアル・ゼイサー・ブーツ
+PROPITEM_TXT_161016,Primordial Chyrelle Helmet,プリモーディアル・シレル・ヘルメット
+PROPITEM_TXT_161017,Primordial Chyrelle Suit,プリモーディアル・シレル・スーツ
+PROPITEM_TXT_161018,Primordial Chyrelle Gauntlets,プリモーディアル・シレル・ガントレット
+PROPITEM_TXT_161019,Primordial Chyrelle Boots,プリモーディアル・シレル・ブーツ
+PROPITEM_TXT_161020,Primordial Chyrella Helmet,プリモーディアル・シレラ・ヘルメット
+PROPITEM_TXT_161021,Primordial Chyrella Suit,プリモーディアル・シレラ・スーツ
+PROPITEM_TXT_161022,Primordial Chyrella Gauntlets,プリモーディアル・シレラ・ガントレット
+PROPITEM_TXT_161023,Primordial Chyrella Boots,プリモーディアル・シレラ・ブーツ
+PROPITEM_TXT_161024,Primordial Lenvire Helmet,プリモーディアル・レンヴィール・ヘルメット
+PROPITEM_TXT_161025,Primordial Lenvire Suit,プリモーディアル・レンヴィール・スーツ
+PROPITEM_TXT_161026,Primordial Lenvire Gauntlets,プリモーディアル・レンヴィール・ガントレット
+PROPITEM_TXT_161027,Primordial Lenvire Boots,プリモーディアル・レンヴィール・ブーツ
+PROPITEM_TXT_161028,Primordial Lenvira Helmet,プリモーディアル・レンヴィラ・ヘルメット
+PROPITEM_TXT_161029,Primordial Lenvira Suit,プリモーディアル・レンヴィラ・スーツ
+PROPITEM_TXT_161030,Primordial Lenvira Gauntlets,プリモーディアル・レンヴィラ・ガントレット
+PROPITEM_TXT_161031,Primordial Lenvira Boots,プリモーディアル・レンヴィラ・ブーツ
+PROPITEM_TXT_161032,Primordial Etranor Helmet,プリモーディアル・エトラノール・ヘルメット
+PROPITEM_TXT_161033,Primordial Etranor Suit,プリモーディアル・エトラノール・スーツ
+PROPITEM_TXT_161034,Primordial Etranor Gauntlets,プリモーディアル・エトラノール・ガントレット
+PROPITEM_TXT_161035,Primordial Etranor Boots,プリモーディアル・エトラノール・ブーツ
+PROPITEM_TXT_161036,Primordial Etranar Helmet,プリモーディアル・エトラナー・ヘルメット
+PROPITEM_TXT_161037,Primordial Etranar Suit,プリモーディアル・エトラナー・スーツ
+PROPITEM_TXT_161038,Primordial Etranar Gauntlets,プリモーディアル・エトラナー・ガントレット
+PROPITEM_TXT_161039,Primordial Etranar Boots,プリモーディアル・エトラナー・ブーツ
+PROPITEM_TXT_161040,Primordial Kevric Helmet,プリモーディアル・ケブリック・ヘルメット
+PROPITEM_TXT_161041,Primordial Kevric Suit,プリモーディアル・ケブリック・スーツ
+PROPITEM_TXT_161042,Primordial Kevric Gauntlets,プリモーディアル・ケブリック・ガントレット
+PROPITEM_TXT_161043,Primordial Kevric Boots,プリモーディアル・ケブリック・ブーツ
+PROPITEM_TXT_161044,Primordial Kevricar Helmet,プリモーディアル・ケブリカー・ヘルメット
+PROPITEM_TXT_161045,Primordial Kevricar Suit,プリモーディアル・ケブリカー・スーツ
+PROPITEM_TXT_161046,Primordial Kevricar Gauntlets,プリモーディアル・ケブリカー・ガントレット
+PROPITEM_TXT_161047,Primordial Kevricar Boots,プリモーディアル・ケブリカー・ブーツ
 PROPITEM_TXT_161048,PvP Ustamel Helmet,PvPウスタメル・ヘルメット
 PROPITEM_TXT_161049,PvP Ustamel Suit,PvPウスタメル・スーツ
 PROPITEM_TXT_161050,PvP Ustamel Gauntlets,PvPウスタメル・ガントレット
