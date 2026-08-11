@@ -362,6 +362,7 @@
 | Asmodan（`SecretRoom.txt`、ボスとしての言及） | ルシファー | `Movers.csv`の`PROPMOVER_TXT_001186`（モンスター名としての訳）に準拠。ただし「Asmodan clothes」「Asmodan weapon skins」等のアイテム文脈は`Items.csv`の音訳「アスモダン」を使い分ける（モンスター名とアイテム名で表記が異なる既存パターンを踏襲） |
 | Story Mode（`StoryDungeon.txt`） | ストーリーモード | 他ファイルに先例なし、音訳で新規決定 |
 | Element Upgrading / Item Upgrading（`ElementUpgrade.txt`/`GeneralUpgrade.txt`のヘッダー） | 属性精錬 / アイテムの精錬 | `AttributeRemove.txt`の既存訳「属性精錬の削除」（Remove Element Upgrade）に準拠。SProtect/AProtect/XProtectの説明文は`UI.csv`の`UI_UPGRADE_UNSAFE`等の短縮表記「精錬編(SProtect)」パターンをそのまま踏襲 |
+| Remove Element（`MoverMenus.csv`の`MMI_59`） | 属性精錬の除去 | 旧訳「要素の削除」（直訳）から2026-08-12にユーザー指示で修正。同じ概念の`AttributeRemove.txt`（Remove Element Upgrade→属性精錬の削除）とは動詞が「除去」/「削除」で異なる点に注意（表記揺れとして残っている。一括統一はしない） |
 | Remove Level Reduction（`LevelDownRemove.txt`） | 装備可能レベル低下キャンセル | `UI.csv`の`UI_LEVELDOWN_CANCEL_TITLE`と完全一致する既存訳をそのまま採用 |
 | Item Piercing / Remove Piercing（`Piercing.txt`/`PiercingRemove.txt`） | アイテムのソケット作成 / ソケットカードの削除 | `UI.csv`の`UI_PIERCING_TITLE`（Piercing→ソケットの作成）、`UI_PIERCING_REMOVE_TITLE`（Remove Piercing Card→ソケットカードの削除）に準拠 |
 | Pet Sacrificing（`PetRecycle.txt`） | ペットサクリファイス | `MoverMenus.csv`の`MMI_1015`と完全一致する既存訳をそのまま採用 |
