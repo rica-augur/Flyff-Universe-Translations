@@ -96,8 +96,8 @@
 | Rice Cake Soup（新年イベントのバフ飲食物、`PROPITEM_TXT_144155〜144162`＝2025年版、`PROPITEM_TXT_135044〜135048`＝2026年版） | お雑煮（{色}Rice Cake Soup→{色}のお雑煮、例：Red→赤いお雑煮。効果文は「このお雑煮は、30分間{ステータス}+25を付与します。」） | 直訳「餅スープ」ではなく日本の正月料理「お雑煮」を採用。ただし`PROPITEM_TXT_200294〜200300`（無印Red/Green/Blue/Yellow Rice Cake Soup）は既存訳が「赤餅スープ」等の直訳のため据え置き（別シリーズ扱い、2026-07-29確認） |
 | Mr.Kang（NPC名） | Mr.カン | `Characters.csv`の`CHARACTER_INC_100107`（[Event] Mr.Kang→[イベント]Mr.カン）に準拠 |
 | New Year Pass（`PROPITEM_TXT_144163〜144164`＝2025年版「正月パス」、`PROPITEM_TXT_135085〜135086`＝2026年版「新年パス」） | 年度により表記が異なる（2025は「正月パス」、2026以降は「新年パス」）。新規追加時は該当年度の既存訳（同じアイテム名内の表記）に合わせる | 2026-07-29確認。統一はせず既存表記をそのまま踏襲 |
-| Entaness（`[Queen of Thorns] Entaness`のボスモンスター名） | 単独表記の場合は音訳「エンタネス」、`[Queen of Thorns] Entaness`という完全なタイトル表記の場合のみ既存の創作訳「クイーンエンプティネス」（`Movers.csv`の`PROPMOVER_TXT_002070`、`Achievements.csv`のKILL系実績準拠） | `Quests.csv`の`PROPQUEST_INC_155091`で先に「[茨の女王]エンタネス」という訳し分けが確認済み。`Items.csv`の`PROPITEM_TXT_913771〜913775`（Entaness武器/防具セットの説明文）もこの使い分けに準拠（2026-07-29） |
-| Queen of Thorns（単独、称号としての言及） | 茨の女王 | 上記Entanessの項参照。`Items.csv`の`PROPITEM_TXT_913773`で確認 |
+| Entaness（`[Queen of Thorns] Entaness`のボスモンスター名） | 単独表記の場合は音訳「エンタネス」、`[Queen of Thorns] Entaness`という完全なタイトル表記の場合は「[棘の女王] エンタネス」 | 旧創作訳「クイーンエンプティネス」（`Movers.csv`の`PROPMOVER_TXT_002070`、`Achievements.csv`のKILL_DREAMQEEN01系6件）は2026-08-12にユーザー指示で「[棘の女王] エンタネス」に置き換え。`Quests.csv`の`PROPQUEST_INC_155091`は元々「[茨の女王]エンタネス」（`茨`表記、ブラケット直後スペースなし）だったが、同時にMovers.csvの新表記（`棘`）に合わせて「[棘の女王]エンタネス」に修正済み（漢字のみ統一、ブラケット後のスペース有無はファイルごとの既存書式を維持） |
+| Queen of Thorns（単独、称号としての言及） | 棘の女王 | 上記Entanessの項参照。`Items.csv`の`PROPITEM_TXT_913773`で確認。旧表記「茨の女王」から2026-08-12に統一 |
 | Tigar（`Movers.csv`の`PROPMOVER_TXT_110118〜110142`系ボスモンスター種族名。所有格・複合語も含む） | タイガー | `Achievements.csv`の`ACHIEVEMENT_KILL_TIGAR_NAME`や`Movers.csv`のArmored Tigar/Small/Captain/Lord Tigar系で「ティーガー」表記が混在していたため、2026-08-12にユーザー指示で「タイガー」に統一。`Items.csv`（`PROPITEM_TXT_010466〜010471`）、`Quests.csv`（`PROPQUEST_INC_130028`,`130029`,`130036`,`130038`,`130039`,`130041`、うち`130028`/`130029`は「タイガール」という誤記も修正）の「ティーガー」表記も同時に修正済み |
 | Meral（`Movers.csv`の`PROPMOVER_TXT_110124〜110144`系ボスモンスター種族名。所有格・複合語も含む） | メレー | `Movers.csv`内で「メラル」（Giant/Violet/[Event] Meral）表記が混在していたため、2026-08-12にユーザー指示で「メレー」に統一。`Achievements.csv`（`ACHIEVEMENT_KILL_MERAL_LVL1〜5`）、`Quests.csv`（`PROPQUEST_INC_130040`,`130044`,`130047`）、`RequestBoxQuests.csv`（`PROPQUEST_REQUESTBOX_INC_020029`,`020038`）、`Items.csv`（`PROPITEM_TXT_010047`,`160001`,`160005`）の「メラル」表記も同時に修正済み |
 | Okean（`Movers.csv`の`PROPMOVER_TXT_110115〜110141`系ボスモンスター種族名。所有格・複合語も含む） | オケアノス | `Movers.csv`内で「オケアン」（Giant/Violet Okean）表記が混在していたため、2026-08-12にユーザー指示で「オケアノス」に統一。`Items.csv`（`PROPITEM_TXT_010041`,`160018〜160019`）、`PatrolDestinations.csv`（`PATROL_DESTINATION_000009`）、`Quests.csv`（`PROPQUEST_INC_130072`,`130075`,`130084`）、`RequestBoxQuests.csv`（`PROPQUEST_REQUESTBOX_INC_020034`,`020043`）の「オケアン」表記も同時に修正済み。`Achievements.csv`の`Okean`とは別に`Mystica`という種族が存在するので混同しないこと |
@@ -295,7 +295,7 @@
 | Lady Bloom | レディブルーム | |
 | Mushbro | ラプラ | 直訳ではない既存訳（Movers.csv準拠） |
 | Nightmyst | ナイトミスト | |
-| [Queen of Thorns] Entaness | クイーンエンプティネス | |
+| [Queen of Thorns] Entaness | [棘の女王] エンタネス | 旧創作訳「クイーンエンプティネス」から2026-08-12に変更。詳細は上記「Entaness」の項参照 |
 
 ### 表記揺れ（備考・一括修正はしない）
 
