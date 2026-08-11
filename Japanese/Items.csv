@@ -12200,7 +12200,7 @@ PROPITEM_TXT_014616,Typhoon,タイフーン
 PROPITEM_TXT_014618,Fist of Tides,潮の拳
 PROPITEM_TXT_014620,Song of Sirens,セイレーンの歌
 PROPITEM_TXT_014622,Lamprey's Wand,ヤツメウナギの杖
-PROPITEM_TXT_014624,Conch Stave,巻貝の杖
+PROPITEM_TXT_014624,Conch Staff,巻貝の杖
 PROPITEM_TXT_014625,Formed over the ages deep within the watery sands of Coral Island.,珊瑚島の水っぽい砂浜の奥深くで長い年月をかけて形成されました。
 PROPITEM_TXT_018197,Wingwander Boots,ウィングワンダーブーツ
 PROPITEM_TXT_018199,Wingwander Gauntlets,ウィングワンダーガントレット
@@ -12276,7 +12276,7 @@ PROPITEM_TXT_122305,Tarnished Typhoon,変色した台風
 PROPITEM_TXT_122306,Flawed Fist of Tides,欠陥のある潮の拳
 PROPITEM_TXT_122307,Sundered Song of Sirens,サイレンの轟いた歌
 PROPITEM_TXT_122308,Leaky Lamprey's Wand,漏れたヤツメウナギの杖
-PROPITEM_TXT_122309,Craggy Conch Stave,ごつごつした巻き貝の杖
+PROPITEM_TXT_122309,Craggy Conch Staff,ごつごつした巻き貝の杖
 PROPITEM_TXT_122310,"This weathered iteration emerged as an imperfect echo of its prime, marked by the passage of time.",この風化した反復は、時間の経過によって特徴づけられた、その全盛期の不完全なエコーとして現れました。
 PROPITEM_TXT_019197,Aqualis Helmet,アクアリスヘルメット
 PROPITEM_TXT_019199,Aqualis Suit,アクアリススーツ
@@ -12415,7 +12415,7 @@ PROPITEM_TXT_019456,Destroyed Typhoon,破壊されたタイフーン
 PROPITEM_TXT_019457,Destroyed Fist of Tides,破壊された潮の拳
 PROPITEM_TXT_019458,Destroyed Song of Sirens,破壊されたセイレーンの歌
 PROPITEM_TXT_019459,Destroyed Lamprey's Wand,破壊されたヤツメウナギの杖
-PROPITEM_TXT_019460,Destroyed Conch Stave,破壊された法螺貝の杖
+PROPITEM_TXT_019460,Destroyed Conch Staff,破壊された法螺貝の杖
 PROPITEM_TXT_019461,This weapon has been damaged beyond repair.,この武器は修復不可能なほど損傷しています。
 PROPITEM_TXT_019462,Coral Shield,珊瑚の盾
 PROPITEM_TXT_019463,Mossy Coral Shield,苔むした珊瑚の盾
@@ -24550,7 +24550,7 @@ PROPITEM_TXT_155501,Veil of Shade,ヴェール・オブ・シェード
 PROPITEM_TXT_155502,Maw of Judgement,マウ・オブ・ジャッジメント
 PROPITEM_TXT_155503,Oracle,オラクル
 PROPITEM_TXT_155504,Scepter of Disorder,セプター・オブ・ディスオーダー
-PROPITEM_TXT_155505,Roika's Stave,ロイカの杖
+PROPITEM_TXT_155505,Roika's Staff,ロイカの杖
 PROPITEM_TXT_155506,Curtana,カータナ
 PROPITEM_TXT_155507,Celestial Edge,セレスティアルエッジ
 PROPITEM_TXT_155508,Bringer of Souls,ブリンガー・オブ・ソウルズ
@@ -24574,10 +24574,10 @@ PROPITEM_TXT_155525,Broken Maw of Judgement,壊れたマウ・オブ・ジャッ
 PROPITEM_TXT_155526,Battle-Worn Maw of Judgement,歴戦のマウ・オブ・ジャッジメント
 PROPITEM_TXT_155527,Cursed Maw of Judgement,呪われたマウ・オブ・ジャッジメント
 PROPITEM_TXT_155528,Maw of Judgement,マウ・オブ・ジャッジメント
-PROPITEM_TXT_155529,Broken Roika's Stave,壊れたロイカの杖
-PROPITEM_TXT_155530,Battle-Worn Roika's Stave,歴戦のロイカの杖
-PROPITEM_TXT_155531,Cursed Roika's Stave,呪われたロイカの杖
-PROPITEM_TXT_155532,Roika's Stave,ロイカの杖
+PROPITEM_TXT_155529,Broken Roika's Staff,壊れたロイカの杖
+PROPITEM_TXT_155530,Battle-Worn Roika's Staff,歴戦のロイカの杖
+PROPITEM_TXT_155531,Cursed Roika's Staff,呪われたロイカの杖
+PROPITEM_TXT_155532,Roika's Staff,ロイカの杖
 PROPITEM_TXT_155533,Broken Oracle,壊れたオラクル
 PROPITEM_TXT_155534,Battle-Worn Oracle,歴戦のオラクル
 PROPITEM_TXT_155535,Cursed Oracle,呪われたオラクル
@@ -26603,17 +26603,17 @@ PROPITEM_TXT_903693,Rose Pink Yukata Costume Set Select Box,ローズピンク�
 PROPITEM_TXT_903694,Select which Gender you want to receive!,受け取りたい性別を選択してください！
 PROPITEM_TXT_155827,[Event] 2026 Spring Gift Box,[イベント]2026スプリングギフトボックス
 PROPITEM_TXT_155828,Madrigal Flying Selection Box (15 days),マドリガルフライングセレクションボックス（15日）
-PROPITEM_TXT_155829,2026 FWC Golden Curtana Ultimate,2026 FWCゴールデン・カータナ・アルティマ
-PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge Ultimate,2026 FWCゴールデン・セレスティアルエッジ
-PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage Ultimate,2026 FWCゴールデン・ブッチャーズカーネイジ
-PROPITEM_TXT_155832,2026 FWC Golden Harbinger Ultimate,2026 FWCゴールデン・ハービンジャー
-PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement Ultimate,2026 FWCゴールデン・マウ・オブ・ジャッジメント
-PROPITEM_TXT_155834,2026 FWC Golden Oracle Ultimate,2026 FWCゴールデン・オラクル
-PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder Ultimate,2026 FWCゴールデン・セプター・オブ・ディスオーダー・アルティマ
-PROPITEM_TXT_155836,2026 FWC Golden Roika's Stave Ultimate,2026 FWCゴールデン・ロイカの杖
-PROPITEM_TXT_155837,2026 FWC Golden Dementia Ultimate,2026 FWCゴールデン・ディメンシア
-PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain Ultimate,2026 FWCゴールデン・ドラゴンズレイン
-PROPITEM_TXT_155839,2026 FWC Golden K Fang Ultimate,2026 FWCゴールデン・ケイファング
+PROPITEM_TXT_155829,2026 FWC Golden Curtana,2026 FWCゴールデン・カータナ
+PROPITEM_TXT_155830,2026 FWC Golden Celestial Edge,2026 FWCゴールデン・セレスティアルエッジ
+PROPITEM_TXT_155831,2026 FWC Golden Butcher's Carnage,2026 FWCゴールデン・ブッチャーズカーネイジ
+PROPITEM_TXT_155832,2026 FWC Golden Harbinger,2026 FWCゴールデン・ハービンジャー
+PROPITEM_TXT_155833,2026 FWC Golden Maw of Judgement,2026 FWCゴールデン・マウ・オブ・ジャッジメント
+PROPITEM_TXT_155834,2026 FWC Golden Oracle,2026 FWCゴールデン・オラクル
+PROPITEM_TXT_155835,2026 FWC Golden Scepter of Disorder,2026 FWCゴールデン・セプター・オブ・ディスオーダー
+PROPITEM_TXT_155836,2026 FWC Golden Roika's Staff,2026 FWCゴールデン・ロイカの杖
+PROPITEM_TXT_155837,2026 FWC Golden Dementia,2026 FWCゴールデン・ディメンシア
+PROPITEM_TXT_155838,2026 FWC Golden Dragon's Rain,2026 FWCゴールデン・ドラゴンズレイン
+PROPITEM_TXT_155839,2026 FWC Golden K Fang,2026 FWCゴールデン・ケイファング
 PROPITEM_TXT_155840,2026 FWC Golden Runthiel Helmet,2026 FWCゴールデン・ランティエルヘルメット
 PROPITEM_TXT_155841,2026 FWC Golden Runthiel Suit,2026 FWCゴールデン・ランティエルスーツ
 PROPITEM_TXT_155842,2026 FWC Golden Runthiel Gauntlets,2026 FWCゴールデン・ランティエルガントレット
@@ -26746,7 +26746,7 @@ PROPITEM_TXT_135163,4th Anniversary Lucky Box III,4周年記念ラッキーボ�
 PROPITEM_TXT_135164,4th Anniversary Lucky Box IV,4周年記念ラッキーボックス IV
 PROPITEM_TXT_135165,A box with a gift for our fourth anniversary. Open it to see what's inside.,4周年を記念したギフトが入ったボックス。開けて中身を確認してみましょう。
 PROPITEM_TXT_135166,Feed Bag (3 day),フィードバッグ(3日)
-PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 day when used.,使用時、飼育されたペットのエネルギーを3日減少しないようになります。
+PROPITEM_TXT_135167,Does not reduce the energy of Raised pets for 3 days when used.,使用時、飼育されたペットのエネルギーを3日減少しないようになります。
 PROPITEM_TXT_135168,Party Toy Sword,パーティトイソード
 PROPITEM_TXT_135169,Party Toy Axe,パーティトイアクス
 PROPITEM_TXT_135170,Party Toy Big Sword,パーティトイビッグソード
@@ -29257,24 +29257,24 @@ PROPITEM_TXT_913776,Sword of Whisper,囁きの剣
 PROPITEM_TXT_913777,Sword of Mist,霧の剣
 PROPITEM_TXT_913778,Phantasmal Slayer,幻影のスレイヤー
 PROPITEM_TXT_913779,Specter's Axe ,スペクターの斧
-PROPITEM_TXT_913780,Clever of the mist,霧のクリーヴァー
+PROPITEM_TXT_913780,Cleaver of the Mist,霧のクリーヴァー
 PROPITEM_TXT_913781,Knuckle of Madness,狂気のナックル
 PROPITEM_TXT_913782,Mirage,ミラージュ
-PROPITEM_TXT_913783,Wand of apparitions,亡霊のワンド
+PROPITEM_TXT_913783,Wand of Apparitions,亡霊のワンド
 PROPITEM_TXT_913784,Staff of Ethereal Dreams,儚い夢の杖
 PROPITEM_TXT_913785,Bow of Echoes,残響の弓
 PROPITEM_TXT_913786,Jewel of Nightmare,悪夢のジュエル
-PROPITEM_TXT_913787,Sword of Whisper Ultimate,囁きの剣・アルティマ
-PROPITEM_TXT_913788,Sword of Mist Ultimate,霧の剣・アルティマ
-PROPITEM_TXT_913789,Phantasmal Slayer Ultimate,幻影のスレイヤー・アルティマ
-PROPITEM_TXT_913790,Specter's Axe Ultimate,スペクターの斧・アルティマ
-PROPITEM_TXT_913791,Clever of the mist Ultimate,霧のクリーヴァー・アルティマ
-PROPITEM_TXT_913792,Knuckle of Madness Ultimate,狂気のナックル・アルティマ
-PROPITEM_TXT_913793,Mirage Ultimate,ミラージュ・アルティマ
-PROPITEM_TXT_913794,Wand of apparitions Ultimate,亡霊のワンド・アルティマ
-PROPITEM_TXT_913795,Staff of Ethereal Dreams Ultimate,儚い夢の杖・アルティマ
-PROPITEM_TXT_913796,Bow of Echoes Ultimate,残響の弓・アルティマ
-PROPITEM_TXT_913797,Jewel of Nightmare Ultimate,悪夢のジュエル・アルティマ
+PROPITEM_TXT_913787,Sword of Whisper,囁きの剣
+PROPITEM_TXT_913788,Sword of Mist,霧の剣
+PROPITEM_TXT_913789,Phantasmal Slayer,幻影のスレイヤー
+PROPITEM_TXT_913790,Specter's Axe,スペクターの斧
+PROPITEM_TXT_913791,Cleaver of the Mist,霧のクリーヴァー
+PROPITEM_TXT_913792,Knuckle of Madness,狂気のナックル
+PROPITEM_TXT_913793,Mirage,ミラージュ
+PROPITEM_TXT_913794,Wand of Apparitions,亡霊のワンド
+PROPITEM_TXT_913795,Staff of Ethereal Dreams,儚い夢の杖
+PROPITEM_TXT_913796,Bow of Echoes,残響の弓
+PROPITEM_TXT_913797,Jewel of Nightmare,悪夢のジュエル
 PROPITEM_TXT_913798,1.5.5 Update Pass,1.5.5アップデートパス
 PROPITEM_TXT_913799,This purchase will give you access to many advantages until the end of the 1.5.5 Update Pass season,この購入により、1.5.5アップデートパスシーズン終了まで様々な特典が利用可能になります
 PROPITEM_TXT_913800,1.5.5 Update Lucky Box,1.5.5アップデートラッキーボックス
