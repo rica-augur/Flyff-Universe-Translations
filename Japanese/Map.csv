@@ -124,10 +124,10 @@ PROPMAP_TXT_200013,Darken House,ダーコンハウス
 PROPMAP_TXT_100086,2nd Anniversary,2周年記念
 PROPMAP_TXT_100087,2nd Anniversary (Medium),2周年記念(ミディアム)
 PROPMAP_TXT_100088,2nd Anniversary (Hard),2周年記念(ハード)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] エンヴィーデプス（イージー）
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] エンヴィーデプス（ノーマル）
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] エンヴィーデプス（ハード）
-PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[Event] エンヴィーデプス（カオス）
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[イベント] エンヴィーデプス（イージー）
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[イベント] エンヴィーデプス（ノーマル）
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[イベント] エンヴィーデプス（ハード）
+PROPMAP_TXT_100203,[Event] Envy Depths (Chaos),[イベント] エンヴィーデプス（カオス）
 PROPMAP_TXT_100089,Lv.15+,Lv.15以上
 PROPMAP_TXT_100090,Lv.20+,Lv.20以上
 PROPMAP_TXT_100091,Lv.80+,Lv.80以上
@@ -145,9 +145,9 @@ PROPMAP_TXT_200021,Forest House (Couple),フォレストハウス(カップル)
 PROPMAP_TXT_200022,Fall House (Couple),フォールハウス(カップル)
 PROPMAX_TXT_200023,Herneos,ヘルネオス
 PROPMAP_TXT_200024,Boss Monster Raid,ボスモンスターレイド
-PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] ハロウィンダンジョン
-PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] ハロウィンダンジョン(ノーマル)
-PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] ハロウィンダンジョン(ハード)
+PROPMAP_TXT_100094,[Event] Halloween Dungeon,[イベント] ハロウィンダンジョン
+PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[イベント] ハロウィンダンジョン(ノーマル)
+PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[イベント] ハロウィンダンジョン(ハード)
 PROPMAP_TXT_200025,Snowfield,雪原
 PROPMAX_TXT_200026,Ankou's Asylum,ベヒモス神殿
 PROPMAP_TXT_200027,Kaillun Temple,カイルルン神殿
