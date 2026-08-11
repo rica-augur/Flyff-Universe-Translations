@@ -11510,7 +11510,7 @@ PROPITEM_TXT_010037,A quest item acquired from Nagas in Coral Island. The hair i
 PROPITEM_TXT_010038,Broken Wings,折れた翼
 PROPITEM_TXT_010039,A quest item acquired from Atrox in Coral Island. These wings are slightly sticky.,珊瑚島のアトロックスから入手したクエストアイテム。これらの翼はわずかに粘着性があります。
 PROPITEM_TXT_010040,Great Crown,豪華な王冠
-PROPITEM_TXT_010041,A quest item acquired from Okeans in Coral Island. Their crowns represent social status within their respective groups.,珊瑚島のオケアンズから入手したクエストアイテム。彼らの王冠は、それぞれのグループ内の社会的地位を表しています。
+PROPITEM_TXT_010041,A quest item acquired from Okeans in Coral Island. Their crowns represent social status within their respective groups.,珊瑚島のオケアノスから入手したクエストアイテム。彼らの王冠は、それぞれのグループ内の社会的地位を表しています。
 PROPITEM_TXT_010042,Sharp Canine,獣王の牙
 PROPITEM_TXT_010043,"A quest item acquired from Tigars in Coral Island. The tooth is covered in blood from a past victim. Ironic, isn't it?",珊瑚島のタイガーから入手したクエストアイテム。歯は過去の犠牲者の血で覆われています。皮肉ですね。
 PROPITEM_TXT_010044,Keen Tooth,鋭い歯
@@ -12537,8 +12537,8 @@ PROPITEM_TXT_160014,Coral Island Metal Scrap,珊瑚島金属スクラップ
 PROPITEM_TXT_160015,Metal scraps found on the bodies of Dorian and Okean.,ドリアンとオキーンの遺体から発見された金属片。
 PROPITEM_TXT_160016,Lord Dorian Gear,ロード・ドリアンの装備
 PROPITEM_TXT_160017,A gear that can only be found from the largest Dorian.,ジャイアントドリアンからしか手に入らないギア。
-PROPITEM_TXT_160018,Lord Okean Crown,ロード・オケアンの王冠
-PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,ジャイアントオケアンの王冠。
+PROPITEM_TXT_160018,Lord Okean Crown,ロード・オケアノスの王冠
+PROPITEM_TXT_160019,A crown that can only be found from the largest Okean.,ジャイアントオケアノスの王冠。
 PROPITEM_TXT_160020,Champion's Ring,チャンピオンズリング
 PROPITEM_TXT_160021,Increases STR. Can be upgraded with a Sunstone up to Ultimate level 10.,STRが上昇する。サンストーンでアルティメットレベル5までアップグレードできます。
 PROPITEM_TXT_160022,Defender's Ring,ディフェンダーの指輪
