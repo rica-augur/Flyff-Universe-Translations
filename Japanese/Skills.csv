@@ -731,11 +731,11 @@ PROPSKILL_TXT_140100,Monsters take less damages from you but have higher drop ra
 PROPSKILL_TXT_150142,Four Strikes,フォーストライク
 PROPSKILL_TXT_150143,"Your auto attacks apply stacks, which pop at 4 stacks to deal extra damage.",通常攻撃でスタックを付与し、4スタックに達すると追加ダメージが発生します。
 PROPSKILL_TXT_150144,Auto Attack Stacks,通常攻撃スタック
-PROPSKILL_TXT_150145,Execution of Justice,エグゼキューション・オブ・ジャスティス
+PROPSKILL_TXT_150145,Execution of Justice,裁きの執行
 PROPSKILL_TXT_150146,"Leap forward, knocking nearby enemies towards you and reducing their movement speed.",前方へ跳躍し、周囲の敵を引き寄せて移動速度を低下させます。
-PROPSKILL_TXT_150147,Leap of Faith,リープ・オブ・フェイス
-PROPSKILL_TXT_150148,Hero's Emergence,ヒーローズ・エマージェンス
-PROPSKILL_TXT_150149,Faction Collapse,ファクション・コラプス
+PROPSKILL_TXT_150147,Leap of Faith,信仰の跳躍
+PROPSKILL_TXT_150148,Hero's Emergence,英雄の顕現
+PROPSKILL_TXT_150149,Faction Collapse,陣営崩壊
 PROPSKILL_TXT_150150,Lillith's Gaze,リリスズ・ゲイズ
 PROPSKILL_TXT_150151,"Gaze upon your target, slowing them down and forcing them to move towards you.",対象を見据え、減速させながら自分の方へ引き寄せます。
 PROPSKILL_TXT_150152,Sure Gaze,シュアゲイズ
