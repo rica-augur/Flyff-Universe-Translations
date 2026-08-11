@@ -1241,8 +1241,8 @@ PROPMOVER_TXT_400253,Orange Magical Toad,オレンジマジカルトード
 PROPMOVER_TXT_400254,Green Magical Toad,グリーンマジカルトード
 PROPMOVER_TXT_400255,Red Magical Toad,レッドマジカルトード
 PROPMOVER_TXT_400256,Dark Magical Toad,ダークマジカルトード
-PROPMOVER_TXT_400258,[Event] Creper,[Event] シザークラブ
-PROPMOVER_TXT_400259,[Event] Violet Creper,[Event] バイオレット・シザークラブ
+PROPMOVER_TXT_400258,[Event] Creper,[イベント]シザークラブ
+PROPMOVER_TXT_400259,[Event] Violet Creper,[イベント]バイオレット・シザークラブ
 PROPMOVER_TXT_400260,Red Earless Seal,レッドアザラシ
 PROPMOVER_TXT_400261,Purple Earless Seal,パープルアザラシ
 PROPMOVER_TXT_400262,Burgundy Earless Seal,バーガンディアザラシ
@@ -1274,7 +1274,7 @@ PROPMOVER_TXT_400287,Green Junior Banana Hero,グリーンリトルバナナヒ�
 PROPMOVER_TXT_400288,Pink Junior Banana Hero,ピンクリトルバナナヒーロー
 PROPMOVER_TXT_400289,White Junior Banana Hero,ホワイトリトルバナナヒーロー
 PROPMOVER_TXT_400290,Lord Zenma,ロード・ゼンマー
-PROPMOVER_TXT_400291,[Event] Pirate ship,[Event] 海賊船
+PROPMOVER_TXT_400291,[Event] Pirate ship,[イベント]海賊船
 PROPMOVER_TXT_400292,Shadowirs,シャドウィアズ
 PROPMOVER_TXT_400293,Captain Shadowirs,キャプテン・シャドウィアズ
 PROPMOVER_TXT_400294,Giant Shadowirs,ジャイアント・シャドウィアズ
@@ -1323,7 +1323,7 @@ PROPMOVER_TXT_400336,Dreadscale,ドレッドスケイル
 PROPMOVER_TXT_400337,Captain Dreadscale,キャプテン・ドレッドスケイル
 PROPMOVER_TXT_400338,Luminfin,ルミンフィン
 PROPMOVER_TXT_400339,Hyuna,ヒョナ
-PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[Event] クリスマスアイバット
+PROPMOVER_TXT_400350,[Event] Christmas Aibatt,[イベント]クリスマスアイバット
 PROPMOVER_TXT_400351,Blue Cobra,ブルーコブラ
 PROPMOVER_TXT_400340,Red Christmas Gingy,レッドクリスマスジンジー
 PROPMOVER_TXT_400341,Green Christmas Gingy,グリーンクリスマスジンジー
@@ -1353,7 +1353,7 @@ PROPMOVER_TXT_400370,Green Roaryen,グリーンロアリエン
 PROPMOVER_TXT_400371,White Roaryen,ホワイトロアリエン
 PROPMOVER_TXT_400372,Black Roaryen,ブラックロアリエン
 PROPMOVER_TXT_001236,Mechamochi,モコモチ
-PROPMOVER_TXT_001237,[Event] Clockworks,[Event] クロックワークス
+PROPMOVER_TXT_001237,[Event] Clockworks,[イベント]クロックワークス
 PROPMOVER_TXT_001238,Baby Pang,ベビーパン
 PROPMOVER_TXT_400373,Lord Mothbee,ロード・モスビー
 PROPMOVER_TXT_400374,Lord Zendros,ロード・ゼンドロス
@@ -1428,7 +1428,7 @@ PROPMOVER_TXT_400442,Olive Strawy Jack,オリーブストローイジャック
 PROPMOVER_TXT_400443,Blue Strawy Jack,ブルーストローイジャック
 PROPMOVER_TXT_400444,Black Strawy Jack,ブラックストローイジャック
 PROPMOVER_TXT_400445,White Strawy Jack,ホワイトストローイジャック
-PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[Event] ジャイアント・カボチャ男爵
+PROPMOVER_TXT_400446,[Event] Giant Mr. Pumpkin,[イベント]ジャイアント・カボチャ男爵
 PROPMOVER_TXT_400447,Green Frogzy,グリーンフロッジー
 PROPMOVER_TXT_400448,Yellow Frogzy,イエローフロッジー
 PROPMOVER_TXT_400449,Pink Frogzy,ピンクフロッジー
@@ -1528,22 +1528,22 @@ PROPMOVER_TXT_500071,Purple Shiki Paws,パープル・シキパウズ
 PROPMOVER_TXT_500072,Blue Shiki Paws,ブルー・シキパウズ
 PROPMOVER_TXT_500073,White Shiki Paws,ホワイト・シキパウズ
 PROPMOVER_TXT_500074,Black Shiki Paws,ブラック・シキパウズ
-PROPMOVER_TXT_110170,[Event] Giant Hundur Sharpfoot,[Event] ジャイアント・ワークウルフ
-PROPMOVER_TXT_110171,[Event] Giant Samoset,[Event] ジャイアント・ライカンガード
-PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[Event] ジャイアント・ライカンセンチネル
-PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[Event] ジャイアント・ライカンアーチャー
-PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[Event] ジャイアント・ライカンソーサラー
-PROPMOVER_TXT_110175,[Event] Small Samoset,[Event] スモール・ライカンガード
-PROPMOVER_TXT_110176,[Event] Samoset,[Event] ライカンガード
-PROPMOVER_TXT_110177,[Event] Small Kyouchish,[Event] スモール・ライカンセンチネル
-PROPMOVER_TXT_110178,[Event] Kyouchish,[Event] ライカンセンチネル
-PROPMOVER_TXT_110179,[Event] Small Kanonicus,[Event] スモール・ライカンアーチャー
-PROPMOVER_TXT_110180,[Event] Kanonicus,[Event] ライカンアーチャー
-PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[Event] スモール・ライカンソーサラー
-PROPMOVER_TXT_110182,[Event] Mage Redcloud,[Event] ライカンソーサラー
-PROPMOVER_TXT_110183,[Event] Small Taiaha,[Event] スモール・ライカンウォーリアー
-PROPMOVER_TXT_110184,[Event] Taiaha,[Event] ライカンウォーリアー
-PROPMOVER_TXT_110185,[Event] Chief Keokuk,[Event] ライカンバルガ
+PROPMOVER_TXT_110170,[Event] Giant Hundur Sharpfoot,[イベント]ジャイアント・ワークウルフ
+PROPMOVER_TXT_110171,[Event] Giant Samoset,[イベント]ジャイアント・ライカンガード
+PROPMOVER_TXT_110172,[Event] Giant Kyouchish,[イベント]ジャイアント・ライカンセンチネル
+PROPMOVER_TXT_110173,[Event] Giant Kanonicus,[イベント]ジャイアント・ライカンアーチャー
+PROPMOVER_TXT_110174,[Event] Giant Mage Redcloud,[イベント]ジャイアント・ライカンソーサラー
+PROPMOVER_TXT_110175,[Event] Small Samoset,[イベント]スモール・ライカンガード
+PROPMOVER_TXT_110176,[Event] Samoset,[イベント]ライカンガード
+PROPMOVER_TXT_110177,[Event] Small Kyouchish,[イベント]スモール・ライカンセンチネル
+PROPMOVER_TXT_110178,[Event] Kyouchish,[イベント]ライカンセンチネル
+PROPMOVER_TXT_110179,[Event] Small Kanonicus,[イベント]スモール・ライカンアーチャー
+PROPMOVER_TXT_110180,[Event] Kanonicus,[イベント]ライカンアーチャー
+PROPMOVER_TXT_110181,[Event] Small Mage Redcloud,[イベント]スモール・ライカンソーサラー
+PROPMOVER_TXT_110182,[Event] Mage Redcloud,[イベント]ライカンソーサラー
+PROPMOVER_TXT_110183,[Event] Small Taiaha,[イベント]スモール・ライカンウォーリアー
+PROPMOVER_TXT_110184,[Event] Taiaha,[イベント]ライカンウォーリアー
+PROPMOVER_TXT_110185,[Event] Chief Keokuk,[イベント]ライカンバルガ
 PROPMOVER_TXT_110186,Vroom,ブルーム
 PROPMOVER_TXT_110187,Red Horse,レッドホース
 PROPMOVER_TXT_500075,Green Pawzer,グリーンパウザー
