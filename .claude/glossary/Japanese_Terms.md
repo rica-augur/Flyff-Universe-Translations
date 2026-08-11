@@ -344,3 +344,25 @@
 | XProtect（`UI.csv`の`UI_ULTIMATE_UPGRADE_PROTECTSCROLL`等、短いラベル文脈のみ） | アルティマ編(XProtect) | `UI_UPGRADE_PROTECTSCROLL`（SProtect→精錬編(SProtect)）の「カテゴリ名+編(英語略称)」形式に合わせた表記。この「精錬編(SProtect)」はGame Version 1.5.1導入時点（コミット`58c51bf`、作者lsaos）からの既存のオリジナル訳であり、我々の過去の翻訳ではないため変更せず、これに倣う方針とした（2026-07-30、ユーザー指示）。同コミットで導入されたXProtectの旧訳「エクスプロテクト」（音訳）とは表記スタイルを統一する形で修正。なお`Items.csv`の`PROPITEM_TXT_122510`（Scroll of XProtect）等、アイテム名としてのフル文脈では「鍛冶屋の心得・アルティマ」を使用し続ける（これは変更しない） |
 | Tenacity（`UI_TOOLTIP_TENACITY`） | テナシティ | `Skills.csv`の`PROPSKILL_TXT_150331`に準拠 |
 
+## 31件の未訳TXTファイル一斉翻訳時に確認・新規決定した用語（2026-08-08）
+
+`Japanese/`直下の未訳（英語のまま）だった31個の`.txt`ファイル（`BlessingRemove.txt`〜`WeaponConvert_Unique.txt`）を一斉翻訳した際に確認した用語。大半は既存の`Items.csv`/`UI.csv`/`MoverMenus.csv`等の定訳をそのまま流用したが、以下はそれらのファイルに先例がなく新規に決定したもの、または複数の競合する既存訳から1つを選定したもの。
+
+| English | 日本語 | 備考 |
+| --- | --- | --- |
+| Kalgas Assault | カルガスアサルト | `Items.csv`/`TextClient.csv`等で「カルガスアサルト」「カルガス・アサルト」の表記揺れが既にあるが、`KalgasAssault.txt`/`KalgasAssaultReg.txt`ではナカグロなしの「カルガスアサルト」に統一（既存訳の一括修正はしない） |
+| Kalgas Chip（数量表現） | カルガスチップ{N}個 | `Items.csv`の「50x First Refresher」→「50個」等の個数表記パターンに準拠し、`KalgasAssault.txt`の「5x/10x/30x/20x/15x Kalgas Chips」を{N}個形式に変換 |
+| artifact（`KalgasAssault.txt`のカルガス防衛オブジェクト） | アーティファクト | `Items.csv`の`PROPITEM_TXT_018325`の音訳に準拠。カルガスアサルト固有のゲームプレイオブジェクトで他ファイルに先例なし |
+| Server Lord（`Donation.txt`） | サーバーロード | 他ファイルに先例なし新規決定。`Characters.csv`の`Lord Manager`→「ロードマネージャー」、`UI.csv`の`UI_DONATION_CURRENTLORD`「Current Lord」→「現在のロード」に準拠し、「Lord」の音訳「ロード」を踏襲 |
+| Point Circle（`RainbowRaceRules.txt`） | ポイントサークル | レインボーレース固有のゲームプレイオブジェクトで先例なし、音訳で新規決定 |
+| Secret Room（`SecretRoom.txt`） | シークレットルーム | `Items.csv`の`PROPITEM_TXT_130051`（Secret Room Reward Box→シークレットルーム報酬ボックス）に準拠。`Dialogs.csv`では同じ機能が創作訳「ギルド・オルタナティヴ」で呼ばれているが、`SecretRoom.txt`はアイテム名に合わせて音訳を採用 |
+| Asmodan（`SecretRoom.txt`、ボスとしての言及） | ルシファー | `Movers.csv`の`PROPMOVER_TXT_001186`（モンスター名としての訳）に準拠。ただし「Asmodan clothes」「Asmodan weapon skins」等のアイテム文脈は`Items.csv`の音訳「アスモダン」を使い分ける（モンスター名とアイテム名で表記が異なる既存パターンを踏襲） |
+| Story Mode（`StoryDungeon.txt`） | ストーリーモード | 他ファイルに先例なし、音訳で新規決定 |
+| Element Upgrading / Item Upgrading（`ElementUpgrade.txt`/`GeneralUpgrade.txt`のヘッダー） | 属性精錬 / アイテムの精錬 | `AttributeRemove.txt`の既存訳「属性精錬の削除」（Remove Element Upgrade）に準拠。SProtect/AProtect/XProtectの説明文は`UI.csv`の`UI_UPGRADE_UNSAFE`等の短縮表記「精錬編(SProtect)」パターンをそのまま踏襲 |
+| Remove Level Reduction（`LevelDownRemove.txt`） | 装備可能レベル低下キャンセル | `UI.csv`の`UI_LEVELDOWN_CANCEL_TITLE`と完全一致する既存訳をそのまま採用 |
+| Item Piercing / Remove Piercing（`Piercing.txt`/`PiercingRemove.txt`） | アイテムのソケット作成 / ソケットカードの削除 | `UI.csv`の`UI_PIERCING_TITLE`（Piercing→ソケットの作成）、`UI_PIERCING_REMOVE_TITLE`（Remove Piercing Card→ソケットカードの削除）に準拠 |
+| Pet Sacrificing（`PetRecycle.txt`） | ペットサクリファイス | `MoverMenus.csv`の`MMI_1015`と完全一致する既存訳をそのまま採用 |
+| Unbinding（`Unbinding.txt`） | 帰属解除 | `MoverMenus.csv`の`MMI_1003`、`Items.csv`の`Scroll of Unbinding`→「帰属解除の巻物」に準拠。「Soul-Bound」＝キャラクター帰属（解除可能）、「Soul-Linked」＝プレイヤーに帰属（解除不可）という2種類の帰属を訳し分け |
+| Remove Ultimate Jewel（`UltimateJewelRemove.txt`） | アルティマジュエルの削除 | `MoverMenus.csv`の`MMI_1097`と完全一致する既存訳をそのまま採用 |
+| Prologue.txt固有名詞（マドリガル創世神話） | Madrigal→マドリガル、Rhisis→リシス、Roika→ロイカ、Bubble→バブル、Shade→シェード、Iblis→イブリス、Dwarpet(s)→ドワーフ、Masquerpets→モンスター | いずれも`Dialogs.csv`等の既存訳に準拠。特に「Masquerpets」は種族の固有名詞だが、既存訳では一貫して汎用語「モンスター」に意訳されているため、`Prologue.txt`でもこれを踏襲（意味的ニュアンスより既存表記との統一を優先） |
+

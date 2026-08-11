@@ -27,6 +27,16 @@
 
 - `Movers.csv`の「ジャイアント・〇〇」系で漢字混じりの訳が3件ある（`PROPMOVER_TXT_000116` Giant Mr. Pumpkin→「ジャイアント・カボチャ男爵」、`PROPMOVER_TXT_000588` Mutant Giant 2nd Class Fefern→「ジャイアント・2級フェフェルン」、`PROPMOVER_TXT_000600` Mutant Giant Bang King→「ジャイアント・ヴァン改」）。上記の`Cursed Warden`と類似のパターンだが、これらは古くからの既存訳のためユーザー指示により**触らない**（2026-07-28確認）。
 
+## Guild Siege（`GuildCombat*.txt`）の順位報酬表記（2026-08-08、`GuildCombat60.txt`翻訳時に確認）
+
+`UI.csv`の`UI_GUILDCOMBAT_OFFER_PRESENT1〜3`（既存訳）は「Winning Guild/Second Guild/Third Guild」形式を「優勝ギルド／第2ギルド／第3ギルド」、「x number of participating guilds」を「×参加ギルド数」と訳している。一方`GuildCombat60/80/165.txt`系は原文が「1st Place Guild/2nd Place Guild/…/6th–10th Place Guilds」という**序数＋Place**形式のため、上記の「第Nギルド」ではなく「{数字}位ギルド」（例：1st Place Guild→1位ギルド、6th–10th Place Guilds→6〜10位ギルド、範囲はenダッシュではなく全角チルダ「〜」）に統一する。「x number of participating guilds」は同じく「×参加ギルド数」を踏襲。箇条書きの記号は原文の「-」とインデントをそのまま残す（`UI.csv`側の「・」とは別ファイルなので混同しない）。
+
+その他の定訳（`GuildCombat*.txt`翻訳時に確認）：
+- Guild Siege → ギルドコンバット（`TextClient.csv`の`TEXTCLIENT_GUILDCOMBAT*`系に準拠）
+- second/third class change → 2次/3次転職
+- [Guild Siege Manager] {name} → [ギルコンマネージャー]{カタカナ名}（`Characters.csv`準拠。「ギルコン」は略称として定着済み）
+- Blue Chip(s) → ブルーチップ
+
 ## 職業（First Job）フレーバーテキストの文体（`TextClient.csv`の`TEXTCLIENT_STATUE_*`、2026-07-30）
 
 北フラリスの職業別銅像の説明文。`TEXTCLIENT_STATUE_VAGRANT`（"The start of all. You are Vagrant."→「すべての始まり。あなたは放浪者。」）の体言止め・詩的な文体に合わせ、他の職業（BP=ビルポスター、RM=リングマスター、JESTER=ジェスター、RANGER=レンジャー、KNIGHT=ナイト、BLADE=ブレード、ELE=エレメンター、PSY=サイキーパー）も「{形容表現}、{役割を表す一文}。」の体言止め＋文語調で統一（例：BP「伝説の戦士、その身に宿るは戦の魂。」）。通常のシステムメッセージ（だ・である調やですます調）とは別扱いの、演出用の特別な文体である点に注意。
