@@ -1,0 +1,530 @@
+<title>Movers.csv 新規翻訳分</title>
+<style>
+  :root {
+    --bg: #FAF8F4;
+    --surface: #FFFFFF;
+    --surface-alt: #F1EDE5;
+    --header-bg: #F5F1EA;
+    --text: #2A2730;
+    --text-muted: #756E7A;
+    --text-faint: #9891A0;
+    --border: #E3DCD0;
+    --border-strong: #CFC6B8;
+    --accent: #5B4B8A;
+    --accent-strong: #46396B;
+    --accent-soft: #ECE7F5;
+    --flag: #A5691F;
+    --flag-soft: #FBF0DE;
+    --flag-border: #E7C88D;
+    --shadow: 0 1px 2px rgba(40, 30, 10, 0.06), 0 4px 16px rgba(40, 30, 10, 0.05);
+    --font-display: Georgia, "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+    --font-body: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", "Segoe UI", "Meiryo", sans-serif;
+    --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, "Noto Sans Mono CJK JP", monospace;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #171420;
+      --surface: #1E1A29;
+      --surface-alt: #251F31;
+      --header-bg: #211C2C;
+      --text: #ECE8F2;
+      --text-muted: #B0A7BF;
+      --text-faint: #7C7390;
+      --border: #362F44;
+      --border-strong: #47405A;
+      --accent: #9683D6;
+      --accent-strong: #B4A4E6;
+      --accent-soft: #2C2640;
+      --flag: #E3AC5C;
+      --flag-soft: #332A1C;
+      --flag-border: #5A4826;
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.35);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #171420;
+    --surface: #1E1A29;
+    --surface-alt: #251F31;
+    --header-bg: #211C2C;
+    --text: #ECE8F2;
+    --text-muted: #B0A7BF;
+    --text-faint: #7C7390;
+    --border: #362F44;
+    --border-strong: #47405A;
+    --accent: #9683D6;
+    --accent-strong: #B4A4E6;
+    --accent-soft: #2C2640;
+    --flag: #E3AC5C;
+    --flag-soft: #332A1C;
+    --flag-border: #5A4826;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.35);
+    color-scheme: dark;
+  }
+  :root[data-theme="light"] {
+    --bg: #FAF8F4;
+    --surface: #FFFFFF;
+    --surface-alt: #F1EDE5;
+    --header-bg: #F5F1EA;
+    --text: #2A2730;
+    --text-muted: #756E7A;
+    --text-faint: #9891A0;
+    --border: #E3DCD0;
+    --border-strong: #CFC6B8;
+    --accent: #5B4B8A;
+    --accent-strong: #46396B;
+    --accent-soft: #ECE7F5;
+    --flag: #A5691F;
+    --flag-soft: #FBF0DE;
+    --flag-border: #E7C88D;
+    --shadow: 0 1px 2px rgba(40, 30, 10, 0.06), 0 4px 16px rgba(40, 30, 10, 0.05);
+    color-scheme: light;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+  }
+  body { overflow-x: hidden; }
+
+  a { color: var(--accent); }
+
+  .wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  header.hero {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+  .eyebrow {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 1.25;
+    margin: 2px 0 4px;
+    text-wrap: balance;
+    color: var(--text);
+  }
+  .lede {
+    font-size: 14.5px;
+    color: var(--text-muted);
+    max-width: 66ch;
+    line-height: 1.65;
+    margin: 4px 0 0;
+  }
+
+  .stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 18px;
+  }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 16px;
+    min-width: 110px;
+    box-shadow: var(--shadow);
+  }
+  .stat .n {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--text);
+  }
+  .stat .l {
+    font-size: 11.5px;
+    color: var(--text-muted);
+    letter-spacing: 0.02em;
+  }
+
+  section.flags {
+    background: var(--flag-soft);
+    border: 1px solid var(--flag-border);
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin-bottom: 28px;
+  }
+  section.flags h2 {
+    margin: 0 0 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--flag);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    letter-spacing: 0.01em;
+  }
+  section.flags h2::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    background: var(--flag);
+    display: inline-block;
+    flex: none;
+  }
+  section.flags ul {
+    margin: 0;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+  }
+  section.flags li {
+    font-size: 13.5px;
+    line-height: 1.65;
+    color: var(--text);
+  }
+
+  .toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    background: var(--bg);
+    padding: 14px 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 0;
+  }
+  .search-box {
+    position: relative;
+    flex: 1;
+    max-width: 420px;
+  }
+  .search-box input {
+    width: 100%;
+    padding: 9px 14px 9px 34px;
+    border-radius: 8px;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    color: var(--text);
+    font-size: 14px;
+    font-family: var(--font-body);
+    outline: none;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .search-box input:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+  .search-box svg {
+    position: absolute;
+    left: 11px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 15px;
+    height: 15px;
+    color: var(--text-faint);
+    pointer-events: none;
+  }
+  .result-count {
+    font-family: var(--font-mono);
+    font-size: 12.5px;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+  .filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--border-strong);
+    background: var(--surface);
+    color: var(--text-muted);
+    font-size: 12.5px;
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    white-space: nowrap;
+  }
+  .filter-chip:hover { border-color: var(--accent); color: var(--text); }
+  .filter-chip.active {
+    background: var(--flag-soft);
+    border-color: var(--flag-border);
+    color: var(--flag);
+    font-weight: 600;
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-top: 18px;
+    box-shadow: var(--shadow);
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 13.5px;
+    min-width: 980px;
+  }
+  thead th {
+    position: sticky;
+    top: var(--toolbar-h, 62px);
+    background: var(--header-bg);
+    text-align: left;
+    font-size: 11px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    font-weight: 700;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border-strong);
+    white-space: nowrap;
+  }
+  tbody td {
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+    color: var(--text);
+  }
+  tbody tr:nth-child(even) { background: var(--surface); }
+  tbody tr:nth-child(odd) { background: var(--surface-alt); }
+  tbody tr.flagged { background: var(--flag-soft); }
+  tbody tr:hover { background: var(--accent-soft); }
+
+  td.key {
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    color: var(--text-faint);
+    white-space: normal;
+    word-break: break-word;
+    line-height: 1.5;
+    letter-spacing: -0.01em;
+  }
+  td.en {
+    color: var(--text-muted);
+    font-size: 13px;
+    overflow-wrap: break-word;
+  }
+  td.en .variants {
+    display: block;
+    font-size: 11px;
+    color: var(--text-faint);
+    margin-top: 2px;
+  }
+  td.ja {
+    font-weight: 600;
+    font-size: 14.5px;
+    overflow-wrap: break-word;
+  }
+  td.ja .count-chip {
+    display: inline-block;
+    margin-left: 7px;
+    font-family: var(--font-mono);
+    font-weight: 600;
+    font-size: 10.5px;
+    color: var(--accent);
+    background: var(--accent-soft);
+    border-radius: 5px;
+    padding: 1px 6px;
+    vertical-align: middle;
+  }
+  td.ja .variants-ja {
+    display: block;
+    font-weight: 400;
+    font-size: 11px;
+    color: var(--text-faint);
+    margin-top: 2px;
+  }
+  td.yomi {
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    color: var(--text-muted);
+    overflow-wrap: break-word;
+  }
+  td.notes {
+    font-size: 12px;
+    color: var(--flag);
+    line-height: 1.55;
+    overflow-wrap: break-word;
+  }
+  td.notes:empty::after { content: "—"; color: var(--text-faint); }
+
+  .hidden-row { display: none; }
+
+  footer {
+    margin-top: 28px;
+    font-size: 12px;
+    color: var(--text-faint);
+    text-align: center;
+  }
+
+  ::selection { background: var(--accent-soft); }
+
+  @media (max-width: 640px) {
+    h1 { font-size: 26px; }
+    .wrap { padding: 24px 14px 60px; }
+  }
+</style>
+
+<div class="wrap">
+  <header class="hero">
+    <span class="eyebrow">Flyff Universe Translations · Japanese</span>
+    <h1>Movers.csv 新規翻訳分</h1>
+    <p class="lede">
+      <code style="font-family:var(--font-mono)">upstream/master</code>（既存の翻訳）と比較し、今回のブランチで新たに翻訳した405件のみを一覧化。
+      既存の翻訳が既にあったものは除外している（内容を修正した14件も対象外）。
+      スモール／キャプテン／ジャイアント等のティア違いは1行にまとめ、代表英語名・現状の和訳案に加え、英語名をそのまま機械的にカタカナ化した参考読みを併記した（現状の和訳案と見比べて意訳・省略箇所を確認できる）。
+    </p>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <section class="flags" id="flagsSection">
+    <h2>要確認・表記揺れの疑いがある項目（一覧化にあたり自動検出できた範囲）</h2>
+    <ul id="flagsList"></ul>
+  </section>
+
+  <div class="toolbar" id="toolbar">
+    <div class="search-box">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="9" cy="9" r="6.5"/><path d="M18 18l-4.5-4.5" stroke-linecap="round"/></svg>
+      <input type="text" id="searchInput" placeholder="KEY・英語・和訳・読み・備考を検索…" autocomplete="off">
+    </div>
+    <div class="filter-chip" id="flagFilter">⚑ 要確認のみ</div>
+    <span class="result-count" id="resultCount"></span>
+  </div>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:11%">KEY</th>
+          <th style="width:18%">English</th>
+          <th style="width:18%">現状の和訳案</th>
+          <th style="width:12%">英語のカタカナ読み</th>
+          <th style="width:41%">備考</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+  </div>
+
+  <footer>upstream/master 比で新規翻訳 405件（既存翻訳の修正14件は対象外）／同系列統合後 323行（うちティア統合23件）</footer>
+</div>
+
+<script id="rowdata" type="application/json">[{"keys":["PROPMOVER_TXT_001236"],"english":"Mechamochi","englishVariants":["Mechamochi"],"japanese":"モコモチ","japaneseVariants":["モコモチ"],"reading":"メカモチ","notes":"","isGroup":false,"count":1,"sortKey":1236},{"keys":["PROPMOVER_TXT_001237"],"english":"[Event] Clockworks","englishVariants":["[Event] Clockworks"],"japanese":"[Event] クロックワークス","japaneseVariants":["[Event] クロックワークス"],"reading":"[イベント]クロックワークス","notes":"","isGroup":false,"count":1,"sortKey":1237},{"keys":["PROPMOVER_TXT_001238"],"english":"Baby Pang","englishVariants":["Baby Pang"],"japanese":"ベビーパン","japaneseVariants":["ベビーパン"],"reading":"ベビーパング","notes":"","isGroup":false,"count":1,"sortKey":1238},{"keys":["PROPMOVER_TXT_002058"],"english":"Mushbro","englishVariants":["Mushbro"],"japanese":"ラプラ","japaneseVariants":["ラプラ"],"reading":"マッシュブロ","notes":"","isGroup":false,"count":1,"sortKey":2058},{"keys":["PROPMOVER_TXT_002060"],"english":"Blossom","englishVariants":["Blossom"],"japanese":"フロミー","japaneseVariants":["フロミー"],"reading":"ブロッサム","notes":"","isGroup":false,"count":1,"sortKey":2060},{"keys":["PROPMOVER_TXT_002062"],"english":"Oldroot","englishVariants":["Oldroot"],"japanese":"オールドルート","japaneseVariants":["オールドルート"],"reading":"オールドルート","notes":"","isGroup":false,"count":1,"sortKey":2062},{"keys":["PROPMOVER_TXT_002064"],"english":"Minimusha","englishVariants":["Minimusha"],"japanese":"ミニムシュ","japaneseVariants":["ミニムシュ"],"reading":"ミニムシャ","notes":"","isGroup":false,"count":1,"sortKey":2064},{"keys":["PROPMOVER_TXT_002066"],"english":"Lady Bloom","englishVariants":["Lady Bloom"],"japanese":"レディブルーム","japaneseVariants":["レディブルーム"],"reading":"レディ・ブルーム","notes":"","isGroup":false,"count":1,"sortKey":2066},{"keys":["PROPMOVER_TXT_002068"],"english":"Nightmyst","englishVariants":["Nightmyst"],"japanese":"ナイトミスト","japaneseVariants":["ナイトミスト"],"reading":"ナイトミスト","notes":"","isGroup":false,"count":1,"sortKey":2068},{"keys":["PROPMOVER_TXT_002070"],"english":"[Queen of Thorns] Entaness","englishVariants":["[Queen of Thorns] Entaness"],"japanese":"クイーンエンプティネス","japaneseVariants":["クイーンエンプティネス"],"reading":"[クイーン・オブ・ソーンズ]エンタネス","notes":"","isGroup":false,"count":1,"sortKey":2070},{"keys":["PROPMOVER_TXT_003058"],"english":"Magma Mushbro","englishVariants":["Magma Mushbro"],"japanese":"マグマのラプラ","japaneseVariants":["マグマのラプラ"],"reading":"マグマ・マッシュブロ","notes":"","isGroup":false,"count":1,"sortKey":3058},{"keys":["PROPMOVER_TXT_003060"],"english":"Icy Blossom","englishVariants":["Icy Blossom"],"japanese":"氷のフロミー","japaneseVariants":["氷のフロミー"],"reading":"アイシー・ブロッサム","notes":"","isGroup":false,"count":1,"sortKey":3060},{"keys":["PROPMOVER_TXT_003062"],"english":"Decaying Oldroot","englishVariants":["Decaying Oldroot"],"japanese":"朽ちたオールドルート","japaneseVariants":["朽ちたオールドルート"],"reading":"ディケイング・オールドルート","notes":"","isGroup":false,"count":1,"sortKey":3062},{"keys":["PROPMOVER_TXT_003064"],"english":"Venomous Minimusha","englishVariants":["Venomous Minimusha"],"japanese":"毒のミニムシュ","japaneseVariants":["毒のミニムシュ"],"reading":"ヴェノマス・ミニムシャ","notes":"","isGroup":false,"count":1,"sortKey":3064},{"keys":["PROPMOVER_TXT_003066"],"english":"Angelic Lady Bloom","englishVariants":["Angelic Lady Bloom"],"japanese":"天使のレディブルーム","japaneseVariants":["天使のレディブルーム"],"reading":"エンジェリック・レディ・ブルーム","notes":"","isGroup":false,"count":1,"sortKey":3066},{"keys":["PROPMOVER_TXT_003067"],"english":"[Eillun Farmer] Sprout","englishVariants":["[Eillun Farmer] Sprout"],"japanese":"[エルリウンの農夫] スプラウト","japaneseVariants":["[エルリウンの農夫] スプラウト"],"reading":"[エイルン・ファーマー]スプラウト","notes":"","isGroup":false,"count":1,"sortKey":3067},{"keys":["PROPMOVER_TXT_003068"],"english":"[Eillun Farmer] Thorn","englishVariants":["[Eillun Farmer] Thorn"],"japanese":"[エルリウンの農夫] ソーン","japaneseVariants":["[エルリウンの農夫] ソーン"],"reading":"[エイルン・ファーマー]ソーン","notes":"","isGroup":false,"count":1,"sortKey":3068},{"keys":["PROPMOVER_TXT_003069"],"english":"[Eillun Farmer] Dr.Root","englishVariants":["[Eillun Farmer] Dr.Root"],"japanese":"[エルリウンの農夫] ドクター・ルート","japaneseVariants":["[エルリウンの農夫] ドクター・ルート"],"reading":"[エイルン・ファーマー]ドクター・ルート","notes":"","isGroup":false,"count":1,"sortKey":3069},{"keys":["PROPMOVER_TXT_003070"],"english":"Baby Okean","englishVariants":["Baby Okean"],"japanese":"ベビーオケアノス","japaneseVariants":["ベビーオケアノス"],"reading":"ベビー・オケアン","notes":"","isGroup":false,"count":1,"sortKey":3070},{"keys":["PROPMOVER_TXT_500012","PROPMOVER_TXT_500013","PROPMOVER_TXT_500014","PROPMOVER_TXT_500015","PROPMOVER_TXT_500016","PROPMOVER_TXT_110170"],"english":"Hundur Sharpfoot","englishVariants":["Small Hundur Sharpfoot","Hundur Sharpfoot","Captain Hundur Sharpfoot","Giant Hundur Sharpfoot","Violet Hundur Sharpfoot","[Event] Giant Hundur Sharpfoot"],"japanese":"ワークウルフ","japaneseVariants":["スモール・ワークウルフ","ワークウルフ","キャプテン・ワークウルフ","ジャイアント・ワークウルフ","バイオレット・ワークウルフ","[Event] ジャイアント・ワークウルフ"],"reading":"フンダー・シャープフット","notes":"","isGroup":true,"count":6,"sortKey":110170},{"keys":["PROPMOVER_TXT_500017","PROPMOVER_TXT_500018","PROPMOVER_TXT_500019","PROPMOVER_TXT_500020","PROPMOVER_TXT_500021","PROPMOVER_TXT_110171","PROPMOVER_TXT_110175"],"english":"Samoset","englishVariants":["Small Samoset","Samoset","Captain Samoset","Giant Samoset","Violet Samoset","[Event] Giant Samoset","[Event] Small Samoset"],"japanese":"ライカンガード","japaneseVariants":["スモール・ライカンガード","ライカンガード","キャプテン・ライカンガード","ジャイアント・ライカンガード","バイオレット・ライカンガード","[Event] ジャイアント・ライカンガード","[Event] スモール・ライカンガード"],"reading":"サモセット","notes":"","isGroup":true,"count":7,"sortKey":110171},{"keys":["PROPMOVER_TXT_500022","PROPMOVER_TXT_500023","PROPMOVER_TXT_500024","PROPMOVER_TXT_500025","PROPMOVER_TXT_500026","PROPMOVER_TXT_110172","PROPMOVER_TXT_110177"],"english":"Kyouchish","englishVariants":["Small Kyouchish","Kyouchish","Captain Kyouchish","Giant Kyouchish","Violet Kyouchish","[Event] Giant Kyouchish","[Event] Small Kyouchish"],"japanese":"ライカンセンチネル","japaneseVariants":["スモール・ライカンセンチネル","ライカンセンチネル","キャプテン・ライカンセンチネル","ジャイアント・ライカンセンチネル","バイオレット・ライカンセンチネル","[Event] ジャイアント・ライカンセンチネル","[Event] スモール・ライカンセンチネル"],"reading":"キョウチッシュ","notes":"","isGroup":true,"count":7,"sortKey":110172},{"keys":["PROPMOVER_TXT_500027","PROPMOVER_TXT_500028","PROPMOVER_TXT_500029","PROPMOVER_TXT_500030","PROPMOVER_TXT_500031","PROPMOVER_TXT_110173","PROPMOVER_TXT_110179"],"english":"Kanonicus","englishVariants":["Small Kanonicus","Kanonicus","Captain Kanonicus","Giant Kanonicus","Violet Kanonicus","[Event] Giant Kanonicus","[Event] Small Kanonicus"],"japanese":"ライカンアーチャー","japaneseVariants":["スモール・ライカンアーチャー","ライカンアーチャー","キャプテン・ライカンアーチャー","ジャイアント・ライカンアーチャー","バイオレット・ライカンアーチャー","[Event] ジャイアント・ライカンアーチャー","[Event] スモール・ライカンアーチャー"],"reading":"カノニカス","notes":"","isGroup":true,"count":7,"sortKey":110173},{"keys":["PROPMOVER_TXT_500032","PROPMOVER_TXT_500033","PROPMOVER_TXT_500034","PROPMOVER_TXT_500035","PROPMOVER_TXT_500036","PROPMOVER_TXT_110174","PROPMOVER_TXT_110181"],"english":"Mage Redcloud","englishVariants":["Small Mage Redcloud","Mage Redcloud","Captain Mage Redcloud","Giant Mage Redcloud","Violet Mage Redcloud","[Event] Giant Mage Redcloud","[Event] Small Mage Redcloud"],"japanese":"ライカンソーサラー","japaneseVariants":["スモール・ライカンソーサラー","ライカンソーサラー","キャプテン・ライカンソーサラー","ジャイアント・ライカンソーサラー","バイオレット・ライカンソーサラー","[Event] ジャイアント・ライカンソーサラー","[Event] スモール・ライカンソーサラー"],"reading":"メイジ・レッドクラウド","notes":"","isGroup":true,"count":7,"sortKey":110174},{"keys":["PROPMOVER_TXT_110176"],"english":"[Event] Samoset","englishVariants":["[Event] Samoset"],"japanese":"[Event] ライカンガード","japaneseVariants":["[Event] ライカンガード"],"reading":"[イベント]サモセット","notes":"","isGroup":false,"count":1,"sortKey":110176},{"keys":["PROPMOVER_TXT_110178"],"english":"[Event] Kyouchish","englishVariants":["[Event] Kyouchish"],"japanese":"[Event] ライカンセンチネル","japaneseVariants":["[Event] ライカンセンチネル"],"reading":"[イベント]キョウチッシュ","notes":"","isGroup":false,"count":1,"sortKey":110178},{"keys":["PROPMOVER_TXT_110180"],"english":"[Event] Kanonicus","englishVariants":["[Event] Kanonicus"],"japanese":"[Event] ライカンアーチャー","japaneseVariants":["[Event] ライカンアーチャー"],"reading":"[イベント]カノニカス","notes":"","isGroup":false,"count":1,"sortKey":110180},{"keys":["PROPMOVER_TXT_110182"],"english":"[Event] Mage Redcloud","englishVariants":["[Event] Mage Redcloud"],"japanese":"[Event] ライカンソーサラー","japaneseVariants":["[Event] ライカンソーサラー"],"reading":"[イベント]メイジ・レッドクラウド","notes":"","isGroup":false,"count":1,"sortKey":110182},{"keys":["PROPMOVER_TXT_500037","PROPMOVER_TXT_500038","PROPMOVER_TXT_500039","PROPMOVER_TXT_500040","PROPMOVER_TXT_500041","PROPMOVER_TXT_110183"],"english":"Taiaha","englishVariants":["Small Taiaha","Taiaha","Captain Taiaha","Giant Taiaha","Violet Taiaha","[Event] Small Taiaha"],"japanese":"ライカンウォーリアー","japaneseVariants":["スモール・ライカンウォーリアー","ライカンウォーリアー","キャプテン・ライカンウォーリアー","ジャイアント・ライカンウォーリアー","バイオレット・ライカンウォーリアー","[Event] スモール・ライカンウォーリアー"],"reading":"タイアハ","notes":"","isGroup":true,"count":6,"sortKey":110183},{"keys":["PROPMOVER_TXT_110184"],"english":"[Event] Taiaha","englishVariants":["[Event] Taiaha"],"japanese":"[Event] ライカンウォーリアー","japaneseVariants":["[Event] ライカンウォーリアー"],"reading":"[イベント]タイアハ","notes":"","isGroup":false,"count":1,"sortKey":110184},{"keys":["PROPMOVER_TXT_110185"],"english":"[Event] Chief Keokuk","englishVariants":["[Event] Chief Keokuk"],"japanese":"[Event] ライカンバルガ","japaneseVariants":["[Event] ライカンバルガ"],"reading":"[イベント]チーフ・キオクク","notes":"","isGroup":false,"count":1,"sortKey":110185},{"keys":["PROPMOVER_TXT_110186"],"english":"Vroom","englishVariants":["Vroom"],"japanese":"ブルーム","japaneseVariants":["ブルーム"],"reading":"ヴルーム","notes":"","isGroup":false,"count":1,"sortKey":110186},{"keys":["PROPMOVER_TXT_110187"],"english":"Red Horse","englishVariants":["Red Horse"],"japanese":"レッドホース","japaneseVariants":["レッドホース"],"reading":"レッド・ホース","notes":"","isGroup":false,"count":1,"sortKey":110187},{"keys":["PROPMOVER_TXT_110188"],"english":"Ocean Blue Axolotl","englishVariants":["Ocean Blue Axolotl"],"japanese":"オーシャンブルーウーパールーパー","japaneseVariants":["オーシャンブルーウーパールーパー"],"reading":"オーシャン・ブルー・アクソロトル","notes":"","isGroup":false,"count":1,"sortKey":110188},{"keys":["PROPMOVER_TXT_210000"],"english":"Primal Warlord Caveman Chief","englishVariants":["Primal Warlord Caveman Chief"],"japanese":"プライマルウォーロード・ケイブマンチーフ","japaneseVariants":["プライマルウォーロード・ケイブマンチーフ"],"reading":"プライマル・ウォーロード・ケイブマン・チーフ","notes":"","isGroup":false,"count":1,"sortKey":210000},{"keys":["PROPMOVER_TXT_210001"],"english":"Forsaken Temple Guardian","englishVariants":["Forsaken Temple Guardian"],"japanese":"見捨てられたテンプルガーディアン","japaneseVariants":["見捨てられたテンプルガーディアン"],"reading":"フォーセイクン・テンプル・ガーディアン","notes":"","isGroup":false,"count":1,"sortKey":210001},{"keys":["PROPMOVER_TXT_400388","PROPMOVER_TXT_210002"],"english":"Kraken","englishVariants":["Overlord Kraken","Abyssal Great Kraken"],"japanese":"クラーケン","japaneseVariants":["オーバーロード・クラーケン","深淵のグレート・クラーケン"],"reading":"クラーケン","notes":"","isGroup":true,"count":2,"sortKey":210002},{"keys":["PROPMOVER_TXT_210003"],"english":"Abyssal Kraken Spawn","englishVariants":["Abyssal Kraken Spawn"],"japanese":"深淵のクラーケンスパウン","japaneseVariants":["深淵のクラーケンスパウン"],"reading":"アビサル・クラーケン・スポーン","notes":"","isGroup":false,"count":1,"sortKey":210003},{"keys":["PROPMOVER_TXT_210004"],"english":"Cursed Pyramid Guardian","englishVariants":["Cursed Pyramid Guardian"],"japanese":"呪われたピラミッド・ガーディアン","japaneseVariants":["呪われたピラミッド・ガーディアン"],"reading":"カースド・ピラミッド・ガーディアン","notes":"","isGroup":false,"count":1,"sortKey":210004},{"keys":["PROPMOVER_TXT_210005"],"english":"Corrupted Crystal Demon Lord","englishVariants":["Corrupted Crystal Demon Lord"],"japanese":"穢れたクリスタル・デーモンロード","japaneseVariants":["穢れたクリスタル・デーモンロード"],"reading":"コラプテッド・クリスタル・デーモン・ロード","notes":"","isGroup":false,"count":1,"sortKey":210005},{"keys":["PROPMOVER_TXT_210006"],"english":"Dominion Beast King Khan","englishVariants":["Dominion Beast King Khan"],"japanese":"支配の獣王カーン","japaneseVariants":["支配の獣王カーン"],"reading":"ドミニオン・ビースト・キング・カーン","notes":"","isGroup":false,"count":1,"sortKey":210006},{"keys":["PROPMOVER_TXT_210007"],"english":"Dread Ankou","englishVariants":["Dread Ankou"],"japanese":"恐怖の神獣ベヒモス","japaneseVariants":["恐怖の神獣ベヒモス"],"reading":"ドレッド・アンコウ","notes":"","isGroup":false,"count":1,"sortKey":210007},{"keys":["PROPMOVER_TXT_210008"],"english":"Corrupted Crystal Fiend","englishVariants":["Corrupted Crystal Fiend"],"japanese":"穢れたクリスタル・フィーンド","japaneseVariants":["穢れたクリスタル・フィーンド"],"reading":"コラプテッド・クリスタル・フィーンド","notes":"","isGroup":false,"count":1,"sortKey":210008},{"keys":["PROPMOVER_TXT_210009"],"english":"Pillar","englishVariants":["Pillar"],"japanese":"ピラー","japaneseVariants":["ピラー"],"reading":"ピラー","notes":"","isGroup":false,"count":1,"sortKey":210009},{"keys":["PROPMOVER_TXT_210010"],"english":"Tentacle","englishVariants":["Tentacle"],"japanese":"テンタクル","japaneseVariants":["テンタクル"],"reading":"テンタクル","notes":"","isGroup":false,"count":1,"sortKey":210010},{"keys":["PROPMOVER_TXT_400258"],"english":"[Event] Creper","englishVariants":["[Event] Creper"],"japanese":"[Event] シザークラブ","japaneseVariants":["[Event] シザークラブ"],"reading":"[イベント]クレパー","notes":"","isGroup":false,"count":1,"sortKey":400258},{"keys":["PROPMOVER_TXT_400259"],"english":"[Event] Violet Creper","englishVariants":["[Event] Violet Creper"],"japanese":"[Event] バイオレット・シザークラブ","japaneseVariants":["[Event] バイオレット・シザークラブ"],"reading":"[イベント]バイオレット・クレパー","notes":"","isGroup":false,"count":1,"sortKey":400259},{"keys":["PROPMOVER_TXT_400260"],"english":"Red Earless Seal","englishVariants":["Red Earless Seal"],"japanese":"レッドアザラシ","japaneseVariants":["レッドアザラシ"],"reading":"レッド・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400260},{"keys":["PROPMOVER_TXT_400261"],"english":"Purple Earless Seal","englishVariants":["Purple Earless Seal"],"japanese":"パープルアザラシ","japaneseVariants":["パープルアザラシ"],"reading":"パープル・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400261},{"keys":["PROPMOVER_TXT_400262"],"english":"Burgundy Earless Seal","englishVariants":["Burgundy Earless Seal"],"japanese":"バーガンディアザラシ","japaneseVariants":["バーガンディアザラシ"],"reading":"バーガンディ・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400262},{"keys":["PROPMOVER_TXT_400263"],"english":"Pink Earless Seal","englishVariants":["Pink Earless Seal"],"japanese":"ピンクアザラシ","japaneseVariants":["ピンクアザラシ"],"reading":"ピンク・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400263},{"keys":["PROPMOVER_TXT_400264"],"english":"Orange Earless Seal","englishVariants":["Orange Earless Seal"],"japanese":"オレンジアザラシ","japaneseVariants":["オレンジアザラシ"],"reading":"オレンジ・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400264},{"keys":["PROPMOVER_TXT_400265"],"english":"Blue Earless Seal","englishVariants":["Blue Earless Seal"],"japanese":"ブルーアザラシ","japaneseVariants":["ブルーアザラシ"],"reading":"ブルー・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400265},{"keys":["PROPMOVER_TXT_400266"],"english":"White Earless Seal","englishVariants":["White Earless Seal"],"japanese":"ホワイトアザラシ","japaneseVariants":["ホワイトアザラシ"],"reading":"ホワイト・イヤーレスシール","notes":"","isGroup":false,"count":1,"sortKey":400266},{"keys":["PROPMOVER_TXT_400267"],"english":"Brown Butterflies","englishVariants":["Brown Butterflies"],"japanese":"ブラウン蝶々","japaneseVariants":["ブラウン蝶々"],"reading":"ブラウンバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400267},{"keys":["PROPMOVER_TXT_400268"],"english":"Purple Butterflies","englishVariants":["Purple Butterflies"],"japanese":"パープル蝶々","japaneseVariants":["パープル蝶々"],"reading":"パープルバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400268},{"keys":["PROPMOVER_TXT_400269"],"english":"Green Butterflies","englishVariants":["Green Butterflies"],"japanese":"グリーン蝶々","japaneseVariants":["グリーン蝶々"],"reading":"グリーンバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400269},{"keys":["PROPMOVER_TXT_400270"],"english":"Pink Butterflies","englishVariants":["Pink Butterflies"],"japanese":"ピンク蝶々","japaneseVariants":["ピンク蝶々"],"reading":"ピンクバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400270},{"keys":["PROPMOVER_TXT_400271"],"english":"Red Butterflies","englishVariants":["Red Butterflies"],"japanese":"レッド蝶々","japaneseVariants":["レッド蝶々"],"reading":"レッドバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400271},{"keys":["PROPMOVER_TXT_400272"],"english":"White Butterflies","englishVariants":["White Butterflies"],"japanese":"ホワイト蝶々","japaneseVariants":["ホワイト蝶々"],"reading":"ホワイトバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400272},{"keys":["PROPMOVER_TXT_400273"],"english":"Black Butterflies","englishVariants":["Black Butterflies"],"japanese":"ブラック蝶々","japaneseVariants":["ブラック蝶々"],"reading":"ブラックバタフライズ","notes":"","isGroup":false,"count":1,"sortKey":400273},{"keys":["PROPMOVER_TXT_400274"],"english":"Green DJ Froggy","englishVariants":["Green DJ Froggy"],"japanese":"グリーンDJフロッグ","japaneseVariants":["グリーンDJフロッグ"],"reading":"グリーンDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400274},{"keys":["PROPMOVER_TXT_400275"],"english":"Red DJ Froggy","englishVariants":["Red DJ Froggy"],"japanese":"レッドDJフロッグ","japaneseVariants":["レッドDJフロッグ"],"reading":"レッドDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400275},{"keys":["PROPMOVER_TXT_400276"],"english":"Purple DJ Froggy","englishVariants":["Purple DJ Froggy"],"japanese":"パープルDJフロッグ","japaneseVariants":["パープルDJフロッグ"],"reading":"パープルDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400276},{"keys":["PROPMOVER_TXT_400277"],"english":"Pink DJ Froggy","englishVariants":["Pink DJ Froggy"],"japanese":"ピンクDJフロッグ","japaneseVariants":["ピンクDJフロッグ"],"reading":"ピンクDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400277},{"keys":["PROPMOVER_TXT_400278"],"english":"Cyan DJ Froggy","englishVariants":["Cyan DJ Froggy"],"japanese":"シアンDJフロッグ","japaneseVariants":["シアンDJフロッグ"],"reading":"シアンDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400278},{"keys":["PROPMOVER_TXT_400279"],"english":"Blue DJ Froggy","englishVariants":["Blue DJ Froggy"],"japanese":"ブルーDJフロッグ","japaneseVariants":["ブルーDJフロッグ"],"reading":"ブルーDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400279},{"keys":["PROPMOVER_TXT_400280"],"english":"Black DJ Froggy","englishVariants":["Black DJ Froggy"],"japanese":"ブラックDJフロッグ","japaneseVariants":["ブラックDJフロッグ"],"reading":"ブラックDJフロッギー","notes":"","isGroup":false,"count":1,"sortKey":400280},{"keys":["PROPMOVER_TXT_400281"],"english":"Lord Demian","englishVariants":["Lord Demian"],"japanese":"ロード・デミアン","japaneseVariants":["ロード・デミアン"],"reading":"ロード・デミアン","notes":"","isGroup":false,"count":1,"sortKey":400281},{"keys":["PROPMOVER_TXT_400282"],"english":"Lord Mushpang","englishVariants":["Lord Mushpang"],"japanese":"ロード・マッシュファング","japaneseVariants":["ロード・マッシュファング"],"reading":"ロード・マッシュパング","notes":"","isGroup":false,"count":1,"sortKey":400282},{"keys":["PROPMOVER_TXT_400283"],"english":"Yellow Junior Banana Hero","englishVariants":["Yellow Junior Banana Hero"],"japanese":"イエローリトルバナナヒーロー","japaneseVariants":["イエローリトルバナナヒーロー"],"reading":"イエロー・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400283},{"keys":["PROPMOVER_TXT_400284"],"english":"Purple Junior Banana Hero","englishVariants":["Purple Junior Banana Hero"],"japanese":"パープルリトルバナナヒーロー","japaneseVariants":["パープルリトルバナナヒーロー"],"reading":"パープル・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400284},{"keys":["PROPMOVER_TXT_400285"],"english":"Orange Junior Banana Hero","englishVariants":["Orange Junior Banana Hero"],"japanese":"オレンジリトルバナナヒーロー","japaneseVariants":["オレンジリトルバナナヒーロー"],"reading":"オレンジ・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400285},{"keys":["PROPMOVER_TXT_400286"],"english":"Blue Junior Banana Hero","englishVariants":["Blue Junior Banana Hero"],"japanese":"ブルーリトルバナナヒーロー","japaneseVariants":["ブルーリトルバナナヒーロー"],"reading":"ブルー・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400286},{"keys":["PROPMOVER_TXT_400287"],"english":"Green Junior Banana Hero","englishVariants":["Green Junior Banana Hero"],"japanese":"グリーンリトルバナナヒーロー","japaneseVariants":["グリーンリトルバナナヒーロー"],"reading":"グリーン・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400287},{"keys":["PROPMOVER_TXT_400288"],"english":"Pink Junior Banana Hero","englishVariants":["Pink Junior Banana Hero"],"japanese":"ピンクリトルバナナヒーロー","japaneseVariants":["ピンクリトルバナナヒーロー"],"reading":"ピンク・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400288},{"keys":["PROPMOVER_TXT_400289"],"english":"White Junior Banana Hero","englishVariants":["White Junior Banana Hero"],"japanese":"ホワイトリトルバナナヒーロー","japaneseVariants":["ホワイトリトルバナナヒーロー"],"reading":"ホワイト・ジュニア・バナナ・ヒーロー","notes":"","isGroup":false,"count":1,"sortKey":400289},{"keys":["PROPMOVER_TXT_400290"],"english":"Lord Zenma","englishVariants":["Lord Zenma"],"japanese":"ロード・ゼンマー","japaneseVariants":["ロード・ゼンマー"],"reading":"ロード・ゼンマ","notes":"","isGroup":false,"count":1,"sortKey":400290},{"keys":["PROPMOVER_TXT_400291"],"english":"[Event] Pirate ship","englishVariants":["[Event] Pirate ship"],"japanese":"[Event] 海賊船","japaneseVariants":["[Event] 海賊船"],"reading":"[イベント]パイレートシップ","notes":"","isGroup":false,"count":1,"sortKey":400291},{"keys":["PROPMOVER_TXT_400292","PROPMOVER_TXT_400293","PROPMOVER_TXT_400294","PROPMOVER_TXT_400312","PROPMOVER_TXT_400313"],"english":"Shadowirs","englishVariants":["Shadowirs","Captain Shadowirs","Giant Shadowirs","Small Shadowirs","Great Shadowirs"],"japanese":"シャドウィアズ","japaneseVariants":["シャドウィアズ","キャプテン・シャドウィアズ","ジャイアント・シャドウィアズ","スモール・シャドウィアズ","グレート・シャドウィアズ"],"reading":"シャドウィアーズ","notes":"","isGroup":true,"count":5,"sortKey":400292},{"keys":["PROPMOVER_TXT_400295","PROPMOVER_TXT_400296","PROPMOVER_TXT_400297","PROPMOVER_TXT_400298","PROPMOVER_TXT_400314"],"english":"Skelmaw","englishVariants":["Small Skelmaw","Skelmaw","Captain Skelmaw","Giant Skelmaw","Great Skelmaw"],"japanese":"スケルモウ","japaneseVariants":["スモール・スケルモウ","スケルモウ","キャプテン・スケルモウ","ジャイアント・スケルモウ","グレート・スケルモウ"],"reading":"スケルモー","notes":"","isGroup":true,"count":5,"sortKey":400295},{"keys":["PROPMOVER_TXT_400299"],"english":"Alchemy Desk","englishVariants":["Alchemy Desk"],"japanese":"錬金デスク","japaneseVariants":["錬金デスク"],"reading":"アルケミーデスク","notes":"","isGroup":false,"count":1,"sortKey":400299},{"keys":["PROPMOVER_TXT_400300"],"english":"Hearth","englishVariants":["Hearth"],"japanese":"暖炉","japaneseVariants":["暖炉"],"reading":"ハース","notes":"","isGroup":false,"count":1,"sortKey":400300},{"keys":["PROPMOVER_TXT_400301"],"english":"Carpentry Workspace","englishVariants":["Carpentry Workspace"],"japanese":"木工作業台","japaneseVariants":["木工作業台"],"reading":"カーペントリーワークスペース","notes":"","isGroup":false,"count":1,"sortKey":400301},{"keys":["PROPMOVER_TXT_400302"],"english":"Smithing Workspace","englishVariants":["Smithing Workspace"],"japanese":"鍛冶作業台","japaneseVariants":["鍛冶作業台"],"reading":"スミッシングワークスペース","notes":"","isGroup":false,"count":1,"sortKey":400302},{"keys":["PROPMOVER_TXT_400303"],"english":"Wandering Merchant","englishVariants":["Wandering Merchant"],"japanese":"行商人","japaneseVariants":["行商人"],"reading":"ワンダリングマーチャント","notes":"","isGroup":false,"count":1,"sortKey":400303},{"keys":["PROPMOVER_TXT_400304","PROPMOVER_TXT_400305","PROPMOVER_TXT_400306","PROPMOVER_TXT_400307","PROPMOVER_TXT_400315"],"english":"Maleficar","englishVariants":["Small Maleficar","Maleficar","Captain Maleficar","Giant Maleficar","Great Maleficar"],"japanese":"マレフィカー","japaneseVariants":["スモール・マレフィカー","マレフィカー","キャプテン・マレフィカー","ジャイアント・マレフィカー","グレート・マレフィカー"],"reading":"マレフィカー","notes":"","isGroup":true,"count":5,"sortKey":400304},{"keys":["PROPMOVER_TXT_400308","PROPMOVER_TXT_400310","PROPMOVER_TXT_400311","PROPMOVER_TXT_400316"],"english":"Cursed Warden","englishVariants":["Small Cursed Warden","Captain Cursed Warden","Giant Cursed Warden","Great Cursed Warden"],"japanese":"カースド・ウォーデン","japaneseVariants":["スモール・カースド・ウォーデン","キャプテン・カースド・ウォーデン","ジャイアント・カースド・ウォーデン","グレート・カースド・ウォーデン"],"reading":"カースド・ウォーデン","notes":"","isGroup":true,"count":4,"sortKey":400308},{"keys":["PROPMOVER_TXT_400309"],"english":"Cursed Warden","englishVariants":["Cursed Warden"],"japanese":"カースド・ウォーデン","japaneseVariants":["カースド・ウォーデン"],"reading":"カースド・ウォーデン","notes":"","isGroup":false,"count":1,"sortKey":400309},{"keys":["PROPMOVER_TXT_400317"],"english":"Cyan Gloomie","englishVariants":["Cyan Gloomie"],"japanese":"シアングルーミィ","japaneseVariants":["シアングルーミィ"],"reading":"シアングルーミー","notes":"","isGroup":false,"count":1,"sortKey":400317},{"keys":["PROPMOVER_TXT_400318"],"english":"Green Gloomie","englishVariants":["Green Gloomie"],"japanese":"グリーングルーミィ","japaneseVariants":["グリーングルーミィ"],"reading":"グリーングルーミー","notes":"","isGroup":false,"count":1,"sortKey":400318},{"keys":["PROPMOVER_TXT_400319"],"english":"Blue Gloomie","englishVariants":["Blue Gloomie"],"japanese":"ブルーグルーミィ","japaneseVariants":["ブルーグルーミィ"],"reading":"ブルーグルーミー","notes":"","isGroup":false,"count":1,"sortKey":400319},{"keys":["PROPMOVER_TXT_400320"],"english":"Purple Gloomie","englishVariants":["Purple Gloomie"],"japanese":"パープルグルーミィ","japaneseVariants":["パープルグルーミィ"],"reading":"パープルグルーミー","notes":"","isGroup":false,"count":1,"sortKey":400320},{"keys":["PROPMOVER_TXT_400321"],"english":"Red Gloomie","englishVariants":["Red Gloomie"],"japanese":"レッドグルーミィ","japaneseVariants":["レッドグルーミィ"],"reading":"レッドグルーミー","notes":"","isGroup":false,"count":1,"sortKey":400321},{"keys":["PROPMOVER_TXT_400322"],"english":"Gray Gloomie","englishVariants":["Gray Gloomie"],"japanese":"グレーグルーミィ","japaneseVariants":["グレーグルーミィ"],"reading":"グレーグルーミー","notes":"","isGroup":false,"count":1,"sortKey":400322},{"keys":["PROPMOVER_TXT_400323"],"english":"Blue Medieval Horse","englishVariants":["Blue Medieval Horse"],"japanese":"ブルーメディーバルホース","japaneseVariants":["ブルーメディーバルホース"],"reading":"ブルー・メディーヴァル・ホース","notes":"","isGroup":false,"count":1,"sortKey":400323},{"keys":["PROPMOVER_TXT_400324"],"english":"Purple Medieval Horse","englishVariants":["Purple Medieval Horse"],"japanese":"パープルメディーバルホース","japaneseVariants":["パープルメディーバルホース"],"reading":"パープル・メディーヴァル・ホース","notes":"","isGroup":false,"count":1,"sortKey":400324},{"keys":["PROPMOVER_TXT_400325"],"english":"Cyan Medieval Horse","englishVariants":["Cyan Medieval Horse"],"japanese":"シアンメディーバルホース","japaneseVariants":["シアンメディーバルホース"],"reading":"シアン・メディーヴァル・ホース","notes":"","isGroup":false,"count":1,"sortKey":400325},{"keys":["PROPMOVER_TXT_400326"],"english":"Green Medieval Horse","englishVariants":["Green Medieval Horse"],"japanese":"グリーンメディーバルホース","japaneseVariants":["グリーンメディーバルホース"],"reading":"グリーン・メディーヴァル・ホース","notes":"","isGroup":false,"count":1,"sortKey":400326},{"keys":["PROPMOVER_TXT_400327"],"english":"Red Medieval Horse","englishVariants":["Red Medieval Horse"],"japanese":"レッドメディーバルホース","japaneseVariants":["レッドメディーバルホース"],"reading":"レッド・メディーヴァル・ホース","notes":"","isGroup":false,"count":1,"sortKey":400327},{"keys":["PROPMOVER_TXT_400328"],"english":"Black Medieval Horse","englishVariants":["Black Medieval Horse"],"japanese":"ブラックメディーバルホース","japaneseVariants":["ブラックメディーバルホース"],"reading":"ブラック・メディーヴァル・ホース","notes":"","isGroup":false,"count":1,"sortKey":400328},{"keys":["PROPMOVER_TXT_400329","PROPMOVER_TXT_400338"],"english":"Luminfin","englishVariants":["Captain Luminfin","Luminfin"],"japanese":"ルミンフィン","japaneseVariants":["キャプテン・ルミンフィン","ルミンフィン"],"reading":"ルミンフィン","notes":"","isGroup":true,"count":2,"sortKey":400329},{"keys":["PROPMOVER_TXT_400330"],"english":"[Depths Guardian] Bunyip","englishVariants":["[Depths Guardian] Bunyip"],"japanese":"[深淵の守護者] バニップ","japaneseVariants":["[深淵の守護者] バニップ"],"reading":"[デプス・ガーディアン]バニップ","notes":"","isGroup":false,"count":1,"sortKey":400330},{"keys":["PROPMOVER_TXT_400331"],"english":"[Depths Queen] Nereid","englishVariants":["[Depths Queen] Nereid"],"japanese":"[深淵の女王] ネレイド","japaneseVariants":["[深淵の女王] ネレイド"],"reading":"[デプス・クイーン]ネレイド","notes":"","isGroup":false,"count":1,"sortKey":400331},{"keys":["PROPMOVER_TXT_400332"],"english":"Sovann","englishVariants":["Sovann"],"japanese":"ソヴァン","japaneseVariants":["ソヴァン"],"reading":"ソヴァン","notes":"","isGroup":false,"count":1,"sortKey":400332},{"keys":["PROPMOVER_TXT_400333"],"english":"[Shade Lieutenant] Kriton","englishVariants":["[Shade Lieutenant] Kriton"],"japanese":"[シェードの幹部] クリトン","japaneseVariants":["[シェードの幹部] クリトン"],"reading":"[シェード・リューテナント]クリトン","notes":"","isGroup":false,"count":1,"sortKey":400333},{"keys":["PROPMOVER_TXT_400334","PROPMOVER_TXT_400335"],"english":"Dreadfin","englishVariants":["Dreadfin","Captain Dreadfin"],"japanese":"ドレッドフィン","japaneseVariants":["ドレッドフィン","キャプテン・ドレッドフィン"],"reading":"ドレッドフィン","notes":"","isGroup":true,"count":2,"sortKey":400334},{"keys":["PROPMOVER_TXT_400336","PROPMOVER_TXT_400337"],"english":"Dreadscale","englishVariants":["Dreadscale","Captain Dreadscale"],"japanese":"ドレッドスケイル","japaneseVariants":["ドレッドスケイル","キャプテン・ドレッドスケイル"],"reading":"ドレッドスケイル","notes":"","isGroup":true,"count":2,"sortKey":400336},{"keys":["PROPMOVER_TXT_400339"],"english":"Hyuna","englishVariants":["Hyuna"],"japanese":"ヒョナ","japaneseVariants":["ヒョナ"],"reading":"ヒュナ","notes":"","isGroup":false,"count":1,"sortKey":400339},{"keys":["PROPMOVER_TXT_400340"],"english":"Red Christmas Gingy","englishVariants":["Red Christmas Gingy"],"japanese":"レッドクリスマスジンジー","japaneseVariants":["レッドクリスマスジンジー"],"reading":"レッド・クリスマス・ジンジー","notes":"","isGroup":false,"count":1,"sortKey":400340},{"keys":["PROPMOVER_TXT_400341"],"english":"Green Christmas Gingy","englishVariants":["Green Christmas Gingy"],"japanese":"グリーンクリスマスジンジー","japaneseVariants":["グリーンクリスマスジンジー"],"reading":"グリーン・クリスマス・ジンジー","notes":"","isGroup":false,"count":1,"sortKey":400341},{"keys":["PROPMOVER_TXT_400342"],"english":"Pink Christmas Gingy","englishVariants":["Pink Christmas Gingy"],"japanese":"ピンククリスマスジンジー","japaneseVariants":["ピンククリスマスジンジー"],"reading":"ピンク・クリスマス・ジンジー","notes":"","isGroup":false,"count":1,"sortKey":400342},{"keys":["PROPMOVER_TXT_400343"],"english":"Orange Christmas Gingy","englishVariants":["Orange Christmas Gingy"],"japanese":"オレンジクリスマスジンジー","japaneseVariants":["オレンジクリスマスジンジー"],"reading":"オレンジ・クリスマス・ジンジー","notes":"","isGroup":false,"count":1,"sortKey":400343},{"keys":["PROPMOVER_TXT_400344"],"english":"Purple Christmas Gingy","englishVariants":["Purple Christmas Gingy"],"japanese":"パープルクリスマスジンジー","japaneseVariants":["パープルクリスマスジンジー"],"reading":"パープル・クリスマス・ジンジー","notes":"","isGroup":false,"count":1,"sortKey":400344},{"keys":["PROPMOVER_TXT_400345"],"english":"Blue Christmas Gingy","englishVariants":["Blue Christmas Gingy"],"japanese":"ブルークリスマスジンジー","japaneseVariants":["ブルークリスマスジンジー"],"reading":"ブルー・クリスマス・ジンジー","notes":"","isGroup":false,"count":1,"sortKey":400345},{"keys":["PROPMOVER_TXT_400350"],"english":"[Event] Christmas Aibatt","englishVariants":["[Event] Christmas Aibatt"],"japanese":"[Event] クリスマスアイバット","japaneseVariants":["[Event] クリスマスアイバット"],"reading":"[イベント]クリスマス・アイバット","notes":"","isGroup":false,"count":1,"sortKey":400350},{"keys":["PROPMOVER_TXT_400351"],"english":"Blue Cobra","englishVariants":["Blue Cobra"],"japanese":"ブルーコブラ","japaneseVariants":["ブルーコブラ"],"reading":"ブルーコブラ","notes":"","isGroup":false,"count":1,"sortKey":400351},{"keys":["PROPMOVER_TXT_400352"],"english":"Green Little Snaky","englishVariants":["Green Little Snaky"],"japanese":"グリーンリトルスネーキー","japaneseVariants":["グリーンリトルスネーキー"],"reading":"グリーン・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400352},{"keys":["PROPMOVER_TXT_400353"],"english":"Purple Little Snaky","englishVariants":["Purple Little Snaky"],"japanese":"パープルリトルスネーキー","japaneseVariants":["パープルリトルスネーキー"],"reading":"パープル・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400353},{"keys":["PROPMOVER_TXT_400354"],"english":"Pink Little Snaky","englishVariants":["Pink Little Snaky"],"japanese":"ピンクリトルスネーキー","japaneseVariants":["ピンクリトルスネーキー"],"reading":"ピンク・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400354},{"keys":["PROPMOVER_TXT_400355"],"english":"Blue Little Snaky","englishVariants":["Blue Little Snaky"],"japanese":"ブルーリトルスネーキー","japaneseVariants":["ブルーリトルスネーキー"],"reading":"ブルー・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400355},{"keys":["PROPMOVER_TXT_400356"],"english":"Red Little Snaky","englishVariants":["Red Little Snaky"],"japanese":"レッドリトルスネーキー","japaneseVariants":["レッドリトルスネーキー"],"reading":"レッド・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400356},{"keys":["PROPMOVER_TXT_400357"],"english":"Emerald Little Snaky","englishVariants":["Emerald Little Snaky"],"japanese":"エメラルドリトルスネーキー","japaneseVariants":["エメラルドリトルスネーキー"],"reading":"エメラルド・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400357},{"keys":["PROPMOVER_TXT_400358"],"english":"Black Little Snaky","englishVariants":["Black Little Snaky"],"japanese":"ブラックリトルスネーキー","japaneseVariants":["ブラックリトルスネーキー"],"reading":"ブラック・リトル・スネーキー","notes":"","isGroup":false,"count":1,"sortKey":400358},{"keys":["PROPMOVER_TXT_400359"],"english":"Purple Frostpaw","englishVariants":["Purple Frostpaw"],"japanese":"パープルフロストポウ","japaneseVariants":["パープルフロストポウ"],"reading":"パープルフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400359},{"keys":["PROPMOVER_TXT_400360"],"english":"Yellow Frostpaw","englishVariants":["Yellow Frostpaw"],"japanese":"イエローフロストポウ","japaneseVariants":["イエローフロストポウ"],"reading":"イエローフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400360},{"keys":["PROPMOVER_TXT_400361"],"english":"Blue Frostpaw","englishVariants":["Blue Frostpaw"],"japanese":"ブルーフロストポウ","japaneseVariants":["ブルーフロストポウ"],"reading":"ブルーフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400361},{"keys":["PROPMOVER_TXT_400362"],"english":"Green Frostpaw","englishVariants":["Green Frostpaw"],"japanese":"グリーンフロストポウ","japaneseVariants":["グリーンフロストポウ"],"reading":"グリーンフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400362},{"keys":["PROPMOVER_TXT_400363"],"english":"Pink Frostpaw","englishVariants":["Pink Frostpaw"],"japanese":"ピンクフロストポウ","japaneseVariants":["ピンクフロストポウ"],"reading":"ピンクフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400363},{"keys":["PROPMOVER_TXT_400364"],"english":"Red Frostpaw","englishVariants":["Red Frostpaw"],"japanese":"レッドフロストポウ","japaneseVariants":["レッドフロストポウ"],"reading":"レッドフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400364},{"keys":["PROPMOVER_TXT_400365"],"english":"White Frostpaw","englishVariants":["White Frostpaw"],"japanese":"ホワイトフロストポウ","japaneseVariants":["ホワイトフロストポウ"],"reading":"ホワイトフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400365},{"keys":["PROPMOVER_TXT_400366"],"english":"Black Frostpaw","englishVariants":["Black Frostpaw"],"japanese":"ブラックフロストポウ","japaneseVariants":["ブラックフロストポウ"],"reading":"ブラックフロストポウ","notes":"","isGroup":false,"count":1,"sortKey":400366},{"keys":["PROPMOVER_TXT_400367"],"english":"Red Roaryen","englishVariants":["Red Roaryen"],"japanese":"レッドロアリエン","japaneseVariants":["レッドロアリエン"],"reading":"レッドローリエン","notes":"","isGroup":false,"count":1,"sortKey":400367},{"keys":["PROPMOVER_TXT_400368"],"english":"Purple Roaryen","englishVariants":["Purple Roaryen"],"japanese":"パープルロアリエン","japaneseVariants":["パープルロアリエン"],"reading":"パープルローリエン","notes":"","isGroup":false,"count":1,"sortKey":400368},{"keys":["PROPMOVER_TXT_400369"],"english":"Blue Roaryen","englishVariants":["Blue Roaryen"],"japanese":"ブルーロアリエン","japaneseVariants":["ブルーロアリエン"],"reading":"ブルーローリエン","notes":"","isGroup":false,"count":1,"sortKey":400369},{"keys":["PROPMOVER_TXT_400370"],"english":"Green Roaryen","englishVariants":["Green Roaryen"],"japanese":"グリーンロアリエン","japaneseVariants":["グリーンロアリエン"],"reading":"グリーンローリエン","notes":"","isGroup":false,"count":1,"sortKey":400370},{"keys":["PROPMOVER_TXT_400371"],"english":"White Roaryen","englishVariants":["White Roaryen"],"japanese":"ホワイトロアリエン","japaneseVariants":["ホワイトロアリエン"],"reading":"ホワイトローリエン","notes":"","isGroup":false,"count":1,"sortKey":400371},{"keys":["PROPMOVER_TXT_400372"],"english":"Black Roaryen","englishVariants":["Black Roaryen"],"japanese":"ブラックロアリエン","japaneseVariants":["ブラックロアリエン"],"reading":"ブラックローリエン","notes":"","isGroup":false,"count":1,"sortKey":400372},{"keys":["PROPMOVER_TXT_400373"],"english":"Lord Mothbee","englishVariants":["Lord Mothbee"],"japanese":"ロード・モスビー","japaneseVariants":["ロード・モスビー"],"reading":"ロード・モスビー","notes":"","isGroup":false,"count":1,"sortKey":400373},{"keys":["PROPMOVER_TXT_400374"],"english":"Lord Zendros","englishVariants":["Lord Zendros"],"japanese":"ロード・ゼンドロス","japaneseVariants":["ロード・ゼンドロス"],"reading":"ロード・ゼンドロス","notes":"","isGroup":false,"count":1,"sortKey":400374},{"keys":["PROPMOVER_TXT_400375"],"english":"Lord Dumb Bull","englishVariants":["Lord Dumb Bull"],"japanese":"ロード・ダンブル","japaneseVariants":["ロード・ダンブル"],"reading":"ロード・ダム・ブル","notes":"","isGroup":false,"count":1,"sortKey":400375},{"keys":["PROPMOVER_TXT_400376"],"english":"Lord Totemia","englishVariants":["Lord Totemia"],"japanese":"ロード・トーテミア","japaneseVariants":["ロード・トーテミア"],"reading":"ロード・トーテミア","notes":"","isGroup":false,"count":1,"sortKey":400376},{"keys":["PROPMOVER_TXT_400377"],"english":"Lord Flybrigen","englishVariants":["Lord Flybrigen"],"japanese":"ロード・フリビーリーズン","japaneseVariants":["ロード・フリビーリーズン"],"reading":"ロード・フライブリゲン","notes":"","isGroup":false,"count":1,"sortKey":400377},{"keys":["PROPMOVER_TXT_400378"],"english":"Lord Neparuba","englishVariants":["Lord Neparuba"],"japanese":"ロード・ネパルバ","japaneseVariants":["ロード・ネパルバ"],"reading":"ロード・ネパルバ","notes":"","isGroup":false,"count":1,"sortKey":400378},{"keys":["PROPMOVER_TXT_400379"],"english":"Lord Rockepeller","englishVariants":["Lord Rockepeller"],"japanese":"ロード・ロケッペラー","japaneseVariants":["ロード・ロケッペラー"],"reading":"ロード・ロケッペラー","notes":"","isGroup":false,"count":1,"sortKey":400379},{"keys":["PROPMOVER_TXT_400380"],"english":"Lord Longwing","englishVariants":["Lord Longwing"],"japanese":"ロード・ロングウィング","japaneseVariants":["ロード・ロングウィング"],"reading":"ロード・ロングウィング","notes":"","isGroup":false,"count":1,"sortKey":400380},{"keys":["PROPMOVER_TXT_400381"],"english":"Lord Shuhamma","englishVariants":["Lord Shuhamma"],"japanese":"ロード・シューハンマー","japaneseVariants":["ロード・シューハンマー"],"reading":"ロード・シューハンマ","notes":"","isGroup":false,"count":1,"sortKey":400381},{"keys":["PROPMOVER_TXT_400382"],"english":"Lord Watangka","englishVariants":["Lord Watangka"],"japanese":"ロード・ワタングカ","japaneseVariants":["ロード・ワタングカ"],"reading":"ロード・ワタンカ","notes":"","isGroup":false,"count":1,"sortKey":400382},{"keys":["PROPMOVER_TXT_400383"],"english":"Lord Fafnir","englishVariants":["Lord Fafnir"],"japanese":"ロード・ファフニール","japaneseVariants":["ロード・ファフニール"],"reading":"ロード・ファフニル","notes":"","isGroup":false,"count":1,"sortKey":400383},{"keys":["PROPMOVER_TXT_400384"],"english":"Lord Gorruda","englishVariants":["Lord Gorruda"],"japanese":"ロード・ゴルーダ","japaneseVariants":["ロード・ゴルーダ"],"reading":"ロード・ゴルーダ","notes":"","isGroup":false,"count":1,"sortKey":400384},{"keys":["PROPMOVER_TXT_400385"],"english":"Lord Mammoth","englishVariants":["Lord Mammoth"],"japanese":"ロード・マンモス","japaneseVariants":["ロード・マンモス"],"reading":"ロード・マンモス","notes":"","isGroup":false,"count":1,"sortKey":400385},{"keys":["PROPMOVER_TXT_400386"],"english":"Ghost of the Forgotten Lord","englishVariants":["Ghost of the Forgotten Lord"],"japanese":"ロード・ゴースト","japaneseVariants":["ロード・ゴースト"],"reading":"ゴースト・オブ・ザ・フォーガトン・ロード","notes":"","isGroup":false,"count":1,"sortKey":400386},{"keys":["PROPMOVER_TXT_400387"],"english":"Lord Augu","englishVariants":["Lord Augu"],"japanese":"ロード・アウグ","japaneseVariants":["ロード・アウグ"],"reading":"ロード・アウグ","notes":"","isGroup":false,"count":1,"sortKey":400387},{"keys":["PROPMOVER_TXT_400389"],"english":"Lord Dorian","englishVariants":["Lord Dorian"],"japanese":"ロード・ドリアン","japaneseVariants":["ロード・ドリアン"],"reading":"ロード・ドリアン","notes":"","isGroup":false,"count":1,"sortKey":400389},{"keys":["PROPMOVER_TXT_400390"],"english":"Lord Okean","englishVariants":["Lord Okean"],"japanese":"ロード・オケアノス","japaneseVariants":["ロード・オケアノス"],"reading":"ロード・オケアン","notes":"","isGroup":false,"count":1,"sortKey":400390},{"keys":["PROPMOVER_TXT_400391","PROPMOVER_TXT_400392"],"english":"Naga","englishVariants":["Lord Naga","Overlord Naga"],"japanese":"ナーガ","japaneseVariants":["ロード・ナーガ","オーバーロード・ナーガ"],"reading":"ナーガ","notes":"","isGroup":true,"count":2,"sortKey":400391},{"keys":["PROPMOVER_TXT_400393"],"english":"Overlord Meral","englishVariants":["Overlord Meral"],"japanese":"オーバーロード・メレー","japaneseVariants":["オーバーロード・メレー"],"reading":"オーバーロード・メラル","notes":"","isGroup":false,"count":1,"sortKey":400393},{"keys":["PROPMOVER_TXT_400394"],"english":"Lord Tigar","englishVariants":["Lord Tigar"],"japanese":"ロード・ティーガー","japaneseVariants":["ロード・ティーガー"],"reading":"ロード・タイガー","notes":"","isGroup":false,"count":1,"sortKey":400394},{"keys":["PROPMOVER_TXT_400395"],"english":"Pink Guardian Easter Bunny","englishVariants":["Pink Guardian Easter Bunny"],"japanese":"ピンクガーディアンイースターバニー","japaneseVariants":["ピンクガーディアンイースターバニー"],"reading":"ピンク・ガーディアン・イースター・バニー","notes":"","isGroup":false,"count":1,"sortKey":400395},{"keys":["PROPMOVER_TXT_400396"],"english":"Green Guardian Easter Bunny","englishVariants":["Green Guardian Easter Bunny"],"japanese":"グリーンガーディアンイースターバニー","japaneseVariants":["グリーンガーディアンイースターバニー"],"reading":"グリーン・ガーディアン・イースター・バニー","notes":"","isGroup":false,"count":1,"sortKey":400396},{"keys":["PROPMOVER_TXT_400397"],"english":"Blue Guardian Easter Bunny","englishVariants":["Blue Guardian Easter Bunny"],"japanese":"ブルーガーディアンイースターバニー","japaneseVariants":["ブルーガーディアンイースターバニー"],"reading":"ブルー・ガーディアン・イースター・バニー","notes":"","isGroup":false,"count":1,"sortKey":400397},{"keys":["PROPMOVER_TXT_400398"],"english":"Orange Guardian Easter Bunny","englishVariants":["Orange Guardian Easter Bunny"],"japanese":"オレンジガーディアンイースターバニー","japaneseVariants":["オレンジガーディアンイースターバニー"],"reading":"オレンジ・ガーディアン・イースター・バニー","notes":"","isGroup":false,"count":1,"sortKey":400398},{"keys":["PROPMOVER_TXT_400399"],"english":"Purple Guardian Easter Bunny","englishVariants":["Purple Guardian Easter Bunny"],"japanese":"パープルガーディアンイースターバニー","japaneseVariants":["パープルガーディアンイースターバニー"],"reading":"パープル・ガーディアン・イースター・バニー","notes":"","isGroup":false,"count":1,"sortKey":400399},{"keys":["PROPMOVER_TXT_400400"],"english":"Dark Guardian Easter Bunny","englishVariants":["Dark Guardian Easter Bunny"],"japanese":"ダークガーディアンイースターバニー","japaneseVariants":["ダークガーディアンイースターバニー"],"reading":"ダーク・ガーディアン・イースター・バニー","notes":"","isGroup":false,"count":1,"sortKey":400400},{"keys":["PROPMOVER_TXT_400401"],"english":"Lord Yetti","englishVariants":["Lord Yetti"],"japanese":"ロード・イエティ","japaneseVariants":["ロード・イエティ"],"reading":"ロード・イエティ","notes":"","isGroup":false,"count":1,"sortKey":400401},{"keys":["PROPMOVER_TXT_400402"],"english":"Purple Pawsy","englishVariants":["Purple Pawsy"],"japanese":"パープルポージー","japaneseVariants":["パープルポージー"],"reading":"パープルポーシー","notes":"","isGroup":false,"count":1,"sortKey":400402},{"keys":["PROPMOVER_TXT_400403"],"english":"Red Pawsy","englishVariants":["Red Pawsy"],"japanese":"レッドポージー","japaneseVariants":["レッドポージー"],"reading":"レッドポーシー","notes":"","isGroup":false,"count":1,"sortKey":400403},{"keys":["PROPMOVER_TXT_400404"],"english":"Green Pawsy","englishVariants":["Green Pawsy"],"japanese":"グリーンポージー","japaneseVariants":["グリーンポージー"],"reading":"グリーンポーシー","notes":"","isGroup":false,"count":1,"sortKey":400404},{"keys":["PROPMOVER_TXT_400405"],"english":"Blue Pawsy","englishVariants":["Blue Pawsy"],"japanese":"ブルーポージー","japaneseVariants":["ブルーポージー"],"reading":"ブルーポーシー","notes":"","isGroup":false,"count":1,"sortKey":400405},{"keys":["PROPMOVER_TXT_400406"],"english":"Magenta Pawsy","englishVariants":["Magenta Pawsy"],"japanese":"マゼンタポージー","japaneseVariants":["マゼンタポージー"],"reading":"マゼンタポーシー","notes":"","isGroup":false,"count":1,"sortKey":400406},{"keys":["PROPMOVER_TXT_400407"],"english":"Lavender Pawsy","englishVariants":["Lavender Pawsy"],"japanese":"ラベンダーポージー","japaneseVariants":["ラベンダーポージー"],"reading":"ラベンダーポーシー","notes":"","isGroup":false,"count":1,"sortKey":400407},{"keys":["PROPMOVER_TXT_400408"],"english":"Pink Pawsy","englishVariants":["Pink Pawsy"],"japanese":"ピンクポージー","japaneseVariants":["ピンクポージー"],"reading":"ピンクポーシー","notes":"","isGroup":false,"count":1,"sortKey":400408},{"keys":["PROPMOVER_TXT_400409"],"english":"Gray Pawsy","englishVariants":["Gray Pawsy"],"japanese":"グレーポージー","japaneseVariants":["グレーポージー"],"reading":"グレーポーシー","notes":"","isGroup":false,"count":1,"sortKey":400409},{"keys":["PROPMOVER_TXT_400410"],"english":"Orange Flumos","englishVariants":["Orange Flumos"],"japanese":"オレンジフルーモス","japaneseVariants":["オレンジフルーモス"],"reading":"オレンジフルモス","notes":"","isGroup":false,"count":1,"sortKey":400410},{"keys":["PROPMOVER_TXT_400411"],"english":"Purple Flumos","englishVariants":["Purple Flumos"],"japanese":"パープルフルーモス","japaneseVariants":["パープルフルーモス"],"reading":"パープルフルモス","notes":"","isGroup":false,"count":1,"sortKey":400411},{"keys":["PROPMOVER_TXT_400412"],"english":"Red Flumos","englishVariants":["Red Flumos"],"japanese":"レッドフルーモス","japaneseVariants":["レッドフルーモス"],"reading":"レッドフルモス","notes":"","isGroup":false,"count":1,"sortKey":400412},{"keys":["PROPMOVER_TXT_400413"],"english":"Blue Flumos","englishVariants":["Blue Flumos"],"japanese":"ブルーフルーモス","japaneseVariants":["ブルーフルーモス"],"reading":"ブルーフルモス","notes":"","isGroup":false,"count":1,"sortKey":400413},{"keys":["PROPMOVER_TXT_400414"],"english":"Green Flumos","englishVariants":["Green Flumos"],"japanese":"グリーンフルーモス","japaneseVariants":["グリーンフルーモス"],"reading":"グリーンフルモス","notes":"","isGroup":false,"count":1,"sortKey":400414},{"keys":["PROPMOVER_TXT_400415"],"english":"Yellow Flumos","englishVariants":["Yellow Flumos"],"japanese":"イエローフルーモス","japaneseVariants":["イエローフルーモス"],"reading":"イエローフルモス","notes":"","isGroup":false,"count":1,"sortKey":400415},{"keys":["PROPMOVER_TXT_400416"],"english":"White Flumos","englishVariants":["White Flumos"],"japanese":"ホワイトフルーモス","japaneseVariants":["ホワイトフルーモス"],"reading":"ホワイトフルモス","notes":"","isGroup":false,"count":1,"sortKey":400416},{"keys":["PROPMOVER_TXT_400417"],"english":"Black Flumos","englishVariants":["Black Flumos"],"japanese":"ブラックフルーモス","japaneseVariants":["ブラックフルーモス"],"reading":"ブラックフルモス","notes":"","isGroup":false,"count":1,"sortKey":400417},{"keys":["PROPMOVER_TXT_400418"],"english":"Wounded Revolutionary","englishVariants":["Wounded Revolutionary"],"japanese":"傷ついた革命家","japaneseVariants":["傷ついた革命家"],"reading":"ウーンデッド・レボリューショナリー","notes":"","isGroup":false,"count":1,"sortKey":400418},{"keys":["PROPMOVER_TXT_400419"],"english":"Yellow Breezy","englishVariants":["Yellow Breezy"],"japanese":"イエローブリージー","japaneseVariants":["イエローブリージー"],"reading":"イエローブリージー","notes":"","isGroup":false,"count":1,"sortKey":400419},{"keys":["PROPMOVER_TXT_400420"],"english":"Purple Breezy","englishVariants":["Purple Breezy"],"japanese":"パープルブリージー","japaneseVariants":["パープルブリージー"],"reading":"パープルブリージー","notes":"","isGroup":false,"count":1,"sortKey":400420},{"keys":["PROPMOVER_TXT_400421"],"english":"Blue Breezy","englishVariants":["Blue Breezy"],"japanese":"ブルーブリージー","japaneseVariants":["ブルーブリージー"],"reading":"ブルーブリージー","notes":"","isGroup":false,"count":1,"sortKey":400421},{"keys":["PROPMOVER_TXT_400422"],"english":"Pink Breezy","englishVariants":["Pink Breezy"],"japanese":"ピンクブリージー","japaneseVariants":["ピンクブリージー"],"reading":"ピンクブリージー","notes":"","isGroup":false,"count":1,"sortKey":400422},{"keys":["PROPMOVER_TXT_400423"],"english":"White Breezy","englishVariants":["White Breezy"],"japanese":"ホワイトブリージー","japaneseVariants":["ホワイトブリージー"],"reading":"ホワイトブリージー","notes":"","isGroup":false,"count":1,"sortKey":400423},{"keys":["PROPMOVER_TXT_400424"],"english":"Black Breezy","englishVariants":["Black Breezy"],"japanese":"ブラックブリージー","japaneseVariants":["ブラックブリージー"],"reading":"ブラックブリージー","notes":"","isGroup":false,"count":1,"sortKey":400424},{"keys":["PROPMOVER_TXT_400425"],"english":"Blue Pawsh","englishVariants":["Blue Pawsh"],"japanese":"ブルーポーシュ","japaneseVariants":["ブルーポーシュ"],"reading":"ブルーポーシュ","notes":"","isGroup":false,"count":1,"sortKey":400425},{"keys":["PROPMOVER_TXT_400426"],"english":"Pink Pawsh","englishVariants":["Pink Pawsh"],"japanese":"ピンクポーシュ","japaneseVariants":["ピンクポーシュ"],"reading":"ピンクポーシュ","notes":"","isGroup":false,"count":1,"sortKey":400426},{"keys":["PROPMOVER_TXT_400427"],"english":"Orange Pawsh","englishVariants":["Orange Pawsh"],"japanese":"オレンジポーシュ","japaneseVariants":["オレンジポーシュ"],"reading":"オレンジポーシュ","notes":"","isGroup":false,"count":1,"sortKey":400427},{"keys":["PROPMOVER_TXT_400428"],"english":"Green Pawsh","englishVariants":["Green Pawsh"],"japanese":"グリーンポーシュ","japaneseVariants":["グリーンポーシュ"],"reading":"グリーンポーシュ","notes":"","isGroup":false,"count":1,"sortKey":400428},{"keys":["PROPMOVER_TXT_400429"],"english":"Navy Pawsh","englishVariants":["Navy Pawsh"],"japanese":"ネイビーポーシュ","japaneseVariants":["ネイビーポーシュ"],"reading":"ネイビーポーシュ","notes":"","isGroup":false,"count":1,"sortKey":400429},{"keys":["PROPMOVER_TXT_400430"],"english":"Red Pawsh","englishVariants":["Red Pawsh"],"japanese":"レッドポーシュ","japaneseVariants":["レッドポーシュ"],"reading":"レッドポーシュ","notes":"","isGroup":false,"count":1,"sortKey":400430},{"keys":["PROPMOVER_TXT_400431"],"english":"Fortune Pang","englishVariants":["Fortune Pang"],"japanese":"フォーチュンパン","japaneseVariants":["フォーチュンパン"],"reading":"フォーチュン・パング","notes":"","isGroup":false,"count":1,"sortKey":400431},{"keys":["PROPMOVER_TXT_400432"],"english":"Orange Marshall","englishVariants":["Orange Marshall"],"japanese":"オレンジマーシャル","japaneseVariants":["オレンジマーシャル"],"reading":"オレンジマーシャル","notes":"","isGroup":false,"count":1,"sortKey":400432},{"keys":["PROPMOVER_TXT_400433"],"english":"Green Marshall","englishVariants":["Green Marshall"],"japanese":"グリーンマーシャル","japaneseVariants":["グリーンマーシャル"],"reading":"グリーンマーシャル","notes":"","isGroup":false,"count":1,"sortKey":400433},{"keys":["PROPMOVER_TXT_400434"],"english":"Cyan Marshall","englishVariants":["Cyan Marshall"],"japanese":"シアンマーシャル","japaneseVariants":["シアンマーシャル"],"reading":"シアンマーシャル","notes":"","isGroup":false,"count":1,"sortKey":400434},{"keys":["PROPMOVER_TXT_400435"],"english":"Purple Marshall","englishVariants":["Purple Marshall"],"japanese":"パープルマーシャル","japaneseVariants":["パープルマーシャル"],"reading":"パープルマーシャル","notes":"","isGroup":false,"count":1,"sortKey":400435},{"keys":["PROPMOVER_TXT_400436"],"english":"Red Marshall","englishVariants":["Red Marshall"],"japanese":"レッドマーシャル","japaneseVariants":["レッドマーシャル"],"reading":"レッドマーシャル","notes":"","isGroup":false,"count":1,"sortKey":400436},{"keys":["PROPMOVER_TXT_400437"],"english":"Neon Marshall","englishVariants":["Neon Marshall"],"japanese":"ネオンマーシャル","japaneseVariants":["ネオンマーシャル"],"reading":"ネオンマーシャル","notes":"","isGroup":false,"count":1,"sortKey":400437},{"keys":["PROPMOVER_TXT_400438"],"english":"Brown Strawy Jack","englishVariants":["Brown Strawy Jack"],"japanese":"ブラウンストローイジャック","japaneseVariants":["ブラウンストローイジャック"],"reading":"ブラウン・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400438},{"keys":["PROPMOVER_TXT_400439"],"english":"Maroon Strawy Jack","englishVariants":["Maroon Strawy Jack"],"japanese":"マルーンストローイジャック","japaneseVariants":["マルーンストローイジャック"],"reading":"マルーン・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400439},{"keys":["PROPMOVER_TXT_400440"],"english":"Green Strawy Jack","englishVariants":["Green Strawy Jack"],"japanese":"グリーンストローイジャック","japaneseVariants":["グリーンストローイジャック"],"reading":"グリーン・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400440},{"keys":["PROPMOVER_TXT_400441"],"english":"Purple Strawy Jack","englishVariants":["Purple Strawy Jack"],"japanese":"パープルストローイジャック","japaneseVariants":["パープルストローイジャック"],"reading":"パープル・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400441},{"keys":["PROPMOVER_TXT_400442"],"english":"Olive Strawy Jack","englishVariants":["Olive Strawy Jack"],"japanese":"オリーブストローイジャック","japaneseVariants":["オリーブストローイジャック"],"reading":"オリーブ・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400442},{"keys":["PROPMOVER_TXT_400443"],"english":"Blue Strawy Jack","englishVariants":["Blue Strawy Jack"],"japanese":"ブルーストローイジャック","japaneseVariants":["ブルーストローイジャック"],"reading":"ブルー・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400443},{"keys":["PROPMOVER_TXT_400444"],"english":"Black Strawy Jack","englishVariants":["Black Strawy Jack"],"japanese":"ブラックストローイジャック","japaneseVariants":["ブラックストローイジャック"],"reading":"ブラック・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400444},{"keys":["PROPMOVER_TXT_400445"],"english":"White Strawy Jack","englishVariants":["White Strawy Jack"],"japanese":"ホワイトストローイジャック","japaneseVariants":["ホワイトストローイジャック"],"reading":"ホワイト・ストロージャック","notes":"","isGroup":false,"count":1,"sortKey":400445},{"keys":["PROPMOVER_TXT_400446"],"english":"[Event] Giant Mr. Pumpkin","englishVariants":["[Event] Giant Mr. Pumpkin"],"japanese":"[Event] ジャイアント・カボチャ男爵","japaneseVariants":["[Event] ジャイアント・カボチャ男爵"],"reading":"[イベント]ジャイアント・ミスター・パンプキン","notes":"","isGroup":false,"count":1,"sortKey":400446},{"keys":["PROPMOVER_TXT_400447"],"english":"Green Frogzy","englishVariants":["Green Frogzy"],"japanese":"グリーンフロッジー","japaneseVariants":["グリーンフロッジー"],"reading":"グリーンフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400447},{"keys":["PROPMOVER_TXT_400448"],"english":"Yellow Frogzy","englishVariants":["Yellow Frogzy"],"japanese":"イエローフロッジー","japaneseVariants":["イエローフロッジー"],"reading":"イエローフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400448},{"keys":["PROPMOVER_TXT_400449"],"english":"Pink Frogzy","englishVariants":["Pink Frogzy"],"japanese":"ピンクフロッジー","japaneseVariants":["ピンクフロッジー"],"reading":"ピンクフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400449},{"keys":["PROPMOVER_TXT_400450"],"english":"Purple Frogzy","englishVariants":["Purple Frogzy"],"japanese":"パープルフロッジー","japaneseVariants":["パープルフロッジー"],"reading":"パープルフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400450},{"keys":["PROPMOVER_TXT_400451"],"english":"Cyan Frogzy","englishVariants":["Cyan Frogzy"],"japanese":"シアンフロッジー","japaneseVariants":["シアンフロッジー"],"reading":"シアンフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400451},{"keys":["PROPMOVER_TXT_400452"],"english":"Mint Green Frogzy","englishVariants":["Mint Green Frogzy"],"japanese":"ミントグリーンフロッジー","japaneseVariants":["ミントグリーンフロッジー"],"reading":"ミントグリーンフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400452},{"keys":["PROPMOVER_TXT_400453"],"english":"Black Frogzy","englishVariants":["Black Frogzy"],"japanese":"ブラックフロッジー","japaneseVariants":["ブラックフロッジー"],"reading":"ブラックフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400453},{"keys":["PROPMOVER_TXT_400454"],"english":"White Frogzy","englishVariants":["White Frogzy"],"japanese":"ホワイトフロッジー","japaneseVariants":["ホワイトフロッジー"],"reading":"ホワイトフロッジー","notes":"","isGroup":false,"count":1,"sortKey":400454},{"keys":["PROPMOVER_TXT_400455"],"english":"Orange Whispero","englishVariants":["Orange Whispero"],"japanese":"オレンジウィスペロ","japaneseVariants":["オレンジウィスペロ"],"reading":"オレンジウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400455},{"keys":["PROPMOVER_TXT_400456"],"english":"Yellow Whispero","englishVariants":["Yellow Whispero"],"japanese":"イエローウィスペロ","japaneseVariants":["イエローウィスペロ"],"reading":"イエローウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400456},{"keys":["PROPMOVER_TXT_400457"],"english":"Pink Whispero","englishVariants":["Pink Whispero"],"japanese":"ピンクウィスペロ","japaneseVariants":["ピンクウィスペロ"],"reading":"ピンクウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400457},{"keys":["PROPMOVER_TXT_400458"],"english":"Purple Whispero","englishVariants":["Purple Whispero"],"japanese":"パープルウィスペロ","japaneseVariants":["パープルウィスペロ"],"reading":"パープルウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400458},{"keys":["PROPMOVER_TXT_400459"],"english":"Blue Whispero","englishVariants":["Blue Whispero"],"japanese":"ブルーウィスペロ","japaneseVariants":["ブルーウィスペロ"],"reading":"ブルーウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400459},{"keys":["PROPMOVER_TXT_400460"],"english":"Green Whispero","englishVariants":["Green Whispero"],"japanese":"グリーンウィスペロ","japaneseVariants":["グリーンウィスペロ"],"reading":"グリーンウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400460},{"keys":["PROPMOVER_TXT_400461"],"english":"Black Whispero","englishVariants":["Black Whispero"],"japanese":"ブラックウィスペロ","japaneseVariants":["ブラックウィスペロ"],"reading":"ブラックウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400461},{"keys":["PROPMOVER_TXT_400462"],"english":"White Whispero","englishVariants":["White Whispero"],"japanese":"ホワイトウィスペロ","japaneseVariants":["ホワイトウィスペロ"],"reading":"ホワイトウィスペロ","notes":"","isGroup":false,"count":1,"sortKey":400462},{"keys":["PROPMOVER_TXT_400463"],"english":"Green Mecha Rabbit","englishVariants":["Green Mecha Rabbit"],"japanese":"グリーンメカラビット","japaneseVariants":["グリーンメカラビット"],"reading":"グリーンメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400463},{"keys":["PROPMOVER_TXT_400464"],"english":"Orange Mecha Rabbi","englishVariants":["Orange Mecha Rabbi"],"japanese":"オレンジメカラビット","japaneseVariants":["オレンジメカラビット"],"reading":"オレンジメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400464},{"keys":["PROPMOVER_TXT_400465"],"english":"Red Mecha Rabbit","englishVariants":["Red Mecha Rabbit"],"japanese":"レッドメカラビット","japaneseVariants":["レッドメカラビット"],"reading":"レッドメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400465},{"keys":["PROPMOVER_TXT_400466"],"english":"Pink Mecha Rabbit","englishVariants":["Pink Mecha Rabbit"],"japanese":"ピンクメカラビット","japaneseVariants":["ピンクメカラビット"],"reading":"ピンクメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400466},{"keys":["PROPMOVER_TXT_400467"],"english":"Purple Mecha Rabbi","englishVariants":["Purple Mecha Rabbi"],"japanese":"パープルメカラビット","japaneseVariants":["パープルメカラビット"],"reading":"パープルメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400467},{"keys":["PROPMOVER_TXT_400468"],"english":"Blue Mecha Rabbit","englishVariants":["Blue Mecha Rabbit"],"japanese":"ブルーメカラビット","japaneseVariants":["ブルーメカラビット"],"reading":"ブルーメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400468},{"keys":["PROPMOVER_TXT_400469"],"english":"Black Mecha Rabbit","englishVariants":["Black Mecha Rabbit"],"japanese":"ブラックメカラビット","japaneseVariants":["ブラックメカラビット"],"reading":"ブラックメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400469},{"keys":["PROPMOVER_TXT_400470"],"english":"White Mecha Rabbit","englishVariants":["White Mecha Rabbit"],"japanese":"ホワイトメカラビット","japaneseVariants":["ホワイトメカラビット"],"reading":"ホワイトメカラビット","notes":"","isGroup":false,"count":1,"sortKey":400470},{"keys":["PROPMOVER_TXT_400471","PROPMOVER_TXT_500042","PROPMOVER_TXT_500043","PROPMOVER_TXT_500044","PROPMOVER_TXT_500045","PROPMOVER_TXT_500046"],"english":"Hellhound","englishVariants":["Hellhound","Small Hellhound","Hellhound","Captain Hellhound","Giant Hellhound","Violet Hellhound"],"japanese":"スケルトンジャッカル","japaneseVariants":["スケルトンジャッカル","スモール・スケルトンジャッカル","スケルトンジャッカル","キャプテン・スケルトンジャッカル","ジャイアント・スケルトンジャッカル","バイオレット・スケルトンジャッカル"],"reading":"ヘルハウンド","notes":"【重複キー】\"Hellhound\"（PROPMOVER_TXT_400471 と PROPMOVER_TXT_500043）が同じ英語名・和訳で2つのキーに重複登録されている。","isGroup":true,"count":6,"sortKey":400471},{"keys":["PROPMOVER_TXT_500001"],"english":"Kanrang","englishVariants":["Kanrang"],"japanese":"カルラン","japaneseVariants":["カルラン"],"reading":"カンラング","notes":"","isGroup":false,"count":1,"sortKey":500001},{"keys":["PROPMOVER_TXT_500002"],"english":"Mewrang","englishVariants":["Mewrang"],"japanese":"ミューラン","japaneseVariants":["ミューラン"],"reading":"ミューラング","notes":"","isGroup":false,"count":1,"sortKey":500002},{"keys":["PROPMOVER_TXT_500003"],"english":"Relgantus","englishVariants":["Relgantus"],"japanese":"レルガンタス","japaneseVariants":["レルガンタス"],"reading":"レルガンタス","notes":"","isGroup":false,"count":1,"sortKey":500003},{"keys":["PROPMOVER_TXT_500004"],"english":"Huntrang","englishVariants":["Huntrang"],"japanese":"フンツラン","japaneseVariants":["フンツラン"],"reading":"ハントラング","notes":"","isGroup":false,"count":1,"sortKey":500004},{"keys":["PROPMOVER_TXT_500007"],"english":"Bato","englishVariants":["Bato"],"japanese":"パト","japaneseVariants":["パト"],"reading":"バト","notes":"","isGroup":false,"count":1,"sortKey":500007},{"keys":["PROPMOVER_TXT_500008"],"english":"Ralbadan","englishVariants":["Ralbadan"],"japanese":"ラルバダン","japaneseVariants":["ラルバダン"],"reading":"ラルバダン","notes":"","isGroup":false,"count":1,"sortKey":500008},{"keys":["PROPMOVER_TXT_500009"],"english":"Miorang","englishVariants":["Miorang"],"japanese":"ミウラン","japaneseVariants":["ミウラン"],"reading":"ミオラング","notes":"","isGroup":false,"count":1,"sortKey":500009},{"keys":["PROPMOVER_TXT_500010"],"english":"Ruidan","englishVariants":["Ruidan"],"japanese":"ルイラン","japaneseVariants":["ルイラン"],"reading":"ルイダン","notes":"","isGroup":false,"count":1,"sortKey":500010},{"keys":["PROPMOVER_TXT_500011"],"english":"Weevs","englishVariants":["Weevs"],"japanese":"ウィーブス","japaneseVariants":["ウィーブス"],"reading":"ウィーヴス","notes":"","isGroup":false,"count":1,"sortKey":500011},{"keys":["PROPMOVER_TXT_500047"],"english":"Chief Keokuk","englishVariants":["Chief Keokuk"],"japanese":"ライカンバルガ","japaneseVariants":["ライカンバルガ"],"reading":"チーフ・キオクク","notes":"","isGroup":false,"count":1,"sortKey":500047},{"keys":["PROPMOVER_TXT_500048"],"english":"Monument of Death","englishVariants":["Monument of Death"],"japanese":"ベヒモスの石像","japaneseVariants":["ベヒモスの石像"],"reading":"モニュメント・オブ・デス","notes":"","isGroup":false,"count":1,"sortKey":500048},{"keys":["PROPMOVER_TXT_500049"],"english":"[Twisted Soul] Orcus","englishVariants":["[Twisted Soul] Orcus"],"japanese":"呪われた石像","japaneseVariants":["呪われた石像"],"reading":"[ツイステッド・ソウル]オルクス","notes":"","isGroup":false,"count":1,"sortKey":500049},{"keys":["PROPMOVER_TXT_500050"],"english":"[Tormented Soul] Nergal","englishVariants":["[Tormented Soul] Nergal"],"japanese":"死の精霊トゥーラ","japaneseVariants":["死の精霊トゥーラ"],"reading":"[トーメンテッド・ソウル]ネルガル","notes":"","isGroup":false,"count":1,"sortKey":500050},{"keys":["PROPMOVER_TXT_500051"],"english":"[Demonic Soul] Hel","englishVariants":["[Demonic Soul] Hel"],"japanese":"死の精霊ウムトゥーラ","japaneseVariants":["死の精霊ウムトゥーラ"],"reading":"[デモニック・ソウル]ヘル","notes":"","isGroup":false,"count":1,"sortKey":500051},{"keys":["PROPMOVER_TXT_500052"],"english":"[Perverted Soul] Morrigan","englishVariants":["[Perverted Soul] Morrigan"],"japanese":"死の精霊オムニス","japaneseVariants":["死の精霊オムニス"],"reading":"[パーヴァーテッド・ソウル]モリガン","notes":"","isGroup":false,"count":1,"sortKey":500052},{"keys":["PROPMOVER_TXT_500053"],"english":"[Anguished Soul] Mara","englishVariants":["[Anguished Soul] Mara"],"japanese":"死の精霊バグニス","japaneseVariants":["死の精霊バグニス"],"reading":"[アングイッシュド・ソウル]マラ","notes":"","isGroup":false,"count":1,"sortKey":500053},{"keys":["PROPMOVER_TXT_500054"],"english":"[Violent Soul] Ghed ","englishVariants":["[Violent Soul] Ghed "],"japanese":"ベヒモスガーディアン","japaneseVariants":["ベヒモスガーディアン"],"reading":"[ヴァイオレント・ソウル]ゲッド","notes":"","isGroup":false,"count":1,"sortKey":500054},{"keys":["PROPMOVER_TXT_500055"],"english":"[God of Death] Ankou","englishVariants":["[God of Death] Ankou"],"japanese":"[死神] 神獣ベヒモス","japaneseVariants":["[死神] 神獣ベヒモス"],"reading":"[ゴッド・オブ・デス]アンコウ","notes":"","isGroup":false,"count":1,"sortKey":500055},{"keys":["PROPMOVER_TXT_500056"],"english":"[God of Death] Blazing Ankou","englishVariants":["[God of Death] Blazing Ankou"],"japanese":"[死神] 炎の神獣ベヒモス","japaneseVariants":["[死神] 炎の神獣ベヒモス"],"reading":"[ゴッド・オブ・デス]ブレイジング・アンコウ","notes":"","isGroup":false,"count":1,"sortKey":500056},{"keys":["PROPMOVER_TXT_500057"],"english":"[God of Death] Demonic Ankou","englishVariants":["[God of Death] Demonic Ankou"],"japanese":"[死神] 魔の神獣ベヒモス","japaneseVariants":["[死神] 魔の神獣ベヒモス"],"reading":"[ゴッド・オブ・デス]デモニック・アンコウ","notes":"","isGroup":false,"count":1,"sortKey":500057},{"keys":["PROPMOVER_TXT_500058"],"english":"[Elder] Traitus","englishVariants":["[Elder] Traitus"],"japanese":"[長老] トレイタス","japaneseVariants":["[長老] トレイタス"],"reading":"[エルダー]トレイタス","notes":"","isGroup":false,"count":1,"sortKey":500058},{"keys":["PROPMOVER_TXT_500059"],"english":"Asylum Guard","englishVariants":["Asylum Guard"],"japanese":"アサイラム・ガード","japaneseVariants":["アサイラム・ガード"],"reading":"アサイラムガード","notes":"","isGroup":false,"count":1,"sortKey":500059},{"keys":["PROPMOVER_TXT_500060"],"english":"Ankou","englishVariants":["Ankou"],"japanese":"神獣ベヒモス","japaneseVariants":["神獣ベヒモス"],"reading":"アンコウ","notes":"","isGroup":false,"count":1,"sortKey":500060},{"keys":["PROPMOVER_TXT_500061"],"english":"Demonic Ankou","englishVariants":["Demonic Ankou"],"japanese":"魔の神獣ベヒモス","japaneseVariants":["魔の神獣ベヒモス"],"reading":"デモニック・アンコウ","notes":"","isGroup":false,"count":1,"sortKey":500061},{"keys":["PROPMOVER_TXT_500062"],"english":"Blue 2025 Thanksgiving Turkey","englishVariants":["Blue 2025 Thanksgiving Turkey"],"japanese":"ブルー2025年感謝祭ターキー","japaneseVariants":["ブルー2025年感謝祭ターキー"],"reading":"ブルー2025サンクスギビングターキー","notes":"","isGroup":false,"count":1,"sortKey":500062},{"keys":["PROPMOVER_TXT_500063"],"english":"Red 2025 Thanksgiving Turkey","englishVariants":["Red 2025 Thanksgiving Turkey"],"japanese":"レッド2025年感謝祭ターキー","japaneseVariants":["レッド2025年感謝祭ターキー"],"reading":"レッド2025サンクスギビングターキー","notes":"","isGroup":false,"count":1,"sortKey":500063},{"keys":["PROPMOVER_TXT_500064"],"english":"Green 2025 Thanksgiving Turkey","englishVariants":["Green 2025 Thanksgiving Turkey"],"japanese":"グリーン2025年感謝祭ターキー","japaneseVariants":["グリーン2025年感謝祭ターキー"],"reading":"グリーン2025サンクスギビングターキー","notes":"","isGroup":false,"count":1,"sortKey":500064},{"keys":["PROPMOVER_TXT_500065"],"english":"Pink 2025 Thanksgiving Turkey","englishVariants":["Pink 2025 Thanksgiving Turkey"],"japanese":"ピンク2025年感謝祭ターキー","japaneseVariants":["ピンク2025年感謝祭ターキー"],"reading":"ピンク2025サンクスギビングターキー","notes":"","isGroup":false,"count":1,"sortKey":500065},{"keys":["PROPMOVER_TXT_500066"],"english":"Black 2025 Thanksgiving Turkey","englishVariants":["Black 2025 Thanksgiving Turkey"],"japanese":"ブラック2025年感謝祭ターキー","japaneseVariants":["ブラック2025年感謝祭ターキー"],"reading":"ブラック2025サンクスギビングターキー","notes":"","isGroup":false,"count":1,"sortKey":500066},{"keys":["PROPMOVER_TXT_500067"],"english":"White 2025 Thanksgiving Turkey","englishVariants":["White 2025 Thanksgiving Turkey"],"japanese":"ホワイト2025年感謝祭ターキー","japaneseVariants":["ホワイト2025年感謝祭ターキー"],"reading":"ホワイト2025サンクスギビングターキー","notes":"","isGroup":false,"count":1,"sortKey":500067},{"keys":["PROPMOVER_TXT_500068"],"english":"Red Baby Horse","englishVariants":["Red Baby Horse"],"japanese":"赤い仔馬","japaneseVariants":["赤い仔馬"],"reading":"レッドベビーホース","notes":"","isGroup":false,"count":1,"sortKey":500068},{"keys":["PROPMOVER_TXT_500069","PROPMOVER_TXT_500070","PROPMOVER_TXT_500071","PROPMOVER_TXT_500072","PROPMOVER_TXT_500073","PROPMOVER_TXT_500074"],"english":"Shiki Paws","englishVariants":["Cyan Shiki Paws","Green Shiki Paws","Purple Shiki Paws","Blue Shiki Paws","White Shiki Paws","Black Shiki Paws"],"japanese":"シキパウズ","japaneseVariants":["シアン・シキパウズ","グリーン・シキパウズ","パープル・シキパウズ","ブルー・シキパウズ","ホワイト・シキパウズ","ブラック・シキパウズ"],"reading":"シキポウズ","notes":"","isGroup":true,"count":6,"sortKey":500069},{"keys":["PROPMOVER_TXT_500075"],"english":"Green Pawzer","englishVariants":["Green Pawzer"],"japanese":"グリーンパウザー","japaneseVariants":["グリーンパウザー"],"reading":"グリーンポウザー","notes":"","isGroup":false,"count":1,"sortKey":500075},{"keys":["PROPMOVER_TXT_500076"],"english":"Blue Pawzer","englishVariants":["Blue Pawzer"],"japanese":"ブルーパウザー","japaneseVariants":["ブルーパウザー"],"reading":"ブルーポウザー","notes":"","isGroup":false,"count":1,"sortKey":500076},{"keys":["PROPMOVER_TXT_500077"],"english":"Light Pawzer","englishVariants":["Light Pawzer"],"japanese":"ライトパウザー","japaneseVariants":["ライトパウザー"],"reading":"ライトポウザー","notes":"","isGroup":false,"count":1,"sortKey":500077},{"keys":["PROPMOVER_TXT_500078"],"english":"Cyan Pawzer","englishVariants":["Cyan Pawzer"],"japanese":"シアンパウザー","japaneseVariants":["シアンパウザー"],"reading":"シアンポウザー","notes":"","isGroup":false,"count":1,"sortKey":500078},{"keys":["PROPMOVER_TXT_500079"],"english":"Red Pawzer","englishVariants":["Red Pawzer"],"japanese":"レッドパウザー","japaneseVariants":["レッドパウザー"],"reading":"レッドポウザー","notes":"","isGroup":false,"count":1,"sortKey":500079},{"keys":["PROPMOVER_TXT_500080"],"english":"Dark Pawzer","englishVariants":["Dark Pawzer"],"japanese":"ダークパウザー","japaneseVariants":["ダークパウザー"],"reading":"ダークポウザー","notes":"","isGroup":false,"count":1,"sortKey":500080},{"keys":["PROPMOVER_TXT_500081"],"english":"US Muppet","englishVariants":["US Muppet"],"japanese":"USマペット","japaneseVariants":["USマペット"],"reading":"USマペット","notes":"","isGroup":false,"count":1,"sortKey":500081},{"keys":["PROPMOVER_TXT_500082"],"english":"UK Muppet","englishVariants":["UK Muppet"],"japanese":"UKマペット","japaneseVariants":["UKマペット"],"reading":"UKマペット","notes":"","isGroup":false,"count":1,"sortKey":500082},{"keys":["PROPMOVER_TXT_500083"],"english":"DE Muppet","englishVariants":["DE Muppet"],"japanese":"DEマペット","japaneseVariants":["DEマペット"],"reading":"DEマペット","notes":"","isGroup":false,"count":1,"sortKey":500083},{"keys":["PROPMOVER_TXT_500084"],"english":"RU Muppet","englishVariants":["RU Muppet"],"japanese":"RUマペット","japaneseVariants":["RUマペット"],"reading":"RUマペット","notes":"","isGroup":false,"count":1,"sortKey":500084},{"keys":["PROPMOVER_TXT_500085"],"english":"CN Muppet","englishVariants":["CN Muppet"],"japanese":"CNマペット","japaneseVariants":["CNマペット"],"reading":"CNマペット","notes":"","isGroup":false,"count":1,"sortKey":500085},{"keys":["PROPMOVER_TXT_500086"],"english":"KR Muppet","englishVariants":["KR Muppet"],"japanese":"KRマペット","japaneseVariants":["KRマペット"],"reading":"KRマペット","notes":"","isGroup":false,"count":1,"sortKey":500086},{"keys":["PROPMOVER_TXT_500087"],"english":"MX Muppet","englishVariants":["MX Muppet"],"japanese":"MXマペット","japaneseVariants":["MXマペット"],"reading":"MXマペット","notes":"","isGroup":false,"count":1,"sortKey":500087},{"keys":["PROPMOVER_TXT_500088"],"english":"BR Muppet","englishVariants":["BR Muppet"],"japanese":"BRマペット","japaneseVariants":["BRマペット"],"reading":"BRマペット","notes":"","isGroup":false,"count":1,"sortKey":500088},{"keys":["PROPMOVER_TXT_500089"],"english":"TH Muppet","englishVariants":["TH Muppet"],"japanese":"THマペット","japaneseVariants":["THマペット"],"reading":"THマペット","notes":"","isGroup":false,"count":1,"sortKey":500089},{"keys":["PROPMOVER_TXT_500090"],"english":"PH Muppet","englishVariants":["PH Muppet"],"japanese":"PHマペット","japaneseVariants":["PHマペット"],"reading":"PHマペット","notes":"","isGroup":false,"count":1,"sortKey":500090},{"keys":["PROPMOVER_TXT_500091"],"english":"JP Muppet","englishVariants":["JP Muppet"],"japanese":"JPマペット","japaneseVariants":["JPマペット"],"reading":"JPマペット","notes":"","isGroup":false,"count":1,"sortKey":500091},{"keys":["PROPMOVER_TXT_500092"],"english":"FR Muppet","englishVariants":["FR Muppet"],"japanese":"FRマペット","japaneseVariants":["FRマペット"],"reading":"FRマペット","notes":"","isGroup":false,"count":1,"sortKey":500092},{"keys":["PROPMOVER_TXT_500093"],"english":"Blue Pocket Shinobi","englishVariants":["Blue Pocket Shinobi"],"japanese":"ブルーポケット忍者","japaneseVariants":["ブルーポケット忍者"],"reading":"ブルーポケットシノビ","notes":"","isGroup":false,"count":1,"sortKey":500093},{"keys":["PROPMOVER_TXT_500094"],"english":"Red Pocket Shinobi","englishVariants":["Red Pocket Shinobi"],"japanese":"レッドポケット忍者","japaneseVariants":["レッドポケット忍者"],"reading":"レッドポケットシノビ","notes":"","isGroup":false,"count":1,"sortKey":500094},{"keys":["PROPMOVER_TXT_500095"],"english":"Green Pocket Shinobi","englishVariants":["Green Pocket Shinobi"],"japanese":"グリーンポケット忍者","japaneseVariants":["グリーンポケット忍者"],"reading":"グリーンポケットシノビ","notes":"","isGroup":false,"count":1,"sortKey":500095},{"keys":["PROPMOVER_TXT_500096"],"english":"Violet Pocket Shinobi","englishVariants":["Violet Pocket Shinobi"],"japanese":"バイオレットポケット忍者","japaneseVariants":["バイオレットポケット忍者"],"reading":"バイオレットポケットシノビ","notes":"","isGroup":false,"count":1,"sortKey":500096},{"keys":["PROPMOVER_TXT_500097"],"english":"Forest Pocket Shinobi","englishVariants":["Forest Pocket Shinobi"],"japanese":"フォレストポケット忍者","japaneseVariants":["フォレストポケット忍者"],"reading":"フォレストポケットシノビ","notes":"","isGroup":false,"count":1,"sortKey":500097},{"keys":["PROPMOVER_TXT_500098"],"english":"White Pocket Shinobi","englishVariants":["White Pocket Shinobi"],"japanese":"ホワイトポケット忍者","japaneseVariants":["ホワイトポケット忍者"],"reading":"ホワイトポケットシノビ","notes":"","isGroup":false,"count":1,"sortKey":500098},{"keys":["PROPMOVER_TXT_500175"],"english":"Condemned Fefern","englishVariants":["Condemned Fefern"],"japanese":"堕落したフェフェルン","japaneseVariants":["堕落したフェフェルン"],"reading":"コンデムド・フェフェルン","notes":"","isGroup":false,"count":1,"sortKey":500175},{"keys":["PROPMOVER_TXT_500176"],"english":"Condemned Wagsaac","englishVariants":["Condemned Wagsaac"],"japanese":"堕落したワッグサック","japaneseVariants":["堕落したワッグサック"],"reading":"コンデムド・ワグサック","notes":"","isGroup":false,"count":1,"sortKey":500176},{"keys":["PROPMOVER_TXT_500177"],"english":"Condemned Mr. Pumpkin","englishVariants":["Condemned Mr. Pumpkin"],"japanese":"堕落したカボチャ男爵","japaneseVariants":["堕落したカボチャ男爵"],"reading":"コンデムド・ミスターパンプキン","notes":"","isGroup":false,"count":1,"sortKey":500177},{"keys":["PROPMOVER_TXT_500178"],"english":"Condemned Gigglebox","englishVariants":["Condemned Gigglebox"],"japanese":"堕落したギグルボックス","japaneseVariants":["堕落したギグルボックス"],"reading":"コンデムド・ギグルボックス","notes":"","isGroup":false,"count":1,"sortKey":500178},{"keys":["PROPMOVER_TXT_500179"],"english":"Condemned Hobo","englishVariants":["Condemned Hobo"],"japanese":"堕落したホボー","japaneseVariants":["堕落したホボー"],"reading":"コンデムド・ホーボー","notes":"","isGroup":false,"count":1,"sortKey":500179},{"keys":["PROPMOVER_TXT_500180"],"english":"Condemned Cardpuppet","englishVariants":["Condemned Cardpuppet"],"japanese":"堕落したカードパペット","japaneseVariants":["堕落したカードパペット"],"reading":"コンデムド・カードパペット","notes":"","isGroup":false,"count":1,"sortKey":500180},{"keys":["PROPMOVER_TXT_500181"],"english":"Condemned Basque","englishVariants":["Condemned Basque"],"japanese":"堕落したバスキュー","japaneseVariants":["堕落したバスキュー"],"reading":"コンデムド・バスク","notes":"","isGroup":false,"count":1,"sortKey":500181},{"keys":["PROPMOVER_TXT_500182"],"english":"Condemned Leyena","englishVariants":["Condemned Leyena"],"japanese":"堕落したレイーナ","japaneseVariants":["堕落したレイーナ"],"reading":"コンデムド・レイエナ","notes":"","isGroup":false,"count":1,"sortKey":500182},{"keys":["PROPMOVER_TXT_500183"],"english":"Condemned Steel Knight","englishVariants":["Condemned Steel Knight"],"japanese":"堕落したスチールナイト","japaneseVariants":["堕落したスチールナイト"],"reading":"コンデムド・スティールナイト","notes":"","isGroup":false,"count":1,"sortKey":500183},{"keys":["PROPMOVER_TXT_500184"],"english":"Condemned Volt","englishVariants":["Condemned Volt"],"japanese":"堕落したボルト","japaneseVariants":["堕落したボルト"],"reading":"コンデムド・ボルト","notes":"","isGroup":false,"count":1,"sortKey":500184},{"keys":["PROPMOVER_TXT_500185"],"english":"Condemned Garbagespider","englishVariants":["Condemned Garbagespider"],"japanese":"堕落したガーベイジパイダー","japaneseVariants":["堕落したガーベイジパイダー"],"reading":"コンデムド・ガーベッジスパイダー","notes":"","isGroup":false,"count":1,"sortKey":500185},{"keys":["PROPMOVER_TXT_500186"],"english":"Condemned Greemong","englishVariants":["Condemned Greemong"],"japanese":"堕落したグリーモン","japaneseVariants":["堕落したグリーモン"],"reading":"コンデムド・グリーモン","notes":"","isGroup":false,"count":1,"sortKey":500186},{"keys":["PROPMOVER_TXT_500187"],"english":"Condemned Hoppre","englishVariants":["Condemned Hoppre"],"japanese":"堕落したホップル","japaneseVariants":["堕落したホップル"],"reading":"コンデムド・ホップレ","notes":"","isGroup":false,"count":1,"sortKey":500187},{"keys":["PROPMOVER_TXT_500188"],"english":"Condemned Iren","englishVariants":["Condemned Iren"],"japanese":"堕落したアイレン","japaneseVariants":["堕落したアイレン"],"reading":"コンデムド・アイレン","notes":"","isGroup":false,"count":1,"sortKey":500188},{"keys":["PROPMOVER_TXT_500189"],"english":"Condemned Watangka","englishVariants":["Condemned Watangka"],"japanese":"堕落したワタングカ","japaneseVariants":["堕落したワタングカ"],"reading":"コンデムド・ワタンカ","notes":"","isGroup":false,"count":1,"sortKey":500189},{"keys":["PROPMOVER_TXT_500190"],"english":"Condemned Luia","englishVariants":["Condemned Luia"],"japanese":"堕落したルイア","japaneseVariants":["堕落したルイア"],"reading":"コンデムド・ルイア","notes":"","isGroup":false,"count":1,"sortKey":500190},{"keys":["PROPMOVER_TXT_500191"],"english":"Condemned Shuhamma","englishVariants":["Condemned Shuhamma"],"japanese":"堕落したシューハンマー","japaneseVariants":["堕落したシューハンマー"],"reading":"コンデムド・シューハンマ","notes":"","isGroup":false,"count":1,"sortKey":500191},{"keys":["PROPMOVER_TXT_500192"],"english":"Condemned Glaphan","englishVariants":["Condemned Glaphan"],"japanese":"堕落したグラファン","japaneseVariants":["堕落したグラファン"],"reading":"コンデムド・グラファン","notes":"","isGroup":false,"count":1,"sortKey":500192},{"keys":["PROPMOVER_TXT_500193"],"english":"Condemned Medumet","englishVariants":["Condemned Medumet"],"japanese":"堕落したメデュメット","japaneseVariants":["堕落したメデュメット"],"reading":"コンデムド・メドゥメット","notes":"","isGroup":false,"count":1,"sortKey":500193},{"keys":["PROPMOVER_TXT_505001","PROPMOVER_TXT_505003","PROPMOVER_TXT_505004","PROPMOVER_TXT_505005"],"english":"Drifter","englishVariants":["[Forgotten] Small Drifter","[Forgotten] Captain Drifter","[Forgotten] Giant Drifter","[Forgotten] Great Drifter"],"japanese":"ドリフター","japaneseVariants":["[忘却の] スモール・ドリフター","[忘却の] キャプテン・ドリフター","[忘却の] ジャイアント・ドリフター","[忘却の] グレート・ドリフター"],"reading":"ドリフター","notes":"","isGroup":true,"count":4,"sortKey":505001},{"keys":["PROPMOVER_TXT_505002"],"english":"[Forgotten] Drifter","englishVariants":["[Forgotten] Drifter"],"japanese":"[忘却の] ドリフター","japaneseVariants":["[忘却の] ドリフター"],"reading":"[フォーガトン]ドリフター","notes":"","isGroup":false,"count":1,"sortKey":505002},{"keys":["PROPMOVER_TXT_505006","PROPMOVER_TXT_505008","PROPMOVER_TXT_505009","PROPMOVER_TXT_505010"],"english":"Maiden","englishVariants":["[Forgotten] Small Maiden","[Forgotten] Captain Maiden","[Forgotten] Giant Maiden","[Forgotten] Great Maiden"],"japanese":"メイデン","japaneseVariants":["[忘却の] スモール・メイデン","[忘却の] キャプテン・メイデン","[忘却の] ジャイアント・メイデン","[忘却の] グレート・メイデン"],"reading":"メイデン","notes":"","isGroup":true,"count":4,"sortKey":505006},{"keys":["PROPMOVER_TXT_505007"],"english":"[Forgotten] Maiden","englishVariants":["[Forgotten] Maiden"],"japanese":"[忘却の] メイデン","japaneseVariants":["[忘却の] メイデン"],"reading":"[フォーガトン]メイデン","notes":"","isGroup":false,"count":1,"sortKey":505007},{"keys":["PROPMOVER_TXT_505011","PROPMOVER_TXT_505013","PROPMOVER_TXT_505014","PROPMOVER_TXT_505015"],"english":"Reaver","englishVariants":["[Forgotten] Small Reaver","[Forgotten] Captain Reaver","[Forgotten] Giant Reaver","[Forgotten] Great Reaver"],"japanese":"リーバー","japaneseVariants":["[忘却の] スモール・リーバー","[忘却の] キャプテン・リーバー","[忘却の] ジャイアント・リーバー","[忘却の] グレート・リーバー"],"reading":"リーバー","notes":"","isGroup":true,"count":4,"sortKey":505011},{"keys":["PROPMOVER_TXT_505012"],"english":"[Forgotten] Reaver","englishVariants":["[Forgotten] Reaver"],"japanese":"[忘却の] リーバー","japaneseVariants":["[忘却の] リーバー"],"reading":"[フォーガトン]リーバー","notes":"","isGroup":false,"count":1,"sortKey":505012},{"keys":["PROPMOVER_TXT_505016","PROPMOVER_TXT_505018","PROPMOVER_TXT_505019","PROPMOVER_TXT_505020"],"english":"Mystica","englishVariants":["[Forgotten] Small Mystica","[Forgotten] Captain Mystica","[Forgotten] Giant Mystica","[Forgotten] Great Mystica"],"japanese":"ミスティカ","japaneseVariants":["[忘却の] スモール・ミスティカ","[忘却の] キャプテン・ミスティカ","[忘却の] ジャイアント・ミスティカ","[忘却の] グレート・ミスティカ"],"reading":"ミスティカ","notes":"","isGroup":true,"count":4,"sortKey":505016},{"keys":["PROPMOVER_TXT_505017"],"english":"[Forgotten] Mystica","englishVariants":["[Forgotten] Mystica"],"japanese":"[忘却の] ミスティカ","japaneseVariants":["[忘却の] ミスティカ"],"reading":"[フォーガトン]ミスティカ","notes":"","isGroup":false,"count":1,"sortKey":505017},{"keys":["PROPMOVER_TXT_505021","PROPMOVER_TXT_505023","PROPMOVER_TXT_505024","PROPMOVER_TXT_505025"],"english":"Anae","englishVariants":["[Forgotten] Small Anae","[Forgotten] Captain Anae","[Forgotten] Giant Anae","[Forgotten] Great Anae"],"japanese":"アナエ","japaneseVariants":["[忘却の] スモール・アナエ","[忘却の] キャプテン・アナエ","[忘却の] ジャイアント・アナエ","[忘却の] グレート・アナエ"],"reading":"アネ","notes":"","isGroup":true,"count":4,"sortKey":505021},{"keys":["PROPMOVER_TXT_505022"],"english":"[Forgotten] Anae","englishVariants":["[Forgotten] Anae"],"japanese":"[忘却の] アナエ","japaneseVariants":["[忘却の] アナエ"],"reading":"[フォーガトン]アネ","notes":"","isGroup":false,"count":1,"sortKey":505022},{"keys":["PROPMOVER_TXT_505026","PROPMOVER_TXT_505028","PROPMOVER_TXT_505029","PROPMOVER_TXT_505030"],"english":"Rifter","englishVariants":["[Forgotten] Small Rifter","[Forgotten] Captain Rifter","[Forgotten] Giant Rifter","[Forgotten] Great Rifter"],"japanese":"リフター","japaneseVariants":["[忘却の] スモール・リフター","[忘却の] キャプテン・リフター","[忘却の] ジャイアント・リフター","[忘却の] グレート・リフター"],"reading":"リフター","notes":"","isGroup":true,"count":4,"sortKey":505026},{"keys":["PROPMOVER_TXT_505027"],"english":"[Forgotten] Rifter","englishVariants":["[Forgotten] Rifter"],"japanese":"[忘却の] リフター","japaneseVariants":["[忘却の] リフター"],"reading":"[フォーガトン]リフター","notes":"","isGroup":false,"count":1,"sortKey":505027},{"keys":["PROPMOVER_TXT_505031"],"english":"Musha","englishVariants":["Musha"],"japanese":"ムシュ","japaneseVariants":["ムシュ"],"reading":"ムシャ","notes":"","isGroup":false,"count":1,"sortKey":505031}]</script>
+<script id="crossdata" type="application/json">["【重複キー】\"Hellhound\"（PROPMOVER_TXT_400471 と PROPMOVER_TXT_500043）が同じ英語名・和訳で2つのキーに重複登録されている。"]</script>
+<script>
+(function () {
+  const toolbarEl = document.getElementById('toolbar');
+  function syncToolbarHeight() {
+    document.documentElement.style.setProperty('--toolbar-h', toolbarEl.offsetHeight + 'px');
+  }
+  syncToolbarHeight();
+  window.addEventListener('resize', syncToolbarHeight);
+  if (window.ResizeObserver) {
+    new ResizeObserver(syncToolbarHeight).observe(toolbarEl);
+  }
+
+  const rows = JSON.parse(document.getElementById('rowdata').textContent);
+  const cross = JSON.parse(document.getElementById('crossdata').textContent);
+
+  const flagsList = document.getElementById('flagsList');
+  cross.forEach(function (note) {
+    const li = document.createElement('li');
+    li.textContent = note;
+    flagsList.appendChild(li);
+  });
+
+  const totalKeys = rows.reduce(function (a, r) { return a + r.keys.length; }, 0);
+  const groupCount = rows.filter(function (r) { return r.isGroup; }).length;
+  const flaggedCount = rows.filter(function (r) { return r.notes; }).length;
+
+  const stats = [
+    { n: totalKeys.toLocaleString(), l: '翻訳済みエントリ数' },
+    { n: rows.length.toLocaleString(), l: '一覧の行数（統合後）' },
+    { n: groupCount.toLocaleString(), l: 'ティア統合グループ' },
+    { n: flaggedCount.toLocaleString(), l: '要確認フラグ' }
+  ];
+  const statsEl = document.getElementById('stats');
+  stats.forEach(function (s) {
+    const div = document.createElement('div');
+    div.className = 'stat';
+    div.innerHTML = '<span class="n">' + s.n + '</span><span class="l">' + s.l + '</span>';
+    statsEl.appendChild(div);
+  });
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function rowHtml(r) {
+    const keyHtml = r.keys.map(function (k) { return k.replace('PROPMOVER_TXT_', ''); }).join(', ');
+    const enVariants = r.isGroup ? '<span class="variants">' + esc(r.englishVariants.join(' / ')) + '</span>' : '';
+    const jaChip = r.isGroup ? '<span class="count-chip">×' + r.count + '</span>' : '';
+    const jaVariants = r.isGroup ? '<span class="variants-ja">' + esc(r.japaneseVariants.join(' / ')) + '</span>' : '';
+    const notesHtml = r.notes ? esc(r.notes) : '';
+    return '<tr class="' + (r.notes ? 'flagged' : '') + '" data-search="' + esc((r.keys.join(' ') + ' ' + r.english + ' ' + r.englishVariants.join(' ') + ' ' + r.japanese + ' ' + r.japaneseVariants.join(' ') + ' ' + r.reading + ' ' + r.notes).toLowerCase()) + '" data-flagged="' + (r.notes ? '1' : '0') + '">' +
+      '<td class="key">' + esc(keyHtml) + '</td>' +
+      '<td class="en">' + esc(r.english) + enVariants + '</td>' +
+      '<td class="ja">' + esc(r.japanese) + jaChip + jaVariants + '</td>' +
+      '<td class="yomi">' + esc(r.reading) + '</td>' +
+      '<td class="notes">' + notesHtml + '</td>' +
+      '</tr>';
+  }
+
+  const tbody = document.getElementById('tbody');
+  tbody.innerHTML = rows.map(rowHtml).join('');
+
+  const trs = Array.from(tbody.querySelectorAll('tr'));
+  const searchInput = document.getElementById('searchInput');
+  const resultCount = document.getElementById('resultCount');
+  const flagFilter = document.getElementById('flagFilter');
+  let flagOnly = false;
+
+  function applyFilter() {
+    const q = searchInput.value.trim().toLowerCase();
+    let visible = 0;
+    trs.forEach(function (tr) {
+      const matchesText = !q || tr.getAttribute('data-search').indexOf(q) !== -1;
+      const matchesFlag = !flagOnly || tr.getAttribute('data-flagged') === '1';
+      const show = matchesText && matchesFlag;
+      tr.classList.toggle('hidden-row', !show);
+      if (show) visible++;
+    });
+    resultCount.textContent = visible.toLocaleString() + ' / ' + trs.length.toLocaleString() + ' 行表示';
+  }
+
+  searchInput.addEventListener('input', applyFilter);
+  flagFilter.addEventListener('click', function () {
+    flagOnly = !flagOnly;
+    flagFilter.classList.toggle('active', flagOnly);
+    applyFilter();
+  });
+
+  applyFilter();
+})();
+</script>
