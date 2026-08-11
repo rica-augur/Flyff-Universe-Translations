@@ -191,17 +191,17 @@ PROPQUEST_REQUESTBOX_INC_010011,Flybrigen Brigade,フリビーリーズンの大
 PROPQUEST_REQUESTBOX_INC_010012,Tina asked for help with reducing the Flybrigen population as they're causing problems with transport. Could you kill 15 of them?,ティナから、輸送経路に＜フリビーリーズン＞が大量発生して問題になっているので、数を減らしてほしいという依頼がありました。15匹ほど討伐してきていただけませんか？
 PROPQUEST_REQUESTBOX_INC_010013,You can find Flybrigen flying between Saint Morning and Garden of Rhisis continents.,フリビーリーズンはセイントモーニングとリシスの庭に発生しています。
 PROPQUEST_REQUESTBOX_INC_010014,Moth Infestation (2),蛾の発生 (2)
-PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?
-PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.
+PROPQUEST_REQUESTBOX_INC_010015,Tina is asking for further help regarding the Mothbee infestation. Could you get rid of the Lord Mothbee?,ティナがモスビーの大量発生についてさらなる助けを求めています。ロード・モスビーを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010016,You can find the Lord Mothbee flying inbetween Northern Saint City & Flaris.,ロード・モスビーは、セイントシティ北部とフラリスの間を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010017,Mutated Aibatts (2),豹変したアイバット (2)
-PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?
-PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,You can find the Lord Zendros flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010018,Tina is asking for further help regarding the Zendros threat. Could you get rid of the Lord Zendros?,ティナがゼンドロスの脅威についてさらなる助けを求めています。ロード・ゼンドロスを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010019,You can find the Lord Zendros flying between Flaris and Saint morning continents.,ロード・ゼンドロスは、フラリスとセイントモーニング大陸の間を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010020,Dragonflies (2),トンボの大群 (2)
-PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?
-PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,You can find the Lord Neparuba flying between Flaris and Saint morning continents.
+PROPQUEST_REQUESTBOX_INC_010021,Tina is asking for further help regarding the Neparuba threat. Could you get rid of the Lord Neparuba?,ティナがネパルバの脅威についてさらなる助けを求めています。ロード・ネパルバを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010022,You can find the Lord Neparuba flying between Flaris and Saint morning continents.,ロード・ネパルバは、フラリスとセイントモーニング大陸の間を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010023,Flybrigen Brigade (2),フリビーリーズンの大群 (2)
-PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?
-PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.
+PROPQUEST_REQUESTBOX_INC_010024,Tina is asking for further help regarding the Flybrigen threat. Could you get rid of the Lord Flybrigen?,ティナがフリビーリーズンの脅威についてさらなる助けを求めています。ロード・フリビーリーズンを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010025,You can find the Lord Flybrigen flying between Saint Morning and Garden of Rhisis continents.,ロード・フリビーリーズンは、セイントモーニングとリシスの庭園大陸の間を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010026,Flying Circus,空飛ぶサーカス
 PROPQUEST_REQUESTBOX_INC_010027,Dior asked for help with reducing the Rockepeller population as they're causing problems with transport between Darkon & Flaris. Could you kill 15 of them?,ディオールから、ロケッペラーの数を減らしてほしいと頼まれています。ダーコンとフラリス間の輸送に支障をきたしているとのことです。15体討伐していただけませんか？
 PROPQUEST_REQUESTBOX_INC_010028,You can find Rockepeller flying between Flaris and Darkon continents.,ロケッペラーは、フラリスとダーコン大陸の間を飛び回っています。
@@ -218,20 +218,20 @@ PROPQUEST_REQUESTBOX_INC_010038,Prehistoric Birds,先史時代の鳥類
 PROPQUEST_REQUESTBOX_INC_010039,Almani asked for Gorrudas to be exterminated. They are an imminent threat! Please could you kill 15 of them?,アルマーニから、＜ゴルーダ＞の討伐依頼です。このモンスターは危険なモンスターだとのことです。お願いです、15体討伐してきていただけませんか？
 PROPQUEST_REQUESTBOX_INC_010040,"You can find Gorrudas flying West of the Deadwallderness, over the mountains.",ゴルーダは、デッドウィルダニス砂漠の西側の山周辺を飛んでいます。
 PROPQUEST_REQUESTBOX_INC_010041,Flying Circus (2),空飛ぶサーカス (2)
-PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?
-PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,You can find the Lord Rockepeller flying between Flaris and Darkon continents.
+PROPQUEST_REQUESTBOX_INC_010042,Dior asked for further help regarding the Rockepeller threat. Could you get rid of the Lord Rockepeller?,ディオールがロケッペラーの脅威についてさらなる助けを求めています。ロード・ロケッペラーを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010043,You can find the Lord Rockepeller flying between Flaris and Darkon continents.,ロード・ロケッペラーは、フラリスとダーコン大陸の間を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010044,"Hey look, a flying rat! (2)",ほら見てみろ！ねずみが空を飛んでんぞ！ (2)
-PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?
-PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.
+PROPQUEST_REQUESTBOX_INC_010045,Almani asked for further help regarding the Longwings threat. Could you get rid of the Lord Longwing?,アルマーニがロングウィングの脅威についてさらなる助けを求めています。ロード・ロングウィングを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010046,You can find the Lord Longwing flying South-East of the Clockworks Cage in the mountains.,ロード・ロングウィングは、山岳地帯にあるクロックワークスの永久牢獄の南東を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010047,Baby Meteonyker (2),小さなメテオニカ (2)
-PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?
-PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.","You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin."
+PROPQUEST_REQUESTBOX_INC_010048,Almani asked for further help regarding the Fafnir threat. Could you get rid of the Lord Fafnir?,アルマーニがファフニールの脅威についてさらなる助けを求めています。ロード・ファフニールを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010049,"You can find the Lord Fafnir flying near the Volcano in Darkon 3, Brekin.",ロード・ファフニールは、ダーコン3のブレッキンにある火山付近を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_010050,Prehistoric Birds (2),先史時代の鳥類 (2)
-PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?
+PROPQUEST_REQUESTBOX_INC_010051,Almani asked for further help regarding the Gorruda threat. Could you get rid of the Lord Gorruda?,アルマーニがゴルーダの脅威についてさらなる助けを求めています。ロード・ゴルーダを退治してもらえますか？
 PROPQUEST_REQUESTBOX_INC_010052,"You can find the $QUEST_END_KILL_NAME$ flying West of the Deadwallderness, over the mountains.",$QUEST_END_KILL_NAME$ は、デッドウィルダニス砂漠の西側、山の上を飛んでいるを飛んでいるはずです。
 PROPQUEST_REQUESTBOX_INC_010053,Zenma Hunting (2),ゼンマー ハンティング (2)
-PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?
-PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,You can find the Lord Zenma flying above Gouthan Mountains.
+PROPQUEST_REQUESTBOX_INC_010054,Almani asked for further help regarding the Zenma threat. Could you get rid of the Lord Zenma?,アルマーニがゼンマーの脅威についてさらなる助けを求めています。ロード・ゼンマーを退治してもらえますか？
+PROPQUEST_REQUESTBOX_INC_010055,You can find the Lord Zenma flying above Gouthan Mountains.,ロード・ゼンマーは、ゴウダン山脈の上空を飛び回っています。
 PROPQUEST_REQUESTBOX_INC_020000,You can get $QUEST_END_ITEM_NAME$ from any type of Chimeradon.,$QUEST_END_ITEM_NAME$は、どのキメラドンからでも獲得できます。
 PROPQUEST_REQUESTBOX_INC_020001,You can get $QUEST_END_ITEM_NAME$ from any type of Bearnerky.,$QUEST_END_ITEM_NAME$は、どのハニーシーカーからでも獲得できます。
 PROPQUEST_REQUESTBOX_INC_020002,You can get $QUEST_END_ITEM_NAME$ from any type of Muffrin.,$QUEST_END_ITEM_NAME$ をマフリン・シェフたちから集める。
@@ -289,46 +289,46 @@ PROPQUEST_REQUESTBOX_INC_020053,"Thank you for collecting all those $QUEST_END_I
 PROPQUEST_REQUESTBOX_INC_020054,"Thank you for collecting all those $QUEST_END_ITEM_NAME$, adventurer! I've decided to write these letters and deliver them myself. Thank you for everything... I hope to see you again one day!",冒険者の皆さん、$QUEST_END_ITEM_NAME$を全て集めてくれてありがとう!この手紙を自分で書いて届けることにしました。いつもありがとう..またいつかお会いできる日です!
 PROPQUEST_REQUESTBOX_INC_020055,That isn't nearly enough $QUEST_END_ITEM_NAME$ for me to build one of my grand inventions... come back with more!,これは、私の壮大な発明の1つを構築するには、$QUEST_END_ITEM_NAME$が十分ではありません。もっと戻ってきてください!
 PROPQUEST_REQUESTBOX_INC_020056,$QUEST_END_NPC_NAME$ cackles with glee! Soon their inventions will become a reality.,$QUEST_END_NPC_NAME$は歓喜の声を上げます!まもなく彼らの発明は現実のものとなるでしょう。
-PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,The Skulls of the Hundur Sharpfoot
-PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.","The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals."
-PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.
-PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,I see… but these creatures are growing more aggressive. Come back if you change your mind.
-PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.","You haven't gathered enough skulls yet… Keep going, each specimen is important to us."
-PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.
-PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,The Skulls of the Samoset
-PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.
-PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.
-PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,Very well… but their unrest intensifies each day. Return if you change your mind.
-PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.","You still don't have enough… Keep going, we must understand what's disturbing them."
-PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,Perfect! These skulls will help us uncover the truth. Thank you for your help.
-PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,The Claws of the Kyouchish
-PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.
-PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.
-PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,I understand… but we're running out of remedies. Return if you wish to help.
-PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.","You're still missing some. The Kyouchish are dangerous, stay careful."
-PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.","Excellent! With these claws, our healers can prepare a proper antidote."
-PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,The Kanonicus Antidote
-PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.
-PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.
-PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,A shame… several warriors are still waiting to be treated.
-PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.","You don’t have enough yet. Hurry, every drop counts."
-PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.","Perfect! Thanks to you, we can finally treat our wounded."
-PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,The Magic Skulls of the Redcloud
-PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.
-PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.
-PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,Alright… but this magic could strengthen our defenses.
-PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,You don’t have enough energy-charged skulls yet. Keep going!
-PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,Excellent work! These skulls are a true source of power.
-PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,The Devil’s Teeth
-PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.
-PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.
-PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,I understand… but their influence spreads further each night. Return carefully.
-PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,Not enough teeth to contain the demonic energy yet. Keep gathering.
-PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,Very good! These teeth will be purified and neutralized. You’ve done us a great service.
-PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,The Bloodstained Fangs of the Hellhound
-PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.","Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back."
-PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.
-PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,Very well… but the Hellhounds still lurk around Kaillun.
-PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,You don’t have enough. Their fangs are essential to forge weapons that can repel them.
-PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.","Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors."
-PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!
+PROPQUEST_REQUESTBOX_INC_020057,The Skulls of the Hundur Sharpfoot,ワークウルフの頭骨
+PROPQUEST_REQUESTBOX_INC_020058,"The Hundur Sharpfoot gather near Kaillun’s borders, and their skulls bear strange markings. The Muran need them to decipher the secrets behind their rituals.",ワークウルフはカイルルンの国境付近に集まり、その頭骨には奇妙な紋様が刻まれています。ムランはその儀式の秘密を解き明かすため、頭骨を必要としています。
+PROPQUEST_REQUESTBOX_INC_020059,Excellent! The Muran are counting on you. Go gather 325 $QUEST_END_ITEM_NAME$ and return once you have enough. You can find them on the Hundur Sharpfoot.,素晴らしい！ムランはあなたを頼りにしています。$QUEST_END_ITEM_NAME$を325個集めて、十分な数になったら戻ってきてください。ワークウルフから入手できます。
+PROPQUEST_REQUESTBOX_INC_020060,I see… but these creatures are growing more aggressive. Come back if you change your mind.,そうですか……ですが、あの生き物たちはますます凶暴化しています。気が変わったら戻ってきてください。
+PROPQUEST_REQUESTBOX_INC_020061,"You haven't gathered enough skulls yet… Keep going, each specimen is important to us.",まだ頭骨が十分集まっていませんね……。続けてください、1つ1つの標本が私たちにとって重要なのです。
+PROPQUEST_REQUESTBOX_INC_020062,Perfect! These skulls will be of great use to us. Kaillun thanks you for your determination.,完璧です！この頭骨は私たちにとって大いに役立つでしょう。カイルルンはあなたの決意に感謝します。
+PROPQUEST_REQUESTBOX_INC_020063,The Skulls of the Samoset,ライカンガードの頭骨
+PROPQUEST_REQUESTBOX_INC_020064,The Samoset spirits have grown increasingly aggressive in the plains. The sages of Kaillun seek their skulls to understand the source of their unusual unrest.,ライカンガードの霊は、平原でますます凶暴化しています。カイルルンの賢者たちは、その異常な不穏の原因を理解するため、頭骨を求めています。
+PROPQUEST_REQUESTBOX_INC_020065,Thank you! The Samoset spirits are becoming unstable. Bring back 325 $QUEST_END_ITEM_NAME$ from the Samoset so we can analyze their unrest.,ありがとうございます！ライカンガードの霊は不安定になりつつあります。$QUEST_END_ITEM_NAME$を325個、ライカンガードから持ち帰ってください。彼らの不穏を分析するために必要です。
+PROPQUEST_REQUESTBOX_INC_020066,Very well… but their unrest intensifies each day. Return if you change your mind.,わかりました……ですが、彼らの不穏は日々強まっています。気が変わったら戻ってきてください。
+PROPQUEST_REQUESTBOX_INC_020067,"You still don't have enough… Keep going, we must understand what's disturbing them.",まだ足りません……続けてください、何が彼らを不安にさせているのか理解しなければなりません。
+PROPQUEST_REQUESTBOX_INC_020068,Perfect! These skulls will help us uncover the truth. Thank you for your help.,完璧です！この頭骨は真実を解き明かす手がかりになるでしょう。ご協力ありがとうございました。
+PROPQUEST_REQUESTBOX_INC_020069,The Claws of the Kyouchish,ライカンセンチネルの爪
+PROPQUEST_REQUESTBOX_INC_020070,The Kyouchish have been injuring many Muran scouts with their corrosive strikes. Their claws are needed to craft a protective remedy.,ライカンセンチネルはその腐食性の一撃で多くのムランの偵察兵を負傷させています。防護用の治療薬を作るため、その爪が必要です。
+PROPQUEST_REQUESTBOX_INC_020071,Good! Their claws are poisoning our scouts. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kyouchish.,よろしい！彼らの爪は私たちの偵察兵を毒しています。$QUEST_END_ITEM_NAME$を325個、ライカンセンチネルから持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020072,I understand… but we're running out of remedies. Return if you wish to help.,わかりました……ですが、治療薬が底をつきかけています。協力する気になったら戻ってきてください。
+PROPQUEST_REQUESTBOX_INC_020073,"You're still missing some. The Kyouchish are dangerous, stay careful.",まだ足りません。ライカンセンチネルは危険です、気をつけてください。
+PROPQUEST_REQUESTBOX_INC_020074,"Excellent! With these claws, our healers can prepare a proper antidote.",素晴らしい！この爪があれば、治療師たちが適切な解毒剤を用意できます。
+PROPQUEST_REQUESTBOX_INC_020075,The Kanonicus Antidote,ライカンアーチャーの解毒剤
+PROPQUEST_REQUESTBOX_INC_020076,The Kanonicus carry a natural antidote within their dorsal glands. Kaillun urgently needs it to heal warriors poisoned by the Lycans.,ライカンアーチャーは背中の腺に天然の解毒剤を持っています。カイルルンは、ライカンに毒された戦士たちを治療するため、これを緊急に必要としています。
+PROPQUEST_REQUESTBOX_INC_020077,Thank you! Their natural antidote is vital for our wounded soldiers. Bring back 325 $QUEST_END_ITEM_NAME$ from the Kanonicus.,ありがとうございます！彼らの天然解毒剤は、負傷した兵士たちにとって不可欠です。$QUEST_END_ITEM_NAME$を325個、ライカンアーチャーから持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020078,A shame… several warriors are still waiting to be treated.,残念です……何人もの戦士がまだ治療を待っています。
+PROPQUEST_REQUESTBOX_INC_020079,"You don’t have enough yet. Hurry, every drop counts.",まだ足りません。急いでください、一滴一滴が大切なのです。
+PROPQUEST_REQUESTBOX_INC_020080,"Perfect! Thanks to you, we can finally treat our wounded.",完璧です！あなたのおかげで、ようやく負傷者を治療できます。
+PROPQUEST_REQUESTBOX_INC_020081,The Magic Skulls of the Redcloud,ライカンソーサラーの魔法の頭骨
+PROPQUEST_REQUESTBOX_INC_020082,The Redcloud generate a mysterious energy within their skulls. Muran shamans want to study this magic to reinforce the city's protective wards.,ライカンソーサラーは頭骨の中に不思議なエネルギーを生み出します。ムランの呪術師たちは、街の防護結界を強化するため、この魔力を研究したいと考えています。
+PROPQUEST_REQUESTBOX_INC_020083,Very well! Their skulls contain a mysterious energy. We must study it. Bring back 325 $QUEST_END_ITEM_NAME$ from the Redcloud.,よろしい！彼らの頭骨には不思議なエネルギーが宿っています。研究しなければなりません。$QUEST_END_ITEM_NAME$を325個、ライカンソーサラーから持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020084,Alright… but this magic could strengthen our defenses.,わかりました……ですが、この魔力は私たちの防御を強化できるはずです。
+PROPQUEST_REQUESTBOX_INC_020085,You don’t have enough energy-charged skulls yet. Keep going!,まだエネルギーを帯びた頭骨が足りません。続けてください！
+PROPQUEST_REQUESTBOX_INC_020086,Excellent work! These skulls are a true source of power.,見事です！この頭骨はまさに力の源です。
+PROPQUEST_REQUESTBOX_INC_020087,The Devil’s Teeth,デビルスピリットの牙
+PROPQUEST_REQUESTBOX_INC_020088,A strange corruption spreads through Kaillun as Devil Spirits multiply. Their teeth contain a demonic essence the sages wish to seal away.,デビルスピリットが増殖するにつれ、カイルルンには奇妙な穢れが広がっています。その牙には悪魔の本質が宿っており、賢者たちはそれを封印したいと考えています。
+PROPQUEST_REQUESTBOX_INC_020089,Be brave! The Devil Spirits are growing in number. Their teeth must be sealed. Bring back 325 $QUEST_END_ITEM_NAME$ from the Devil Spirits.,勇気を出してください！デビルスピリットは数を増しています。その牙を封印しなければなりません。$QUEST_END_ITEM_NAME$を325個、デビルスピリットから持ち帰ってください。
+PROPQUEST_REQUESTBOX_INC_020090,I understand… but their influence spreads further each night. Return carefully.,わかりました……ですが、彼らの影響は夜ごとに広がっています。気をつけて戻ってきてください。
+PROPQUEST_REQUESTBOX_INC_020091,Not enough teeth to contain the demonic energy yet. Keep gathering.,悪魔のエネルギーを封じ込めるには、まだ牙が足りません。集め続けてください。
+PROPQUEST_REQUESTBOX_INC_020092,Very good! These teeth will be purified and neutralized. You’ve done us a great service.,とても良いです！この牙は浄化され、無力化されるでしょう。大変な貢献をしていただきました。
+PROPQUEST_REQUESTBOX_INC_020093,The Bloodstained Fangs of the Hellhound,スケルトンジャッカルの血染めの牙
+PROPQUEST_REQUESTBOX_INC_020094,"Hellhounds roam dangerously close to Kaillun, and their bloodied fangs leave lingering wounds. The Muran need them to forge weapons capable of driving these beasts back.",スケルトンジャッカルはカイルルンの危険なほど近くを徘徊し、その血に染まった牙は治りにくい傷を残します。ムランは、この獣たちを撃退できる武器を鍛えるため、それを必要としています。
+PROPQUEST_REQUESTBOX_INC_020095,Perfect! Their blood-soaked fangs are deadly. Bring back 325 $QUEST_END_ITEM_NAME$ from the Hellhounds to us for forging.,完璧です！彼らの血染めの牙は凶悪です。$QUEST_END_ITEM_NAME$を325個、スケルトンジャッカルから持ち帰ってください。鍛冶に使います。
+PROPQUEST_REQUESTBOX_INC_020096,Very well… but the Hellhounds still lurk around Kaillun.,わかりました……ですが、スケルトンジャッカルは今もカイルルン周辺に潜んでいます。
+PROPQUEST_REQUESTBOX_INC_020097,You don’t have enough. Their fangs are essential to forge weapons that can repel them.,まだ足りません。彼らを撃退できる武器を鍛えるには、その牙が不可欠です。
+PROPQUEST_REQUESTBOX_INC_020098,"Excellent work! Thanks to you, we can forge weapons worthy of the finest Muran warriors.",見事です！あなたのおかげで、最高のムラン戦士にふさわしい武器を鍛えられます。
+PROPQUEST_REQUESTBOX_INC_020099,$QUEST_END_NPC_NAME$ thanks you from the bottom of his heart! Glory to the Murans!,$QUEST_END_NPC_NAME$は心の底からあなたに感謝しています！ムランに栄光あれ！
