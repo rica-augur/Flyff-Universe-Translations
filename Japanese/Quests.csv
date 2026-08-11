@@ -637,7 +637,7 @@ PROPQUEST_INC_001183,Search the Northern Leren Mountains for evidence of another
 PROPQUEST_INC_001185,Ambition of Lord Bang,ルダの不吉な夢
 PROPQUEST_INC_001186,The new leader of the Red Bang Troupe must be at the Erons Factory location you discovered before.,君！君、いつかはありがとう。困ったことに、また大変なことが起きたんだ。とにかく、俺の話を聞いてくれないか？
 PROPQUEST_INC_001187,We need to strike a blow to his troupe and cripple his operations in Darkon 1.,昨晩、機械や煙がもうもうとたちこめている地域が真っ赤な炎に包まれている夢を見たんだ。そこは地獄と化して、恐怖と人々の泣き叫ぶ悲鳴で満ちていた。そして放火と殺戮と略奪を繰り返しているあいつらの姿が…
-PROPQUEST_INC_001188,"I know what to do! You need to visit Amadolka. But first, defeat 35 Red bang Troupe Leaders southwest of the Erons Factory.",私は何をすべきか知っています！ あなたはアマドルカを訪問する必要があります。 しかし、最初に、エラン工場の南西にある35人の赤いヴァン盗賊団の連中を倒して！
+PROPQUEST_INC_001188,"I know what to do! You need to visit Amadolka. But first, defeat 35 Red bang Troupe Leaders southwest of the Erons Factory.",私は何をすべきか知っています！ あなたはアマドルカを訪問する必要があります。 しかし、最初に、エラン工場の南西にある35体の赤いヴァン盗賊団の連中を倒して！
 PROPQUEST_INC_001189,"Will you help me once more, friend?",昨日見た夢は何かが違っていて、とても不吉な予感がするんだよ。エランパークス地域の警備長をしている＜アマドルカー＞に急いでこの夢の話を伝えたいのだが、君、頼まれてくれるかい？
 PROPQUEST_INC_001190,"Great! Now please go and visit Amadolka, who is a guard leader at Erons Factory.",ありがとう！じゃ、今からすぐにでもエランパークスに行って警備長の＜アマドルカー＞に俺の夢の話を伝えてくれないか？できるだけ急いでくれ。頼んだよ。
 PROPQUEST_INC_001191,You have to believe me! A lot of people are in danger! Do you understand?,君は多くの命がかけられている問題を無視するつもりか？大変なことになってからでは、もう手遅れなんだぞ。
@@ -1553,10 +1553,10 @@ PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dung
 PROPQUEST_INC_110242,The dungeons are filled with dangerous masquerpets. I understand if you do not wish to take the risk.,ダンジョンは危険な仮面舞踏会でいっぱいです。リスクを冒したくないのであれば、私は理解しています。
 PROPQUEST_INC_110243,"The threat from within the dungeons has been reduced thanks to you, hero. Please accept a weapon piercing card as thanks for your efforts!",ダンジョン内からの脅威は、ヒーローであるあなたのおかげで減少しました。お礼に武器貫通カードを受け取ってください!
 PROPQUEST_INC_110244,"You haven't defeated the bosses yet? That's okay, just return once you have.",まだボスを倒していませんか?大丈夫です、一度戻ればいいのです。
-PROPQUEST_INC_110245,Collect souls from 5 dungeon bosses on any difficulty.,任意の難易度で5人のダンジョンボスから魂を集めます。
-PROPQUEST_INC_110246,Collect souls from 20 dungeon bosses on Hard or higher difficulty.,ハード以上の難易度の20人のダンジョンボスから魂を集めます。
-PROPQUEST_INC_110247,Collect souls from 35 dungeon bosses on Extra Hard or higher difficulty.,超難易度以上の35人のダンジョンボスから魂を集めます。
-PROPQUEST_INC_110248,Collect souls from 50 dungeon bosses on Nightmare difficulty.,難易度ナイトメアで50人のダンジョンボスから魂を集めます。
+PROPQUEST_INC_110245,Collect souls from 5 dungeon bosses on any difficulty.,任意の難易度で5体のダンジョンボスから魂を集めます。
+PROPQUEST_INC_110246,Collect souls from 20 dungeon bosses on Hard or higher difficulty.,ハード以上の難易度の20体のダンジョンボスから魂を集めます。
+PROPQUEST_INC_110247,Collect souls from 35 dungeon bosses on Extra Hard or higher difficulty.,超難易度以上の35体のダンジョンボスから魂を集めます。
+PROPQUEST_INC_110248,Collect souls from 50 dungeon bosses on Nightmare difficulty.,難易度ナイトメアで50体のダンジョンボスから魂を集めます。
 PROPQUEST_INC_110249,Daily Quests,デイリークエスト
 PROPQUEST_INC_110250,Saving Private Leo,プライベートレオを救う
 PROPQUEST_INC_110251,Private Leo has been trapped in the dungeon and sent an SOS sign!\nPlease save Private Leo!,レオ二等兵がダンジョンに閉じ込められ、SOSサインが送られてきました!!プライベートレオを救ってください!!
@@ -1614,7 +1614,7 @@ PROPQUEST_INC_130025,"Defeat 200 of any kind of Atrox, then return to Sunny Pang
 PROPQUEST_INC_130026,Clear the Paths,パスをクリアする
 PROPQUEST_INC_130027,Word has been going around the village about a strong new visitor that can hold their own against the ferocities of Coral Island.,噂は、珊瑚島の獰猛さに対抗することができる強力な新しい訪問者について村を駆け巡っています。
 PROPQUEST_INC_130028,"The number of Tigars on the island have exploded recently, and we're not sure why. It's hardly safe to walk along the paths of Coral Island anymore.",最近、島のタイガーの数が爆発的に増えていますが、その理由はよくわかっていません。珊瑚島の小道を歩くのはもう安全とは言い難い。
-PROPQUEST_INC_130029,"If you are willing to help us, go hunt enough Tigars to keep our paths safe for a while. Around 300 should do.",手伝ってくれるなら、しばらくの間、私たちの道を安全に保つために、十分な数のタイガーを狩りに行ってください。300人くらいでいいと思います。
+PROPQUEST_INC_130029,"If you are willing to help us, go hunt enough Tigars to keep our paths safe for a while. Around 300 should do.",手伝ってくれるなら、しばらくの間、私たちの道を安全に保つために、十分な数のタイガーを狩りに行ってください。300体くらいでいいと思います。
 PROPQUEST_INC_130030,Perhaps no one is powerful enough to defeat the Tigars.,おそらく、タイガーを倒すのに十分な力を持つ人はいないでしょう。
 PROPQUEST_INC_130031,"Incredible, thank you for your efforts! We can safely travel around the land paths of the island again.",信じられない、あなたの努力に感謝します!島の陸路を再び安全に移動できます。
 PROPQUEST_INC_130032,"Tigars hide in the grass, waiting to strike their prey. In just one NaNosecond they pounce to attack.",タイガーは草むらに隠れて獲物を襲うのを待っています。たった1ナノ秒で、彼らは攻撃を仕掛けてくる。
