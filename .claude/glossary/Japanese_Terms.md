@@ -276,7 +276,7 @@
 | Dreadfin | ドレッドフィン | |
 | Dreadscale | ドレッドスケイル | |
 | Luminfin | ルミンフィン | |
-| [Shade Lieutenant] Kriton | [シェードの幹部] クリトン | |
+| [Shade Lieutenant] Kriton | [シェードの右腕] クリトン | 旧訳「[シェードの幹部]」から2026-08-12にユーザー指示で修正。`Quests.csv`/`QuestDestinations.csv`の地の文で"the Shade's right hand"→「シェードの右腕」と訳されているのに合わせた。`Achievements.csv`（`ACHIEVEMENT_KILL_SHADEKRITON_NAME`,`_LVL1〜5`）も同時に修正済み |
 | Hundur Sharpfoot | ワークウルフ | |
 | Samoset | ライカンガード | |
 | Kyouchish | ライカンセンチネル | |

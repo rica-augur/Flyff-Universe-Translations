@@ -97,7 +97,7 @@ ACHIEVEMENT_KILL_GREATKRAKEN_NAME,Great Kraken,グレート・クラーケン
 ACHIEVEMENT_KILL_PYRAMIDGUARDIAN_NAME,Pyramid Guardian,ピラミッドガーディアン
 ACHIEVEMENT_KILL_CRYSTALDEVIL_NAME,Crystal Demon Lord,クリスタルデーモンロード
 ACHIEVEMENT_KILL_BEASTKINGKHAN_NAME,Beast King Khan,獣王カーン
-ACHIEVEMENT_KILL_SHADEKRITON_NAME,[Shade Lieutenant] Kriton,[シェードの幹部] クリトン
+ACHIEVEMENT_KILL_SHADEKRITON_NAME,[Shade Lieutenant] Kriton,[シェードの右腕] クリトン
 ACHIEVEMENT_KILL_PUPPETWOLF_NAME,Hundur Sharpfoot,ワークウルフ
 ACHIEVEMENT_KILL_RYSENTRY_NAME,Samoset,ライカンガード
 ACHIEVEMENT_KILL_RYGUARD_NAME,Kyouchish,ライカンセンチネル
@@ -637,11 +637,11 @@ ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL2,Beast King Khan Hunter 2,獣王カーンハ�
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL3,Beast King Khan Hunter 3,獣王カーンハンター3
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL4,Beast King Khan Hunter 4,獣王カーンハンター4
 ACHIEVEMENT_KILL_BEASTKINGKHAN_LVL5,Beast King Khan Killer,獣王カーンキラー
-ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[シェードの幹部] クリトンハンター1
-ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[シェードの幹部] クリトンハンター2
-ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[シェードの幹部] クリトンハンター3
-ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[シェードの幹部] クリトンハンター4
-ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[シェードの幹部] クリトンキラー
+ACHIEVEMENT_KILL_SHADEKRITON_LVL1,[Shade Lieutenant] Kriton Hunter 1,[シェードの右腕] クリトンハンター1
+ACHIEVEMENT_KILL_SHADEKRITON_LVL2,[Shade Lieutenant] Kriton Hunter 2,[シェードの右腕] クリトンハンター2
+ACHIEVEMENT_KILL_SHADEKRITON_LVL3,[Shade Lieutenant] Kriton Hunter 3,[シェードの右腕] クリトンハンター3
+ACHIEVEMENT_KILL_SHADEKRITON_LVL4,[Shade Lieutenant] Kriton Hunter 4,[シェードの右腕] クリトンハンター4
+ACHIEVEMENT_KILL_SHADEKRITON_LVL5,[Shade Lieutenant] Kriton Killer,[シェードの右腕] クリトンキラー
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL1,[God of Death] Demonic Ankou Hunter 1,[死神] 魔の神獣ベヒモスハンター1
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL2,[God of Death] Demonic Ankou Hunter 2,[死神] 魔の神獣ベヒモスハンター2
 ACHIEVEMENT_KILL_BEHEMOTH03_LVL3,[God of Death] Demonic Ankou Hunter 3,[死神] 魔の神獣ベヒモスハンター3
