@@ -891,17 +891,17 @@ TEXTCLIENT_GUILDCOMBAT60_MAXLEVEL,Only characters who did not complete the secon
 TEXTCLIENT_GUILDCOMBAT165_MAXLEVEL,Only characters who did not complete the third class change can apply to this Lv165 Guild Siege.,3次職への転職を完了していないキャラクターのみ、このLv165ギルドコンバットに申請できます。
 TEXTCLIENT_GUILDCOMBAT_ENTER1,The Lv80 Guild Siege is held for this week.,今週はLv80ギルドコンバットが開催されます。
 TEXTCLIENT_GUILDCOMBAT_ENTER2,The Lv60 Guild Siege is held for this week.,今週はLv60ギルドコンバットが開催されます。
-TEXTCLIENT_GUILDCOMBAT_ENTER3,The Lv165 Guild Siege is held for this week.,The Lv165 Guild Siege is held for this week.
+TEXTCLIENT_GUILDCOMBAT_ENTER3,The Lv165 Guild Siege is held for this week.,今週はLv165ギルドコンバットが開催されます。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT1,Today's Lv80 Guild Siege will not be held due to lack of participants.,本日のLv80ギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT2,Today's Lv60 Guild Siege will not be held due to lack of participants.,本日のLv60ギルドコンバットは、参加者不足のため開催されません。
-TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,Today's Lv165 Guild Siege will not be held due to lack of participants.
+TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT3,Today's Lv165 Guild Siege will not be held due to lack of participants.,本日のLv165ギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_END1,The Level 80 Guild Siege has ended.,Lv80ギルドコンバットが終了しました。
 TEXTCLIENT_GUILDCOMBAT_END2,The Level 60 Guild Siege has ended.,Lv80ギルドコンバットが終了しました。
-TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,The Level 165 Guild Siege has ended.
+TEXTCLIENT_GUILDCOMBAT_END3,The Level 165 Guild Siege has ended.,Lv165ギルドコンバットが終了しました。
 TEXTCLIENT_GUILDCOMBAT_CHIPS,%d %s have been sent to your inventory or mail box.,%d %s がインベントリまたはメール ボックスに送信されました。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG1,"From now on, Atlas in Flarine can let you into the Lv80 Guild Siege arena.",まもなくフラリス北にいるNPCアトラスにて、Lv80ギルドコンバットアリーナへ参加できるようになります。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG2,"From now on, Olivia in Flarine can let you into the Lv60 Guild Siege arena.",まもなくフラリス北にいるNPCオリビアにて、Lv60ギルドコンバットアリーナへ参加できるようになります。
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.","From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3,"From now on, Prune in Flarine can let you into the Lv165 Guild Siege arena.",まもなくフラリス北にいるNPCプルーンにて、Lv165ギルドコンバットアリーナへ参加できるようになります。
 TEXTCLIENT_GUILDCOMBAT_ANOTHER,Another Guild Siege is happening.,別のギルドコンバットが試合中です。
 TEXTCLIENT_SKILL_ROOT,You cannot move right now.,今は移動できません。
 TEXTCLIENT_WORLDBOSS_KILLED,%s has fallen!,%s が倒されたぞ！
@@ -1578,44 +1578,44 @@ TEXTCLIENT_MYSTCASTLE_NEW_FLOOR_REWARD_MAIL,You can't receive the reward for cle
 TEXTCLIENT_MYSTCASTLE_USE_FLOOR_TICKET_FAIL,Unable to use the Mysterious Castle Retry Coupon.,神秘の城リトライクーポンを使用できません。
 TEXTCLIENT_LORDSKILLS_NOT,Only the Lord can use this menu.,このメニューはロードのみ使用できます。
 TEXTCLIENT_DUNGEON_ESCORT_DIED,Your escort died.,護衛対象が死亡しました。
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_TIMEOUT,Time out! You failed to clear the waves before the deadline.,Time out! You failed to clear the waves before the deadline.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_NODEFENDERS,Defeat! All your sailors have been eliminated.,Defeat! All your sailors have been eliminated.
-TEXTCLIENT_WAVEDEFENSE_MATCHEND_COMPLETED,Victory! You have successfully cleared every wave!,Victory! You have successfully cleared every wave!
-TEXTCLIENT_WAVEDEFENSE_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,You can't teleport in the match anymore. Match has ended.
-TEXTCLIENT_WAVEDEFENSE_ROOMNAMEEMPTY,The room name can't be empty!,The room name can't be empty!
-TEXTCLIENT_WAVEDEFENSE_ROOMNAMEINVALID,Room name must be between 4 and 32 characters.,Room name must be between 4 and 32 characters.
-TEXTCLIENT_WAVEDEFENSE_ROOMPASSWORDINVALID,Room password must be between 4 and 20 characters.,Room password must be between 4 and 20 characters.
-TEXTCLIENT_WAVEDEFENSE_ALREADYINMATCH,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.
-TEXTCLIENT_PVPCONTEST_NOT_ENOUGH_PLAYER,You need at least %d players to register.,You need at least %d players to register.
-TEXTCLIENT_PVPCONTEST_REGION_EUROPE,Europe,Europe
-TEXTCLIENT_PVPCONTEST_REGION_AMERICA,America,America
-TEXTCLIENT_PVPCONTEST_REGION_ASIA,Asia,Asia
-TEXTCLIENT_PVPCONTEST_REGION_ALL,All,All
-TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT_REGION,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!
-TEXTCLIENT_PVPCONTEST_MAXMISSEDMATCHES,You missed too many matches. You are disqualified from the tournament.,You missed too many matches. You are disqualified from the tournament.
-TEXTCLIENT_PVPCONTEST_GUILDLEVEL_TOOLOW,Your guild must be at least Lv.%d to participate.,Your guild must be at least Lv.%d to participate.
-TEXTCLIENT_PVPCONTEST_ENDED,The FWC PVP Contest has ended!,The FWC PVP Contest has ended!
-TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congratulations!,The winner of region %s is: %s! Congratulations!
-TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,There is no winner for region %s!
-TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,Congrats for reaching rank %d this week! Here is your reward.
-TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,That player doesn't exist!
-TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,Player %s declined your wave defense invitation.
-TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,Player %s joined the wave defense match!
-TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,You successfully invited player %s to join the match.
-TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,That player is already in the match!
-TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,Required player is at least level %d.
-TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,Room password is incorrect!
-TEXTCLIENT_WAVEDEFENSE_PLAYERINMATCH,That player is already in a match.,That player is already in a match.
-TEXTCLIENT_WAVEDEFENSE_KICK,You have been kicked of the wave defense match.,You have been kicked of the wave defense match.
-TEXTCLIENT_WAVEDEFENSE_NO_OUTWAR,You cannot use Blinkwings to escape the wave defense.,You cannot use Blinkwings to escape the wave defense.
-TEXTCLIENT_WAVEDEFENSE_MILESTONE_CLAIM,You received %dx %s,You received %dx %s
-TEXTCLIENT_WAVEDEFENSE_MILESTONEALREADYCLAIMED,You received already claimed that milestone.,You received already claimed that milestone.
-TEXTCLIENT_WAVEDEFENSE_NOMATCHFOUND,Match not found. Please try again.,Match not found. Please try again.
-TEXTCLIENT_WAVEDEFENSE_MILESTONE_NOTPARTICIPATED,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).
-TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_NODEADCREW,You already have the maximum sailors.,You already have the maximum sailors.
-TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_SUCCESS,You successfully revived a sailor.,You successfully revived a sailor.
-TEXTCLIENT_WAVEDEFENSE_DAILYLIMITREACHED,You have reached the daily limit of %d Wave Defense matches.,You have reached the daily limit of %d Wave Defense matches.
-TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %d onward.,Skipping is no longer available from round %d onward.
-TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,Monsters are approaching...
-TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,A boss is coming!
-TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,Congratulations on clearing the match! You have received your rewards.
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_TIMEOUT,Time out! You failed to clear the waves before the deadline.,タイムアウト!制限時間内にウェーブをクリアできませんでした。
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_NODEFENDERS,Defeat! All your sailors have been eliminated.,敗北!船員が全員倒されてしまいました。
+TEXTCLIENT_WAVEDEFENSE_MATCHEND_COMPLETED,Victory! You have successfully cleared every wave!,勝利!すべてのウェーブをクリアしました!
+TEXTCLIENT_WAVEDEFENSE_CANTTELEPORT,You can't teleport in the match anymore. Match has ended.,マッチはすでに終了しているため、テレポートできません。
+TEXTCLIENT_WAVEDEFENSE_ROOMNAMEEMPTY,The room name can't be empty!,ルーム名を空にすることはできません!
+TEXTCLIENT_WAVEDEFENSE_ROOMNAMEINVALID,Room name must be between 4 and 32 characters.,ルーム名は4〜32文字で入力してください。
+TEXTCLIENT_WAVEDEFENSE_ROOMPASSWORDINVALID,Room password must be between 4 and 20 characters.,ルームパスワードは4〜20文字で入力してください。
+TEXTCLIENT_WAVEDEFENSE_ALREADYINMATCH,You are already in a Wave Defense match. Please wait for it to end or rejoin the game.,すでにウェーブディフェンスのマッチに参加しています。終了をお待ちいただくか、ゲームに再参加してください。
+TEXTCLIENT_PVPCONTEST_NOT_ENOUGH_PLAYER,You need at least %d players to register.,登録するには最低%d人のプレイヤーが必要です。
+TEXTCLIENT_PVPCONTEST_REGION_EUROPE,Europe,ヨーロッパ
+TEXTCLIENT_PVPCONTEST_REGION_AMERICA,America,アメリカ
+TEXTCLIENT_PVPCONTEST_REGION_ASIA,Asia,アジア
+TEXTCLIENT_PVPCONTEST_REGION_ALL,All,全て
+TEXTCLIENT_PVPCONTEST_PRELIMINARYMATCHESENDANNOUNCEMENT_REGION,The FWC PVP Contest Preliminary %s UTC matches have ended! The next matches will start for region %s at %s UTC!,FWC PVPコンテスト予選の%s UTCの試合が終了しました!次の試合は%s地域で%s UTCに開始されます!
+TEXTCLIENT_PVPCONTEST_MAXMISSEDMATCHES,You missed too many matches. You are disqualified from the tournament.,欠場した試合が多すぎるため、トーナメントから失格となりました。
+TEXTCLIENT_PVPCONTEST_GUILDLEVEL_TOOLOW,Your guild must be at least Lv.%d to participate.,参加するにはギルドがLv.%d以上である必要があります。
+TEXTCLIENT_PVPCONTEST_ENDED,The FWC PVP Contest has ended!,FWC PVPコンテストが終了しました!
+TEXTCLIENT_PVPCONTEST_WINNER_GUILD_REGION,The winner of region %s is: %s! Congratulations!,%s地域の勝者は %s です!おめでとうございます!
+TEXTCLIENT_PVPCONTEST_WINNER_NOGUILD_REGION,There is no winner for region %s!,%s地域には勝者がいません!
+TEXTCLIENT_RANKINGSYSTEM_MAIL,Congrats for reaching rank %d this week! Here is your reward.,今週ランク%d位に到達しました、おめでとうございます!こちらが報酬です。
+TEXTCLIENT_WAVEDEFENSE_PLAYERNOTFOUND,That player doesn't exist!,そのプレイヤーは存在しません!
+TEXTCLIENT_WAVEDEFENSE_INVITATIONREFUSED,Player %s declined your wave defense invitation.,プレイヤー%sはウェーブディフェンスの招待を辞退しました。
+TEXTCLIENT_WAVEDEFENSE_JOINEDMATCH,Player %s joined the wave defense match!,プレイヤー%sがウェーブディフェンスのマッチに参加しました!
+TEXTCLIENT_WAVEDEFENSE_INVITE,You successfully invited player %s to join the match.,プレイヤー%sをマッチに招待しました。
+TEXTCLIENT_WAVEDEFENSE_INVITEALREADYINMATCH,That player is already in the match!,そのプレイヤーはすでにマッチに参加しています!
+TEXTCLIENT_WAVEDEFENSE_INVITEFAILED_LEVEL,Required player is at least level %d.,対象プレイヤーはレベル%d以上である必要があります。
+TEXTCLIENT_WAVEDEFENSE_WRONGPASSWORD,Room password is incorrect!,ルームパスワードが間違っています!
+TEXTCLIENT_WAVEDEFENSE_PLAYERINMATCH,That player is already in a match.,そのプレイヤーはすでにマッチに参加しています。
+TEXTCLIENT_WAVEDEFENSE_KICK,You have been kicked of the wave defense match.,ウェーブディフェンスのマッチからキックされました。
+TEXTCLIENT_WAVEDEFENSE_NO_OUTWAR,You cannot use Blinkwings to escape the wave defense.,ウェーブディフェンスから離脱するためにブリンクウイングを使用することはできません。
+TEXTCLIENT_WAVEDEFENSE_MILESTONE_CLAIM,You received %dx %s,%d個の%sを受け取りました
+TEXTCLIENT_WAVEDEFENSE_MILESTONEALREADYCLAIMED,You received already claimed that milestone.,そのマイルストーンはすでに受け取り済みです。
+TEXTCLIENT_WAVEDEFENSE_NOMATCHFOUND,Match not found. Please try again.,マッチが見つかりません。もう一度お試しください。
+TEXTCLIENT_WAVEDEFENSE_MILESTONE_NOTPARTICIPATED,You must personally clear wave %d in a Wave Defense match to claim this reward (your best: wave %d).,この報酬を受け取るには、ウェーブディフェンスのマッチで自身がウェーブ%dをクリアする必要があります(自己ベスト:ウェーブ%d)。
+TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_NODEADCREW,You already have the maximum sailors.,船員はすでに最大人数に達しています。
+TEXTCLIENT_WAVEDEFENSE_FIRSTAIDKIT_SUCCESS,You successfully revived a sailor.,船員を1人蘇生させました。
+TEXTCLIENT_WAVEDEFENSE_DAILYLIMITREACHED,You have reached the daily limit of %d Wave Defense matches.,ウェーブディフェンスのマッチ、1日の上限%d回に達しました。
+TEXTCLIENT_WAVEDEFENSE_SKIPDISABLED,Skipping is no longer available from round %d onward.,ラウンド%d以降はスキップできません。
+TEXTCLIENT_WAVEDEFENSE_WAVESTART,Monsters are approaching...,モンスターが接近しています……
+TEXTCLIENT_WAVEDEFENSE_BOSSSPAWN,A boss is coming!,ボスが出現します!
+TEXTCLIENT_WAVEDEFENSE_CLEARREWARD,Congratulations on clearing the match! You have received your rewards.,マッチクリアおめでとうございます!報酬を受け取りました。

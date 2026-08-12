@@ -370,3 +370,22 @@
 | Remove Ultimate Jewel（`UltimateJewelRemove.txt`） | アルティマジュエルの削除 | `MoverMenus.csv`の`MMI_1097`と完全一致する既存訳をそのまま採用 |
 | Prologue.txt固有名詞（マドリガル創世神話） | Madrigal→マドリガル、Rhisis→リシス、Roika→ロイカ、Bubble→バブル、Shade→シェード、Iblis→イブリス、Dwarpet(s)→ドワーフ、Masquerpets→モンスター | いずれも`Dialogs.csv`等の既存訳に準拠。特に「Masquerpets」は種族の固有名詞だが、既存訳では一貫して汎用語「モンスター」に意訳されているため、`Prologue.txt`でもこれを踏襲（意味的ニュアンスより既存表記との統一を優先） |
 
+## 2026-08-12 upstream新規追加分（Movers/TextClient/Items、計198件）で新規決定した用語
+
+`English_Reference`にupstreamから新規追加された198件（`PROPMOVER_TXT_550000〜550046`、`TEXTCLIENT_GUILDCOMBAT_*3`/`TEXTCLIENT_WAVEDEFENSE_*`/`TEXTCLIENT_PVPCONTEST_*`系、`PROPITEM_TXT_904086〜904121`・`PROPITEM_TXT_161078〜161149`）を翻訳した際に新規決定した用語。`PROPMOVER_TXT_550013〜550046`（Serus Uriel、Violet/Giant/Captain/Lord/Small/Grownup/Creep/1st Class + Aibatt系クラシックモンスター）は`Movers.csv`冒頭（`PROPMOVER_TXT_000006〜000092`等）の既存訳をそのまま流用（新規決定なし）。
+
+| English | 日本語 | 備考 |
+| --- | --- | --- |
+| The Last Beacon（新規ダンジョン名、`PROPITEM_TXT_904102〜904103`で確認） | ラストビーコン | 他ファイルに先例なし、音訳で新規決定 |
+| Wraithbark / Ironback / Swift Spiderling / Caboom（`PROPMOVER_TXT_550000〜550003`、The Last Beaconの雑魚モンスター） | レイスバーク／アイアンバック／スウィフト・スパイダーリング／カブーム | 音訳で新規決定。「Spiderling」単体は`PROPMOVER_TXT_001225`の既存訳「スパイダーリング」に準拠 |
+| Winged Manticore / Gorvak Bonecrusher / Chief Zekaru（`PROPMOVER_TXT_550007〜550009`、The Last Beaconのボス） | ウィングド・マンティコア／ゴーヴァク・ボーンクラッシャー／チーフ・ゼカル | 音訳で新規決定 |
+| Tyrant Ankou（`PROPMOVER_TXT_550008`、The Last Beaconのボス） | 暴君の神獣ベヒモス | `Ankou`→`ベヒモス`の既存音訳に加え、`Achievements.csv`の`Demonic Ankou`→「魔の神獣ベヒモス」等の「{形容語}の神獣ベヒモス」パターンに準拠して意訳 |
+| [Common] / [Healthy] / [Fast] / [Explosive] / [BOSS] / [Friendly]（Movers.csvの角括弧タグ、The Last Beacon系） | [一般] / [健康] / [俊敏] / [爆発] / [ボス] / [フレンドリー] | 他の`[Guildwar Manager]`等の角括弧タグ同様、意訳（`[Event]`→`[イベント]`と同じ方針）。`[Friendly] Sailor Sniper/Gunner/Cannoneer`→`[フレンドリー] セーラー・スナイパー/ガンナー/キャノニア` |
+| Trans（新規ペット、`PROPITEM_TXT_904086〜904101`） | {カタカナ名}・オーブ（アイテム名）／{カタカナ名}に変身できる魔法の水晶球（説明文） | 既存の`Aibatt Trans`→「アイバット・オーブ」（`PROPITEM_TXT_006096`等）パターンをそのまま踏襲 |
+| Cage（モンスター捕獲アイテム、`PROPITEM_TXT_161082〜161149`） | {カタカナ名}ケージ（間に中点なし、直接結合） | 既存の`Angel Cage`→「エンジェルケージ」（`PROPITEM_TXT_008673`等）パターンに準拠 |
+| Rare sighting! / Very rare sighting!（Cage説明文の目撃レア度） | 珍しい目撃情報! / 非常に珍しい目撃情報! | `PROPITEM_TXT_724385`等の既存訳に準拠 |
+| Uncommon sighting!（Cage説明文の目撃レア度、新規追加分で初出） | やや珍しい目撃情報! | 「Rare」より低いレア度のため上記2段階に対して新規決定（2026-08-12） |
+| Mars Dungeon（`PROPITEM_TXT_161083`） | フラリスダンジョン | `Map.csv`の`PROPMAP_TXT_000263`、`World.csv`の`Mars Mine`表記に準拠（英語名と日本語名が対応しない既存パターン） |
+| Wave Defense（新規ゲームモード、`TEXTCLIENT_WAVEDEFENSE_*`系） | ウェーブディフェンス | 他ファイルに先例なし、音訳で新規決定。「sailor」（防衛NPC）→「船員」、「match」→「マッチ」、「room」→「ルーム」、「milestone」→「マイルストーン」（`UI_EVENT_ANNIVERSARY_DESC`等の既存訳に準拠） |
+| Prune（`TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3`、Lv165ギルドコンバット担当NPC） | プルーン | 既存のAtlas→アトラス、Olivia→オリビア（Lv80/60版）と同じNPC音訳パターン |
+
