@@ -376,6 +376,7 @@
 
 | English | 日本語 | 備考 |
 | --- | --- | --- |
+| Fefern（`Movers.csv`のクラシックモンスター、根っこ系の植物モンスター） | フェフェルン（音訳） | `PROPITEM_TXT_004883`（フェフェルンがドロップする「乾燥した根」）が示す通り植物・根系のモンスターで火属性ではない。そのため`PROPITEM_TXT_161101`/`161145`の"fiery Fefern"の"fiery"は火属性の意味ではなく気性（怒りっぽい・気性が荒い）を表す形容と解釈し「気性の荒い」と訳す（2026-08-12、ユーザー指摘で「炎のような」から修正） |
 | The Last Beacon（新規ダンジョン名、`PROPITEM_TXT_904102〜904103`で確認） | ラストビーコン | 他ファイルに先例なし、音訳で新規決定 |
 | Wraithbark / Ironback / Swift Spiderling / Caboom（`PROPMOVER_TXT_550000〜550003`、The Last Beaconの雑魚モンスター） | レイスバーク／アイアンバック／スウィフト・スパイダーリング／カブーム | 音訳で新規決定。「Spiderling」単体は`PROPMOVER_TXT_001225`の既存訳「スパイダーリング」に準拠 |
 | Winged Manticore / Gorvak Bonecrusher / Chief Zekaru（`PROPMOVER_TXT_550007〜550009`、The Last Beaconのボス） | ウィングド・マンティコア／ゴーヴァク・ボーンクラッシャー／チーフ・ゼカル | 音訳で新規決定 |
