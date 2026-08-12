@@ -285,10 +285,10 @@
 | Taiaha | ライカンウォーリアー | |
 | Hellhound | スケルトンジャッカル | |
 | Chief Keokuk | ライカンバルガ | |
-| [God of Death] Demonic Ankou | [死神] 魔の神獣ベヒモス | |
+| [God of Death] Demonic Ankou（`PROPMOVER_TXT_500057`） | [死神] 魔界の神獣ベヒモス | 旧訳「[死神] 魔の神獣ベヒモス」から2026-08-12にユーザー指示で変更。同名だが無印の`Demonic Ankou`（`PROPMOVER_TXT_500061`、下記）とは訳し分ける（あちらは変更対象外） |
 | Ankou | 神獣ベヒモス | `Map.csv`「Ankou's Asylum」は「ベヒモス神殿」 |
-| Blazing Ankou | 炎の神獣ベヒモス | |
-| Demonic Ankou | 魔の神獣ベヒモス | |
+| [God of Death] Blazing Ankou（`PROPMOVER_TXT_500056`） | [死神] 烈火の神獣ベヒモス | 旧訳「[死神] 炎の神獣ベヒモス」から2026-08-12にユーザー指示で変更 |
+| Demonic Ankou（`PROPMOVER_TXT_500061`、無印） | 魔の神獣ベヒモス | 上記`[God of Death] Demonic Ankou`とは別表記のまま据え置き（2026-08-12確認） |
 | Blossom | フロミー | 直訳ではない既存訳（Movers.csv準拠） |
 | Oldroot | オールドルート | |
 | Minimusha | ミニムシュ | |
