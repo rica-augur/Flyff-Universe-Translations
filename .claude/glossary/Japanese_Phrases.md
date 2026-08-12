@@ -44,3 +44,7 @@
 ## 職業（First Job）フレーバーテキストの文体（`TextClient.csv`の`TEXTCLIENT_STATUE_*`、2026-07-30）
 
 北フラリスの職業別銅像の説明文。`TEXTCLIENT_STATUE_VAGRANT`（"The start of all. You are Vagrant."→「すべての始まり。あなたは放浪者。」）の体言止め・詩的な文体に合わせ、他の職業（BP=ビルポスター、RM=リングマスター、JESTER=ジェスター、RANGER=レンジャー、KNIGHT=ナイト、BLADE=ブレード、ELE=エレメンター、PSY=サイキーパー）も「{形容表現}、{役割を表す一文}。」の体言止め＋文語調で統一（例：BP「伝説の戦士、その身に宿るは戦の魂。」）。通常のシステムメッセージ（だ・である調やですます調）とは別扱いの、演出用の特別な文体である点に注意。
+
+## `UI.csv`のダンジョン入場条件表示（`UI_DUNGEON_REQ_LEADER_*`）での「Creator」の扱い（2026-08-12）
+
+`UI_DUNGEON_REQ_LEADER_QUEST`（"Req. Creator Quest: %s"）、`UI_DUNGEON_REQ_LEADER_ITEM`（"Req. Creator Items:"）、`UI_DUNGEON_REQ_LEADER_GOLD`（"Creator Entrance Fee: %s Penya"）は、ダンジョン入場条件一覧に並ぶラベル。原文の「Creator」（パーティ作成者）を律儀に直訳すると読み手に伝わりにくい（当初訳の「創造主」は「神」のように読めて分かりづらいとの指摘あり）ため、この3キーに限っては「Creator」を訳文から落とし、入場条件そのものを簡潔に説明する言い回しに統一した：「必須クエスト: %s」「入場に必要なアイテム:」「ダンジョン入場料: %s ペニャ」（2026-08-12、ユーザーが直接修正）。同じ並びの`UI_DUNGEON_REQ_LEADER_COMPLETE_QUEST`（既存訳「必要クエスト完了者: %s」）も同様にCreator抜きの言い回し。一方`UI_DUNGEON_MIN_LEADER_LEVEL`（"Minimum Creator Level: %d"→「最小作成者レベル: %d」）はプレイヤー個人の属性を指すため対象外（「作成者」表記のまま）。

@@ -1679,13 +1679,13 @@ UI_DUNGEON_MIN_LEVEL,Minimum Level: %d,最小レベル: %d
 UI_DUNGEON_MAX_LEVEL,Maximum Level: %d,最大レベル: %d
 UI_DUNGEON_MIN_LEADER_LEVEL,Minimum Creator Level: %d,最小作成者レベル: %d
 UI_DUNGEON_REQ_LEADER_COMPLETE_QUEST,Req. Creator Completed Quest: %s,必要クエスト完了者: %s
-UI_DUNGEON_REQ_LEADER_QUEST,Req. Creator Quest: %s,必要創造主クエスト: %s
+UI_DUNGEON_REQ_LEADER_QUEST,Req. Creator Quest: %s,必須クエスト: %s
 UI_DUNGEON_ENTER,Enter,入場
 UI_DUNGEON_COOLDOWN,Cooldown: %s,クールダウン: %s
 UI_DUNGEON_LOOT,Loot items,戦利品アイテム
-UI_DUNGEON_REQ_LEADER_ITEM,Req. Creator Items:,必要なクリエイターアイテム:
+UI_DUNGEON_REQ_LEADER_ITEM,Req. Creator Items:,入場に必要なアイテム:
 UI_DUNGEON_REQ_DUNGEON,Req. Dungeon: %s,必要ダンジョン: %s
-UI_DUNGEON_REQ_LEADER_GOLD,Creator Entrance Fee: %s Penya,クリエイターの入場料: %s ペニャ
+UI_DUNGEON_REQ_LEADER_GOLD,Creator Entrance Fee: %s Penya,ダンジョン入場料: %s ペニャ
 UI_DUNGEON_CLEAR_MONSTERS,Clear %d monsters,モンスター %d 体を倒す
 UI_DUNGEON_CLEAR_MONSTERS_STATE,Clear monsters %d/%d,モンスター %d/%d を消す
 UI_DUNGEON_SOLO_CONFIRM,You are about to enter the dungeon alone.,ソロでダンジョンに挑みますか？
@@ -2841,7 +2841,7 @@ UI_PUBLISHED_BY,Published by ,発行：
 UI_ALL_RIGHTS_RESERVED,. All rights reserved.,。無断複写・転載を禁じます。
 UI_QUEST_DISTANCE_M,m,m
 UI_QUEST_DISTANCE_KM,km,km
-UI_SKILL_MAX,MAX,最大
+UI_SKILL_MAX,MAX,MAX
 UI_SPEED_UNIT_KMH,km/h,km/h
 UI_GUILDCHAT,guildchat,guildchat
 UI_COUPLERESETCOOLDOWN,CoupleResetCooldown,CoupleResetCooldown
@@ -3215,10 +3215,10 @@ UI_TOOLTIP_CRITICAL_MARK,Critical Mark Chance,クリティカルマーク付与�
 UI_QUEST_DAILYQUESTS,Complete #cffc32f07#b%d/%d#nb#nc daily quest(s),デイリークエスト #cffc32f07#b%d/%d#nb#nc 件達成
 UI_TOOLTIP_DISABLE_ATK,Increased Damage per Disable Debuff,無力化デバフごとのダメージ増加
 UI_TOOLTIP_WEAKEN_ATK,Increased Damage per Weaken Debuff,弱体化デバフごとのダメージ増加
-UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),デバフごとの被ダメージ減少（最大8）
-UI_TOOLTIP_DISABLE_DEBUFF,(Disable),（妨害）
-UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),（弱体）
-UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),（行動不能）
+UI_TOOLTIP_DEBUFF_DEF,Reduced Damage Taken per Debuff (Max 8),デバフごとの被ダメージ減少(最大8)
+UI_TOOLTIP_DISABLE_DEBUFF,(Disable),(妨害)
+UI_TOOLTIP_WEAKEN_DEBUFF,(Weaken),(弱体)
+UI_TOOLTIP_IMMOBILITY_DEBUFF,(Immobility),(行動不能)
 UI_ACTIVE_SKILLS,Active Skills,アクティブスキル
 UI_PASSIVE_SKILLS,Passive Skills,パッシブスキル
 UI_MASTER_SKILLS,Master Variations,マスターバリエーション

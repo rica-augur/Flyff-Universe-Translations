@@ -1265,7 +1265,7 @@ TEXTCLIENT_COLLECT_GUEST,Guest Characters cannot equip this item. Please link an
 TEXTCLIENT_ACCOUNT_DELETED,Your account has been successfully deleted.,アカウントの削除が完了しました。
 TEXTCLIENT_ACCOUNT_DELETIONFAILED,Your password is invalid.,パスワードが正しくありません。
 TEXTCLIENT_NOT_ENOUGH_ITEM,Not enough %s.,%sが不足しています。
-TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%sが%sを製作しました！
+TEXTCLIENT_CRAFTANNOUNCE,%s crafted %s!,%sが%sの作成に成功しました！
 TEXTCLIENT_TRADE_DISTANCE,You cannot trade due to distance.,距離が離れているため取引できません。
 TEXTCLIENT_COUPON_ITEM_SUCCESS,The coupon has been submitted successfully. Please check your Post Box.,クーポンの送信が完了しました。郵便箱をご確認ください。
 TEXTCLIENT_COUPON_CASH_SUCCESS,The coupon has been submitted successfully. Please check in the Flyff Shop.,クーポンの送信が完了しました。Flyffショップをご確認ください。
