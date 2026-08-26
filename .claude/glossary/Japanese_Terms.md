@@ -392,3 +392,11 @@
 | Wave Defense（新規ゲームモード、`TEXTCLIENT_WAVEDEFENSE_*`系） | ウェーブディフェンス | 他ファイルに先例なし、音訳で新規決定。「sailor」（防衛NPC）→「船員」、「match」→「マッチ」、「room」→「ルーム」、「milestone」→「マイルストーン」（`UI_EVENT_ANNIVERSARY_DESC`等の既存訳に準拠） |
 | Prune（`TEXTCLIENT_GUILDCOMBAT_OPEN_MSG3`、Lv165ギルドコンバット担当NPC） | プルーン | 既存のAtlas→アトラス、Olivia→オリビア（Lv80/60版）と同じNPC音訳パターン |
 
+## Items.csv batch翻訳（PR#276前後）で確認した表記揺れ・追加用語
+
+| English | 日本語定訳 | 備考 |
+|---|---|---|
+| Mars Mine | フラリスダンジョン | World.csv, Dialogs.csv, Quests.csv, ScenarioQuests.csv で多数使用。ただし ScenarioQuests.csv の一部（PROPQUEST_SCENARIO_INC_002830, 002832, 002836, 002837）のみ「火星鉱山」という直訳の表記揺れが残っている（既存の誤訳、要ユーザー指示のもと一括修正） |
+| Shade | シェード | 旧「シェイド」表記が一部残存（表記揺れ）。PR#276で一部統一済み |
+| Freeze（露店/個人商店を開いている間の行動不可状態） | フリーズ中 / 取り込み中 | 氷属性の状態異常ではなく、個人商店（露店）展開中にキャラクターがその場から動けなくなる状態を指すゲーム内用語。MoverMenus.csv (MMI_1010), UI.csv (UI_MENU_FREEZE) では「フリーズ中」表記。TEXTCLIENT_FREEZE_NOTUSE (You cannot teleport if you're frozen.) は PR#276 で「取り込み中のためテレポートできません。」に変更・採用（ユーザー確認済み）。関連: TEXTCLIENT_VENDOR_NOTUSE (個人商店を開いてる時は)。UI側「フリーズ中」とエラーメッセージ側「取り込み中」で表記が分かれている点は表記揺れとして留意 |
+
