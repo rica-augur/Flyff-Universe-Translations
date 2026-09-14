@@ -1124,13 +1124,13 @@ PROPQUEST_INC_001798,"Defeat Clocks, who is caged just outside of Darken. You ma
 PROPQUEST_INC_001800,Create Guild,ギルド、ギルド！ギルド？
 PROPQUEST_INC_001801,"Do you want to create a new guild? Excellent! First, I have to check if you are qualified to create a new guild.",ギルド作成の申請ですか？あなたにギルドを作成する資格があるのか、テストをしますね。
 PROPQUEST_INC_001802,"Okay, first you have to organize your own party. You should be the party leader and the total number of members should be 3, including you. Got it?",まずはパーティーを結成してください。あなたがパーティーリーダーになって、2人のメンバーを集めてください。あなたを含めると、3人のメンバーが必要になるのですよ。いいですね？
-PROPQUEST_INC_001803,"Once again, make your own party. Remember that you should be the party leader and the total number of members should be 3, including you. Please visit me again once you have done this.","わかりました。条件を満たしてから、また私のところに来てくださいね。あっ、そうそう。ギルドを結成するためには3,000,000ペニャが必要になります。それも用意しておいてくださいね。では、いってらっしゃ～い！"
-PROPQUEST_INC_001804,"Okay, in that case, if you decide to create a guild later, we'll be here!",あらあら？ギルドの結成はあきらめるんですね。…残念です。
+PROPQUEST_INC_001803,"Once again, make your own party. Remember that you should be the party leader and the total number of members should be 3, including you. Please visit me again once you have done this.",もう一度、パーティーを結成してください。あなたがパーティーリーダーになって、あなたを含めて3人のメンバーが必要ですよ。忘れないでくださいね。条件を満たしたら、また私のところに来てください。
+PROPQUEST_INC_001804,"Okay, in that case, if you decide to create a guild later, we'll be here!",あらあら？ギルドの結成はあきらめるんですね。…残念です。それでも、いつでも気が変わったらここに来てくださいね！
 PROPQUEST_INC_001805,"Hmm… Okay, lets see. You are the party leader, and there are 3 members... Good!",おかえりなさい！それではチェックしますね。まずメンバーは3人、そしてパーティーリーダーはあなた…うん！合格ですよ～！
-PROPQUEST_INC_001806,"Now I will let you create your own guild. By the way, according to Madrigal policy, you must pay 3,000,000 Penya to create the guild.","あなたにギルド結成の資格を与えます。ギルドマスターになるにあたり、ギルド連盟に加入する必要があります。入会費として3,000,000ペニャをいただきたいのですが、"
+PROPQUEST_INC_001806,"Now I will let you create your own guild. By the way, according to Madrigal policy, you must pay 3,000,000 Penya to create the guild.","あなたにギルド結成の資格を与えますね。ところで、マドリガルの規則により、ギルドを結成するには3,000,000ペニャが必要になります。"
 PROPQUEST_INC_001807,"Do you have 3,000,000 Penya right now?","今、3,000,000ペニャをお支払いいただけますか？"
-PROPQUEST_INC_001808,"There seems to be a problem. Maybe you aren't the party leader or you do not have enough members. Remember, you have to be the party leader and you should have 3 party members, including yourself.",パーティーリーダーではないか、メンバーが3人になっていない、あるいはギルドを脱退するか解散してから48時間が経過していない。このような場合、ギルドマスターにはなれませんから、気をつけてくださいね。
-PROPQUEST_INC_001809,Please come back again when you have met all of the conditions for creating your guild.,あなたがパーティーリーダーとなり、あなたを含めて3人のメンバーで構成されたパーティーを結成しましょう。
+PROPQUEST_INC_001808,"There seems to be a problem. Maybe you aren't the party leader or you do not have enough members. Remember, you have to be the party leader and you should have 3 party members, including yourself.",何か問題があるようですね。パーティーリーダーではないか、メンバーが3人になっていないのかもしれません。あなたがパーティーリーダーとなり、あなたを含めて3人のメンバーが必要なことを忘れないでくださいね。
+PROPQUEST_INC_001809,Please come back again when you have met all of the conditions for creating your guild.,ギルド結成の条件をすべて満たしたら、またここに来てくださいね。
 PROPQUEST_INC_001811,Thanksgiving with Ivil Tobby,イブルトビのお盆イベント
 PROPQUEST_INC_001812,"My brother Iblis was going to bring us $QUEST_END_ITEM_NAME$s for Thanksgiving, but he lost them on his way here.",兄のイブリースは感謝祭のために$QUEST_END_ITEM_NAME$ sを持ってくるつもりでしたが、彼はここに来る途中、それらを失いました。
 PROPQUEST_INC_001813,"I will give you the forbidden gift, a red bead, if you can bring me 1,000 rice cakes. Will you do that?",ソンピョン1000個を集めて来てください。レッドオーブをプレゼントします。
@@ -1231,7 +1231,7 @@ PROPQUEST_INC_100001,Hello traveler! It looks like you've reached level 20! You 
 PROPQUEST_INC_100002,"Scared? Don't worry, go see the Station Manager Dior. She'll show you the ropes and get you flying in no time!",心配いりません。怖いことは何もありませんよ。ステーションの＜ディオール＞に会いに行ってみてください。すぐに操縦のコツを教えてもらえますよ。
 PROPQUEST_INC_100003,Dior is on Flarine Station. Take the elevator right in front of me. You can't miss it!,＜ディオール＞はフラリスのステーションにいますよ。ぜひエレベーターに乗ってみてください！そこにいるはずです。
 PROPQUEST_INC_100004,"You don't have to be scared. Well... if you change your mind, do let me know! I'll be right here.",怖がる必要はありませんよ。気が変わったらまたいらしてください。
-PROPQUEST_INC_100005,What's this? Is sent you? Oh! you want to know about flying on your own flying device? Why didn't you say so? ,あれ？イスが送ったって？あああ、飛行装置に乗って飛びたいってわけね？そう言えば良いのに！
+PROPQUEST_INC_100005,What's this? Is sent you? Oh! you want to know about flying on your own flying device? Why didn't you say so? ,あら、どうしたの？あの人があなたを送ってくれたのね？ああ、自分の飛行装置で空を飛ぶ方法が知りたいのね？それなら早く言ってくれればいいのに！
 PROPQUEST_INC_100006,Visit Dior to learn all about flying.,ディオールを訪ねて空の飛び方を教わる
 PROPQUEST_INC_100007,Laws of Aviation (2),航空法 第2条
 PROPQUEST_INC_100008,So you've finally reached level 20! This is the perfect time to learn how to operate your very own flying device.,ついにレベル20に到達！自分だけの空の世界を楽しみましょ～！
@@ -1386,17 +1386,17 @@ PROPQUEST_INC_002049,I knew you would. It looks like both you and your pet are r
 PROPQUEST_INC_002050,Does this mean you are giving up on your pet?,ペットへの愛情はここまでなのですか？
 PROPQUEST_INC_002051,"Congratulations! As long as you have your pet, you will never be alone. Your pet seems to be very happy, you've done a great job. Now allow me to apply the final upgrade!",ペットは素敵に成長しました。誰が見てもあなたのペットを素晴らしいと思うはずです。
 PROPQUEST_INC_002052,You are so close to getting your pet to its ultimate level. Do not give up now.,もう少し頑張ってください。完全に成長したペットの姿を見たくはないのですか？
-PROPQUEST_INC_120000,Raising Pets 6 (B Tier -> A Tier),ペットの育成 6 (B等級-> A等級)
-PROPQUEST_INC_120001,"The two of you are becoming stronger together, and it looks like you guys have become pretty good friends in the process. Excellent! I will upgrade your pet to B tier now!",2人でどんどん強くなっていく過程で、かなり仲良しになったようです。優秀な！今すぐあなたのペットを B等級にアップグレードします!
-PROPQUEST_INC_120002,Raising Pets 7 (A Tier -> S Tier),ペット育成7（Aランク→Sランク）
-PROPQUEST_INC_120003,"The two of you are becoming stronger together, and it looks like you guys have become pretty good friends in the process. Excellent! I will upgrade your pet to A tier now!",2人でどんどん強くなっていく過程で、かなり仲良しになったようです。優秀な！今すぐあなたのペットをA等級にアップグレードします！
+PROPQUEST_INC_120000,Raising Pets 6 (B Tier -> A Tier),ペット成長の６段階(グレードB -> グレードA)
+PROPQUEST_INC_120001,"The two of you are becoming stronger together, and it looks like you guys have become pretty good friends in the process. Excellent! I will upgrade your pet to B tier now!",2人でどんどん強くなっていく過程で、かなり仲良しになったようですね。素晴らしい！では今すぐ、あなたのペットをグレードBにアップグレードしましょう!
+PROPQUEST_INC_120002,Raising Pets 7 (A Tier -> S Tier),ペット成長の７段階(グレードA -> グレードS)
+PROPQUEST_INC_120003,"The two of you are becoming stronger together, and it looks like you guys have become pretty good friends in the process. Excellent! I will upgrade your pet to A tier now!",2人でどんどん強くなっていく過程で、かなり仲良しになったようですね。素晴らしい！では今すぐ、あなたのペットをグレードAにアップグレードしましょう!
 PROPQUEST_INC_110082,Volkane,ヴォルケイン
 PROPQUEST_INC_110083,Finding the Guardians,ガーディアンを見つける
 PROPQUEST_INC_110084,A great terror lies within this volcano. A cataclysmic maelstrom is said to have erupted this volcano and carved out these caverns.,この火山には恐怖そのものが潜んでいる。激動の大渦が火山を噴火させ、ついにはこの洞窟そのものを創り上げてしまった。
 PROPQUEST_INC_110085,"The Red Meteonyker is one of the most dangerous Masquerpets in all of Madrigal. As a fearsome creation of Shade, I do not know of many who have survived his fiery breath. This abomination has been sealed away for many ages.",レッド・メテオニカは、マドリガル全土で最も危険なモンスターとも言われている。シェードが創ったとされる大きな恐怖の1つ、奴のブレスから生き延びた者を私は多くないと言う。この忌まわしい存在は、長い年月の間封印されてきた。
 PROPQUEST_INC_110086,Many adventurers like yourself who battle Masquerpets in Darkon are unaware of the grave danger that lies below them. The walls are giving way and the Red Meteonyker may not be tempered much longer.,ダーコンでモンスターに挑む冒険者たちは、水面下に潜むこの重大な危機を知らない。壁が崩れ、レッドメテオニカが外に出て言ってしまうだろう。
 PROPQUEST_INC_110087,"You think you can face the Red Meteonyker? I do not wish such a grim fate on anyone. However... you have survived the horrors of Darkon, so you must be very strong. Maybe I am being too skeptical. There may be some hope after all.",レッドメテオニカに立ち向かうつもりか？きっと過酷になるに違いない..。しかし、ダーコンに潜む恐怖に打ち勝っているお前は強い。っと...考えすぎか...。私はとっくに希望は捨ててきてるしな。
-PROPQUEST_INC_110088,"Many of us guardians were annihilated when sealing the Red Meteonyker away. Only three of us are left, and each of us holds a piece of the key needed to enter the lair of the Red Meteonyker. You must find them and obtain each piece.",守護者たちはレッドメテオニカを封印したときに全滅だ。残っているのは 3人だけだ。まずはカギの手がかりを見つけねばならんな。きっと3人がそれぞれレッドメテオニカの住処に入るための鍵のかけらを持っているはずだ。
+PROPQUEST_INC_110088,"Many of us guardians were annihilated when sealing the Red Meteonyker away. Only three of us are left, and each of us holds a piece of the key needed to enter the lair of the Red Meteonyker. You must find them and obtain each piece.",守護者たちの多くはレッドメテオニカを封印したときに命を落とした。残っているのは3人だけだ。その3人がそれぞれ、レッドメテオニカの住処に入るための鍵のかけらを持っているはずだ。見つけ出して、それぞれのかけらを手に入れてくれ。
 PROPQUEST_INC_110089,Can you help me find my long-lost guardian allies and defeat the Red Meteonyker once and for all?,行方不明だった守護者らと会い、レッドメテオニカと対峙してきてくれ。他に頼めないんだ。
 PROPQUEST_INC_110090,Very well. Here is the first piece of the key. There are threats in this cavern other than the Red Meteonyker. Good luck.,さすがだ。これが鍵の最初の欠片だ。この洞窟にはレッドメテオニカ以外にも恐ろしいモンスターはいる。気を付けてくれ。
 PROPQUEST_INC_110091,"Wise decision. Stay safe, traveler.",賢明な決断。旅人よ、安全を保て。
@@ -1542,15 +1542,15 @@ PROPQUEST_INC_110230,Weapon Piercing Box (D),武器貫通ボックス(D)
 PROPQUEST_INC_110231,Weapon Piercing Box (C),武器貫通ボックス(C)
 PROPQUEST_INC_110232,Weapon Piercing Box (B),武器貫通ボックス(B)
 PROPQUEST_INC_110233,Weapon Piercing Box (A),武器貫通ボックス(A)
-PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスの仮面舞踏会を一掃する依頼がまた一つ入ってきた。ダンジョンのボスを5体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110235,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 20 dungeon bosses on Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスの仮面舞踏会を一掃する依頼がまた一つ入ってきた。ハード以上の難易度でダンジョンのボスを20体倒して、終わったら戻ってきてくれませんか?
-PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスの仮面舞踏会を一掃する依頼がまた一つ入ってきた。超高難易度以上のダンジョンボスを35体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110237,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 50 dungeon bosses on Nightmare or higher difficulty, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスの仮面舞踏会を一掃する依頼がまた一つ入ってきた。ナイトメア以上の難易度でダンジョンのボスを50体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110238,"Collect souls from boss masquerpets at the end of any dungeon 5 times, and return to me for a reward.",ダンジョンの最後にあるボスの仮面舞踏会から魂を5回集めて、報酬を求めて私のところに戻ってください。
-PROPQUEST_INC_110239,"Collect souls from boss masquerpets at the end of any dungeon on Hard or higher difficulty 20 times, and return to me for a reward.",ハード以上の難易度のダンジョンの最後にあるボスの仮面舞踏会から魂を20回集めて、報酬を求めて私のところに戻ってきます。
-PROPQUEST_INC_110240,"Collect souls from boss masquerpets at the end of any dungeon on Extra Hard or higher difficulty 35 times, and return to me for a reward.",超難易度以上のダンジョンの最後にあるボスの仮面から魂を35回集めて、報酬を求めて私のところに戻ってきます。
-PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dungeon on Nightmare or higher difficulty 50 times, and return to me for a reward.",ナイトメア以上の難易度でダンジョンの最後にいるボスの仮面舞踏会から魂を50回集めて、報酬を求めて私のところに戻ってきます。
-PROPQUEST_INC_110242,The dungeons are filled with dangerous masquerpets. I understand if you do not wish to take the risk.,ダンジョンは危険な仮面舞踏会でいっぱいです。リスクを冒したくないのであれば、私は理解しています。
+PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ダンジョンのボスを5体倒して、終わったら私のところに戻ってきてくれませんか?
+PROPQUEST_INC_110235,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 20 dungeon bosses on Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ハード以上の難易度でダンジョンのボスを20体倒して、終わったら戻ってきてくれませんか?
+PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。超高難易度以上のダンジョンボスを35体倒して、終わったら私のところに戻ってきてくれませんか?
+PROPQUEST_INC_110237,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 50 dungeon bosses on Nightmare or higher difficulty, and return to me once you are done?",ようこそヒーロー!マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ナイトメア以上の難易度でダンジョンのボスを50体倒して、終わったら私のところに戻ってきてくれませんか?
+PROPQUEST_INC_110238,"Collect souls from boss masquerpets at the end of any dungeon 5 times, and return to me for a reward.",ダンジョンの最後にいるボスモンスターから魂を5回集めて、報酬を求めて私のところに戻ってください。
+PROPQUEST_INC_110239,"Collect souls from boss masquerpets at the end of any dungeon on Hard or higher difficulty 20 times, and return to me for a reward.",ハード以上の難易度のダンジョンの最後にいるボスモンスターから魂を20回集めて、報酬を求めて私のところに戻ってきてください。
+PROPQUEST_INC_110240,"Collect souls from boss masquerpets at the end of any dungeon on Extra Hard or higher difficulty 35 times, and return to me for a reward.",超高難易度以上のダンジョンの最後にいるボスモンスターから魂を35回集めて、報酬を求めて私のところに戻ってきてください。
+PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dungeon on Nightmare or higher difficulty 50 times, and return to me for a reward.",ナイトメア以上の難易度でダンジョンの最後にいるボスモンスターから魂を50回集めて、報酬を求めて私のところに戻ってきてください。
+PROPQUEST_INC_110242,The dungeons are filled with dangerous masquerpets. I understand if you do not wish to take the risk.,ダンジョンは危険なモンスターでいっぱいです。リスクを冒したくないのであれば、それも理解できますよ。
 PROPQUEST_INC_110243,"The threat from within the dungeons has been reduced thanks to you, hero. Please accept a weapon piercing card as thanks for your efforts!",ダンジョン内からの脅威は、ヒーローであるあなたのおかげで減少しました。お礼に武器貫通カードを受け取ってください!
 PROPQUEST_INC_110244,"You haven't defeated the bosses yet? That's okay, just return once you have.",まだボスを倒していませんか?大丈夫です、一度戻ればいいのです。
 PROPQUEST_INC_110245,Collect souls from 5 dungeon bosses on any difficulty.,任意の難易度で5体のダンジョンボスから魂を集めます。
@@ -1584,7 +1584,7 @@ PROPQUEST_INC_110272,You're not curious? You must not be too hot...,あなたは
 PROPQUEST_INC_110273,Here you go! Hurry up and try it before it melts!,はいどうぞ！！溶ける前に急いで試してみてください!
 PROPQUEST_INC_110274,Oh why are you so late? Your ice already melted and it can't be used...,ああ、なんでこんなに遅いの?氷はすでに溶けてしまっていて、使えません。
 PROPQUEST_INC_110275,"Are you still collecting?\nIf the ice melts, we can't make the shaved ice so hurry up!",まだ収集していますか? 氷が溶けてしまうとかき氷が作れなくなるのでお急ぎください!!
-PROPQUEST_INC_110276,Defeat the monsters before the ice metls and return to Sotta\n(Can redo the quest if failed),アイスメットの手前でモンスターを倒し、ソッタに戻る(失敗した場合はクエストをやり直すことができる)
+PROPQUEST_INC_110276,Defeat the monsters before the ice metls and return to Sotta\n(Can redo the quest if failed),氷が溶ける前にモンスターを倒し、ソッタのもとへ戻る(失敗した場合はクエストをやり直すことができる)
 PROPQUEST_INC_130000,Coral Island,コーラル・アイランド
 PROPQUEST_INC_130001,Clouds Over Coral Island,コーラル・アイランドに浮かぶ雲
 PROPQUEST_INC_130002,"Hero, the clouds over the island to the southeast have finally cleared!",英雄よ、南東の島の雲がようやく晴れました!
@@ -1656,10 +1656,10 @@ PROPQUEST_INC_130067,Hopefully soon our village can sleep without keeping one ey
 PROPQUEST_INC_130068,Keep going! You need to defeat more Naga.,そのまま頑張ってください！もっとナーガを倒す必要があります。
 PROPQUEST_INC_130069,"Collect evidence of defeating at least 1000 Small Naga, Naga, or Captain Naga. After that, defeat the Lord Naga and Overlord Naga.",スモールナーガ、ナーガ、キャプテンナーガを合計1000体討伐した証を集めろ。その後、ロード・ナーガとオーバーロード・ナーガを倒せ。
 PROPQUEST_INC_130070,Mission Improbable,ミッション・インプロバブル
-PROPQUEST_INC_130071,"Hahaha! I cannot thank you enough for all that you have done for our village, hero! Only the most powerful of masquerpets remain a threat to our village now.",ハハハ!英雄よ、あなたが私たちの村のためにしてくれたことすべてに感謝してもしきれません!最強の仮面舞踏会だけが、今や私たちの村にとって脅威であり続けています。
+PROPQUEST_INC_130071,"Hahaha! I cannot thank you enough for all that you have done for our village, hero! Only the most powerful of masquerpets remain a threat to our village now.",ハハハ!英雄よ、あなたが私たちの村のためにしてくれたことには感謝してもしきれません!今や、最も強力なモンスターたちだけが、私たちの村にとっての脅威として残っています。
 PROPQUEST_INC_130072,"We rarely see the Dorian and Okean creatures approach the village. However with so many other Island evils defeated, I fear they may leave their lair to take advantage of the situation!",ドリアンとオケアノスの生き物が村に近づくのを見ることはめったにありません。しかし、他の多くの島の悪が倒されたので、彼らがこの状況を利用するために隠れ家を離れるのではないかと心配しています!
 PROPQUEST_INC_130073,Go seek out where the Dorian and Okean live. We'll need as much information as we can get if we expect to defeat them!,ドリアンとオケアノスが住んでいる場所を探しに行きます。彼らを倒すには、できるだけ多くの情報が必要です!
-PROPQUEST_INC_130074,What!? You can't possibly be scared of a few more masquerpets after all we've been through together!,何！。私たちが一緒に経験してきたすべての後、あなたはおそらくいくつかのより多くの仮面舞踏会を恐れることはできません!
+PROPQUEST_INC_130074,What!? You can't possibly be scared of a few more masquerpets after all we've been through together!,何ですって！？私たちが一緒に乗り越えてきたことを考えれば、今さらモンスターの数体くらいで怖がるはずがありませんよね!
 PROPQUEST_INC_130075,"Well done, hero! With this information we have a chance to defeat the Dorian and Okean before they can attack!",よくやった、ヒーロー!この情報をもとに、ドリアンとオケアノスが攻撃してくる前に倒すチャンスがあります!
 PROPQUEST_INC_130076,"Keep searching, the Dorian and Okean make their homes in the waters of Coral Island.",ドリアンとオケアノスはコーラル島の海域に住み着きます。
 PROPQUEST_INC_130077,Search for where the Dorian and Okean live.,ドリアンとオケアノスが住んでいる場所を探してください。
@@ -1677,7 +1677,7 @@ PROPQUEST_INC_130088,"A strange darkness has began to fill the waters of Coral I
 PROPQUEST_INC_130089,Please help us stave off the spawn of the Sea King!,海王の出現を食い止めるのを手伝ってください!
 PROPQUEST_INC_130090,"Thank you! Find where the Sea King has released their spawn, and defeat as many as you can. Let BoBu know once you've finished!",ありがとうございます！海の王が落とし子を放った場所を見つけて、できるだけ多くを倒してください。終わったらボブに知らせてください!
 PROPQUEST_INC_130091,"Soon the inky darkness will overflow Coral Island, and we will be engulfed...",やがて漆黒の闇がコーラル・アイランドにあふれ、私たちは飲み込まれるだろう。
-PROPQUEST_INC_130092,"Hohoho! You really do have a mysterious power within you, don't you hero?",ほ!あなたは本当にあなたの中に不思議な力を持っていますね、あなたはヒーローですよね?
+PROPQUEST_INC_130092,"Hohoho! You really do have a mysterious power within you, don't you hero?",ホッホッホ！君は本当に、その身に不思議な力を秘めているようだね、ヒーロー君？
 PROPQUEST_INC_130093,Will we become faceless like those that failed before us?,私たちは、先人たちのように顔が見えなくなってしまうのでしょうか?
 PROPQUEST_INC_130094,Defeat 500 of any type of Kraken.,いずれかのクラーケンを500体倒す。
 PROPQUEST_INC_130095,The Sea King Returns,海王リターンズ
