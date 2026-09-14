@@ -401,7 +401,7 @@ PROPQUEST_INC_000924,"One of them made a box possessing great magical power… A
 PROPQUEST_INC_000925,He may be able to use Psychmetria... What? You don't know what Psychmetria is?,その箱なら、禁断とされる＜ブラックマジシャン＞の魔法＜サイキトメリア＞を使うことができるだろうよ。＜サイキトメリア＞が何かと？ふむ。じゃ、無知な君に説明しよう。
 PROPQUEST_INC_000926,Psychmetria is a powerful black magic spell that can pinpoint the location of an object. You must go and find Ancimys.,＜サイキトメリア＞は、見たいものや知りたいものがどこにあるかを知ることができる魔法だ。千里眼、とでも言おうか。
 PROPQUEST_INC_000927,The Ancimys you need to speak with is just south of here.,おそらく、その特殊な能力を持っている箱は、他の箱とはしゃべり方が違うと思うぜ。よく探してみてくれ。
-PROPQUEST_INC_000928,What do I care if you don't do it? It's no skin off my back…,おそらく、その特殊な能力を持っている箱は、他の箱とはしゃべり方が違うと思うぜ。よく探してみてくれ。
+PROPQUEST_INC_000928,What do I care if you don't do it? It's no skin off my back…,別にやらなくたって構わないさ。俺の懐が痛むわけじゃないしな……
 PROPQUEST_INC_000929,"A missing portrait? Well, isn't that exciting! I was so bored I thought I was going to fall asleep! Tell me more about this portrait.",なになに～？肖像画が消えたって～ぇ？クッククク～。面白い事件だね～ぇ？その肖像画を見つけるのを手伝ってくれないかって～ぇ？　ふふ～ん。ちょっと待って～ぇ。
 PROPQUEST_INC_000930,"Alright, give me a moment… Mmmmmm, yes. I've got it! I see a camp… and large creatures with hammers and blades for hands.",フムフムフム。クッククク～。わかった、わかったよ～ぉ。じゃ、何か書くものを用意して～ぇ。そしてボクの言うことをちゃ～んと書きとめたほうがいいよ～ぉ。準備はできた～ぁ？
 PROPQUEST_INC_000931,"Ah ha! It's the Red Bang Troupe camp northeast of the Mars Mine. One of those big beasts has it! It's difficult to get to, but I'm sure you'll manage!",フラリスダンジョンの北東にキャンプ地があるはずだよ～ぉ。これがこう～。そうそう、そんな感じ～ぃ。全部書き取った～ぁ？そこに行けば探してるものがあると思うよ～ぉ？クッククク～。あ～楽しかったぁ。またね～ぇ。
@@ -439,7 +439,7 @@ PROPQUEST_INC_000966,Origin of Bone Bowl,呪われたボーンボール
 PROPQUEST_INC_000967,"*Gnarllll!* Hey! You there! You don't know me, right? My reputation usually precedes me. I am the strange collector!",ほう。君は初めて会う顔だな。わたしは誰かって？ハハッ。君は依頼所で私の名前を耳にしたことがあるだろう。ん？心あたりがないか？
 PROPQUEST_INC_000968,"I wanted to ask you something. Have you ever heard of the Bone Bowl? No, not just some random Bone Bowl. THE Bone Bowl!",依頼所には何回か依頼を頼んでいるからな。そう、＜謎のコレクター＞というのは私のことだ、ハッハハハ。実は君に1つ頼みたいことがある。君、＜ボーンボール＞の話は聞いたことがあるだろう？
 PROPQUEST_INC_000969,I'm talking about the original cursed Bone Bowl.,私が欲しいのは恐ろしい呪いがかかっていると言われる本物の＜ボーンボール＞さ。
-PROPQUEST_INC_000970,I am looking to acquire it. Will you help me?,興味をもってくれたようで嬉しいよ。私は好奇心旺盛な冒険者が大好きだ。さて、ここからリシスの庭に向かうと、ボーンボール商人の＜ボウラー＞がいる。まず、彼をたずねてみてくれないか？
+PROPQUEST_INC_000970,I am looking to acquire it. Will you help me?,それを手に入れたいと思っていてね。君、手伝ってくれないか？
 PROPQUEST_INC_000971,*Grawrrrll* Great! Head to the Garden of Rhisis and find (Bowl Merchant) Bowler! *SNARF!*,興味をもってくれたようで嬉しいよ。私は好奇心旺盛な冒険者が大好きだ。さて、ここからリシスの庭に向かうと、ボーンボール商人の＜ボウラー＞がいる。まず、彼をたずねてみてくれないか？
 PROPQUEST_INC_000972,Oh come on! I can pay you as much as you want! *GNARL*,もちろん依頼を受けてくれるのなら、報酬ははずませてもらうよ。
 PROPQUEST_INC_000973,"Hmmm… so the strange collector wants the Bone Bowl, huh?",いかにも。俺がボーンボール専門商人の＜ボウラー＞さ。何だって？＜謎のコレクター＞から頼まれてやってきたのか。ふむ、呪われた＜ボーンボール＞が欲しいとな。
@@ -507,7 +507,7 @@ PROPQUEST_INC_001040,"Thank you very much for bringing this to me, adventurer. I
 PROPQUEST_INC_001041,"Wait a minute, she's not going to believe me unless I have some proof. Where can I get some proof? Yes… That's it!",しかし、この調査書だけでは彼女も信じないだろう。もし彷徨うミーアの中にジョハさんの娘が見つかれば、そのミーアはきっと人間だった時に大事にしていた物を、今も大事に持っているはず。
 PROPQUEST_INC_001042,"If her daughter is still amongst Mias, then she would still have her most prized possession. I need it in order to persuade JeongHwa. Would you bring it to me, please?",ジョハさんに事実を伝えて説得するためには、それが必要だ。すまんが、もう一度ミーアを捜して証拠を持ってきてくれないか？
 PROPQUEST_INC_001043,JeongHwa had a daughter whose name was Jinyoung. Jinyoung loved her doll very much. Perhaps I can convince JeongHwa if I can find her doll amongst the Mias...,ジョハさんには、ジノという娘がいた。聞いたところでは人形が好きでいつも大事に持ち歩いていたそうだ。その人形を見ればきっと、ジョハさんもこの話を信じてくれるだろう。
-PROPQUEST_INC_001044,You must not know what it is like to lose a child. JeongHwa may never know the truth about her daughter.,あなたは子供を失う悲しみを知りませんね。 ジョンファは娘の真実を知らないかもしれません。
+PROPQUEST_INC_001044,You must not know what it is like to lose a child. JeongHwa may never know the truth about her daughter.,あなたは子供を失う悲しみを知らないのでしょう。ジョハさんは、娘の真実を一生知らないままかもしれません。
 PROPQUEST_INC_001045,"What… do you have there? My daughter's doll? My poor, sweet Jinyoung. Now I can begin to mourn. Thank you, young one. For bringing this to me.",あっ！こ、この人形は、私の娘がとても大事にしていたものです、間違いありません！ジノ！どうしてこれを？
 PROPQUEST_INC_001046,Have you found my daughter yet? Please don't give up! I'd give anything to see her again.,冒険者の方、まだわたしの娘は見つからないのでしょうか？本当に、本当にジノはかわいい子なのです。きっと、一目見ればすぐにわかると思います。ううっ。
 PROPQUEST_INC_001047,Speak with JeongHwa in Saint City.,ジョハさんの娘ジノは人形が好きで、いつも大事に持ち歩いていたそうだ。もう一度＜ミーア＞を探してジノの人形を見つけたら、ジョハさんに渡しにいこう。
@@ -542,7 +542,7 @@ PROPQUEST_INC_001078,"I have a plan, but I will need your help again, my friend.
 PROPQUEST_INC_001079,"I knew you would do it! Travel back to their camp, and defeat 5 Red Bang Troupe Members, 1 Red bang Troupe Leader, and bring me 7 of their symbols.",ありがとう、正義感あふれる冒険者よ！あいつらを一網打尽にして、その証拠を持って来てくれ、お願いだ。
 PROPQUEST_INC_001080,Will you not help me finally rid our town of this nuisance? Speak with me again if you have a change of heart.,そうか・・・今までも君には世話になりっぱなしだったもんなあ。これ以上は頼めないか、仕方ない。
 PROPQUEST_INC_001081,Very good! Excellent work! They're probably tucking their tails between their legs now! Muahaha!,これが彼らの持っていたエンブレムか。見かけによらず結構繊細なエンブレムを持ってるんだなぁ。じゃ、これは俺からのお礼だ。どうか受け取ってくれ。ありがとう！
-PROPQUEST_INC_001082,Have you defeated them all yet? Do you have any symbols? No? Then you better get going!,彼らをすべてをもう倒しましたか？ 何かシンボルはありますか？ ないなら、今からでも彼らを倒してください。
+PROPQUEST_INC_001082,Have you defeated them all yet? Do you have any symbols? No? Then you better get going!,もう全員倒しましたか？シンボルは持っていますか？まだ？ならば、早く行動したほうがいいですよ！
 PROPQUEST_INC_001083,"Defeat 5 Red Bang Troupe Members, 1 Red Bang Troupe Leader, and retrieve 7 Symbols of the Red bang Troupe.",赤いヴァン盗賊団の野営地に向かい、連中をやっつけよう。首尾よくやっつけたら、証拠の品を持ってルダのところへ戻ろう。
 PROPQUEST_INC_001085,"Troupe Leader, Lord Bang",大盗賊ロードヴァン
 PROPQUEST_INC_001086,"This… this symbol… it is very intriguing. If I'm right, the real leader of the Red bang Troupe is not the one you defeated.",このエンブレムだが、何処かで見覚えがあるんだ。うーん、たしか記憶によると、赤いヴァン盗賊団の本当のボスは別のやつだったと思うんだ。
@@ -1443,52 +1443,52 @@ PROPQUEST_INC_110131,Defeat the Red Meteonyker!,レッドメテオニカを倒�
 PROPQUEST_INC_110132,Master,マスター
 PROPQUEST_INC_110133,Master Grade (1),修士課程 (1)
 PROPQUEST_INC_110134,Reach level 70,レベル70に到達する
-PROPQUEST_INC_110135,"Do you really think you’re the strongest? You’re wrong. You can be stronger! Listen... What if I told you that you could... relive certain moments of your life? It would be crazy, wouldn’t it?",あなたは本当にあなたが最強だと思いますか?あなたは間違っている。あなたは強くなることができます!聞く。。。私があなたにできると言ったらどうしますか...あなたの人生の特定の瞬間を追体験しますか?それはクレイジーでしょうね。
-PROPQUEST_INC_110136,"I have a proposal for you. I take a few levels from you, of course temporarily, and you will accomplish a task for me. What do you have to gain? Everything!",私はあなたに提案があります。もちろん、一時的に、私はあなたからいくつかのレベルを取ります、そしてあなたは私のために仕事を成し遂げるでしょう。あなたは何を得る必要がありますか?すべてが！
-PROPQUEST_INC_110137,"I’m bringing you down to level 60, and when you get to level 70, come back to me! I’ll give you back your previous levels with a little gift.",びっくりだベア！君のおかげでクリスマスは楽しく過ごせそうだベア！モンスターが雪だるまを壊したり、ニンジンを食べちゃわない限り！ベアベア！
-PROPQUEST_INC_110138,"Be careful though, your experience will be halved for the duration of this short mission!",ただし、この短いミッションの期間中、経験値は半分になりますのでご注意ください!
-PROPQUEST_INC_110139,"Obviously, if you change your mind, you can abandon the quest at any time through your quest window and I will give you back your levels, of course!",気が変わった場合は、クエストウィンドウからいつでもクエストを放棄することができ、もちろんレベルを返します!
-PROPQUEST_INC_110140,"So, what do you think?",それで、あなたはどう思いますか?
-PROPQUEST_INC_110141,"Perfect! I've taken your levels, come back to me when you reach the goal of our arrangement!",完璧ですね！私はあなたのレベルを取りました、あなたが私たちの決めた目標に達したら私のところへ戻ってきてください!
-PROPQUEST_INC_110142,Oh I see... you’re probably too weak.,ああ、わかりました。。。あなたはおそらく弱すぎます。
-PROPQUEST_INC_110143,"Wonderful! So I give you back your levels, and the little gift with it! Thank you for your help and see you soon!",いいですね！だから私はあなたにあなたのレベルとそれとの小さな贈り物を返します!あなたの助けをありがとう、そしてすぐにお会いしましょう!
-PROPQUEST_INC_110144,"You haven’t been able to complete our arrangement? Too bad, others will!",あなたは私たちの手配を完了することができませんでしたか?残念なことに、他の人はそうするでしょう!
-PROPQUEST_INC_110145,Master Grade (2),修士課程 (2)
-PROPQUEST_INC_110146,Here you are again!? The last time was too easy... What if we put it back but a notch up?,また来た!?前回は簡単すぎました..元に戻したが、ノッチを上げた場合はどうなりますか?
-PROPQUEST_INC_110147,"Like last time, I take your levels and you go back up! As simple as that!",前回と同じように、私はあなたのレベルを取り、あなたは戻ってきます!それと同じくらい簡単です!
-PROPQUEST_INC_110148,"And like last time, if you want to resume your previous progression, you can cancel the quest, you will resume the progression of the latter by resuming the quest!",そして前回同様、前の進行を再開したい場合はクエストをキャンセルでき、クエストを再開することで後者の進行を再開します!
-PROPQUEST_INC_110149,"This time, it will be from level 70 to 80! So, shall we go?",今回はレベル70から80まで!それでは、行きましょうか?
-PROPQUEST_INC_110150,Great! Then I’ll wait here!,すごい！じゃあここで待ってるよ!
-PROPQUEST_INC_110151,"No problem, just come back!",問題ありません、戻ってきてください!
-PROPQUEST_INC_110152,Great! I expected no less from you. Here’s your reward.,すごい！私はあなたにそれ以上のことを期待していません。これがあなたの報酬です。
+PROPQUEST_INC_110135,"Do you really think you’re the strongest? You’re wrong. You can be stronger! Listen... What if I told you that you could... relive certain moments of your life? It would be crazy, wouldn’t it?",本当に自分が最強だと思っているのかい？それは間違いだ。君はもっと強くなれる！いいかい……もし、人生のある瞬間をもう一度やり直せると言ったらどうする？とんでもない話だと思うかい？
+PROPQUEST_INC_110136,"I have a proposal for you. I take a few levels from you, of course temporarily, and you will accomplish a task for me. What do you have to gain? Everything!",提案がある。君からレベルをいくつか一時的に預からせてもらい、その代わりに私のために仕事をこなしてもらう。それで君が得られるものは？すべてさ！
+PROPQUEST_INC_110137,"I’m bringing you down to level 60, and when you get to level 70, come back to me! I’ll give you back your previous levels with a little gift.",君をレベル60まで下げよう。そしてレベル70に到達したら、私のところに戻ってくるんだ！元のレベルに、ちょっとした贈り物を添えて返してあげよう。
+PROPQUEST_INC_110138,"Be careful though, your experience will be halved for the duration of this short mission!",ただし気をつけてくれ、この短い任務の間は経験値が半分になってしまうんだ！
+PROPQUEST_INC_110139,"Obviously, if you change your mind, you can abandon the quest at any time through your quest window and I will give you back your levels, of course!",もちろん、気が変わったならクエストウィンドウからいつでもクエストを放棄できる。その場合もレベルはちゃんと返すよ！
+PROPQUEST_INC_110140,"So, what do you think?",それで、どうする？
+PROPQUEST_INC_110141,"Perfect! I've taken your levels, come back to me when you reach the goal of our arrangement!",よし！レベルを預かったよ、約束した目標に達したら私のところへ戻ってきてくれ！
+PROPQUEST_INC_110142,Oh I see... you’re probably too weak.,ああ、なるほど……君にはまだ荷が重かったようだね。
+PROPQUEST_INC_110143,"Wonderful! So I give you back your levels, and the little gift with it! Thank you for your help and see you soon!",素晴らしい！では、レベルとちょっとした贈り物を返そう！協力してくれてありがとう、またすぐに会おう！
+PROPQUEST_INC_110144,"You haven’t been able to complete our arrangement? Too bad, others will!",約束を果たせなかったのかい？残念だが、他の誰かがやり遂げるだろうさ！
+PROPQUEST_INC_110145,Master Grade (2),マスターグレード (2)
+PROPQUEST_INC_110146,Here you are again!? The last time was too easy... What if we put it back but a notch up?,また来たのかい！？前回は簡単すぎたようだね……今度はもう一段上げてみるとしようか？
+PROPQUEST_INC_110147,"Like last time, I take your levels and you go back up! As simple as that!",前回と同じさ、レベルを預かって、また上げてもらう！それだけのことだよ！
+PROPQUEST_INC_110148,"And like last time, if you want to resume your previous progression, you can cancel the quest, you will resume the progression of the latter by resuming the quest!",今回も前回同様、元の進行状況に戻したければクエストをキャンセルすればいい。再びクエストを受ければ、また続きから再開できるよ！
+PROPQUEST_INC_110149,"This time, it will be from level 70 to 80! So, shall we go?",今回はレベル70から80までだ！それでは、始めようか？
+PROPQUEST_INC_110150,Great! Then I’ll wait here!,いいね！ここで待っているよ！
+PROPQUEST_INC_110151,"No problem, just come back!",大丈夫、また戻ってきてくれればいい！
+PROPQUEST_INC_110152,Great! I expected no less from you. Here’s your reward.,素晴らしい！君ならやってくれると思っていたよ。これが報酬だ。
 PROPQUEST_INC_110153,Reach level 80,レベル80に到達する
-PROPQUEST_INC_110154,Master Grade (3),修士課程 (3)
-PROPQUEST_INC_110155,The last time you finished your task in no time. What do you think? Let’s go back?,最後にタスクをすぐに終了したとき。どう思いますか。戻りましょうか?
-PROPQUEST_INC_110156,"The rules are not changing, so what are we waiting for?",ルールは変わっていないので、何を待っていますか?
-PROPQUEST_INC_110157,"This time, it will be from level 80 to 90! So, shall we go?",今回はレベル80から90まで!それでは、行きましょうか?
+PROPQUEST_INC_110154,Master Grade (3),マスターグレード (3)
+PROPQUEST_INC_110155,The last time you finished your task in no time. What do you think? Let’s go back?,前回はあっという間に任務を終えてしまったね。どうする？また行ってみるかい？
+PROPQUEST_INC_110156,"The rules are not changing, so what are we waiting for?",ルールは変わらない、さあ何を待っているんだい？
+PROPQUEST_INC_110157,"This time, it will be from level 80 to 90! So, shall we go?",今回はレベル80から90までだ！それでは、始めようか？
 PROPQUEST_INC_110158,Reach level 90,レベル90に到達する
-PROPQUEST_INC_110159,Master Grade (4),修士課程 (4)
-PROPQUEST_INC_110160,"We’re almost done, don’t worry. But for now, let’s keep going?",ほぼ完了です、心配しないでください。しかし、今のところ、続けましょうか?
-PROPQUEST_INC_110161,"And yes, as usual, same rules!",はい、いつものように、同じルールです!
-PROPQUEST_INC_110162,"This time, it will be from level 90 to 100! So, shall we go?",今回はレベル90から100まで!それでは、行きましょうか?
+PROPQUEST_INC_110159,Master Grade (4),マスターグレード (4)
+PROPQUEST_INC_110160,"We’re almost done, don’t worry. But for now, let’s keep going?",もうすぐ終わりだ、心配しなくていい。とはいえ、まだ続けるとしようか？
+PROPQUEST_INC_110161,"And yes, as usual, same rules!",ああ、いつも通り、ルールは同じだ！
+PROPQUEST_INC_110162,"This time, it will be from level 90 to 100! So, shall we go?",今回はレベル90から100までだ！それでは、始めようか？
 PROPQUEST_INC_110163,Reach level 100,レベル100に到達する
-PROPQUEST_INC_110164,Master Grade (5),修士課程 (5)
-PROPQUEST_INC_110165,One more and then it’s the last!,もう1つ、そして最後です!
-PROPQUEST_INC_110166,"This time, it will be from level 100 to 110! So, shall we go?",今回はレベル100から110まで!それでは、行きましょうか?
+PROPQUEST_INC_110164,Master Grade (5),マスターグレード (5)
+PROPQUEST_INC_110165,One more and then it’s the last!,あと1回、それで最後だ！
+PROPQUEST_INC_110166,"This time, it will be from level 100 to 110! So, shall we go?",今回はレベル100から110までだ！それでは、始めようか？
 PROPQUEST_INC_110167,Reach level 110,レベル110に到達する
-PROPQUEST_INC_110168,Master Grade (6),修士課程 (6)
-PROPQUEST_INC_110169,Here we are! This is one of the last missions I have for you at the moment. Are you still motivated?,着きました！これが現時点で私があなたのために持っている最後の使命です。あなたはまだやる気がありますか?
-PROPQUEST_INC_110170,"This time, it will be from level 110 to 120! So, shall we go?",今回はレベル110から120まで!それでは、行きましょうか?
+PROPQUEST_INC_110168,Master Grade (6),マスターグレード (6)
+PROPQUEST_INC_110169,Here we are! This is one of the last missions I have for you at the moment. Are you still motivated?,さあ来たね！これが今の私から君に頼める最後の任務のひとつだ。まだやる気はあるかい？
+PROPQUEST_INC_110170,"This time, it will be from level 110 to 120! So, shall we go?",今回はレベル110から120までだ！それでは、始めようか？
 PROPQUEST_INC_110171,Reach level 120,レベル120に到達する
 PROPQUEST_INC_110172,Clockworks War,時計仕掛け戦争
 PROPQUEST_INC_110173,Christmas Spirit,クリスマススピリット
-PROPQUEST_INC_110174,"It’s almost Christmas, as you know. And I forgot to prepare my snowman...",ご存知のように、もうすぐクリスマスです。そして、雪だるまの準備を忘れました。 
-PROPQUEST_INC_110175,"Can you get me $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots before midnight ? ",真夜中までに$QUEST_END_ITEM_COUNT、2$スノーボール、$QUEST_END_ITEM_COUNT$ ニンジンを手に入れてもらえますか ?
-PROPQUEST_INC_110176,"You can find the snowballs on the ground, but I think all the monsters picked them up... So you’ll have to eliminate a few to get them back.",雪玉は地面にありますが、すべてのモンスターがそれらを拾ったと思います..。したがって、それらを取り戻すには、いくつかを削除する必要があります。
-PROPQUEST_INC_110177,"If you’re not interested in the Christmas spirit, it’s useless.",あなたがクリスマスの精神に興味がないなら、それは役に立たない。
-PROPQUEST_INC_110178,You did it! Thanks to you Christmas is saved! Unless the monsters destroy the snowmen and take back the carrots...,それをやりました！あなたのおかげでクリスマスは救われました!モンスターが雪だるまを破壊し、ニンジンを取り戻さない限り...
-PROPQUEST_INC_110179,"Well, I guess picking up snow and carrots is too hard for you, huh...",まあ、雪やニンジンを拾うのは難しすぎると思いますね。
-PROPQUEST_INC_110180,"The polar bear asked me to bring back $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots by midnight.",ホッキョクグマは私に、真夜中までに$QUEST_END_ITEM_COUNT、2$スノーボール、$QUEST_END_ITEM_COUNT$ニンジンを取り戻すように頼みました。
+PROPQUEST_INC_110174,"It’s almost Christmas, as you know. And I forgot to prepare my snowman...",知っての通り、もうすぐクリスマスだ。それなのに、雪だるまの準備を忘れてしまってね……
+PROPQUEST_INC_110175,"Can you get me $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots before midnight ? ",真夜中までに雪玉を$QUEST_END_ITEM_COUNT,2$個、ニンジンを$QUEST_END_ITEM_COUNT$個集めてきてくれないか？
+PROPQUEST_INC_110176,"You can find the snowballs on the ground, but I think all the monsters picked them up... So you’ll have to eliminate a few to get them back.",雪玉は地面に落ちているはずなんだが、モンスターたちが拾ってしまったようなんだ……だから、何体か倒して取り返してもらう必要がある。
+PROPQUEST_INC_110177,"If you’re not interested in the Christmas spirit, it’s useless.",クリスマスの心を持っていないなら、これは君には無用なものだろうね。
+PROPQUEST_INC_110178,You did it! Thanks to you Christmas is saved! Unless the monsters destroy the snowmen and take back the carrots...,やってくれたね！君のおかげでクリスマスは救われた！モンスターが雪だるまを壊してニンジンを奪い返さない限りは……
+PROPQUEST_INC_110179,"Well, I guess picking up snow and carrots is too hard for you, huh...",まあ、雪玉とニンジンを集めるのは君には難しすぎたようだね……
+PROPQUEST_INC_110180,"The polar bear asked me to bring back $QUEST_END_ITEM_COUNT,2$ snowballs and $QUEST_END_ITEM_COUNT$ carrots by midnight.",ホッキョクグマから、真夜中までに雪玉を$QUEST_END_ITEM_COUNT,2$個、ニンジンを$QUEST_END_ITEM_COUNT$個持ち帰るよう頼まれています。
 PROPQUEST_INC_110181,"Welcome hero! Another request has come in to clear out $QUEST_END_KILL_NAME$ from the Forsaken Tower. Could you please slay 50 $QUEST_END_KILL_NAME$, and return to me once you are done?",ようこそヒーロー！忘却の塔から$QUEST_END_KILL_NAME$を一掃せよと依頼が届きました。50体の$QUEST_END_KILL_NAME$を倒し戻ってきてくれないか？
 PROPQUEST_INC_110182,"Well done, we'll have plenty of $QUEST_END_ITEM_NAME$s to fulfill all the requests!",よくやった、私たちはすべての要求を満たすためにたくさんの$QUEST_END_ITEM_NAME$sを持っているでしょう!
 PROPQUEST_INC_110183,"You haven't defeated the $QUEST_END_KILL_NAME$ yet? That's okay, just return once you have.",$QUEST_END_ITEM_NAME$をまだ見つけていませんか?それは大丈夫です、あなたがそれらを手に入れたらただ戻ってください。
