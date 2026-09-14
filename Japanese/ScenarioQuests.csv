@@ -991,7 +991,7 @@ PROPQUEST_SCENARIO_INC_002274,Look for Angelic Stone,気力の源
 PROPQUEST_SCENARIO_INC_002275,Oh! Of course! It was an Angelic Stone that we require to complete the transmutation!,あ……すみません。確かにカペーペ様の言う通り、気力の源のことをすっかりと忘れておりました。
 PROPQUEST_SCENARIO_INC_002276,You can find Angelic Stones in Southern Darkon 3 near the Captain Glaphans. Will you please defeat them and acquire the stone?,気力の源はキャプテン・グラファンが生息している地域で見つけられると思います。キャプテン・グラファンを倒すことで気が満ちるとか。
 PROPQUEST_SCENARIO_INC_002277,"Good! Please defeat 60 Captain Glaphan and acquire the Angelic Stone. Once the stone is in your possession, return to Capafe!",キャプテン・グラファンを60体討伐して気力の源を入手しましたら、もう一度カペーペ様と話して頂けますか？
-PROPQUEST_SCENARIO_INC_002278,Are you giving up?,ここまできて諦めるの？？？？？
+PROPQUEST_SCENARIO_INC_002278,Are you giving up?,ここまできて諦めるの？
 PROPQUEST_SCENARIO_INC_002279,You have found the Angelic Stone! Now I can create a Shard of Enlightenment by combining both of the stones.,気力の源ですね。これで準備は整いましたね。
 PROPQUEST_SCENARIO_INC_002280,We have no time for idle conversation. Please retrieve the stone!,私としたことがうっかりと忘れてしまうなんて……ああ……修行が足りないな。
 PROPQUEST_SCENARIO_INC_002281,"Hunt 60 Captain Glaphans, acquire the Angelic Stone, then take it to Capafe for transmutation.",キャプテン・グラファンを60体倒して、気力の源を入手した後、カペーペに報告せよ。
@@ -1041,7 +1041,7 @@ PROPQUEST_SCENARIO_INC_002329,Strange sounds have been coming from the Leren Mou
 PROPQUEST_SCENARIO_INC_002330,Could you go check with her to see if she has any information about what could be causing this disturbance?,この騒動の原因について何か情報があるかどうか、彼女に確認してもらえますか?
 PROPQUEST_SCENARIO_INC_002331,Martinyc is likely reading her books as always. Go speak with her to find out more information.,マルティニークはいつものように彼女の本を読んでいる可能性があります。詳細については、彼女と話してください。
 PROPQUEST_SCENARIO_INC_002332,Leren Mountains is a dangerous place. I do not blame you for wanting to stay within the safety of Flarine.,レレン山脈は危険な場所です。私はあなたがフラリスの安全の中にとどまりたいと思っていることを責めません。
-PROPQUEST_SCENARIO_INC_002333,Oh... the Mayor sent you! And he says that there has been a disturbance in the Leren Mountains...,おや。。市長があなたを送りました!そして彼は、レレン山脈で混乱があったと言います..
+PROPQUEST_SCENARIO_INC_002333,Oh... the Mayor sent you! And he says that there has been a disturbance in the Leren Mountains...,おや……市長があなたを送ってくれたのですね！レレン山脈で異変が起きていると聞きました……
 PROPQUEST_SCENARIO_INC_002334,Seek out Martinyc for information on the rumblings of Leren Mountains.,レレン山脈のゴロゴロに関する情報については、マルティニークを探してください。
 PROPQUEST_SCENARIO_INC_002335,Meet with Martinyc.,マルティニークと会う。
 PROPQUEST_SCENARIO_INC_002336,Demian Deviants,デミアン・デビアンツ
@@ -1053,13 +1053,13 @@ PROPQUEST_SCENARIO_INC_002341,"You found my book, thank you so much! Now to find
 PROPQUEST_SCENARIO_INC_002342,Please find my book! I'm positive it is still in Madren Town.,私の本を見つけてください!私はそれがまだマドレンタウンにあると確信しています。
 PROPQUEST_SCENARIO_INC_002343,"Kill 15 Demian and find the Legend of Leren Mountains, then return to Martinyc.",15人のデミアンを殺し、レレン山脈の伝説を見つけて、マルティニークに戻ります。
 PROPQUEST_SCENARIO_INC_002344,Magic Mushrooms,マジックマッシュルーム
-PROPQUEST_SCENARIO_INC_002345,Within this book lies the secrets to the distubances in the Leren Mountains... ,この本の中には、レレン山脈のディスタブランスの秘密があります。 
+PROPQUEST_SCENARIO_INC_002345,Within this book lies the secrets to the distubances in the Leren Mountains... ,この本には、レレン山脈で起きている異変の秘密が記されている……
 PROPQUEST_SCENARIO_INC_002346,The legend states that long ago packs of trolls ruled the creatures that made the Leren Mountains their home. ,伝説によると、はるか昔、トロルの群れがレレン山脈を故郷にした生き物を支配していました。
 PROPQUEST_SCENARIO_INC_002347,"Through disease, famine, and bickering betweeen Masquerpets, the trolls retreated from the Leren Mountains into the caves.",病気、飢饉、そしてマスケルペッツ間の口論を通して、トロルはレレン山脈から洞窟に後退しました。
 PROPQUEST_SCENARIO_INC_002348,"The caves were said to contain magical mushrooms that could prolong the life of those who ate them, and it is said that the trolls who once lived in the cave may still live there, in the darkness.",洞窟には、それらを食べた人々の寿命を延ばすことができる魔法のキノコが含まれていると言われており、かつて洞窟に住んでいたトロルは、暗闇の中でまだそこに住んでいる可能性があると言われています。
 PROPQUEST_SCENARIO_INC_002349,Perhaps a sample of the local fungi could hold some clues...,おそらく、地元の真菌のサンプルがいくつかの手がかりを保持している可能性があります..
 PROPQUEST_SCENARIO_INC_002350,"A Lord Mushpang roams just north of Eastern Flarine... Bring a sample of the giant mushroom to the cook Sotta, who can tell you more about the magical properties of Flaris fungi.",東フラリスの北にロード・マッシュファングが徘徊している……。この巨大キノコのサンプルを料理人ソタに届けてくれ。フラリス菌の不思議な力について、詳しく教えてくれるはずだ。
-PROPQUEST_SCENARIO_INC_002351,Oh... are you allergic to mushrooms!? Nevermind... perhaps we can find another person for the job.,おや。。キノコアレルギー!?用事。。おそらく、その仕事のために別の人を見つけることができるでしょう。
+PROPQUEST_SCENARIO_INC_002351,Oh... are you allergic to mushrooms!? Nevermind... perhaps we can find another person for the job.,おや……キノコアレルギーなんですか！？それなら仕方ありません……この仕事は誰か他の人にお願いするとしましょう。
 PROPQUEST_SCENARIO_INC_002352,"Ah, Flaris fungi! The mushrooms of Flaris have always been said to have magical properties...",ああ、フラリス菌!フラリスのキノコは常に魔法の特性を持っていると言われています。
 PROPQUEST_SCENARIO_INC_002353,Collect a sample of the Lord Mushpang and deliver it to Sotta.,ロード・マッシュファングのサンプルを採取し、ソタに届ける。
 PROPQUEST_SCENARIO_INC_002354,Collect a sample of Flaris Fungi from a Lord Mushpang.,ロード・マッシュファングからフラリス菌のサンプルを採取する。
@@ -1099,7 +1099,7 @@ PROPQUEST_SCENARIO_INC_002387,"Search for the entrance to the Leren Chasm, then 
 PROPQUEST_SCENARIO_INC_002388,"Locate the entrance to the Leren Chasm in the Leren Mountains, and report back to Radion.",レレン山脈のレレンの淵の入り口を見つけて、ラディオンに報告してください。
 PROPQUEST_SCENARIO_INC_002389,Prepare to Dive!,ダイビングの準備をしてください!
 PROPQUEST_SCENARIO_INC_002390,"Now that we know where the Leren Chasm is, I have stationed a guard outside the cave to prevent anyone from accidently going inside.",レレンの淵がどこにあるかがわかったので、洞窟の外に警備員を配置して、誰かが誤って中に入るのを防ぎました。
-PROPQUEST_SCENARIO_INC_002391,"From here on adventurer, you must delve into the Leren Chasm if we are ever to know the truth. Please speak to the Leren Chasm guard when you are ready to explore the caves.",ここから冒険者、私たちが真実を知るためには、レレンの裂け目を掘り下げる必要があります。洞窟を探索する準備ができたら、レレンの淵の警備員に話しかけてください。
+PROPQUEST_SCENARIO_INC_002391,"From here on adventurer, you must delve into the Leren Chasm if we are ever to know the truth. Please speak to the Leren Chasm guard when you are ready to explore the caves.",ここから先は、冒険者よ、真実を知るためにはレレンの淵に踏み込まねばなりません。洞窟を探索する準備ができたら、レレンの淵の警備員に話しかけてください。
 PROPQUEST_SCENARIO_INC_002392,"What you find in the caves of Leren Chasm may be terrifying, but I sense a special kind of bravery within you adventurer... When you are ready go speak to the guard outside the Leren Chasm.",レレンの淵の洞窟で見つけたものは恐ろしいかもしれませんが、冒険者の中に特別な勇気を感じます。準備ができたら、レレンの淵の外にいる警備員に話しかけてください。
 PROPQUEST_SCENARIO_INC_002393,"Without you, the mystery of the Leren Chasm trolls may never be resolved. No matter though...",あなたがいなければ、レレンの淵トロールの謎は決して解決されないかもしれません。関係ありませんが..
 PROPQUEST_SCENARIO_INC_002394,"Welcome to the Leren Chasm. I am here to prevent those who are ill-prepared from entering and befalling an early death... I see Radion sent you though, you seem prepared.",レレンの淵へようこそ。私は、準備ができていない人々が入って早期に死ぬのを防ぐためにここにいます..ラディオンがあなたを送ったようですが、あなたは準備ができているようです。
@@ -1116,11 +1116,11 @@ PROPQUEST_SCENARIO_INC_002404,Eliminate 20 Deep Cave Gorilla and Cavern Larva.,�
 PROPQUEST_SCENARIO_INC_002405,"Enter the Leren Chasm, then kill 20 Deep Cave Gorilla and 20 Cavern Larva.",レレンの淵へ入り、ディープケイブゴリラとケイヴンラーバを20体討伐
 PROPQUEST_SCENARIO_INC_002406,Creepy Crawlers,不気味なクローラー
 PROPQUEST_SCENARIO_INC_002407,While inside the Leren Chasm there were no sign of the trolls? Go back inside and push deeper within the caves to look for more evidence.,レレンの淵の中にいる間、トロルの兆候はありませんでしたか?中に戻り、洞窟の奥深くまで押し込んで、より多くの証拠を探します。
-PROPQUEST_SCENARIO_INC_002408,Please speak to me when you are ready to enter the Leren Chasm once again. You will need to go past where you faced the Cavern Larva this time to find more information.,もう一度レレンの淵に入る準備ができたら、私に話しかけてください。詳細については、今回は洞窟の幼虫と対峙した場所を通り過ぎる必要があります。
+PROPQUEST_SCENARIO_INC_002408,Please speak to me when you are ready to enter the Leren Chasm once again. You will need to go past where you faced the Cavern Larva this time to find more information.,もう一度レレンの淵に入る準備ができたら、私に話しかけてください。さらなる情報を得るには、今回はケイヴンラーバと対峙した場所を通り過ぎる必要があります。
 PROPQUEST_SCENARIO_INC_002409,The situation will only become more dangerous the deeper within the Leren Chasm you go. Stop now if you are scared.,状況は、あなたが行くレレンの淵の奥深くに行くほど、より危険になります。怖いなら今すぐやめてください。
 PROPQUEST_SCENARIO_INC_002410,"Perhaps this Broken Vial was once an Elixir of Vitality. It seems the magic within was used long ago, however...",おそらく、この壊れたバイアルはかつて活力のエリクサーでした。しかし、内部の魔法はずっと前に使われていたようです..。
-PROPQUEST_SCENARIO_INC_002411,"Eliminate 20 Radioactive Long Legs, and collect a Broken Vial from the Queen Long Legs.",ラディオアクティブロングレッグボウを20体排除し、クイーンロングレッグスボウから壊れたバイアルを収集してください。
-PROPQUEST_SCENARIO_INC_002412,"Enter the Leren Chasm, then kill 20 Radioactive Long Legs and obtain the Broken Vial from the Queen Long Legs.",ラディオアクティブロングレッグボウを20体排除し、クイーンロングレッグスボウから壊れたバイアルを収集してください。
+PROPQUEST_SCENARIO_INC_002411,"Eliminate 20 Radioactive Long Legs, and collect a Broken Vial from the Queen Long Legs.",ラディオアクティブロングレッグスを20体倒し、クイーンロングレッグスから壊れたバイアルを回収してください。
+PROPQUEST_SCENARIO_INC_002412,"Enter the Leren Chasm, then kill 20 Radioactive Long Legs and obtain the Broken Vial from the Queen Long Legs.",レレンの淵に入り、ラディオアクティブロングレッグスを20体倒して、クイーンロングレッグスから壊れたバイアルを手に入れてください。
 PROPQUEST_SCENARIO_INC_002413,Grabbed by the Ghouls,グールにつかまれて
 PROPQUEST_SCENARIO_INC_002414,"The Queen Long Legs held evidence that the Elixir of Vitality was once real. But still, there have been no sightings of trolls within your journeys through the Leren Chasm.",クイーンロングレッグスは、活力のエリクサーがかつて本物であったという証拠を持っていました。しかし、それでも、レレンの淵を通る旅の中でトロルの目撃はありませんでした。
 PROPQUEST_SCENARIO_INC_002415,"There must be more to the Leren Chasm that has yet to be uncovered. If you are feeling brave, descend deeper within the caves, and see what may be waiting for us.",レレンの淵には、まだ明らかにされていないものがあるに違いありません。勇気があれば、洞窟の奥深くに降りて、何が私たちを待っているのかを見てください。
@@ -1128,7 +1128,7 @@ PROPQUEST_SCENARIO_INC_002416,Please speak to me when you are ready to enter the
 PROPQUEST_SCENARIO_INC_002417,The Queen Long Legs was a powerful foe. I am sure the remaining Masuqerpets within the Leren Chasm will only get stronger. Rest here for now if you are not ready.,クイーンロングレッグスは強力な敵でした。レレンの淵内に残っているモンスターは、ますます強くなると確信しています。準備ができていない場合は、今のところここで休んでください。
 PROPQUEST_SCENARIO_INC_002418,"The souls of the Nightmist creatures have an interesting property... when looking through the glassy orb that contains the soul itself, it faintly looks like the face of a troll.",ナイトミストの生き物の魂は興味深い性質を持っています..魂そのものを含むガラスのオーブを通して見ると、それはかすかにトロールの顔のように見えます。
 PROPQUEST_SCENARIO_INC_002419,"Eliminate 20 Cavern Nightmist and the Nightmist Empress, and collect 10 Soul of the Nightmist.",ナイトミストとナイトミスト皇后を20体撃破し、ナイトミストの魂を10個集める。
-PROPQUEST_SCENARIO_INC_002420,"Enter the Leren Chasm, then kill 20 Cavern Nightmist and the Nightmist Empress. Collect 10 Souls of the Nightmist.",レレンの裂け目に入り、20人のキャバーンナイトミストとナイトミストエンプレスを殺します。ナイトミストの魂を10個集める。
+PROPQUEST_SCENARIO_INC_002420,"Enter the Leren Chasm, then kill 20 Cavern Nightmist and the Nightmist Empress. Collect 10 Souls of the Nightmist.",レレンの淵に入り、キャバーンナイトミストを20体とナイトミストエンプレスを討伐する。ナイトミストの魂を10個集める。
 PROPQUEST_SCENARIO_INC_002421,Trolling Flaris,トローリングフラリス
 PROPQUEST_SCENARIO_INC_002422,I have contacted the experts of Flaris history and magic to review the findings surrounding the interesting properties of the souls of the Nightmist.,私はフラリスの歴史と魔法の専門家に連絡を取り、ナイトミストの魂の興味深い特性を取り巻く調査結果をレビューしました。
 PROPQUEST_SCENARIO_INC_002423,Shockingly... they have come to the conclusion that these Nightmist creatures were likely once trolls themselves. The Elixir of Vitality may have given them unending life in a new form.,驚く ほど。。彼らは、これらのナイトミストの生き物はかつてトロールであった可能性が高いという結論に達しました。活力のエリクサーは、彼らに新しい形で終わりのない人生を与えたかもしれません。
@@ -1241,16 +1241,16 @@ PROPQUEST_SCENARIO_INC_002529,Find the lair of Ishirut's remnant.,イシルー�
 PROPQUEST_SCENARIO_INC_002530,Remnant of Ishirut Part 3,イシルートの残党パート3
 PROPQUEST_SCENARIO_INC_002531,Jeepers Creepers,ジーパーズクリーパーズ
 PROPQUEST_SCENARIO_INC_002532,"A small group recently went inside the catacombs, but have not returned in several hours. I fear they have fallen to whatever creatures may be inside. ",最近、小さなグループがカタコンベの中に入ったが、数時間戻ってこなかった。私は彼らが中にいるかもしれないどんな生き物にも落ちたのではないかと心配しています。
-PROPQUEST_SCENARIO_INC_002533,"A thick webbing has appeared around the entrance, and I hear loud footsteps not far within the depths of the ruins.",入り口の周りに厚い水かきが現れ、遺跡の奥深くでそれほど遠くないところで大きな足音が聞こえます。
+PROPQUEST_SCENARIO_INC_002533,"A thick webbing has appeared around the entrance, and I hear loud footsteps not far within the depths of the ruins.",入り口の周りに厚いクモの巣が張られていて、遺跡の奥深くからそう遠くないところで大きな足音が聞こえます。
 PROPQUEST_SCENARIO_INC_002534,Go inside and find out what happened to the group before you.,中に入って、あなたの前にグループに何が起こったのかを調べてください。
 PROPQUEST_SCENARIO_INC_002535,Scared of a few spiders? Those poor adventurers...,いくつかのクモが怖いですか?あの哀れな冒険者たち..
 PROPQUEST_SCENARIO_INC_002536,"I see... so you found only the remains of their armor. It is a shame what has happened, but you seem to be strong enough to continue pushing deeper into the ruins.",なるほど。。それで、あなたは彼らの鎧の残骸だけを見つけました。何が起こったのか残念ですが、あなたは廃墟の奥深くに押し込み続けるのに十分強いようです。
 PROPQUEST_SCENARIO_INC_002537,Investigate the disappearance of the lost adventurers.,行方不明の冒険者の失踪を調査します。
 PROPQUEST_SCENARIO_INC_002538,Collect 10 Clothing Scraps and 1 Broken Shield.,衣類の切れ端を10個、壊れた盾を1個集める。
 PROPQUEST_SCENARIO_INC_002539,Over Encumbered,邪魔されすぎ
-PROPQUEST_SCENARIO_INC_002540,"One thing still troubles me though... The thick webbing around the entrance can be explained by the spiders, but what creature could have such loud, stomping footsteps?",しかし、まだ1つのことが私を悩ませています..入り口の周りの厚い水かきはクモによって説明することができますが、どの生き物がそのような大声で踏み鳴らす足音を持つことができますか?
+PROPQUEST_SCENARIO_INC_002540,"One thing still troubles me though... The thick webbing around the entrance can be explained by the spiders, but what creature could have such loud, stomping footsteps?",しかし、まだ1つだけ気になることがあります……入り口の周りの厚いクモの巣はクモの仕業だと分かりますが、あの大きな足音を立てる生き物は一体何なのでしょうか？
 PROPQUEST_SCENARIO_INC_002541,Go deeper into the ruins and find out what is making that loud thumping noise.,廃墟の奥深くに行き、その大きなゴツゴツという音を立てているものを見つけてください。
-PROPQUEST_SCENARIO_INC_002542,I won't blame you for avoing whatever beast awaits the next group of adventurers. It sounds big...,次の冒険者グループを待っている獣を犯したことであなたを責めるつもりはありません。それは大きく聞こえます..
+PROPQUEST_SCENARIO_INC_002542,I won't blame you for avoing whatever beast awaits the next group of adventurers. It sounds big...,次の冒険者グループを待ち受けている獣を避けたとしても、あなたを責めるつもりはありませんよ。かなり大きな相手のようですから……
 PROPQUEST_SCENARIO_INC_002543,"Sadly it seems the adventurers all fell to the power of the the massive gorilla inside the ruins... I believe the group would have wanted you to finish what they set out to do. Here, take their belongings. Perhaps it will help.",悲しいことに、冒険者たちは皆、廃墟の中の巨大なゴリラの力に落ちたようです。グループはあなたに彼らがやろうとしていることを終えてほしかっただろうと私は信じています。ここで、彼らの持ち物を取ります。おそらくそれは役立つでしょう。
 PROPQUEST_SCENARIO_INC_002544,Investigate the loud sound of footsteps within the catacombs.,カタコンベ内の大きな足音を調べます。
 PROPQUEST_SCENARIO_INC_002545,Collect 10 Dungeoneer's Pack and 1 Broken Sword.,ダンジョンパック10個と壊れた剣1個を集める。
@@ -1296,7 +1296,7 @@ PROPQUEST_SCENARIO_INC_002584,"You're wasting time! Go to the Altar of Violet, n
 PROPQUEST_SCENARIO_INC_002585,Visit the Atlar of Violet in Darkon 1.,ダーコン1のバイオレットのアトラーを訪れてください。
 PROPQUEST_SCENARIO_INC_002586,An Evil Set Free,解放された悪
 PROPQUEST_SCENARIO_INC_002587,Just one binding is left... we must break it so I can grant you new strength!,バインドが1つだけ残っています。私はあなたに新しい力を与えることができるようにそれを壊さなければなりません!
-PROPQUEST_SCENARIO_INC_002588,That foolish clown thought they hid his cache of power out of reach of my minions... HA! How wrong he was... Collect the cache and my bindings to this place will finally be broken! No one will be able to stop me either... unless that rat Reodos is still around.,あの愚かな道化師は、彼らが私の手下の手の届かないところに彼の力のキャッシュを隠したと思った..。ハ!彼がどれほど間違っていたか..キャッシュを集めると、この場所への私のバインディングがついに壊れます!誰も私を止めることはできません..そのネズミレオドスがまだ周りにいない限り。
+PROPQUEST_SCENARIO_INC_002588,That foolish clown thought they hid his cache of power out of reach of my minions... HA! How wrong he was... Collect the cache and my bindings to this place will finally be broken! No one will be able to stop me either... unless that rat Reodos is still around.,あの愚かな道化師は、力の隠し場所を私の手下たちの手が届かないところに隠したつもりでいたようだが……ハッ！とんだ思い違いだったな……その隠し場所を集めれば、この場所を縛る私の枷はついに解かれる！もはや誰も私を止められまい……あのネズミ、レオドスがまだ生きていない限りはな。
 PROPQUEST_SCENARIO_INC_002589,ARGH!! You must set me free!,なんて こった！！あなたは私を解放しなければなりません!
 PROPQUEST_SCENARIO_INC_002590,Oh no... that Ancimys was one shackled by Bubble himself! It was once an ancient wizard with powerful black magic... this is very bad news.,ああ違います。。そのアンシミスはバブル自身によって束縛された人でした!それはかつて強力な黒魔術を持った古代の魔法使いでした..。これは非常に悪いニュースです。
 PROPQUEST_SCENARIO_INC_002591,You are just as foolish as the clown... find his cache of power!,あなたはピエロと同じくらい愚かです..彼の力のキャッシュを見つけてください!
@@ -1317,7 +1317,7 @@ PROPQUEST_SCENARIO_INC_002605,"It was reported a few hours ago that a wall near 
 PROPQUEST_SCENARIO_INC_002606,"I wish to investigate the matter, but I have to attend to my duties here in the city.",私はその件を調査したいのですが、私はこの街での職務に出席しなければなりません。
 PROPQUEST_SCENARIO_INC_002607,Collect enough samples of Syliaca to see if the flood has caused any mutations in their DNA.,洪水がDNAに突然変異を引き起こしたかどうかを確認するために、シリアカの十分なサンプルを収集します。
 PROPQUEST_SCENARIO_INC_002608,"Without your help, who knows when I'll have time to investigate this matter...",あなたの助けがなければ、私がこの問題を調査する時間がいつあるか誰が知っていますか..
-PROPQUEST_SCENARIO_INC_002609,Fascinating! After analyzing the Syliaca samples it seems the water in the flood contains a magic component that affects the Syliaca's brain.,嬈！シリアカのサンプルを分析した後、洪水の水にはシリアカの脳に影響を与える魔法の成分が含まれているようです。
+PROPQUEST_SCENARIO_INC_002609,Fascinating! After analyzing the Syliaca samples it seems the water in the flood contains a magic component that affects the Syliaca's brain.,興味深いですね！シリアカのサンプルを分析したところ、洪水の水にはシリアカの脳に影響を与える魔法の成分が含まれているようです。
 PROPQUEST_SCENARIO_INC_002610,The hormones of these Syliaca seem to affect how aggressive they will become. And their teeth are somehow much sharper than before...,これらのシリアカのホルモンは、彼らがどれほど攻撃的になるかに影響を与えるようです。そして、彼らの歯はどういうわけか以前よりもはるかに鋭いです..
 PROPQUEST_SCENARIO_INC_002611,Collect 20 Syliaca DNA.,20個のシリアカDNAを収集します。
 PROPQUEST_SCENARIO_INC_002612,The Hidden Cavern,隠された洞窟
@@ -1530,10 +1530,10 @@ PROPQUEST_SCENARIO_INC_002818,You couldn't find the Skeletal Militants and their
 PROPQUEST_SCENARIO_INC_002819,Kill 80 Skeletal Militants and the Skeleton General.,80人の骨格過激派とスケルトン将軍を倒す。
 PROPQUEST_SCENARIO_INC_002820,Weapon of the Future,未来の武器
 PROPQUEST_SCENARIO_INC_002821,The dream of building a new weapon to defend Madgrial is starting to feel real. The only thing standing in our way is the Crystal Demon Lord.,マドリガルを守るために新しい武器を作るという夢が現実に感じ始めています。私たちの邪魔をしているのはクリスタル魔王だけです。
-PROPQUEST_SCENARIO_INC_002822,"Go collect the Clockworks Core that the Crystal Demon Lord has been guarding all these years. Once you've collected the Clockworks Core, I'm sure that Rankashu would appreciate an update on your progress...",クリスタル魔王がここ数年守ってきた時計のコアを集めに行きましょう。時計のコアを集めたら、蘭川があなたの進捗状況の最新情報をいただければ幸いです。
+PROPQUEST_SCENARIO_INC_002822,"Go collect the Clockworks Core that the Crystal Demon Lord has been guarding all these years. Once you've collected the Clockworks Core, I'm sure that Rankashu would appreciate an update on your progress...",クリスタル魔王がここ数年守ってきた時計のコアを集めに行きましょう。時計のコアを集めたら、蘭川もきっと進捗状況を聞きたがるはずです……
 PROPQUEST_SCENARIO_INC_002823,Without the Clockworks Core there is no hope to build a new weapon.,クロックワークスコアがなければ、新しい武器を作ることはできません。
 PROPQUEST_SCENARIO_INC_002824,"This is incredible!!! My kin was in Storm Peak all along... and a Clockworks Core was being guarded there, too!? Perhaps the future of Madrigal is brighter than I thought...",これは信じられません！！！私の親族はずっとストームピークにいました..。時計のコアも守られていた!?もしかしたら、マドリガルの未来は思ったより明るいのかもしれない。
-PROPQUEST_SCENARIO_INC_002825,"I will spend my days trying to understand this Clockworks Core, perhaps one day Rankashin and I will successfully create the strongest Clockworks of all time!",私はこのクロックワークスコア、おそらくいつかランカシンを理解しようと日々を過ごし、史上最強のクロックワークスを成功裏に作成します!
+PROPQUEST_SCENARIO_INC_002825,"I will spend my days trying to understand this Clockworks Core, perhaps one day Rankashin and I will successfully create the strongest Clockworks of all time!",私はこの時計のコアを解明するために日々を費やすつもりです。いつかランカシンと共に、史上最強のクロックワークスを完成させてみせましょう!
 PROPQUEST_SCENARIO_INC_002826,Destroy the Crystal Demon Lord so I may finally bring a new Clockworks into the world!,クリスタル魔王を倒して、ついに新しい時計仕掛けを世界に持ち込むことができます!
 PROPQUEST_SCENARIO_INC_002827,"Defeat the Crystal Demon Lord to obtain the Clockworks Core, then return to Rankashu in Darkon.",クリスタル魔王を倒してクロックワークスコアを手に入れ、ダーコンのランカシュに戻ります。
 PROPQUEST_SCENARIO_INC_002828,Hael's Swords,ハエルの剣
