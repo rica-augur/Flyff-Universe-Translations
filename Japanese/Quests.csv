@@ -925,13 +925,13 @@ PROPQUEST_INC_001550,Hunt Down 20 Drillers and return to Ellend in Darken City.,
 PROPQUEST_INC_001552,Successor of Hero -Seal-,英雄の後継者-印章-
 PROPQUEST_INC_001553,This letter of recommendation is proof of your achievements as a Ringmaster. Guard it as you would your own life.,これはマスターが後継者としての資質を認めたという推薦書です。あなたの資質が認められるものですから大事にしてください。
 PROPQUEST_INC_001554,"Take it to Clamb, the Ringmaster Sage. He resides at the The Fountain of Dead Person in the Northern Leren Mountains.",それではフラリスのレルエン山脈北部にある魂の泉に行って、リングマスター賢者クラムボにその推薦書を渡してください。
-PROPQUEST_INC_001555,"Before you do that, however, retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning.",その前に、セイントモーニング沈黙の高原近くに住んでいるロイからエイエンの封印を手に入れてください。
+PROPQUEST_INC_001555,"Before you do that, however, retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning.",その前に、セイントモーニング沈黙の高原近くに住んでいるパイアからエイエンの封印を手に入れてください。
 PROPQUEST_INC_001556,May Aenn’s mercy be with you always.,幸運の女神があなたに振り向きますように。
 PROPQUEST_INC_001558,The Seal of Aenn! Someone’s finally found the Aenn family symbol!,おお、これはエーエンヌ様の印章。おぬしが見つけたのか！この印章はエーエンヌ様の家門を象徴する印章で、とても価値のある聖遺物じゃ。
-PROPQUEST_INC_001559,"I’d always heard that Roy would steal anything of value, but I never thought he’d have a mind to take the Seal!",高価なものには目がないレンというやつがこれを盗んだという噂があったが、それは本当だったということじゃな。
+PROPQUEST_INC_001559,"I’d always heard that Roy would steal anything of value, but I never thought he’d have a mind to take the Seal!",高価なものには目がないパイアというやつがこれを盗んだという噂があったが、それは本当だったということじゃな。
 PROPQUEST_INC_001560,Your efforts are most appreciated!,ようやってくれた。ありがとうな。
 PROPQUEST_INC_001561,You're a long way from a doctor’s office… but I am still a healer of the sick and injured.,わしは以前医療神官じゃった。今はなくなった職業じゃがの。当時は＜神の癒し手＞とよばれて、若いギャルに大人気じゃったわい！カッカッカッ。
-PROPQUEST_INC_001562,"Retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning, then take it to Clamb, the Ringmaster Sage. You can find him at the Fountain of Dead Person.",セイントモーニングの沈黙の高原でエーエンヌの印章を取り戻してから、フラリスの魂の泉にいるリングマスター賢者クラムボに会いましょう。
+PROPQUEST_INC_001562,"Retrieve the Seal of Aenn from Roy near the Plateau of Silence in Saint Morning, then take it to Clamb, the Ringmaster Sage. You can find him at the Fountain of Dead Person.",セイントモーニングの沈黙の高原にいるパイアからエーエンヌの印章を取り戻してから、フラリスの魂の泉にいるリングマスター賢者クラムボに会いましょう。
 PROPQUEST_INC_001565,"Now, deliver the Seal to Teshar, the leader of Kyon Soldiers.",じゃぁ、この遺物をフラリスのキオン傭兵団の団長テサルに渡してくれ。　
 PROPQUEST_INC_001566,Teshar and her Mercenaries can be found in Eastern Flarine.,傭兵団の基地はフラリスのイストプルの外郭にあるから、その辺を探せばすぐ見つかるはずじゃ。
 PROPQUEST_INC_001567,Make haste!,よろしくお願いします。
@@ -951,14 +951,14 @@ PROPQUEST_INC_001584,"I have given you your task, young one. Please do it.",こ�
 PROPQUEST_INC_001585,"$QUEST_END_KILL_NAME$ is in Darkon 1. Find him, get back the $QUEST_END_ITEM_NAME$, and take it to Heedan in Cendil, Darkon 3.",ダーコン第1地区に住んでいる＜$QUEST_END_KILL_NAME$＞から＜$QUEST_END_ITEM_NAME$＞を取り戻し、ダーコン3のセンディルにいるリングマスター司祭ヒエロニム様に持っていってください。
 PROPQUEST_INC_001588,Here is the Symbol of the Hero. You have to complete one more task in order to be recognized as a Successor of the Hero.,じゃあ、これが英雄の証だよ。実は、このほかにもうひとつ証が必要なんだ。
 PROPQUEST_INC_001589,"There is a place called the Room of the Guardian. You can find it in Guardiane. There, the Will of Heroes is protected.",ガルディアの守護者の部屋には英雄たちの紋章があって、そこには英雄たちの意志が保存されているんだ。
-PROPQUEST_INC_001590,"Defeat the guardian spirit, Cardinal Guardian, and retrieve his heart.",この守護者の部屋にいるヴェネル・ガーディアンを倒して、ヴェネル・ハートを手にいれてください。そのハートが最後の証なのさ。
+PROPQUEST_INC_001590,"Defeat the guardian spirit, Cardinal Guardian, and retrieve his heart.",この守護者の部屋にいるカーディナル・ガーディアンを倒して、そのハートを手にいれてください。そのハートが最後の証なのさ。
 PROPQUEST_INC_001591,"Then, deliver the heart to Romvoette, the Ringmaster Guardian in Guardiane.",それを手に入れたらリングマスター守護者ロンボーヌのもとに行ってください。
 PROPQUEST_INC_001592,"I wish you luck, Assist.",じゃあ、がんばってね。無事に試練を乗り越えられますように！
 PROPQUEST_INC_001593,"You've come all this way just to give up? This is the last step. Please, think this through.",えー！こまできてやめちゃうのかい？せっかくここまでがんばったのに。もう一度よく考えなよ！
 PROPQUEST_INC_001594,"Welcome, Assist. You've done very well! Now, I appoint you the Successor of the Ringmaster Hero!",後継者よ。汝は最後の試練を乗り越えた。これからはリングマスター後継者として新たな道を歩むがよい！運命の女神の紡ぐ糸は、汝の運命に新たな綾を織り成すであろう。
 PROPQUEST_INC_001595,"Aenn, bless and watch over this person who is following your will, Ringmaster!",＜神の声を聞く者＞エーエンヌよ、今ここに新たな後継者が誕生しました！この者に祝福と勇気を授けたまえ！
 PROPQUEST_INC_001596,"I believe you've come here by mistake, Assist. Have you forgotten your task?",ここは英雄の後継者として認められた者のみが立ち入ることを許される、資格のないものは即刻立ち去るがよい･･･。
-PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",ガルディアの守護者の部屋にいる守護精霊＜ヴェネル・ガーディアン＞のハートを手に入れ、リングマスター守護者ロンボーヌに会おう。
+PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",ガルディアの守護者の部屋にいる守護精霊＜カーディナル・ガーディアン＞のハートを手に入れ、リングマスター守護者ロンボーヌに会おう。
 PROPQUEST_INC_001600,"So, you think you're ready to become a Successor of the Psykeeper Hero? You've come a long way, Magician. I think you're ready.",サイキーパー後継者の道を歩む覚悟はできていますか？では、ご案内します。
 PROPQUEST_INC_001601,"First, we'll need to test your skills in combat if we are to continue down this path.",まずあなたが後継者としての資質を持っているか、簡単にテストを行います。この試験によりあなたの戦闘能力を見させてもらいます。
 PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",キプラと呼ばれる地域に生息する$QUEST_END_KILL_COUNT$体の$QUEST_END_KILL_NAME$を倒してください。スモール・$QUEST_END_KILL_NAME$、ジャイアント・$QUEST_END_KILL_NAME$ではなく、$QUEST_END_KILL_NAME$を倒してきてください。ゴウダン山脈南西にいるはずです。
