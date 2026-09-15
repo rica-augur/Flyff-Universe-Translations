@@ -957,12 +957,12 @@ PROPQUEST_SCENARIO_INC_002235,(Billposter Guardian) Capafe is located in Souther
 PROPQUEST_SCENARIO_INC_002236,Find (Billposter Guardian) Capafe.,ビルポスター守護者カペーペを訪ねよ。
 PROPQUEST_SCENARIO_INC_002238,Enlightenment Shard,悟りの欠片
 PROPQUEST_SCENARIO_INC_002239,"Sury is currently in a perpetual state of self doubt. Despite her unyielding dedication to her training, there is a self-realization she alone will have to make…",ええ……みなまで申さずともわかります。シュリ様はいま大変にお悩みのようですね。心は生まれ変わっても肉体との接点がないのでしょう。
-PROPQUEST_SCENARIO_INC_002240,Go to Fera to get the Enlightenment Shard. She will tell you.,悟りの境地ですか……そうですね。この件については私よりもベラの方がよいでしょう。
-PROPQUEST_SCENARIO_INC_002241,"We may be able to assist her in making this realization though… Find Fera, the Billposter Priest, at the Altar of Billposter North of here. She might know of a way…",ベラはビルポスター祭壇にいます。私からも話しておきますのでベラのもとへ行って頂けませんか？
+PROPQUEST_SCENARIO_INC_002240,Go to Fera to get the Enlightenment Shard. She will tell you.,悟りの境地ですか……そうですね。この件については私よりもぺラの方がよいでしょう。
+PROPQUEST_SCENARIO_INC_002241,"We may be able to assist her in making this realization though… Find Fera, the Billposter Priest, at the Altar of Billposter North of here. She might know of a way…",ぺラはビルポスター祭壇にいます。私からも話しておきますのでぺラのもとへ行って頂けませんか？
 PROPQUEST_SCENARIO_INC_002242,Don't refuse your destiny!,そうですか……
 PROPQUEST_SCENARIO_INC_002243,"The Guardian has sent you, right? I was waiting for you…",お待ちしておりました。守護者の方から連絡がありました。
-PROPQUEST_SCENARIO_INC_002244,Fera is Bill Poster Priest at the Bill Poster Altar. You shall find her there. I'm sure she is already expecting you.,ベラはビルポスター祭壇にいると思いますのでよろしくお願いします。
-PROPQUEST_SCENARIO_INC_002245,Find Fera in Billposter Alter,ビルポスター祭壇にいるベラを訪ねよ。
+PROPQUEST_SCENARIO_INC_002244,Fera is Bill Poster Priest at the Bill Poster Altar. You shall find her there. I'm sure she is already expecting you.,ぺラはビルポスター祭壇にいると思いますのでよろしくお願いします。
+PROPQUEST_SCENARIO_INC_002245,Find Fera in Billposter Alter,ビルポスター祭壇にいるぺラを訪ねよ。
 PROPQUEST_SCENARIO_INC_002247,Fera's Test,ペラの試験
 PROPQUEST_SCENARIO_INC_002248,"Sury's mind is currently clouded with doubt, as the Guardian had mentioned. In her current state, she will never reach enlightenment regardless of how hard she trains…",シュリの心は現在疑いで曇っています。 彼女の現在の状態では、どんなに激しく訓練しても、彼女は決して悟りに達することはできません。
 PROPQUEST_SCENARIO_INC_002249,"To help grant her thoughts a renewed sense of clarity, we must bring her a Shard of Enlightenment. First I must test your own personal strength. Do you accept?",彼女の考えに新たな明晰さを与えるために、私たちは彼女に悟りの欠片を持って来なければなりません。 最初に私はあなたの強さをテストしなければなりません。 受けますか？
@@ -970,7 +970,7 @@ PROPQUEST_SCENARIO_INC_002250,I knew you wouldn't back away from this challenge.
 PROPQUEST_SCENARIO_INC_002251,We must not falter in the face of adversity!,そうですか。まあ、貴方にも理由があるのでしょうね。
 PROPQUEST_SCENARIO_INC_002252,I never doubted your skill for a second!,ケルンを倒してきたのですね。確かに、貴方に悟りの一部が宿ってきたようです。
 PROPQUEST_SCENARIO_INC_002253,Please go and hunt down the Kern as a test of your own strength.,ケルンはこの周辺に生息しています。どうぞお気をつけて！
-PROPQUEST_SCENARIO_INC_002254,"Hunt 60 Small Kern and 40 Kern located in Southern Darkon 3, then talk with Fera.",スモール・ケルン60体、ケルン40体を倒してベラに報告せよ。
+PROPQUEST_SCENARIO_INC_002254,"Hunt 60 Small Kern and 40 Kern located in Southern Darkon 3, then talk with Fera.",スモール・ケルン60体、ケルン40体を倒してぺラに報告せよ。
 PROPQUEST_SCENARIO_INC_002256,Out of the Oven and into the Fire,気功石を探せ
 PROPQUEST_SCENARIO_INC_002257,"In order to complete the process required to create a Shard of Enlightenment, we must first acquire an Infernal Stone",さあ、次は媒介となる石を探す必要があります。おおもととなる石はケルンが持っているはずです。
 PROPQUEST_SCENARIO_INC_002258,Please defeat 30 Captain Kerns and acquire the Infernal Stone which should be located somewhere around them.,キャプテン・ケルンを倒した後、その周辺に落ちている気功石を入手してカパぺに持って行ってください。
@@ -981,8 +981,8 @@ PROPQUEST_SCENARIO_INC_002262,"Please hurry, I'm sure Capafe is waiting for us!"
 PROPQUEST_SCENARIO_INC_002263,"Hunt 30 Captain Kern, acquire the Infernal Stone, then talk with Capafe.",キャプテン・ケルンを30体倒した後、気功石を入手し、カペーペに報告せよ。
 PROPQUEST_SCENARIO_INC_002265,Stone of Enlightenment,悟りの欠片を作る方法
 PROPQUEST_SCENARIO_INC_002266,"In order to create a Shard of Enlightenment, we will need to fuse together an Infernal Stone and an Angelic Stone.",気功石は悟りの石の元となる石です。この気功石に気力が満ちた際に、気功石は悟りの石と生まれ変わります。
-PROPQUEST_SCENARIO_INC_002267,Please return to Fera and explain to her what it is you need.,もう一度ベラの元へ行き、この気功石と対となる気力の源について尋ねてきて頂けますか。
-PROPQUEST_SCENARIO_INC_002268,She will be able to explain in greater detail about how to acquire an Angelic Stone.,おそらくベラならばわかると思います。何度も恐縮ですがお願い致します。
+PROPQUEST_SCENARIO_INC_002267,Please return to Fera and explain to her what it is you need.,もう一度ぺラの元へ行き、この気功石と対となる気力の源について尋ねてきて頂けますか。
+PROPQUEST_SCENARIO_INC_002268,She will be able to explain in greater detail about how to acquire an Angelic Stone.,おそらくぺラならばわかると思います。何度も恐縮ですがお願い致します。
 PROPQUEST_SCENARIO_INC_002269,We could all use your assistance right now…,もう一度考え直していただけないでしょうか？あなたの助けが必要です。
 PROPQUEST_SCENARIO_INC_002270,Ah! You've returned! What did Capafe have to say of the issue?,ああ！戻ってきたのですね！カペーペは何と言っていましたか？
 PROPQUEST_SCENARIO_INC_002271,Ask Fera about the Angelic Stone.,ぺラに気力の源について尋ねよ。
@@ -1146,12 +1146,12 @@ PROPQUEST_SCENARIO_INC_002434,Remnant of Ishirut Part 1,イシルートの残党
 PROPQUEST_SCENARIO_INC_002435,Trouble in the Sky,天空のトラブル
 PROPQUEST_SCENARIO_INC_002436,"The weather lately has been terrible! Recently lightning has been striking airships on route to Saint City, causing delays in our shipments.",最近の天気はひどいです!最近、セントシティに向かう飛行船に雷が落ち、出荷が遅れています。
 PROPQUEST_SCENARIO_INC_002437,I wonder what has caused all the bad weather lately? I am still on duty here for a while longer.,最近、何が悪天候を引き起こしたのだろうか?私はまだしばらくここで勤務しています。
-PROPQUEST_SCENARIO_INC_002438,"Parine helps manage the Station with me. She acts as a scion of the great Elementor hero, Lillip.",パリンは私と一緒に駅を管理するのを手伝ってくれます。彼女は偉大なエレメンターヒーロー、リリップの末裔として行動します。
-PROPQUEST_SCENARIO_INC_002439,Parine may know why the skies have been so angry lately. Go speak with her please!,パリーンは、なぜ空が最近そんなに怒っているのか知っているかもしれません。彼女と話してください!
+PROPQUEST_SCENARIO_INC_002438,"Parine helps manage the Station with me. She acts as a scion of the great Elementor hero, Lillip.",パリンノは私と一緒に駅を管理するのを手伝ってくれます。彼女は偉大なエレメンターヒーロー、リリップの末裔として行動します。
+PROPQUEST_SCENARIO_INC_002439,Parine may know why the skies have been so angry lately. Go speak with her please!,パリンノは、なぜ空が最近そんなに怒っているのか知っているかもしれません。彼女と話してください!
 PROPQUEST_SCENARIO_INC_002440,The lightning is out of control... perhaps you can help us another time.,雷は制御不能です..おそらくあなたは別の機会に私たちを助けることができます。
 PROPQUEST_SCENARIO_INC_002441,"It is true, the airship deliveries have stopped due to lightning... We must get to the bottom of this, for Saint City.",確かに、雷のために飛行船の配達が停止しました。セントシティのために、私たちはこれの根底に到達しなければなりません。
-PROPQUEST_SCENARIO_INC_002442,Find Parine and let her know of the airship situation.,パリーヌを見つけて、飛行船の状況を知らせてください。
-PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリーヌと会う。
+PROPQUEST_SCENARIO_INC_002442,Find Parine and let her know of the airship situation.,パリンノを見つけて、飛行船の状況を知らせてください。
+PROPQUEST_SCENARIO_INC_002443,Meet with Parine.,パリンノと会う。
 PROPQUEST_SCENARIO_INC_002444,Grab a Bull by the Horns,角で雄牛をつかむ
 PROPQUEST_SCENARIO_INC_002445,We need some sort of lightning rod to attract the storm's fury away from the airships heading into Saint City...,セントシティに向かう飛行船から嵐の怒りを引き付けるには、ある種の避雷針が必要です。
 PROPQUEST_SCENARIO_INC_002446,"I am unsure of who could build such a device, but you will certainly need a large amount of metal to do it.",誰がそのようなデバイスを構築できるかはわかりませんが、それを行うには確かに大量の金属が必要になります。
@@ -1164,7 +1164,7 @@ PROPQUEST_SCENARIO_INC_002452,Ring of Power,力の指輪
 PROPQUEST_SCENARIO_INC_002453,I only know of the ring's metallurgical properties. ,私はリングの冶金学的特性しか知りません。
 PROPQUEST_SCENARIO_INC_002454,The Strange Collector may know more about what the bull ring can do.,ストレンジコレクターは、闘牛場が何ができるかについてもっと知っているかもしれません。
 PROPQUEST_SCENARIO_INC_002455,Keakoon are not that scary...,ケアクーンはそれほど怖くありません..
-PROPQUEST_SCENARIO_INC_002456,"*Snort* Well look at that, a Metallurgical Bull Ring! I will need to thank Parine later for sending you to me with this precious trophy.",*鼻を鳴らす*それをよく見てください、冶金学のブルリング!この貴重なトロフィーを送ってくれたパリーヌに後で感謝する必要があります。
+PROPQUEST_SCENARIO_INC_002456,"*Snort* Well look at that, a Metallurgical Bull Ring! I will need to thank Parine later for sending you to me with this precious trophy.",*鼻を鳴らす*それをよく見てください、冶金学のブルリング!この貴重なトロフィーを送ってくれたパリンノに後で感謝する必要があります。
 PROPQUEST_SCENARIO_INC_002457,Go speak with the Strange Collector when you have a moment.,時間があるときにストレンジコレクターと話してください。
 PROPQUEST_SCENARIO_INC_002458,Meet with the Strange Collector.,奇妙なコレクターと会う。
 PROPQUEST_SCENARIO_INC_002459,Expert Metallurgist Colack,エキスパート冶金学者コラック

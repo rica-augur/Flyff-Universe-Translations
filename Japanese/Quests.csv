@@ -268,7 +268,7 @@ PROPQUEST_INC_000777,"I see you're not ready to walk the path of the Magician. V
 PROPQUEST_INC_000778,"Great job, young Vagrant! I think you'll make a fine Magician.",無事にテストを終わらせることができましたね。この調子で次のテストも頑張ってください。
 PROPQUEST_INC_000779,You must defeat 15 Captain Aibatts and 10 Small Burudengs to prove you are worthy of Magician training. I will not help you if you cannot even complete this simple task.,課題を出されているあなたには、あまり時間がないはずですよ。キャプテン・アイバット15体、スモール・ブルデング10体を倒してください。このままマジシャンへの道を諦めてしまうのであれば、仕方ありませんが。
 PROPQUEST_INC_000780,I'm afraid you've already chosen a different job. We have nothing more to discuss. You can still cancel the other job quest in the Quest Window and come back to me.,あなたは、マジシャンへの道を選択していないようですね。ここはマジシャンを希望する冒険者が来るところです。転職クエストをキャンセルして、私のところにくることはできますよ？
-PROPQUEST_INC_000781,"Slay 15 Captain Aibatts and 10 Small Burudengs then return to Wingyei, the Magician Drillmaster in Flarine.",キャプテン アイバットを 15 体とスモール ブルデンを 10 体倒してから、フラリンのマジシャン ドリルマスターであるウィンゲイに戻ります。
+PROPQUEST_INC_000781,"Slay 15 Captain Aibatts and 10 Small Burudengs then return to Wingyei, the Magician Drillmaster in Flarine.",キャプテン アイバットを 15 体とスモール ブルデンを 10 体倒してから、フラリンのマジシャン ドリルマスターであるウィンギーに戻ります。
 PROPQUEST_INC_000783,Weapons of the Magician,マジシャンの武器
 PROPQUEST_INC_000784,"Nice work taking care of those Captain Aibatts for us. Now, on to your next task!",おめでとう、初めてのテストは合格です。でもまだまだ先は長いですよ。覚悟はよろしいですか？
 PROPQUEST_INC_000785,"I need you to collect some materials for me and deliver them to Hee, the Magician Master. She will instruct you on the use of Magician weaponry.",2番目のテストは、武器に関するテストです。マジシャンの使う武器について理解を深めるのがこのテストの目的です。さて、これからマジシャンの武器を製作するための材料を3種類集めなくてはなりません。
@@ -594,7 +594,7 @@ PROPQUEST_INC_001136,"What? You won't help me? Fine, get off my property, then!"
 PROPQUEST_INC_001137,"Hello there, are you interested in any rare artifacts? I have an stunning ancient Aibatt carving here that is very unique…",何か用か？あの噂のことでルードヴィヒに頼まれてやってきたのか。ハハッ！たしかにルードヴィヒが食いつきそうな話だな。
 PROPQUEST_INC_001138,Rudvihil? Hahaha! That guy will never stop hoarding rare and precious treasure.,ルードヴィヒ？彼は珍しい物や貴重な物に対しては、異常な執念があるからな。　
 PROPQUEST_INC_001139,"Have you found anything, yet? No? Well hurry up! I don't have all day!",何か見つけましたか？ 無いなら 急いで！ 一日中持てません！
-PROPQUEST_INC_001140,"Travel to Saint City and speak with Helgar, the connoisseur of rare and precious items. He should be located near Saint hall.",ルードヴィヒの欲しがる貴重な＜ある物＞を探そう。まずはセイントモーニングの鑑定士＜ヘルガール＞のところに行って、情報を聞こう。
+PROPQUEST_INC_001140,"Travel to Saint City and speak with Helgar, the connoisseur of rare and precious items. He should be located near Saint hall.",ルードヴィヒの欲しがる貴重な＜ある物＞を探そう。まずはセイントモーニングの鑑定士＜ヘルガース＞のところに行って、情報を聞こう。
 PROPQUEST_INC_001142,Legendary Redmantis (Part 2),伝説のレッドマンティス(中編)
 PROPQUEST_INC_001143,"Hmmm, I think Rudvihil is referring to the Red Mantis Egg. These eggs are difficult to acquire and I think these might be the eggs Rudvihil is after.",実は、その伝説中に出てくる珍しい物のことに関しては、おれも良く分からないんだ。　知っているのは、それが＜レッドマンティス＞の卵だってことだけだ。
 PROPQUEST_INC_001144,"There are reports that some Red Mantis C, the female variety, have been seen near the pumpkin patch. Feel like taking a trip?",マドリガルでも有名な鑑定士のおれですら良く知らないことだけに、その噂にはとても興味があるんだ。ハハッ。
@@ -680,7 +680,7 @@ PROPQUEST_INC_001230,"Blessings from Bubble, you've got it! It looks like you do
 PROPQUEST_INC_001231,"Here, take this. It's Krrr's Heart. \n\n#b*You vomit all over him*#nb\n\n Hey, knock it off!",でも、君がシヴァーモンスターに遭うためには、必要なものなんだよ。2度と手に入らないものだから注意して持っておくといい。絶対になくすんじゃないぞ。
 PROPQUEST_INC_001232,"If you're done being sick, take the heart to the Dreadpet Manager in Madren Town. You'll have to join a party to enter the temple, it's way too dangerous to go alone.",マッドランタウンの何処かにいるという、シヴァーモンスター伝道師の元へ行くといい。彼が案内してくれるはずだ。それと、一人では無理だから、必ずパーティーを組んで行くことだ。
 PROPQUEST_INC_001233,"Look, I know Ganguard's smell bad and all that, so I understand your reservations… but I really need that book.",ガンガードをあなどってはいかんぞ。なにしろ闇黒の洗礼を受けた奴だからな。でも、君ならきっと大丈夫だろう。頑張ってくれ！
-PROPQUEST_INC_001234,"Travel to the Plain of Bubble, defeat $QUEST_END_KILL_NAME$, and retrieve both the $QUEST_END_ITEM_NAME$ and the $QUEST_END_ITEM_NAME,2$ for Novelist Gergantes in Northern Flarine.","＜バブルの平原＞に生息する＜$QUEST_END_KILL_NAME$＞というモンスターを倒し、＜$QUEST_END_ITEM_NAME$＞と、＜$QUEST_END_ITEM_NAME,2$＞を持ってこよう。手に入れたらフラリス北広場のゲルガンデスに渡しにいこう。"
+PROPQUEST_INC_001234,"Travel to the Plain of Bubble, defeat $QUEST_END_KILL_NAME$, and retrieve both the $QUEST_END_ITEM_NAME$ and the $QUEST_END_ITEM_NAME,2$ for Novelist Gergantes in Northern Flarine.","＜バブルの平原＞に生息する＜$QUEST_END_KILL_NAME$＞というモンスターを倒し、＜$QUEST_END_ITEM_NAME$＞と、＜$QUEST_END_ITEM_NAME,2$＞を持ってこよう。手に入れたらフラリス北広場のゲルガンテスに渡しにいこう。"
 PROPQUEST_INC_001236,Legend of Dreadpet <Moot Arvan>,伝説のシヴァーモンスター<ムト・アールバン>
 PROPQUEST_INC_001237,"Pssst, hey you! I am writing a book and I need your help! I've had a little writers block lately and I need a brave adventurer to help me write it!",私は小説を書こうとしてるんだが、一人ではどうにもできないのだよ・・・。\nとてもよい題材があるのに残念だ。
 PROPQUEST_INC_001238,"Have you ever heard of the legend of Moot Arvan? No? A long time ago, there was very a famous adventurer, Moot Arvan. One day, he found an interesting place to adventure...",君は、シヴァーモンスターの話しを聞いたことがあるか？　ふーむ・・。知らないようだな。\n昔、＜ムト・アールバン＞という、とても有名な冒険者がいたのだよ。ある日、彼は得体の知れない何者かに遭遇したというんだ。
@@ -870,12 +870,12 @@ PROPQUEST_INC_001467,What brings you to this holy Altar for the Souls of Heroes?
 PROPQUEST_INC_001468,"Take the Tear of Darkness from Scorpicon in Plateau of Silence, Saint Morning, and bring it to Priest Jeperdy in Brekin, Darkon 3.",セイントモーニングの沈黙の高原に住んでいる毒王カレビアンから暗黒の涙を回収し、ダーコン第3地区(アリアンス)地域にあるビルポスターの祭壇ジェファディに行きましょう。
 PROPQUEST_INC_001471,"Here, take this Mark of the Heroes. It along with one last item will denote your status as a true Blade.",じゃあ、これが英雄の証だよ。実は、このほかにもうひとつ証が必要なんだ。
 PROPQUEST_INC_001472,"In the Guardian's Room, you will find a spirit called the $QUEST_END_KILL_NAME$.",ガルディアンの守護者の部屋というところがありますが、この場所は英雄の紋章があるところで、英雄たちの意志が保存されています。 ここでは、$QUEST_END_KILL_NAME$という精霊を見つけることができます。
-PROPQUEST_INC_001474,"Once you have completed this task, present the heart to Sencyrit, the Blade Guardian.",それを手に入れたらブレード守護者センシリトのもとに行ってください。
+PROPQUEST_INC_001474,"Once you have completed this task, present the heart to Sencyrit, the Blade Guardian.",それを手に入れたらブレード守護者センシリットのもとに行ってください。
 PROPQUEST_INC_001475,I wish you luck.,じゃあ、がんばってね。無事に試練を乗り越えられますように！
 PROPQUEST_INC_001477,Well done! I now officially bestow the title of Blade upon you.,後継者よ。汝は最後の試練を乗り越えた。これからはブレード後継者として新たな道を歩むがよい！聖王の慈悲が雨のごとく汝に降り注ぐであろう！
 PROPQUEST_INC_001478,"Heren, please bless and encourage this Blade as they follow your will!",＜疾風の刃＞ヘレンよ、今ここに新たな後継者が誕生しました！この者に祝福と勇気を授けたまえ！
 PROPQUEST_INC_001479,Only one recognized as a Blade may pass. Please turn back.,ここは英雄の後継者として認められた者のみが立ち入ることを許される、資格のないものは即刻立ち去るがよい･･･。
-PROPQUEST_INC_001480,"Defeat the Venel Guardian, take his heart, and present it to Sencyrit the Blade Guardian in Guardiane.",ガルディアの守護者の部屋にいる守護精霊＜ヴェネル・ガーディアン＞のハートを手に入れ、ブレード守護者センシリトに会おう。
+PROPQUEST_INC_001480,"Defeat the Venel Guardian, take his heart, and present it to Sencyrit the Blade Guardian in Guardiane.",ガルディアの守護者の部屋にいる守護精霊＜ヴェネル・ガーディアン＞のハートを手に入れ、ブレード守護者センシリットに会おう。
 PROPQUEST_INC_001483,"So you think you're ready to become a Billposter? It isn't easy, but since you've made it this far I think you're up to the challenge.",ビルポスター後継者の道を歩む覚悟はできていますか？では、ご案内します。
 PROPQUEST_INC_001486,Good luck. I'll be watching.,では頑張ってくださいね。
 PROPQUEST_INC_001488,Excellent work! Now you're on your way to becoming a Billposter.,最初の試練を無事乗り越えましたね。おめでとうございます。
@@ -952,13 +952,13 @@ PROPQUEST_INC_001585,"$QUEST_END_KILL_NAME$ is in Darkon 1. Find him, get back t
 PROPQUEST_INC_001588,Here is the Symbol of the Hero. You have to complete one more task in order to be recognized as a Successor of the Hero.,じゃあ、これが英雄の証だよ。実は、このほかにもうひとつ証が必要なんだ。
 PROPQUEST_INC_001589,"There is a place called the Room of the Guardian. You can find it in Guardiane. There, the Will of Heroes is protected.",ガルディアの守護者の部屋には英雄たちの紋章があって、そこには英雄たちの意志が保存されているんだ。
 PROPQUEST_INC_001590,"Defeat the guardian spirit, Cardinal Guardian, and retrieve his heart.",この守護者の部屋にいるヴェネル・ガーディアンを倒して、ヴェネル・ハートを手にいれてください。そのハートが最後の証なのさ。
-PROPQUEST_INC_001591,"Then, deliver the heart to Romvoette, the Ringmaster Guardian in Guardiane.",それを手に入れたらリングマスター守護者ロモボエトのもとに行ってください。
+PROPQUEST_INC_001591,"Then, deliver the heart to Romvoette, the Ringmaster Guardian in Guardiane.",それを手に入れたらリングマスター守護者ロンボーヌのもとに行ってください。
 PROPQUEST_INC_001592,"I wish you luck, Assist.",じゃあ、がんばってね。無事に試練を乗り越えられますように！
 PROPQUEST_INC_001593,"You've come all this way just to give up? This is the last step. Please, think this through.",えー！こまできてやめちゃうのかい？せっかくここまでがんばったのに。もう一度よく考えなよ！
 PROPQUEST_INC_001594,"Welcome, Assist. You've done very well! Now, I appoint you the Successor of the Ringmaster Hero!",後継者よ。汝は最後の試練を乗り越えた。これからはリングマスター後継者として新たな道を歩むがよい！運命の女神の紡ぐ糸は、汝の運命に新たな綾を織り成すであろう。
 PROPQUEST_INC_001595,"Aenn, bless and watch over this person who is following your will, Ringmaster!",＜神の声を聞く者＞エーエンヌよ、今ここに新たな後継者が誕生しました！この者に祝福と勇気を授けたまえ！
 PROPQUEST_INC_001596,"I believe you've come here by mistake, Assist. Have you forgotten your task?",ここは英雄の後継者として認められた者のみが立ち入ることを許される、資格のないものは即刻立ち去るがよい･･･。
-PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",ガルディアの守護者の部屋にいる守護精霊＜ヴェネル・ガーディアン＞のハートを手に入れ、リングマスター守護者ロモボエトに会おう。
+PROPQUEST_INC_001597,"Defeat the Cardinal Guardian in Guardiane and retrieve his heart. Then visit Romvoette, the Ringmaster Guardian in Guardiane",ガルディアの守護者の部屋にいる守護精霊＜ヴェネル・ガーディアン＞のハートを手に入れ、リングマスター守護者ロンボーヌに会おう。
 PROPQUEST_INC_001600,"So, you think you're ready to become a Successor of the Psykeeper Hero? You've come a long way, Magician. I think you're ready.",サイキーパー後継者の道を歩む覚悟はできていますか？では、ご案内します。
 PROPQUEST_INC_001601,"First, we'll need to test your skills in combat if we are to continue down this path.",まずあなたが後継者としての資質を持っているか、簡単にテストを行います。この試験によりあなたの戦闘能力を見させてもらいます。
 PROPQUEST_INC_001602,"I want you to defeat $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s. Not Small $QUEST_END_KILL_NAME$s or Giant $QUEST_END_KILL_NAME$s, just $QUEST_END_KILL_NAME$s. They are located southwest of the Gouthan Mountains.",キプラと呼ばれる地域に生息する$QUEST_END_KILL_COUNT$体の$QUEST_END_KILL_NAME$を倒してください。スモール・$QUEST_END_KILL_NAME$、ジャイアント・$QUEST_END_KILL_NAME$ではなく、$QUEST_END_KILL_NAME$を倒してきてください。ゴウダン山脈南西にいるはずです。
@@ -978,14 +978,14 @@ PROPQUEST_INC_001617,"Anyway, you did an excellent job acquiring these. I will c
 PROPQUEST_INC_001618,"Well, I certainly look dashing in these! *snicker*",ようやった、ようやった。
 PROPQUEST_INC_001619,"Now, where did I put my underwear...",わしがサイラの師匠じゃよ。あいつは真面目すぎて頭が固いのがいかん。何事にもとらわれない自由な心が魔法を行使する上では大事だというのにのう。
 PROPQUEST_INC_001620,"Deliver the $QUEST_END_ITEM_NAME$ and the Letter of Recommendation to Cuarine, the Psykeeper Wiseman at the Fountain of Dead Person near the Northern Leren Mountains.",ダーコン第1地区（エランパークス）に潜んで住んでいる＜$QUEST_END_ITEM_NAME$＞から魔力強化の護符を取り戻してから、フラリスの魂の泉にいるサイキーパー賢者クリサリスに会いましょう。
-PROPQUEST_INC_001623,"Alright, so let's move on. Deliver the Magic Underwear of Power to Ryupang in Madren Town",それではこれからしなければならんことを伝えよう。この魔力強化の護符をフラリスにおる義賊団の団長リュハンに渡すのじゃ。
+PROPQUEST_INC_001623,"Alright, so let's move on. Deliver the Magic Underwear of Power to Ryupang in Madren Town",それではこれからしなければならんことを伝えよう。この魔力強化の護符をフラリスにおる義賊団の団長リュファンに渡すのじゃ。
 PROPQUEST_INC_001624,"Make haste, Magician!",急いでくれ、マジシャンよ！
 PROPQUEST_INC_001625,"Ryupang NEEDS that underwear! Please, think it over!",なんと！いやじゃと！？とても大事なものだということが分からんのか？
 PROPQUEST_INC_001626,"Hmmm… yes? What've you go there, young Magician?",うん？義賊団最高の諜報員が見つけ出せなかったものを見つけてくるなんて･･･君･･･やるね！
 PROPQUEST_INC_001627,"The Magic Underwear of Power! Where did you find them? No matter, the important thing is that we now have this very important relic.",ああ、ありがとう！そうだ、これを受け取ってくれ。
 PROPQUEST_INC_001628,"Take this, my friend. This Stamped Scroll will prove you are worthy to become a Successor of the Psykeeper Hero.",これは後継者に差し上げる巻物だ、サイキーパー後継者を目指すものに、次の道を指し示すだろう。どうか受け取ってくれ。
 PROPQUEST_INC_001629,We are the survivors of the Massacre of the Mr. Pumpkins. We became soldiers to fight back and seek our revenge. Curse those Pumpkin-heads!,義賊団はかの忌まわしき「血のハロウィン事件」の生存者たちがカボチャ男爵に復讐するため結成したのさ、今は義賊団として活動しているけどな。
-PROPQUEST_INC_001630,Deliver the Magic Underwear of Power to Ryupang in Madren Town.,マッドランタウンで調査活動をしている義賊団の団長リュハンにこの魔力強化の護符を渡しましょう。
+PROPQUEST_INC_001630,Deliver the Magic Underwear of Power to Ryupang in Madren Town.,マッドランタウンで調査活動をしている義賊団の団長リュファンにこの魔力強化の護符を渡しましょう。
 PROPQUEST_INC_001633,"No, on to your next challenge, Magician! I need you to speak with someone.",いいえ、次の挑戦に挑もう！マジシャン！ 私は君と話さないといけません。
 PROPQUEST_INC_001634,"Pereb, the Psykeeper Priest, is trying to locate an ancient Relic from the war somewhere in the Cave of Envy in Darkon 2. It's called the Trace of Offerep.",ハーマイオ様はダーコン第2地区（エイエンブルケーブ）のどこかにあるオルファー様の聖遺物を探していたなぁ。相当価値のあるものらしいね。
 PROPQUEST_INC_001636,"Well, what are you waiting for? Get moving!",では、よろしくお願いします。
