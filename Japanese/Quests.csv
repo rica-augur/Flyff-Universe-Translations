@@ -1542,14 +1542,14 @@ PROPQUEST_INC_110230,Weapon Piercing Box (D),武器貫通ボックス(D)
 PROPQUEST_INC_110231,Weapon Piercing Box (C),武器貫通ボックス(C)
 PROPQUEST_INC_110232,Weapon Piercing Box (B),武器貫通ボックス(B)
 PROPQUEST_INC_110233,Weapon Piercing Box (A),武器貫通ボックス(A)
-PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ダンジョンのボスを5体倒して、終わったら私のところに戻ってきてくれませんか?
+PROPQUEST_INC_110234,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 5 dungeon bosses, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ダンジョンのボスを5体倒して、終わったら戻ってきてくれませんか?
 PROPQUEST_INC_110235,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 20 dungeon bosses on Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ハード以上の難易度でダンジョンのボスを20体倒して、終わったら戻ってきてくれませんか?
-PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。超高難易度以上のダンジョンボスを35体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110237,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 50 dungeon bosses on Nightmare or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ナイトメア以上の難易度でダンジョンのボスを50体倒して、終わったら私のところに戻ってきてくれませんか?
-PROPQUEST_INC_110238,"Collect souls from boss masquerpets at the end of any dungeon 5 times, and return to me for a reward.",ダンジョンの最後に出現するボスモンスターから魂の欠片を5個集めたら、戻ってきて報酬を受け取ってください。
-PROPQUEST_INC_110239,"Collect souls from boss masquerpets at the end of any dungeon on Hard or higher difficulty 20 times, and return to me for a reward.",ハード以上の難易度のダンジョンの最後に出現するボスモンスターから魂の欠片を20個集めたら、戻ってきて報酬を受け取ってください。
-PROPQUEST_INC_110240,"Collect souls from boss masquerpets at the end of any dungeon on Extra Hard or higher difficulty 35 times, and return to me for a reward.",超難易度以上のダンジョンの最後に出現するボスモンスターから魂の欠片を35個集めたら、戻ってきて報酬を受け取ってください。
-PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dungeon on Nightmare or higher difficulty 50 times, and return to me for a reward.",ナイトメア以上の難易度でダンジョンの最後に出現するボスモンスターから魂の欠片を50個集めたら、戻ってきて報酬を受け取ってください。
+PROPQUEST_INC_110236,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 35 dungeon bosses on Extra Hard or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。エキストラハード以上の難易度でダンジョンのボスを35体倒して、終わったら戻ってきてくれませんか?
+PROPQUEST_INC_110237,"Welcome hero! Another request has come in to clear out the boss masquerpets within Madrigal's dungeons. Could you please slay 50 dungeon bosses on Nightmare or higher difficulty, and return to me once you are done?",ようこそヒーロー! マドリガルのダンジョン内のボスモンスターを一掃する依頼がまた一つ入ってきた。ナイトメア以上の難易度でダンジョンのボスを50体倒して、終わったら戻ってきてくれませんか?
+PROPQUEST_INC_110238,"Collect souls from boss masquerpets at the end of any dungeon 5 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(D)＞を入手できます。どの難易度のダンジョンでも構いません。5個集めることができたら報酬をお渡しします。
+PROPQUEST_INC_110239,"Collect souls from boss masquerpets at the end of any dungeon on Hard or higher difficulty 20 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(C)＞を入手できます。ハード以上の難易度への挑戦をお願いします。20個集めることができたら報酬をお渡しします。
+PROPQUEST_INC_110240,"Collect souls from boss masquerpets at the end of any dungeon on Extra Hard or higher difficulty 35 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(B)＞を入手できます。エキストラハード以上の難易度への挑戦をお願いします。35個集めることができたら報酬をお渡しします。
+PROPQUEST_INC_110241,"Collect souls from boss masquerpets at the end of any dungeon on Nightmare or higher difficulty 50 times, and return to me for a reward.",ダンジョンのボスモンスターを倒すと＜魂の欠片(A)＞を入手できます。ナイトメア以上の難易度への挑戦をお願いします。50個集めることができたら報酬をお渡しします。
 PROPQUEST_INC_110242,The dungeons are filled with dangerous masquerpets. I understand if you do not wish to take the risk.,ダンジョンは危険なモンスターでいっぱいです。リスクを冒したくないのであれば、私は理解しています。
 PROPQUEST_INC_110243,"The threat from within the dungeons has been reduced thanks to you, hero. Please accept a weapon piercing card as thanks for your efforts!",ダンジョン内からの脅威は、ヒーローであるあなたのおかげで減少しました。お礼に武器貫通カードを受け取ってください!
 PROPQUEST_INC_110244,"You haven't defeated the bosses yet? That's okay, just return once you have.",まだボスを倒していませんか?大丈夫です、一度戻ればいいのです。
@@ -1641,10 +1641,10 @@ PROPQUEST_INC_130052,Defeat the Overlord Meral to collect the Purple Pirate Insi
 PROPQUEST_INC_130053,Island Delicacies,島の珍味
 PROPQUEST_INC_130054,"Ha! You have really made a name for yourself here on Coral Island, hero. Everyone has told me of the amazing feats you've accomplished.",ハッ!ここコーラル島で名を馳せたな、英雄よ。誰もが、あなたが成し遂げた素晴らしい偉業について私に話してくれました。
 PROPQUEST_INC_130055,"If you want to prove yourself further, help us defeat the legion of Naga that have taken over the island.",さらに実力を証明したいなら、島を乗っ取ったナーガの軍団を倒すのを手伝ってください。
-PROPQUEST_INC_130056,"To safely take on the Naga, first you'll need to gather bait made of their favorite foods. You can make bait from any type of Kingster or Creper! Meet up with Pau Pau and he'll prepare everything.",ナーガを安全に捕らえるには、まずナーガの好きな食べ物で作った餌を集める必要があります。どんな種類のキングスターやシザークラブからでも餌を作ることができます！ポール・ポールに会えば、彼が全て準備してくれますよ。
+PROPQUEST_INC_130056,"To safely take on the Naga, first you'll need to gather bait made of their favorite foods. You can make bait from any type of Kingster or Creper! Meet up with Pau Pau and he'll prepare everything.",ナーガを安全に捕らえるには、まずナーガの好きな食べ物で作られた餌を集める必要があります。どんな種類のキングスターやシザークラブからも餌を作ることができます!パウ・パウと会えば、彼がすべてを準備してくれる。
 PROPQUEST_INC_130057,"Everyone's adventure comes to a close one day. That's alright, hero.",みんなの冒険はいつか終わります。大丈夫だよ、ヒーロー。
 PROPQUEST_INC_130058,"Woaw, nice job hero! We can make plenty of bait with all this to lower the guard of the Naga! For now, take a rest. We'll make a plan of attack later.",うわー、ナイジョブヒーロー!これだけで餌をたくさん作って、ナーガのガードを下げましょう!とりあえず、お休みください。攻撃の計画は後で立てます。
-PROPQUEST_INC_130059,Keep fighting Kingster or Creper until you've found enough bait.,十分な餌が集まるまで、キングスターまたはシザークラブと戦い続けます。
+PROPQUEST_INC_130059,Keep fighting Kingster or Creper until you've found enough bait.,十分な餌が見つかるまで、キングスターまたはシザークラブと戦い続けます。
 PROPQUEST_INC_130060,Defeat any kind of Kingster or Creper until you've made 200 Island Bait.,島の餌を200個作るまで、あらゆる種類のキングスターまたはシザークラブを倒します。
 PROPQUEST_INC_130061,Lizard People,トカゲの人々
 PROPQUEST_INC_130062,I hope you're feeling rested after making all that bait with Pau Pau!,ポール・ポールで餌を作った後、あなたが休息していることを願っています!
@@ -1665,11 +1665,11 @@ PROPQUEST_INC_130076,"Keep searching, the Dorian and Okean make their homes in t
 PROPQUEST_INC_130077,Search for where the Dorian and Okean live.,ドリアンとオケアノスが住んでいる場所を探してください。
 PROPQUEST_INC_130078,Surprise Attack!,不意打ち！
 PROPQUEST_INC_130079,HOOWAH! I'm trembling with excitement!,やれやれ!興奮で震えています!
-PROPQUEST_INC_130080,"With the information you've brought back, our village has a real chance to take down the Dorian and Okean before they get to us!",あなたが持ち帰ってくれた情報があれば、ドリアンとオケアノスが襲ってくる前に、この村にも奴らを倒すチャンスがあります!
-PROPQUEST_INC_130081,"Go ahead and defeat as many Dorian and Okean as you can find, including their leaders! We trust you to take down the leaders, we'll be helping with the smaller ones in the back.",さあ、リーダーも含めて、見つけられるだけのドリアンとオケアノスを倒してきてください!リーダーの討伐はあなたに任せます。こちらは後方で、小物たちの相手をしましょう。
+PROPQUEST_INC_130080,"With the information you've brought back, our village has a real chance to take down the Dorian and Okean before they get to us!",あなたが持ち帰った情報があれば、私たちの村はドリアンとオケアノスが私たちに来る前に倒すチャンスがあります!
+PROPQUEST_INC_130081,"Go ahead and defeat as many Dorian and Okean as you can find, including their leaders! We trust you to take down the leaders, we'll be helping with the smaller ones in the back.",さあ、リーダーを含め、できるだけ多くのドリアンとオケアノスを倒してください!リーダーを倒すのは君に任せておけば、後ろの小さなリーダーたちを助けます。
 PROPQUEST_INC_130082,If we wait too much longer the Dorian and Okean will attack the village!,これ以上待てば、ドリアンとオケアノスが村を襲うぞ!!
-PROPQUEST_INC_130083,"It's been done, hero. We've defeated the Dorian and Okean, and can now rest easy.",やったぜ、英雄。ドリアンとオケアノスを倒したから、もう安心だ。
-PROPQUEST_INC_130084,We're doomed... without your help we will never defeat the Dorian and Okean in time!,もうダメだ……あなたの助けがなければ、間に合ってドリアンとオケアノスを倒すことはできません!
+PROPQUEST_INC_130083,"It's been done, hero. We've defeated the Dorian and Okean, and can now rest easy.",やったぜ、英雄。ドリアンとオケアノスを倒したので、安心できます。
+PROPQUEST_INC_130084,We're doomed... without your help we will never defeat the Dorian and Okean in time!,私たちは運命づけられています..あなたの助けがなければ、ドリアンとオケアノスを倒すことはできません!
 PROPQUEST_INC_130085,"Collect trophies from any defeated Dorian and Okean, and defeat at least one Lord or Overlord of each!",ドリアンとオケアノスを倒してトロフィーを集め、それぞれのロードまたはオーバーロードを最低1体ずつ倒せ！
 PROPQUEST_INC_130086,Inky Darkness,漆黒の闇
 PROPQUEST_INC_130087,"I hope you are ready for our final challenge hero... According to legend, once every few hundred years the Sea King will release spawn onto Coral Island.",最後の挑戦ヒーローの準備ができていることを願っています..。伝説によると、数百年に一度、海王はコーラル・アイランドに産卵を放つと言われています。
