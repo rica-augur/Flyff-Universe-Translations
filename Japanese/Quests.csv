@@ -2327,7 +2327,7 @@ PROPQUEST_INC_150274,"Could you check on her? I’d be relieved if it’s nothin
 PROPQUEST_INC_150275,"If you’re too busy, I understand. Where could she have gone this time…",忙しいなら仕方ない。今度はどこへ行ったのやら…
 PROPQUEST_INC_150276,"I’m not sure where exactly, but it looks like she’s been going outside the village.",正確な場所は分からないが、どうやら村の外に出ているようだ。
 PROPQUEST_INC_150277,My parents sent you?,両親がお前を寄越したのか？
-PROPQUEST_INC_150278,Meet with Kaela,ケイラに会う
+PROPQUEST_INC_150278,Meet with Kaela,カエラに会う
 PROPQUEST_INC_150279,A Good Friend Is… 2,良き友とは…2
 PROPQUEST_INC_150280,"Ha, they barely know me better than some stranger, and now they suddenly care? Huh… Outside? Did I say something about that? No… I don’t remember.",はっ、他人よりちょっとマシに私を知ってる程度のくせに、今さら心配するわけ？…外だって？そんなこと言ったっけ？いや…覚えてないな。
 PROPQUEST_INC_150281,"Ugh, fine, whatever. Yeah, I’ve been hanging out with the wolves. The other kids here don’t get me, and this village is doomed sooner or later. What’s the point? If you want to drag me back, then deal with all my friends first.",はぁ、もういいわ。そうよ、狼たちとつるんでたの。ここの子たちは私のことなんて理解してくれないし、この村だってどうせ長くは持たない。意味なんてないでしょ。私を連れ戻したいなら、まず私の友達全員を相手にしてもらうから。
@@ -2341,7 +2341,7 @@ PROPQUEST_INC_150288,"Fine, hand it over.",分かったわよ、よこして。
 PROPQUEST_INC_150289,What do you want now?,今度は何の用？
 PROPQUEST_INC_150290,"Alright, alright, I’m reading it.",はいはい、読めばいいんでしょ。
 PROPQUEST_INC_150291,"“Find a foolish child, play along, and turn them into a perfect puppet to sow chaos in the village.” So I was just a piece in their stupid game…? Ugh… I can’t believe I fell for it. You want me to go home and apologize to my parents? Tch, I already know that much.",「愚かな子供を見つけ、調子を合わせ、村に混乱をもたらす完璧な操り人形に仕立て上げよ」……つまり私は、あいつらのくだらないゲームの駒に過ぎなかったってわけ…？はぁ…まんまと引っかかったなんて信じられない。家に帰って両親に謝れって言いたいんでしょ。ちっ、そんなことくらい分かってるわよ。
-PROPQUEST_INC_150292,Bring “Lycan Orders” to Kaela,「ライカンの命令書」をケイラに届ける
+PROPQUEST_INC_150292,Bring “Lycan Orders” to Kaela,「ライカンの命令書」をカエラに届ける
 PROPQUEST_INC_150293,New Survivor of the Expedition? 1,遠征隊の新たな生存者？1
 PROPQUEST_INC_150294,"Oh, adventurer, do you have a moment? You’re looking for traces of the vanished expedition, right?",おお、冒険者殿、少し時間はあるか？消えた遠征隊の手がかりを探しているんだったな？
 PROPQUEST_INC_150295,"While hunting, I found tracks that didn’t belong to Myurang or Lycan. Interested?",狩りをしている最中、ムランのものでもライカンのものでもない足跡を見つけたんだ。興味はあるか？
@@ -2365,7 +2365,7 @@ PROPQUEST_INC_150312,"Where did you find this? The seal is still intact, so that
 PROPQUEST_INC_150313,Meet with [Historian] Martinyc,[歴史学者]マルティニークに会う
 PROPQUEST_INC_150314,Searching for Parents 1,両親を探して 1
 PROPQUEST_INC_150315,"Do you have a moment? I’ve seen how much you’ve helped the village, so I was hoping you could help me too.",少し時間はあるか？お前がどれほど村のために尽くしてくれたか見てきた。だから、私のことも手伝ってもらえたらと思ってな。
-PROPQUEST_INC_150316,"My grandfather is the jarl, but my father was exiled and sent on a mission… he never returned. I fear they sent him to die. Please help me find his remains.",私の祖父はジャールだが、父は追放され、任務に送り出された…そのまま戻ってこなかった。死ぬと分かっていて送られたのではないかと恐れている。父の遺骸を見つける手伝いをしてくれ。
+PROPQUEST_INC_150316,"My grandfather is the jarl, but my father was exiled and sent on a mission… he never returned. I fear they sent him to die. Please help me find his remains.",私の祖父はヤールだが、父は追放され、任務に送り出された…そのまま戻ってこなかった。死ぬと分かっていて送られたのではないかと恐れている。父の遺骸を見つける手伝いをしてくれ。
 PROPQUEST_INC_150317,I see… then I’ll have to go alone. Thank you for at least listening.,そうか…なら私一人で行くしかないな。せめて話を聞いてくれてありがとう。
 PROPQUEST_INC_150318,His last known destination… was there.,父が最後に向かった場所は…そこだった。
 PROPQUEST_INC_150319,Father… in the end…,父さん…結局…
@@ -2377,8 +2377,8 @@ PROPQUEST_INC_150324,"It’s alright. You’ve already done a lot. But if you ev
 PROPQUEST_INC_150325,There’s really nothing else? Ah…,本当に他には何もないのか？ああ…
 PROPQUEST_INC_150326,This handwriting… it’s definitely my father’s. Thank you so much. It looks like he tried to write in code. I need to decode it right away.,この筆跡…間違いなく父のものだ。本当にありがとう。暗号で書こうとしていたようだな。すぐに解読しなければ。
 PROPQUEST_INC_150327,Obtain “???’s Diary”,「???の日記」を入手
-PROPQUEST_INC_150328,To the Jarl,ジャールのもとへ
-PROPQUEST_INC_150329,"So, you’re that adventurer. Thanks to you, the village is finally settling down. Because of that—or maybe because he suddenly has time—the jarl wants to meet you. I’ll put in a good word, so go see him when you can.",ああ、お前があの冒険者か。おかげで村もようやく落ち着いてきた。そのせいか、それとも急に暇ができたからか、ジャールがお前に会いたがっている。私からも口添えしておくから、都合のいい時に会いに行ってくれ。
+PROPQUEST_INC_150328,To the Jarl,ヤールのもとへ
+PROPQUEST_INC_150329,"So, you’re that adventurer. Thanks to you, the village is finally settling down. Because of that—or maybe because he suddenly has time—the jarl wants to meet you. I’ll put in a good word, so go see him when you can.",ああ、お前があの冒険者か。おかげで村もようやく落ち着いてきた。そのせいか、それとも急に暇ができたからか、ヤールがお前に会いたがっている。私からも口添えしておくから、都合のいい時に会いに行ってくれ。
 PROPQUEST_INC_150330,"If your people want to form ties with our village, you’ll need his approval anyway.",お前たちが我が村と繋がりを持ちたいなら、どのみち彼の承認が必要になる。
 PROPQUEST_INC_150331,"Well then, come back when you’re free.",それでは、暇ができたら戻ってきてくれ。
 PROPQUEST_INC_150332,"You still haven’t gone? He may be an old man with little to do, but you should probably hurry.",まだ行っていないのか？暇を持て余した老人とはいえ、急いだ方がいいぞ。
@@ -2406,12 +2406,12 @@ PROPQUEST_INC_150353,Thank you. We’ll wait for good news.,ありがとう。�
 PROPQUEST_INC_150354,Excellent work.,見事な働きだ。
 PROPQUEST_INC_150355,Kill 30 Small Mage Redclouds,スモール・ライカンソーサラーを30体討伐
 PROPQUEST_INC_150356,Back to Town,町への帰還
-PROPQUEST_INC_150357,"The Lycans resisted fiercely, so the jarl has returned to town for now.",ライカンどもの抵抗が激しく、ジャールはひとまず町へ戻った。
+PROPQUEST_INC_150357,"The Lycans resisted fiercely, so the jarl has returned to town for now.",ライカンどもの抵抗が激しく、ヤールはひとまず町へ戻った。
 PROPQUEST_INC_150358,Let’s go back as well. I was ordered to wait here and report to you when you returned.,我々も戻るとしよう。お前が戻ってきたら報告するよう、ここで待つよう命じられていたんだ。
 PROPQUEST_INC_150359,"If you have other business, feel free to handle it first. Nothing around here is a real threat to you anymore.",他に用事があるなら、先に片付けてくれて構わない。この辺りにお前にとって本当の脅威になるものは、もう残っていないはずだ。
-PROPQUEST_INC_150360,The jarl? He’s probably back at the town quarters.,ジャールか？おそらく町の宿舎に戻っているはずだ。
+PROPQUEST_INC_150360,The jarl? He’s probably back at the town quarters.,ヤールか？おそらく町の宿舎に戻っているはずだ。
 PROPQUEST_INC_150361,I can’t thank you enough for everything.,何もかも、感謝してもしきれないよ。
-PROPQUEST_INC_150362,Meet with the Jarl,ジャールに会う
+PROPQUEST_INC_150362,Meet with the Jarl,ヤールに会う
 PROPQUEST_INC_150363,Covering Fire,援護射撃
 PROPQUEST_INC_150364,"I know you just got back, but could I ask a favor? An elder leading our retreat requested reinforcements. Can you go help them escape safely?",戻ってきたばかりなのは分かっているが、頼みがあるんだ。撤退を率いる長老の一人が援軍を要請してきた。彼らが無事に逃げられるよう、力を貸してもらえないか？
 PROPQUEST_INC_150365,That’s a relief. Thank you.,それは助かる。ありがとう。
@@ -2433,14 +2433,14 @@ PROPQUEST_INC_150380,Please! We can’t last much longer alone.,頼む！我々�
 PROPQUEST_INC_150381,We won’t hold out for long.,もう長くは持ちこたえられない。
 PROPQUEST_INC_150382,The Lycans… are they swarming again?,ライカンどもが…また群れを成しているのか？
 PROPQUEST_INC_150383,Trap,罠
-PROPQUEST_INC_150384,"Something has gone terribly wrong. We’ve clearly walked into a trap. The jarl may be shady, but he wouldn’t abandon his own people… or would he? Where did the information leak?",何かとんでもないことが起きている。明らかに罠にかかったんだ。ジャールは怪しいところもあるが、自分の民を見捨てるはずが…いや、そうだろうか？一体どこから情報が漏れたんだ？
+PROPQUEST_INC_150384,"Something has gone terribly wrong. We’ve clearly walked into a trap. The jarl may be shady, but he wouldn’t abandon his own people… or would he? Where did the information leak?",何かとんでもないことが起きている。明らかに罠にかかったんだ。ヤールは怪しいところもあるが、自分の民を見捨てるはずが…いや、そうだろうか？一体どこから情報が漏れたんだ？
 PROPQUEST_INC_150385,"For now, we need to deal with the enemies in front of us. Can I count on you?",今はまず、目の前の敵を片付けなければ。頼りにしていいか？
 PROPQUEST_INC_150386,Thank you. We’ll talk more after this is over.,ありがとう。この件が片付いたら、また詳しく話そう。
 PROPQUEST_INC_150387,Hmph… but we don’t really have another choice.,ふん…とはいえ、他に選択肢もなさそうだ。
 PROPQUEST_INC_150388,"If you take down a few, the rest will fall apart. Their patterns are predictable.",何体か倒せば、残りは崩れるはずだ。奴らの動きは読みやすい。
 PROPQUEST_INC_150389,Kill 20 Mage Redclouds,ライカンソーサラーを20体討伐
 PROPQUEST_INC_150390,"Again, the Town",再び、町へ
-PROPQUEST_INC_150391,Thinking about it… those Lycans are mages. They might have tracked us with some kind of magic. Or… maybe the jarl really did abandon us.,考えてみれば…あのライカンどもは魔法使いだ。何らかの魔法で我々を追跡していたのかもしれない。それとも…本当にジャールが我々を見捨てたのか。
+PROPQUEST_INC_150391,Thinking about it… those Lycans are mages. They might have tracked us with some kind of magic. Or… maybe the jarl really did abandon us.,考えてみれば…あのライカンどもは魔法使いだ。何らかの魔法で我々を追跡していたのかもしれない。それとも…本当にヤールが我々を見捨てたのか。
 PROPQUEST_INC_150392,One of our scouts reported a pack of Lycans heading toward the village. Please go help defend it.,斥候の一人が、ライカンの群れが村へ向かっていると報告してきた。防衛に力を貸してくれ。
 PROPQUEST_INC_150393,I’m glad you’ve come.,来てくれて助かった。
 PROPQUEST_INC_150394,We might not have much time left.,もう時間があまり残されていないかもしれない。
@@ -2457,12 +2457,12 @@ PROPQUEST_INC_150404,"You’ve worked incredibly hard. Every battle was tough, b
 PROPQUEST_INC_150405,Meet with [Eillun Guard] Gard,[エルリウン衛兵]ガードに会う
 PROPQUEST_INC_150406,Reunion 2,再会 2
 PROPQUEST_INC_150407,Did you enjoy meeting [Eillun Guard] Gard? I wonder who’s waiting for you next.,[エルリウン衛兵]ガードとの再会はどうだった？次は誰が待っているのかな。
-PROPQUEST_INC_150408,"This time it’s Kaela. I don’t know exactly what she’s planning, but I’d say you’re in for something interesting.",今度はケイラだ。彼女が何を企んでいるかは分からないが、面白いことになりそうだぞ。
+PROPQUEST_INC_150408,"This time it’s Kaela. I don’t know exactly what she’s planning, but I’d say you’re in for something interesting.",今度はカエラだ。彼女が何を企んでいるかは分からないが、面白いことになりそうだぞ。
 PROPQUEST_INC_150409,No need to rush—take your time.,急ぐ必要はない、ゆっくりでいい。
 PROPQUEST_INC_150410,"Have you met her yet? Honestly, I have no idea what she’s up to.",もう会ったか？正直、彼女が何をしているのかさっぱり分からないんだ。
 PROPQUEST_INC_150411,"Ugh, I’ve stopped causing trouble for Mom and Dad, so stop looking at me like that.",はぁ、もうパパとママに迷惑をかけるのはやめたんだから、その目で見ないでよ。
 PROPQUEST_INC_150412,Reunion 3,再会 3
-PROPQUEST_INC_150413,Hope you had fun with Kaela. Who do you think is next?,ケイラとの時間は楽しめたか？次は誰だと思う？
+PROPQUEST_INC_150413,Hope you had fun with Kaela. Who do you think is next?,カエラとの時間は楽しめたか？次は誰だと思う？
 PROPQUEST_INC_150414,"Now it’s Livia’s turn. I’m not sure what she has planned either, but I’m sure it’ll be something special.",今度はリヴィアの番だ。彼女が何を企んでいるかは私も分からないが、きっと特別なものになるだろう。
 PROPQUEST_INC_150415,There’s no hurry. Go when you’re ready.,急ぐことはない。準備ができたら行ってくれ。
 PROPQUEST_INC_150416,Have you met her yet? I really have no idea what’s coming next.,もう会ったか？この先何が起きるのか、私にも全く見当がつかないよ。
@@ -2473,7 +2473,7 @@ PROPQUEST_INC_150420,"Well, I think this will be your final visitor. Any guesses
 PROPQUEST_INC_150421,"Taila is next. Whatever happens, I have a feeling it will be something meaningful.",次はタイラだ。何が起こるにせよ、意味のあることになる気がするな。
 PROPQUEST_INC_150422,Don’t feel pressured. Go at your own pace.,気負う必要はない。自分のペースで行ってくれ。
 PROPQUEST_INC_150423,Did you meet her? I still don’t know what she’s planning.,彼女に会ったか？私にはまだ何を考えているのか分からないが。
-PROPQUEST_INC_150424,"Thanks to you, adventurer, I found my parents’ hidden will. My father exposed the jarl’s crimes, and my grandfather had him killed. Branded a traitor, he was nearly murdered. Please avenge them. Take this, and let it fuel your revenge.",冒険者、あなたのおかげで両親が隠していた遺言を見つけたわ。父はジャールの罪を暴こうとして、祖父に殺されかけたの。裏切り者の烙印を押されて。二人の仇を討って。これを受け取って、復讐の力にして。
+PROPQUEST_INC_150424,"Thanks to you, adventurer, I found my parents’ hidden will. My father exposed the jarl’s crimes, and my grandfather had him killed. Branded a traitor, he was nearly murdered. Please avenge them. Take this, and let it fuel your revenge.",冒険者、あなたのおかげで両親が隠していた遺言を見つけたわ。父はヤールの罪を暴こうとして、祖父に殺されかけたの。裏切り者の烙印を押されて。二人の仇を討って。これを受け取って、復讐の力にして。
 PROPQUEST_INC_150425,Meet with Taila,タイラに会う
 PROPQUEST_INC_150426,Chapter 5 The Final Chapter,第5章 最終章
 PROPQUEST_INC_150427,This Is Nothing,これしきのこと
@@ -2499,7 +2499,7 @@ PROPQUEST_INC_150446,Good. I’ll be waiting for more good news.,よし。さら
 PROPQUEST_INC_150447,Excellent work.,見事な働きだ。
 PROPQUEST_INC_150448,Kill 30 Taiahas,ライカンウォーリアーを30体討伐
 PROPQUEST_INC_150449,Traitor,裏切り者
-PROPQUEST_INC_150450,"Our operation was a success as well, but… some soldiers say they saw the jarl in the enemy’s camp, retreating with them. Now their morale is shaken.",我々の作戦も成功した。だが…何人かの兵士が、ジャールが敵の陣営にいて、共に撤退するのを見たと言っている。おかげで士気が揺らいでいるんだ。
+PROPQUEST_INC_150450,"Our operation was a success as well, but… some soldiers say they saw the jarl in the enemy’s camp, retreating with them. Now their morale is shaken.",我々の作戦も成功した。だが…何人かの兵士が、ヤールが敵の陣営にいて、共に撤退するのを見たと言っている。おかげで士気が揺らいでいるんだ。
 PROPQUEST_INC_150451,"I knew he was scheming, but to see him betray his own people… This will be our next move.",何か企んでいるとは思っていたが、まさか自分の民を裏切るとはな…次はこれで動こう。
 PROPQUEST_INC_150452,"The soldiers will never fight at full strength while that traitor is free. You must track him down. There will be Lycans along his escape route, including Captain Taiaha, but I doubt they’ll be a problem for you.",あの裏切り者が野放しのままでは、兵士たちが全力で戦えることはないだろう。奴を追い詰めてくれ。逃走経路にはキャプテン・ライカンウォーリアーを含むライカンどもがいるはずだが、お前には問題にならないだろう。
 PROPQUEST_INC_150453,"Hmm… I may have to send the soldiers instead. If you change your mind, come back.",うーむ…代わりに兵士を送ることになるかもしれないな。気が変わったら戻ってきてくれ。
@@ -2512,7 +2512,7 @@ PROPQUEST_INC_150459,"The fact that the traitor went this far suggests they’re
 PROPQUEST_INC_150460,"Thank you. Once you secure evidence, I think you should return to the Elder.",ありがとうございます。証拠を確保したら、長老のもとへ戻るべきかと思います。
 PROPQUEST_INC_150461,This is the best plan I can think of. Do you have a better one?,これが私に考えつく最善の策だ。他に良い案があるか？
 PROPQUEST_INC_150462,I’ll be waiting.,待っているぞ。
-PROPQUEST_INC_150463,"Aside from the jarl, this war is finally over. With that stinking giant defeated, the fighting is truly finished. It took far too long. Thank you for bringing this war to an end.",ジャールのことを除けば、この戦はようやく終わった。あの臭い巨人を倒したことで、戦いは本当に終わりを迎えたんだ。あまりにも長くかかりすぎた。この戦を終わらせてくれて、ありがとう。
+PROPQUEST_INC_150463,"Aside from the jarl, this war is finally over. With that stinking giant defeated, the fighting is truly finished. It took far too long. Thank you for bringing this war to an end.",ヤールのことを除けば、この戦はようやく終わった。あの臭い巨人を倒したことで、戦いは本当に終わりを迎えたんだ。あまりにも長くかかりすぎた。この戦を終わらせてくれて、ありがとう。
 PROPQUEST_INC_150464,Kill 1 Chief Keokuk and obtain “Chief Keokuk’s Notebook”,ライカンバルガを1体討伐し、「ライカンバルガの手記」を入手
 PROPQUEST_INC_150465,The Ever-Turning Vicious Cycle of Blood,血に染まる終わらぬ悪循環
 PROPQUEST_INC_150466,Chief Keokuk had this? What madness. So this war was just a game played by him and the traitor…,ライカンバルガがこれを持っていたのか？なんて狂気だ。つまりこの戦は、奴とあの裏切り者が仕組んだ茶番だったということか…
@@ -2530,9 +2530,9 @@ PROPQUEST_INC_150477,Go on. Ankou will give you peace. My granddaughter wanted r
 PROPQUEST_INC_150478,What’s wrong? Are you afraid now that you have to face a demon? It’s too late for that.,どうした？いざ悪魔と対峙するとなって怖気づいたか？今さら遅いぞ。
 PROPQUEST_INC_150479,(He’s dead.),（彼は絶命している。）
 PROPQUEST_INC_150480,What happened? Is Ankou defeated? The handwriting on this page… so the traitor is gone as well.,何が起きたんだ？ベヒモスが倒されたのか？このページの筆跡…では、あの裏切り者もいなくなったということか。
-PROPQUEST_INC_150481,Defeat Ankou and obtain “Jarl’s Diary”,ベヒモスを討伐し、「ジャールの日記」を入手
+PROPQUEST_INC_150481,Defeat Ankou and obtain “Jarl’s Diary”,ベヒモスを討伐し、「ヤールの日記」を入手
 PROPQUEST_INC_150482,Peace at Last?,ようやく訪れた平和？
-PROPQUEST_INC_150483,"Incredible. It may not have been a fully summoned demon, but you still defeated it. The jarl had a family? He lost his wife ages ago and never had any children.",信じられん。完全に召喚された悪魔ではなかったとはいえ、それでも倒してしまうとは。ジャールに家族がいただと？妻はとうの昔に亡くし、子供も持たなかったはずなのに。
+PROPQUEST_INC_150483,"Incredible. It may not have been a fully summoned demon, but you still defeated it. The jarl had a family? He lost his wife ages ago and never had any children.",信じられん。完全に召喚された悪魔ではなかったとはいえ、それでも倒してしまうとは。ヤールに家族がいただと？妻はとうの昔に亡くし、子供も持たなかったはずなのに。
 PROPQUEST_INC_150484,"Whatever the truth, you’ve saved this land from the demon and those filthy beasts. You have my deepest thanks. Trade with your continent? Of course. I fully support it. I’ll guarantee free passage for anyone coming to our village. Take this approval token.",真実がどうであれ、お前はこの地を悪魔とあの汚らわしい獣どもから救ってくれた。心から感謝する。お前の大陸との交易か？もちろんだ。全面的に支持しよう。我が村を訪れる者には、自由な通行を保証する。この承認の証を受け取ってくれ。
 PROPQUEST_INC_150485,I’m looking forward to it. I wonder what kind of heroes will come next.,楽しみにしているよ。次はどんな英雄がやって来るのだろうな。
 PROPQUEST_INC_150486,"Still, some formalities must be followed, don’t you think?",とはいえ、いくつかの手続きは必要だと思わないか？
