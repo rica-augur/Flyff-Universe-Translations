@@ -254,7 +254,7 @@ PROPQUEST_REQUESTBOX_INC_020018,Bring Broken Wings,折れた翼を持ってこ�
 PROPQUEST_REQUESTBOX_INC_020019,Tigar Bites,タイガーバイツ
 PROPQUEST_REQUESTBOX_INC_020020,Googly-Eyed Gogloo,グーグリーアイド・ゴグルー
 PROPQUEST_REQUESTBOX_INC_020021,Nippy Waters,ニッピーウォーターズ
-PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,クレーパーのハードシェル
+PROPQUEST_REQUESTBOX_INC_020022,Hard Shell of the Creper,シザークラブのハードシェル
 PROPQUEST_REQUESTBOX_INC_020023,Crumbly Purple Essence,もろいパープルエッセンス
 PROPQUEST_REQUESTBOX_INC_020024,A Gray Picture of Dorian,ドリアンの灰色の写真
 PROPQUEST_REQUESTBOX_INC_020025,King of Coral Island,珊瑚島の王
@@ -263,7 +263,7 @@ PROPQUEST_REQUESTBOX_INC_020027,Hello adventurer... would you bring me $QUEST_EN
 PROPQUEST_REQUESTBOX_INC_020028,Tigars are known to have some of the strongest teeth in all of Madrigal. If you come across $QUEST_END_ITEM_NAME$ could you bring me a few? I'm crafting a giant dagger... it'll be HUGE!,タイガーは、マドリガル全土で最も強い歯を持っていることで知られています。$QUEST_END_ITEM_NAME$に出くわしたら、いくつか持ってきてもらえますか?巨大な短剣を作っています。それは巨大になるでしょう!
 PROPQUEST_REQUESTBOX_INC_020029,The glass inside a Meral's $QUEST_END_ITEM_NAME$ can enhance a person's vision thrice their normal spotting distance. Collect me enough and I could build a telescope to peer halfway across the globe!,メレーの$QUEST_END_ITEM_NAME$の内側のガラスは、通常のスポッティング距離の3倍の視界を強化できます。私を集めれば、地球の裏側を覗き込むための望遠鏡を作ることができます!
 PROPQUEST_REQUESTBOX_INC_020030,"All this inventing has me famished! Could you go get me some of the Kingster's $QUEST_END_ITEM_NAME$? We'll eat like kings! Don't worry, I'll share...",このすべての発明は私を飢えさせました!キングスターの$QUEST_END_ITEM_NAME$をもらってきてくれませんか?王様のように食べます!心配しないで、私は共有します..
-PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!",あれだけの魚介類を食べた後、もう一口食べられませんでした!この次の発明のために、クリーパーという大きなカニの$QUEST_END_ITEM_NAME$が必要です。奴らの硬い甲殻から最強の鎧を作ろう。この鎧を身に着けることで珊瑚島が救われる運命を予見する!
+PROPQUEST_REQUESTBOX_INC_020031,"After all that seafood I couldn't eat another bite! For this next invention, I need $QUEST_END_ITEM_NAME$ from the large crabs called Creper. From their hard carapace I will craft the strongest of armors. I forsee a fate in which doning this armor will save Coral Island!",あれだけ魚介類を食べたら、もう一口も入りません！次の発明のために、シザークラブという大きなカニの$QUEST_END_ITEM_NAME$が必要です。あの硬い甲羅から、最強の鎧を作り上げてみせましょう。この鎧を身にまとうことで、コーラルアイランドが救われる未来が見えるのです！
 PROPQUEST_REQUESTBOX_INC_020032,"The Naga are powerful warriors of the sea... their $QUEST_END_ITEM_NAME$ are said to hold magical powers that can be used to harness purple energy. I have a healthy fear of Purple Magic, but what doesn't kill you only makes you stronger.",ナーガは海の強力な戦士です。彼らの$QUEST_END_ITEM_NAME$は、紫色のエネルギーを利用するために使用できる魔法の力を持っていると言われています。私はパープルマジックを健全に恐れているが、あなたを殺さないものはあなたを強くするだけだ。
 PROPQUEST_REQUESTBOX_INC_020033,The Dorian have risen from the seas around our island! Please defeat them and collect their $QUEST_END_ITEM_NAME$ as proof. My inventions can only hold them back for so long...,ドリアンが私たちの島の周りの海から上昇しました!彼らを倒し、証拠として$QUEST_END_ITEM_NAME$を回収してください。私の発明は、彼らを長く引き留めることしかできません。
 PROPQUEST_REQUESTBOX_INC_020034,"The $QUEST_END_ITEM_NAME$ of the Okean must be mine! I know having their crown won't make me a king, but it will put me on the path of my dream. To be King of Coral Island!",オケアノスの$QUEST_END_ITEM_NAME$は私のものに違いない!彼らの王冠をかぶったからといって王になれるわけではないことはわかっているが、夢の道を歩むことはできる。珊瑚島の王になろう!
@@ -272,8 +272,8 @@ PROPQUEST_REQUESTBOX_INC_020036,You may find $QUEST_END_ITEM_NAME$ from any of t
 PROPQUEST_REQUESTBOX_INC_020037,You may find $QUEST_END_ITEM_NAME$ from Tigars around the island.,$QUEST_END_ITEM_NAME$は、島のあちこちのタイガーで見つけることができます。
 PROPQUEST_REQUESTBOX_INC_020038,You may find $QUEST_END_ITEM_NAME$ from the Meral patroling the beaches.,$QUEST_END_ITEM_NAME$は、ビーチをパトロールしているメレーから見つけることができます。
 PROPQUEST_REQUESTBOX_INC_020039,You may find delicious $QUEST_END_ITEM_NAME$ from Kingsters in shallow waters around the island.,島の周りの浅瀬でKingstersのおいしい$QUEST_END_ITEM_NAME$を見つけることができます。
-PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,ビーチエリア周辺のクリーパーのタフな$QUEST_END_ITEM_NAME$を見つけることができます。
-PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,$QUEST_END_ITEM_NAME$は、コーラル島周辺のナガで見つけることができます。
+PROPQUEST_REQUESTBOX_INC_020040,You may find tough $QUEST_END_ITEM_NAME$ from Creper around the beach area.,ビーチエリア周辺のシザークラブから、頑丈な$QUEST_END_ITEM_NAME$が見つかるかもしれません。
+PROPQUEST_REQUESTBOX_INC_020041,You may find $QUEST_END_ITEM_NAME$ from Naga around Coral Island.,$QUEST_END_ITEM_NAME$は、コーラルアイランド周辺のナーガから見つかるかもしれません。
 PROPQUEST_REQUESTBOX_INC_020042,You may find $QUEST_END_ITEM_NAME$ left behind by Dorian around Coral Island.,ドリアンが残した$QUEST_END_ITEM_NAME$は、コーラル島周辺で見つかるかもしれません。
 PROPQUEST_REQUESTBOX_INC_020043,"You may find magnificient $QUEST_END_ITEM_NAME$ from Okean, deep in the waters of Coral Island's seas.",珊瑚島の海の奥深くにあるオケアノスから壮大な$QUEST_END_ITEM_NAME$を見つけることができます。
 PROPQUEST_REQUESTBOX_INC_020044,You may find $QUEST_END_ITEM_NAME$ inside the bellies of the deep-sea Kraken.,$QUEST_END_ITEM_NAME$は、深海クラーケンの腹の中に見つかるかもしれません。

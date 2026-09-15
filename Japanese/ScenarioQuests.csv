@@ -1372,11 +1372,11 @@ PROPQUEST_SCENARIO_INC_002660,Bear's Endurance,クマの持久力
 PROPQUEST_SCENARIO_INC_002661,There has been a disturbance in the flow of Madrigal's magic lately... I've heard rumors that an unsuspecting adventurer released the Black Magician from their prison. ,最近、マドリガルの魔法の流れに乱れがあります。無防備な冒険者が黒魔術師を刑務所から解放したという噂を聞いたことがあります。
 PROPQUEST_SCENARIO_INC_002662,"The current Black Magician named Lapranche is also sometimes known as the Purple Magician. She has an incredible power that is lost to all of today's magicians, including myself. Lapranche can summon the will of Shade to cast Purple Magic, recreating parts of the world in Shade's image.",ラプランシュという名前の現在の黒魔術師は、パープルマジシャンとしても知られています。彼女は私を含む今日のすべての魔術師に失われている信じられないほどの力を持っています。ラプランシュはシェードの意志を召喚してパープルマジックを唱え、シェードのイメージで世界の一部を再現することができます。
 PROPQUEST_SCENARIO_INC_002663,"As of now we stand no chance in a battle with Lapranche... even I have grown too weak to defeat her, my former pupil. She is certainly in a weakened state, so there is time to prepare. Expect Lapranche to bide her time by causing choas around Madrigal. For now we must build our strength.",今のところ、ラプランシュとの戦いにチャンスはありません。私でさえ、かつての弟子である彼女を打ち負かすには弱くなりすぎました。彼女は確かに弱体化した状態にあるので、準備する時間があります。ラプランシュがマドリガルの周りにチョアを引き起こすことによって彼女の時間を入札することを期待してください。今は力を築かなければなりません。
-PROPQUEST_SCENARIO_INC_002664,"Before we move forward with the plan... I need you to prove that you are strong enough to fend for yourself. Bring me 50 Bearnerky Fang, then we can move forward with preparations.",計画を進める前に..私はあなたがあなた自身のために身を守るのに十分強いことを証明する必要があります。ベアナーキーファングを50個持ってきてくれれば、準備を進めましょう。
+PROPQUEST_SCENARIO_INC_002664,"Before we move forward with the plan... I need you to prove that you are strong enough to fend for yourself. Bring me 50 Bearnerky Fang, then we can move forward with preparations.",計画を進める前に……あなたが自分の身を守るだけの力を持っていることを証明していただきたいのです。ハニーシーカーの牙を50個持ってきてくだされば、準備を進めましょう。
 PROPQUEST_SCENARIO_INC_002665,"If we are not prepared, Lapranche could unleash evil more terrible than us mortals could ever hope to face.",私たちが準備ができていなければ、ラプランシュは私たち人間が直面することを望むよりも恐ろしい悪を解き放つ可能性があります。
 PROPQUEST_SCENARIO_INC_002666,I hope you understand my hesitance... the power of Purple Magic is nothing to play with. We may start work on the plan now.,私の躊躇を理解していただければ幸いです。パープルマジックの力は遊ぶものではありません。今から計画に取り掛かるかもしれません。
-PROPQUEST_SCENARIO_INC_002667,Go defeat Bearnerky until you have collected 50 Bearnerky Fang.,ベアナーキーの牙を50個集めるまで、ベアナーキーを倒してください。
-PROPQUEST_SCENARIO_INC_002668,Collect 50 Bearnerky Fang.,ベアナーキーファングを50個集める。
+PROPQUEST_SCENARIO_INC_002667,Go defeat Bearnerky until you have collected 50 Bearnerky Fang.,ハニーシーカーの牙を50個集めるまで、ハニーシーカーを倒してください。
+PROPQUEST_SCENARIO_INC_002668,Collect 50 Bearnerky Fang.,ハニーシーカーの牙を50個集める。
 PROPQUEST_SCENARIO_INC_002669,Brother in Arms,腕の中の兄弟
 PROPQUEST_SCENARIO_INC_002670,"There is no hope in standing against Lapranche on our own. We must build an army of warriors, ensuring each is equipped with the weapons and armor needed to succeed.",私たちだけでラプランシュに立ち向かうことに希望はありません。私たちは戦士の軍隊を構築し、それぞれが成功するために必要な武器と鎧を装備していることを確認する必要があります。
 PROPQUEST_SCENARIO_INC_002671,"In the Deadwallderness lives a smelter who has experience with unique requests. Tell Nein of our plan, and see what help he can offer.",デッドウォールダーネスには、ユニークなリクエストの経験を持つ製錬所が住んでいます。ネインに私たちの計画を伝え、彼が提供できる助けを見てください。
@@ -1572,16 +1572,16 @@ PROPQUEST_SCENARIO_INC_002860,The King's army has begun to dwindle! Only the mos
 PROPQUEST_SCENARIO_INC_002861,"You're so close to victory adventurer, do not give up hope. Defeat the Tanuki, and march ever closer to the King's chambers.",あなたは勝利の冒険者に近づきました、希望をあきらめないでください。タヌキを倒し、王の部屋に近づく。
 PROPQUEST_SCENARIO_INC_002862,Defeat 60 Tanuki Enforcer and the Tanuki Protector.,タヌキエンフォーサーとタヌキプロテクターを60体倒す。
 PROPQUEST_SCENARIO_INC_002863,Defying the Mystic Monarch,神秘的な君主に挑む
-PROPQUEST_SCENARIO_INC_002864,The time has come to face King Beast Khan's most powerful allies!,ビーストカーン王の最強の味方に立ち向かう時が来ました!
-PROPQUEST_SCENARIO_INC_002865,"Deep within the camp of the Wildwoods dwells a potent species of beast known as the Wildwood Stalkers. They are lead by the mysterious Wildwood Shaman, a being believed to imbue them with corrupted magics.",ワイルドウッズのキャンプの奥深くには、ワイルドウッドストーカーとして知られる強力な獣の種が住んでいます。彼らは、堕落した魔法を吹き込むと信じられている謎のワイルドウッドシャーマンに率いられています。
+PROPQUEST_SCENARIO_INC_002864,The time has come to face King Beast Khan's most powerful allies!,獣王カーンの最強の配下たちに立ち向かう時が来ました!
+PROPQUEST_SCENARIO_INC_002865,"Deep within the camp of the Wildwoods dwells a potent species of beast known as the Wildwood Stalkers. They are lead by the mysterious Wildwood Shaman, a being believed to imbue them with corrupted magics.",ワイルドウッズの野営地の奥深くには、ワイルドウッド・ストーカーとして知られる強力な獣の一族が棲んでいます。彼らを率いるのは、堕落した魔法を吹き込んでいると信じられている謎の存在、シャーマン・ワタングカです。
 PROPQUEST_SCENARIO_INC_002866,To challenge the Wildwood without being thoroughly prepared would be a grave mistake.,万全の準備をせずにワイルドウッドに挑むのは、重大な過ちです。
 PROPQUEST_SCENARIO_INC_002867,"The Wildwood have truly fallen!? Well done, hero! Only the King now stands in your path!",ワイルドウッドは本当に堕ちた!?よくやった、ヒーロー!今、あなたの行く手を阻むのは王様だけです!
 PROPQUEST_SCENARIO_INC_002868,"The Wildwood are a fearsome species. Persevere, and keep pressing forward!",ワイルドウッドは恐ろしい種です。辛抱強く、前進し続けてください!
-PROPQUEST_SCENARIO_INC_002869,Defeat 60 Wildwood Stalker and the Wildwood Shaman.,ワイルドウッド・ストーカーとワイルドウッド・シャーマンを60体倒す。
+PROPQUEST_SCENARIO_INC_002869,Defeat 60 Wildwood Stalker and the Wildwood Shaman.,ワイルドウッド・ストーカーとシャーマン・ワタングカを60体倒す。
 PROPQUEST_SCENARIO_INC_002870,Conquering the King,王を征服する
 PROPQUEST_SCENARIO_INC_002871,"Beast King Khan, the sovereign of the Wilds, holds dominion over all the untamed creatures dwelling within its depths. His fury befalls any who dare venture too close to his inner sanctum.",荒野の君主である獣王カーンは、その深淵に棲むすべての手つかずの生き物を支配しています。彼の怒りは、彼の内なる聖域に近づきすぎる勇気のある者に降りかかる。
 PROPQUEST_SCENARIO_INC_002872,"Legend speaks of the King's chambers as housing extraordinary treasures, granting those who uncover them unparalleled power. Are you prepared to test the truth of these legends?",伝説によると、王の部屋には並外れた宝物が収められており、それを発見した者には比類のない力が与えられます。これらの伝説の真実をテストする準備はできていますか?
-PROPQUEST_SCENARIO_INC_002873,"Your time has come to confront the King, hero. Stand against the mighty King Beast Khan, and collect the spoils of your brave endeavors!",英雄である王に立ち向かう時が来ました。強大なビーストカーン王に立ち向かい、勇敢な戦いの戦利品を集めましょう!
+PROPQUEST_SCENARIO_INC_002873,"Your time has come to confront the King, hero. Stand against the mighty King Beast Khan, and collect the spoils of your brave endeavors!",英雄よ、いよいよ王と対峙する時が来ました。強大なる獣王カーンに立ち向かい、その勇敢な戦いの戦利品を手にしてください!
 PROPQUEST_SCENARIO_INC_002874,Take all the time you require to make your preparations. The Beast King will surely remain within.,準備に必要なすべての時間をかけてください。獣王はきっとその中に残るだろう。
 PROPQUEST_SCENARIO_INC_002875,"Astounding, hero! You've vanquished the very King of Beasts himself!",驚異的、英雄!百獣の王を倒した!
 PROPQUEST_SCENARIO_INC_002876,Return to me if you emerge victorious against Beast King Khan.,獣王カーンに勝利したら、私のところに戻ってきてください。
