@@ -1005,7 +1005,7 @@ NPC_100058,,
 NPC_100059,,
 NPC_100060,,
 NPC_100061,You are ready to challenge the Red Meteonyker. Are you sure you would like to enter?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the party members participating must be close to you to enter.#nc,レッドメテオニカに挑戦する準備が整いました。入場しますか？\n[はい][IDS_NPC_Yes_Enter] / [いいえ][IDS_NPC_No_Enter]\n\n#cffff0000参加するパーティーメンバー全員があなたの近くにいる必要があります。#nc
-NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,ヴォルケインキーを偽造するにはクマ―に話かける必要があります。
+NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,ヴォルケインキーを鍛造するには、クマーに話しかける必要があります。
 NPC_100063,"Hello I am Azria Pang, the oldest of the Pang brothers. We manage the Lodelights.",やあやあ、バフ・ファン兄弟の長男、アズリアパンだぞ！ぼくらはロードライトの管理をしているぞ！
 NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004fThe #cfff60000レベル80ギルドシージアプリケーションセンター#cff8a004fis open!#nc#nb
 NPC_100065,Good Luck!,ご武運を！

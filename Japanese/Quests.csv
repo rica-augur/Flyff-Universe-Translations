@@ -1132,7 +1132,7 @@ PROPQUEST_INC_001807,"Do you have 3,000,000 Penya right now?","今、3,000,000�
 PROPQUEST_INC_001808,"There seems to be a problem. Maybe you aren't the party leader or you do not have enough members. Remember, you have to be the party leader and you should have 3 party members, including yourself.",何か問題があるようですね。パーティーリーダーではないか、メンバーが3人になっていないのかもしれません。あなたがパーティーリーダーとなり、あなたを含めて3人のメンバーが必要なことを忘れないでくださいね。
 PROPQUEST_INC_001809,Please come back again when you have met all of the conditions for creating your guild.,ギルド結成の条件をすべて満たしたら、またここに来てくださいね。
 PROPQUEST_INC_001811,Thanksgiving with Ivil Tobby,イブルトビのお盆イベント
-PROPQUEST_INC_001812,"My brother Iblis was going to bring us $QUEST_END_ITEM_NAME$s for Thanksgiving, but he lost them on his way here.",兄のイブリースは感謝祭のために$QUEST_END_ITEM_NAME$ sを持ってくるつもりでしたが、彼はここに来る途中、それらを失いました。
+PROPQUEST_INC_001812,"My brother Iblis was going to bring us $QUEST_END_ITEM_NAME$s for Thanksgiving, but he lost them on his way here.",兄のイブリスが感謝祭のために$QUEST_END_ITEM_NAME$を持ってきてくれるはずだったのですが、ここへ来る途中でなくしてしまったようです。
 PROPQUEST_INC_001813,"I will give you the forbidden gift, a red bead, if you can bring me 1,000 rice cakes. Will you do that?",ソンピョン1000個を集めて来てください。レッドオーブをプレゼントします。
 PROPQUEST_INC_001814,You can get the $QUEST_END_ITEM_NAME$s by hunting monsters.,モンスター狩りをしたら自然に $QUEST_END_ITEM_NAME$をもらえるよ。
 PROPQUEST_INC_001815,"Hey, go away if you have nothing to do with me!",用がないのなら、さっさと行け！
@@ -1414,7 +1414,7 @@ PROPQUEST_INC_110102,Finding the Guardians (2),ガーディアンを見つける
 PROPQUEST_INC_110103,Finding the Guardians (3),ガーディアンを見つける (3)
 PROPQUEST_INC_110104,Test of Strength,力を示す試練
 PROPQUEST_INC_110105,Kill 3 Berserk Meteonykers,バーサークメテオニカを3体倒す
-PROPQUEST_INC_110106,"There is only one piece left, in the hands of our fellow guardian Airon. She is stubborn though, and you might need to convince her... if you can find her.",私たちの仲間の守護者アイロンが持っているのが最後の1つです。彼女は頑固なので、説得する必要があるかもしれません...彼女を見つけることができればですが。
+PROPQUEST_INC_110106,"There is only one piece left, in the hands of our fellow guardian Airon. She is stubborn though, and you might need to convince her... if you can find her.",私たちの仲間の守護者アイアンが持っているのが最後の1つです。彼女は頑固なので、説得する必要があるかもしれません...彼女を見つけることができればですが。
 PROPQUEST_INC_110107,"The other two guardians may still be alive, but you are foolish to come here. Nobody is strong enough to face the Red Meteonyker.",他の2人の守護者はまだ生きているのでしょうけれど、ここに来るなんてあなたは愚かです。レッドメテオニカに立ち向かうほど強い人はもうどこにもいないわ。
 PROPQUEST_INC_110108,Kumah spoke to you? That's okay. He has too much faith in people. I'm a bit of a skeptic. Nothing has ever gone right in this terrible place for us.,クマーに話しかけられたの？ふっ、それはね、彼は人を信じすぎる癖があるからね。私は懐疑的。こんなひどい場所で、うまくいったためしがないもの。
 PROPQUEST_INC_110109,"Show me a convincing display of your strength. This chamber is filled with Katamaws, a ferocious beast that cannot be tamed. Kill 70 of them and I may consider trusting your abilities.",説得力があるなら今ここで見せてみなさいよ。 この付近はカタモーでいっぱいだし、飼いならすことなんてできない獰猛な獣だわ。せいぜい70体殺せば、お前の力を認めてやる。
@@ -1425,7 +1425,7 @@ PROPQUEST_INC_110113,I kept my word. You now have all three pieces of the key.,�
 PROPQUEST_INC_110114,"In order to merge them and unlock the entrance to the Red Meteonyker, you must find a guardian forger.",それをうまいこと繋ぎ合わせればいいんだろうけど、守護者ハーモを見つけないとできそうにないわ。
 PROPQUEST_INC_110115,Most were wiped out long ago. You must find any survivors and bring the key together once again.,生存者を見つけて、もう一度鍵を集めなければならないわね。
 PROPQUEST_INC_110116,What brings you here?,わざわざここまで何を持ってきたんだ？
-PROPQUEST_INC_110117,Airon sent you? And I see you have all three pieces of the key. Then there is no time to waste.,アリオンがお前をここまで？おいおい、鍵の欠片3つの部分をすべて持っているな。無駄にするような時間は今はなさそうだな。
+PROPQUEST_INC_110117,Airon sent you? And I see you have all three pieces of the key. Then there is no time to waste.,アイアンがお前をここまで？おいおい、鍵の欠片3つの部分をすべて持っているな。無駄にするような時間は今はなさそうだな。
 PROPQUEST_INC_110118,"I can reforge the key for you, but I require a lot of life source to do so.",鍵をつなぎ合わせることはできだろうが、多くの生命エネルギーが必要になる。
 PROPQUEST_INC_110119,"Ever since the Red Meteonyker has been wreaking havoc in his chamber, the armies of Shade have swarmed this place. Cyclops X are everywhere, and the entrance is now kept by undead guardians.",レッドメテオニカが彼の部屋を破壊して以来、シェイドの軍隊がこの場所に群がっている。サイクロプスXはいたるところにいるし、入り口はアンデッド ガーディアンによって守られています。
 PROPQUEST_INC_110120,Weaken the armies of the Cyclops X and defeat their lieutenant to obtain one of their life gems and bring it to me.,サイクロプス Xを弱体化させ、ジャイアントを倒しライフジェムを1つ手に入れ、私のところに持ってきてください。
