@@ -58,15 +58,15 @@ PROPQUEST_INC_000500,"It's interesting that you've come to see me. Did Pyre send
 PROPQUEST_INC_000501,Visit High-Dwarpet Tucani in Flaris. He can be found north of Flarine. Check your map (M Key) to find your way if you get lost.,ハイドワーフの生息地にいる＜トゥカニ＞のところへ行こう！
 PROPQUEST_INC_000503,An Acrobat's Duty,アクロバットの任務 
 PROPQUEST_INC_000504,You've learned many things since your journey began.,旅が始まって以来、あなたは多くのことを学びました。
-PROPQUEST_INC_000505,Now for the next step in your training. There is a creature named Shuraiture in the north of Flarine who is causing some trouble for residents there.,トレーニングの次のステップに進みましょう。フラリーネの北にシュライトゥレという生き物がいて、住民に迷惑をかけている。
-PROPQUEST_INC_000506,"Shuraiture has been terrorizing some of the locals in Flaris. I want you to go there and put an end to him once and for all. Bring news of your victory to Tailer, the Acrobat Instructor in Flarine.",シュライツレ は フラリス の地元住民の何人かを恐怖に陥れています。そこに行って、彼をきっぱりと終わらせてほしい。勝利の知らせを、フラリスのアクロバット インストラクターであるタイラーに届けてください。
+PROPQUEST_INC_000505,Now for the next step in your training. There is a creature named Shuraiture in the north of Flarine who is causing some trouble for residents there.,トレーニングの次のステップに進みましょう。フラリーネの北にシュライチャーという生き物がいて、住民に迷惑をかけている。
+PROPQUEST_INC_000506,"Shuraiture has been terrorizing some of the locals in Flaris. I want you to go there and put an end to him once and for all. Bring news of your victory to Tailer, the Acrobat Instructor in Flarine.",シュライチャーがフラリスの地元住民の何人かを恐怖に陥れています。そこに行って、彼をきっぱりと終わらせてほしい。勝利の知らせを、フラリスのアクロバット インストラクターであるタイラーに届けてください。
 PROPQUEST_INC_000507,"Good luck, you'll need it!",検討を祈る！
 PROPQUEST_INC_000508,What's the matter? Chicken?,だから、人間ってやつは嫌いなんだ。なんでもすぐ諦めるからな。
 PROPQUEST_INC_000509,Shuraiture is… no more? What great news! Thank you so much! I see that you've also spoken with Tucani. Here is your reward for defeating Shuraiture.,＜シュライチャー＞を捕らえて来たのですか！　すばらしいわ。ありがとうございます。もう、本当に気がかりで困っていたのです。それでは最後の訓練をパスしましたので、私が転職の完了を認証します。
 PROPQUEST_INC_000510,Acrobats are very versatile. We can fight at long range or in close quarters! We also have a special ability which allows us to pull an enemy target up close.,アクロバットは近距離、中距離、遠距離攻撃が全部可能な職業です。アクロバットは身を隠すことも出来ますし、遠距離の敵を自分の前に引き寄せることも出来ます。
 PROPQUEST_INC_000511,"You've done well. I sense great potential in you. Congratulations, Acrobat!",あなたはよくやった。 私はあなたに大きな可能性を感じます。 おめでとう、アクロバット！
 PROPQUEST_INC_000512,Why have you come to see me? Did Tucani send you?,何か御用ですか？　＜トゥカニ＞から何か聞きませんでしたか？
-PROPQUEST_INC_000513,There is a creature named Shuraiture in the north of Flarine. I want you to go there and put an end to him. Bring news of your victory to Tailer the Acrobat Instructor in Flarine.,フラリスの北にシュライトゥーレという生き物がいます。そこに行って彼を始末してほしい。勝利のニュースをフラリスのアクロバット インストラクターのタイラーに届けましょう。
+PROPQUEST_INC_000513,There is a creature named Shuraiture in the north of Flarine. I want you to go there and put an end to him. Bring news of your victory to Tailer the Acrobat Instructor in Flarine.,フラリスの北にシュライチャーという生き物がいます。そこに行って彼を始末してほしい。勝利のニュースをフラリスのアクロバット インストラクターのタイラーに届けましょう。
 PROPQUEST_INC_000515,Successor of the Hero - Master,英雄の後継者―マスター
 PROPQUEST_INC_000516,You think you have what it takes to be a successor of the Jester Hero? We will see…,ここまで来ることが出来た功績を讃えます。お疲れ様でした。しかし、私には、あなたにジェスター後継者としてふさわしいかどうか、まだ判断は出来ません。
 PROPQUEST_INC_000517,"Fine, I'll humor you. Slay $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s southwest of the Gouthan Mountains. They must be regular $QUEST_END_KILL_NAME$s, not the small or captain variety.",そこで、ひとつ簡単なテストを行います。ゴウダン山の南西に生息している$QUEST_END_KILL_COUNT$体の$QUEST_END_KILL_NAME$を狩って来てください。よいですか、$QUEST_END_KILL_NAME$です。スモールやキャプテンではありません。
@@ -294,12 +294,12 @@ PROPQUEST_INC_000806,Speak with High-Dwarpet Hastan north of Flarine. Check your
 PROPQUEST_INC_000808,Duty of Magician,マジシャンの任務
 PROPQUEST_INC_000809,"You learn quickly, Vagrant! Perhaps you will be a great Magician one day! Here, take this. It is a Label of Technique that details what I've explained to you today.",クククッ、ちゃんとわかったか？このスキル事典の破片は、くれぐれも失くさないようにしてくれよ！とても大事なものだからな。
 PROPQUEST_INC_000810,"For your final task, I want you to travel to the west of Flaris and defeat the creature known as Seido. He has been harassing some of the residents of Flarine as of late.",最後の任務として、フラリスの西へ行き、セイムと呼ばれるモンスターを倒してください。最近、フラリスの住民に嫌がらせをしているようなんです。
-PROPQUEST_INC_000811,"Once Seido is defeated, speak with Magician Instructor Lopaze in Eastern Flarine. She will conclude your training.",青道を倒したら、東フラリスにいる魔術師教官ロパーゼに話しかける。彼女はあなたのトレーニングを終了します。
+PROPQUEST_INC_000811,"Once Seido is defeated, speak with Magician Instructor Lopaze in Eastern Flarine. She will conclude your training.",セイムを倒したら、東フラリスにいる魔術師教官ロパーゼに話しかける。彼女はあなたのトレーニングを終了します。
 PROPQUEST_INC_000812,"You've done very well so far, young one. Keep up the great work!",次にやるべきことはわかったよな？じゃ、健闘を祈るぜ！
 PROPQUEST_INC_000813,You've come a long way just to give up when you're so close to the end. Speak with me again if you change your mind.,面倒くさくなったのか。まあ、おまえがテストを諦めようが諦めなかろうが、オレには関係ない話さ。
 PROPQUEST_INC_000815,"As Magicians, we are most effective when attacking at long range. Many of our skills employ the power of the elements.",マジシャンはその名のとおり、遠距離戦闘型の職業です。接近戦は向いていないので、遠い場所から魔法を使い強力な攻撃をする戦闘スタイルとなります。また、魔法によっては周囲にいる複数の敵を1回の攻撃で倒すこともできます。
 PROPQUEST_INC_000816,"This allows us to take advantage of elemental vulnerabilities that our enemies may have. Congratulations, young one! You are now a Magician!",マジシャンは一人で戦うよりも、仲間と一緒に戦うことでその威力を発揮します。さあ、これで全てのテストが終わりました。おめでとうございます！これからもより知識を深め、より大きな魔力を自在に操る優秀なマジシャンへと成長してくださいね。
-PROPQUEST_INC_000817,"I sure wish someone would take care of that Seido creature near Flarine… Oh, hello! Did you need something?",誰かがフラリスの近くにいる青道の生き物の世話をしてくれたらいいのに…ああ、こんにちは！何か必要でしたか？
+PROPQUEST_INC_000817,"I sure wish someone would take care of that Seido creature near Flarine… Oh, hello! Did you need something?",誰かがフラリスの近くにいるセイムの世話をしてくれたらいいのに…ああ、こんにちは！何か必要でしたか？
 PROPQUEST_INC_000818,Defeat Seido near the west of Flarine. Speak with Magician Instructor Lopaze once he has been defeated.,フラリスの西に現れたという邪悪なセイムを倒してから、マジシャン訓練所の助手のところへ向かおう。
 PROPQUEST_INC_000820,Find Red Bang Thieves,赤いヴァン盗賊団を探せ！
 PROPQUEST_INC_000821,Help! Help me! My cash box... My money... It's all gone! Someone stole my cash box! Iblis watch over me!,大変なことが起きてしまった！おれの金庫が、大事な金庫が盗まれてしまったんだ！はぁ～、一体どうしたものか…
