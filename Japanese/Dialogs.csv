@@ -113,7 +113,7 @@ NPC_000120,"Oh! You're asking about the ID Card that grants access to the Trilli
 NPC_000121,"Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!",食べ物ならここにあるぜ！
 NPC_000122,What do you want already?! I've got things to do!,なんだ？
 NPC_000123,"I'm the best chef in town, you got that? Anyone that tells you different is more than welcome to discuss it with my butcher knife. There will be more than just *chicken* on a stick on my menu...",見ればわかるだろう？ふんっ！まさかフードショップを知らんわけではあるまい！
-NPC_000124,"My name is Bolpor Centaurn, the best darn chef in Darken. I'm also the best looking. I didn't get this handsome overnight, you know.",何だ？ふんっ！名前くらいは教えてやるさ。俺の名は＜ボルバー＞。見てのとおり＜フードショップ＞の店員だ。分かったら、さっさと買い物だけして帰りな！
+NPC_000124,"My name is Bolpor Centaurn, the best darn chef in Darken. I'm also the best looking. I didn't get this handsome overnight, you know.",何だ？ふんっ！名前くらいは教えてやるさ。俺の名は＜ボルポー＞。見てのとおり＜フードショップ＞の店員だ。分かったら、さっさと買い物だけして帰りな！
 NPC_000125,"See ya later, alligator! Mmm, alligator... that gives me an idea for a new dish!",気をつけてな！
 NPC_000126,"Only the bravest adventurer can hope to succeed on the path of the Knight Hero, Billaon. Are you worthy?",ナイト英雄＜鉄壁の豪腕＞ビレリアンの志を継ぐ者よ、英雄の道を歩む準備は出来ていますか？
 NPC_000127,We must never forget the sacrifice of the Heroes. We are here to train those who wish to follow their path in hopes of a worthy successor.,たとえ彼らの名が忘れられても、彼らの志は生き続けるでしょう･･･。
@@ -498,7 +498,7 @@ NPC_000549,"If your Health Points (HP) reach zero, you will die. Not to worry, t
 NPC_000550,"If you select Lodestar, you will be summoned back to town and resurrected. Alternatively, players who've chosen the Assist Job can often resurrect you where you died.",でも、死んでしまっても、心配しないでください。フラリスには、＜ロードスター＞という復活機があります。これは、死んだ人を街に移動してくれるんですよ。
 NPC_000551,"In addition to this, you can also purchase a Scroll of Resurrection by selecting the Premium Item Shop icon on your task bar. This allows you to resurrect in place.",また、回復もしてくれます。
 NPC_000554,"Goodbye, adventurer. Enjoy your stay in Flarine!",楽しい一日になりますように！
-NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I also run a beauty shop. If you need any help or information, just ask me or my twin sisters!",私はフラリスの案内をしている＜イスク・トリニティ＞といいます。
+NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I also run a beauty shop. If you need any help or information, just ask me or my twin sisters!",私はフラリスの案内をしている＜イスケ・トリニティ＞といいます。
 NPC_000564,"My name is Ismerelda Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",私はフラリスの案内をしている＜イスメラルダ・トリニティ＞といいます。
 NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",私はフラリスの案内をしている＜イスピム・トリニティ＞といいます。
 NPC_000576,"I am Isruel Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",私はフラリスの案内をしている＜イスルエル・トリニティ＞といいます。
@@ -531,7 +531,7 @@ NPC_000604,"Oh man! All this shoveling, all day long! Can't I have a break?!",�
 NPC_000605,"*Langdrong grins at you*\nYou want me to say hello to you? Haha, never! I may live like you humans but I am nothing like you! So nyah!",*ニヤリ*\nオレは人間と同じような生活スタイルをしているけど…人間とオレたちドワーフは、根本的に異なる種族だ。　
 NPC_000606,Me? You want to know who I am? Hahaha! What a shame the feeling isn't mutual. I am High-Dwarpet Langdrong Clo and I'm the keeper of the Mercenaries Book of Technique. Happy?,オレが誰かって？オレはハイドワーフ＜ランドラング・ジャクロー＞だ。マーシナリーの＜スキル事典＞を保管しているのさ。　
 NPC_000607,Steer clear of the other Dwarpets. They may not be as nice as I am.,これ以上慣れ慣れしくオレたちと関わるな。オレたちはおまえたちの種族とは相容れない。用がないなら帰りな。
-NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We have managed the Lodelights for generations.,代々、この復活機ロードライトを管理している＜ファン＞家門の長男＜フラリ・ファン＞です。
+NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We have managed the Lodelights for generations.,代々、この復活機ロードライトを管理している＜ファン＞家門の長男＜フラリス・ファン＞です。
 NPC_000609,Need a moment? Grab a chocolate bar from Losha's Premium Foods Shop!,美味しいものがいっぱいでしょう？
 NPC_000610,"I wonder, can you do something for me? I could really use your help.",何をやってくれるんですか？・・・
 NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats Penya can buy! So whaddya say, are ya' hungry?",フードショップ＜ララエン＞にようこそ！今は妹の＜ロコ＞、見習いの＜ソタ＞さん、そして＜ロシャ＞の3人でがんばってま～す！ふふふっ、人が増えてすっごく嬉しいなぁ！

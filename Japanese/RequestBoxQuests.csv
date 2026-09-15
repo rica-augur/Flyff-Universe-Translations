@@ -23,9 +23,9 @@ PROPQUEST_REQUESTBOX_INC_000001,Party of Is,イスのバーベキューパーテ
 PROPQUEST_REQUESTBOX_INC_000002,Is needs you to gather Chupim for her party. Will you help?,バーベキューパーティーでお肉を焼くための材料であるチュピムの収集の依頼がありました。依頼を受け付けますか?
 PROPQUEST_REQUESTBOX_INC_000007,Is asking you to collect Chupim for her party.,イスが肉パーティーを開くために肉を焼くことができる材料であるチュピムの収集を依頼した。
 PROPQUEST_REQUESTBOX_INC_000012,Unknown Situation (1),不思議な現象 －前編－
-PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,フラリファンから謎の手紙収集の依頼がありました。依頼を受け付けますか？
+PROPQUEST_REQUESTBOX_INC_000013,Flaris Pang needs you collect unknown letters. Will you help?,フラリス・ファンから謎の手紙収集の依頼がありました。依頼を受け付けますか？
 PROPQUEST_REQUESTBOX_INC_000018,Flaris Pang wants you to collect $QUEST_END_ITEM_NAME$.,フラリスの北の橋の近くで$QUEST_END_ITEM_NAME$の収集を依頼した。 橋を渡る前に周辺の地面を探してみましょう。
-PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,フラリファンから謎の印集めの依頼がありました。依頼を受けますか？
+PROPQUEST_REQUESTBOX_INC_000024,Flaris Pang needs you to collect Unknown Certificates. Will you help?,フラリス・ファンから謎の印集めの依頼がありました。依頼を受けますか？
 PROPQUEST_REQUESTBOX_INC_000034,Flying Board,ボードの材料集め
 PROPQUEST_REQUESTBOX_INC_000035,Dior needs you to collect Peakyrinds. Will you help?,ディオールから、ホバー・ボードの大量生産のためにボードの材料であるピーキーリンドの収集依頼がありました。依頼を受けますか？
 PROPQUEST_REQUESTBOX_INC_000040,Dior wants you to collect Peakyrinds.,ディオールがホバーボードの大量生産のためにボードの材料であるピッキーラインドの収集を依頼した。
@@ -60,10 +60,10 @@ PROPQUEST_REQUESTBOX_INC_000144,Lost Documents,盗まれた書類
 PROPQUEST_REQUESTBOX_INC_000145,Julia needs you to collect office documents stolen by the Mias. Will you help?,ジュリアがシティホールの書類をミーアに盗まれてしまったそうです。探して欲しいとのことですが、依頼を受けますか？
 PROPQUEST_REQUESTBOX_INC_000150,Julia wants the office documents that the mia stole.,ミーアの棲息地の辺りでシティホールの書類20個を集めて、依頼所のミキエルに渡しましょう。
 PROPQUEST_REQUESTBOX_INC_000155,Brightly Burning Flame,溶鉱炉に火をつけろ！
-PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,ボボコから、溶鉱炉の火種になるマッチが残り少ないとのことで収集の依頼がありました。依頼を受けますか？
+PROPQUEST_REQUESTBOX_INC_000156,Bozman needs you to collect furious matches to use at his blast furnace. Will you help?,ボズマンから、溶鉱炉の火種になるマッチが残り少ないとのことで収集の依頼がありました。依頼を受けますか？
 PROPQUEST_REQUESTBOX_INC_000161,Bozman wants furious matches,ボボコが炉を使い続けるために劣化マッチの収集を依頼した。
-PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),続・フラリファンの依頼
-PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,フラリファンから不思議な手紙の収集の依頼がありました。依頼を受けますか？
+PROPQUEST_REQUESTBOX_INC_000166,Unknown Situation (2),続・フラリス・ファンの依頼
+PROPQUEST_REQUESTBOX_INC_000167,Flaris Pang needs you to collect unknown letters.,フラリス・ファンから不思議な手紙の収集の依頼がありました。依頼を受けますか？
 PROPQUEST_REQUESTBOX_INC_000172,Flaris Pang needs unknown letters again.,ロードライトの辺りで、不思議な手紙30個を集めて、依頼所のミキエルに渡しましょう。
 PROPQUEST_REQUESTBOX_INC_000177,Delicious Sauce,秘伝のタレ
 PROPQUEST_REQUESTBOX_INC_000178,Kalin needs you to collect Cardrin to make delicious sauce.,フードショップのカリンからの依頼です。秘伝のソース「レッドマンティストロロ」を作るために＜みがき石＞が必要とのことです。依頼を受けますか？
@@ -137,8 +137,8 @@ PROPQUEST_REQUESTBOX_INC_000464,The Fireworks Producer needs Bomb Timers to make
 PROPQUEST_REQUESTBOX_INC_000465,You get bombtimers from any type of Carrierbomb.,ボム・タイマーはキャリアボム族から収集できます。
 PROPQUEST_REQUESTBOX_INC_000469,The Firework Producer wants Bomb Timers.,花火師組合が、新作花火を作るため、ボム・タイマー50個の収集を依頼した。
 PROPQUEST_REQUESTBOX_INC_000474,Snack for the Children,デザートの飾り付け
-PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,ボルパーからの依頼です。デザートの飾りつけの材料プレウイングを依頼しました。依頼を受けますか？
-PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,ボルパーがデザートの飾り付けのため、プレウイングを依頼した。
+PROPQUEST_REQUESTBOX_INC_000475,Bolpor needs Prewing to make some snacks for the children. Will you help?,ボルポーからの依頼です。デザートの飾りつけの材料プレウイングを依頼しました。依頼を受けますか？
+PROPQUEST_REQUESTBOX_INC_000480,Bolpor wants Prewing.,ボルポーがデザートの飾り付けのため、プレウイングを依頼した。
 PROPQUEST_REQUESTBOX_INC_000485,Mushroom Farm of Chitller,シトレーのキノコ農場
 PROPQUEST_REQUESTBOX_INC_000486,Chitller needs you to collect Poiespore for his mushroom farm will you help?,シトレーがこの度キノコ農場の経営に乗り出すそうです。退役軍人も大変ですね。そこで、キノコ栽培に必要なポイスポア50個を依頼されました。依頼を受けますか？
 PROPQUEST_REQUESTBOX_INC_000491,Chitller wants Poiespore.,シトレーがキノコ農場を作るために必要なポイスポア50個の収集を依頼した。

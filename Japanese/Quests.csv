@@ -59,14 +59,14 @@ PROPQUEST_INC_000501,Visit High-Dwarpet Tucani in Flaris. He can be found north 
 PROPQUEST_INC_000503,An Acrobat's Duty,アクロバットの任務 
 PROPQUEST_INC_000504,You've learned many things since your journey began.,旅が始まって以来、あなたは多くのことを学びました。
 PROPQUEST_INC_000505,Now for the next step in your training. There is a creature named Shuraiture in the north of Flarine who is causing some trouble for residents there.,トレーニングの次のステップに進みましょう。フラリーネの北にシュライトゥレという生き物がいて、住民に迷惑をかけている。
-PROPQUEST_INC_000506,"Shuraiture has been terrorizing some of the locals in Flaris. I want you to go there and put an end to him once and for all. Bring news of your victory to Tailer, the Acrobat Instructor in Flarine.",シュライツレ は フラリス の地元住民の何人かを恐怖に陥れています。そこに行って、彼をきっぱりと終わらせてほしい。勝利の知らせを、フラリスのアクロバット インストラクターであるテイラーに届けてください。
+PROPQUEST_INC_000506,"Shuraiture has been terrorizing some of the locals in Flaris. I want you to go there and put an end to him once and for all. Bring news of your victory to Tailer, the Acrobat Instructor in Flarine.",シュライツレ は フラリス の地元住民の何人かを恐怖に陥れています。そこに行って、彼をきっぱりと終わらせてほしい。勝利の知らせを、フラリスのアクロバット インストラクターであるタイラーに届けてください。
 PROPQUEST_INC_000507,"Good luck, you'll need it!",検討を祈る！
 PROPQUEST_INC_000508,What's the matter? Chicken?,だから、人間ってやつは嫌いなんだ。なんでもすぐ諦めるからな。
 PROPQUEST_INC_000509,Shuraiture is… no more? What great news! Thank you so much! I see that you've also spoken with Tucani. Here is your reward for defeating Shuraiture.,＜シュライチャー＞を捕らえて来たのですか！　すばらしいわ。ありがとうございます。もう、本当に気がかりで困っていたのです。それでは最後の訓練をパスしましたので、私が転職の完了を認証します。
 PROPQUEST_INC_000510,Acrobats are very versatile. We can fight at long range or in close quarters! We also have a special ability which allows us to pull an enemy target up close.,アクロバットは近距離、中距離、遠距離攻撃が全部可能な職業です。アクロバットは身を隠すことも出来ますし、遠距離の敵を自分の前に引き寄せることも出来ます。
 PROPQUEST_INC_000511,"You've done well. I sense great potential in you. Congratulations, Acrobat!",あなたはよくやった。 私はあなたに大きな可能性を感じます。 おめでとう、アクロバット！
 PROPQUEST_INC_000512,Why have you come to see me? Did Tucani send you?,何か御用ですか？　＜トゥカニ＞から何か聞きませんでしたか？
-PROPQUEST_INC_000513,There is a creature named Shuraiture in the north of Flarine. I want you to go there and put an end to him. Bring news of your victory to Tailer the Acrobat Instructor in Flarine.,フラリスの北にシュライトゥーレという生き物がいます。そこに行って彼を始末してほしい。勝利のニュースをフラリスのアクロバット インストラクターのテイラーに届けましょう。
+PROPQUEST_INC_000513,There is a creature named Shuraiture in the north of Flarine. I want you to go there and put an end to him. Bring news of your victory to Tailer the Acrobat Instructor in Flarine.,フラリスの北にシュライトゥーレという生き物がいます。そこに行って彼を始末してほしい。勝利のニュースをフラリスのアクロバット インストラクターのタイラーに届けましょう。
 PROPQUEST_INC_000515,Successor of the Hero - Master,英雄の後継者―マスター
 PROPQUEST_INC_000516,You think you have what it takes to be a successor of the Jester Hero? We will see…,ここまで来ることが出来た功績を讃えます。お疲れ様でした。しかし、私には、あなたにジェスター後継者としてふさわしいかどうか、まだ判断は出来ません。
 PROPQUEST_INC_000517,"Fine, I'll humor you. Slay $QUEST_END_KILL_COUNT$ $QUEST_END_KILL_NAME$s southwest of the Gouthan Mountains. They must be regular $QUEST_END_KILL_NAME$s, not the small or captain variety.",そこで、ひとつ簡単なテストを行います。ゴウダン山の南西に生息している$QUEST_END_KILL_COUNT$体の$QUEST_END_KILL_NAME$を狩って来てください。よいですか、$QUEST_END_KILL_NAME$です。スモールやキャプテンではありません。
@@ -150,7 +150,7 @@ PROPQUEST_INC_000610,"The books must be returned. We need your help, Acrobat. Sp
 PROPQUEST_INC_000611,"What've you got there, Acrobat? A Stamped Scroll, and are those… they are! I can't believe it! The 8 lost books of the History of Heroes!",これは確かに＜ハイナン＞様の印章ですね。あと＜英雄伝記＞8冊まで、全部見つけていただいて、本当にありがとうございます。
 PROPQUEST_INC_000612,"How did you ever… never mind! The important thing is that we have them back! We owe you our sincerest gratitude, young Acrobat!",この大切な宝物を・・・。もう一度感謝を申し上げます。
 PROPQUEST_INC_000613,I'm waiting for someone who has allegedly found the 8 lost books of the History of Heroes. Is that you? No? Then we have nothing more to discuss.,失われた英雄の歴史の8冊の本を見つけた人を待っています。 あなたなの？ 違うの？ だったら、これ以上話す事はありません。
-PROPQUEST_INC_000614,"Bring the Stamped Scroll and the 8 lost History of Hero books to Rupim, the Ranger Priest in Aniceknight in Darkon 3.",刻印された巻物と失われた8冊の英雄伝記をダーコン3のアニスナイトのレンジャープリーストであるルピムに持って行ってください。
+PROPQUEST_INC_000614,"Bring the Stamped Scroll and the 8 lost History of Hero books to Rupim, the Ranger Priest in Aniceknight in Darkon 3.",刻印された巻物と失われた8冊の英雄伝記をダーコン3のアニスナイトのレンジャープリーストであるルピンに持って行ってください。
 PROPQUEST_INC_000620,"Take this. It is a Mark of the Hero. Once you have confronted the Venel Guardian and retrieved the Venel Heart, bring both of these to the Ranger Guardian, Kailreard.",この＜ヴェネルハート＞が得られなければ、守護者からレンジャーとして認めてもらうことが出来ません。つまり、レンジャーになるための最後の試練だと言えます。必ず成し遂げてください。
 PROPQUEST_INC_000623,"Congratulations, young Acrobat. I've heard many great things about you. You've completed the final test. You will now become a Successor of the Ranger Hero!",よくぞここへ辿りつきました、レンジャーの後継者よ。　最後の試練を乗り越えました。これからあなたをレンジャーの後継者とし、正式に任命します。
 PROPQUEST_INC_000624,"Wise Hynan! This Acrobat wishes to follow your path! Grant them your blessing and power, Ranger Hero!",＜ハイナン＞様、ここにあなたの魂に従おうとしている者がいます。この人に祝福と勇気を与えてください。レンジャーに栄光あれ！
