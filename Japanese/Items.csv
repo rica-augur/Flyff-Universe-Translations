@@ -2968,9 +2968,9 @@ PROPITEM_TXT_005121,Teleport to Darkon,ダーコンに移動できるブリン�
 PROPITEM_TXT_005122,Blinkwing of Darkon 1,ブリンクウイング(ダーコン1)
 PROPITEM_TXT_005123,Teleport to Darkon 1,ダーコン1に移動できるブリンクウイング
 PROPITEM_TXT_005124,Blinkwing of Darkon 3,ブリンクウイング(ダーコン3)
-PROPITEM_TXT_005125,Teleport to Darkon 3,ダーコン3に移動できるブリンクウイング
-PROPITEM_TXT_005126,Blinkwing of Dekane,ブリンクウイング(デェカネスダンジョン)
-PROPITEM_TXT_005127,Teleport to the Dekane Mine,デェカネスダンジョンの入口に移動できるブリンクウイング
+PROPITEM_TXT_005125,Teleport to Darkon 3,ダーコン3へ移動できるブリンクウイング
+PROPITEM_TXT_005126,Blinkwing of Dekane,ブリンクウイング(デェカネス鉱山)
+PROPITEM_TXT_005127,Teleport to the Dekane Mine,デェカネス鉱山の入り口へ移動できるブリンクウイング
 PROPITEM_TXT_005128,Blinkwing of Mars,ブリンクウイング(フラリスダンジョン)
 PROPITEM_TXT_005129,Teleport to the Mars Dungeon,フラリスダンジョンの入口に移動できるブリンクウイング
 PROPITEM_TXT_005130,Magic Broom,マジック・ブルーム
@@ -3437,7 +3437,7 @@ PROPITEM_TXT_006079,Love Letter from Boboku to Julia.,ボボクのジュリア�
 PROPITEM_TXT_006080,Reply to the Love Letter.,ボボクの手紙
 PROPITEM_TXT_006081,Julia's reply to Boboku.,ボボクのジュリアに対する愛が込められているラブレター
 PROPITEM_TXT_006084,Key of Kebaras Island,ケバラス島の鍵
-PROPITEM_TXT_006085,Quest Item: The way to get off of Kebaras Island.,ケラバス島を出るために必要な鍵。(クエストアイテム)
+PROPITEM_TXT_006085,Quest Item: The way to get off of Kebaras Island.,ケバラス島を出るのに必要な鍵（クエストアイテム）
 PROPITEM_TXT_006086,Bead of Sin,罪業の珠
 PROPITEM_TXT_006087,Quest Item: Turn these in to get the Key of Kebaras Island.,凶悪なモンスターから出てくる珠。これを集めると罪が減る。(クエストアイテム)
 PROPITEM_TXT_006088,No Disguise,変身解除の水晶球
@@ -5552,7 +5552,7 @@ PROPITEM_TXT_010432,Spacesuit Gloves (M),コズミックグローブ(男の子�
 PROPITEM_TXT_013590,Reconnaissance Gloves (F),ミリタリーグローブ(女の子用)
 PROPITEM_TXT_013492,Mistletoe Hat (F),ラブリィクリスマスハット(女の子用)
 PROPITEM_TXT_020447,PPXP 2019 Door Prize Cloak (15 days) (F),PPXP 2019 ドア賞品 マント(15日)(F)
-PROPITEM_TXT_014232,Colosseum Champion's Cloak,栄光のコロシアムマント
+PROPITEM_TXT_014232,Colosseum Champion's Cloak,栄光のコロッセオマント
 PROPITEM_TXT_016469,Masquerade Helmet (JP),マスカレードラブリィヘルメット
 PROPITEM_TXT_015853,Shinigami Suit (M),退魔師コスチューム(男の子用)
 PROPITEM_TXT_009623,Martial artist Hair for Female Characters,武道家のヘアスタイル
@@ -7286,7 +7286,7 @@ PROPITEM_TXT_100726,"A scary but fast, baby, Giggle Box that follows its master 
 PROPITEM_TXT_100727,Harvesting Gloves,収穫用手袋
 PROPITEM_TXT_100728,This item allows you to harvest plants.,植物を収穫できるアイテム。
 PROPITEM_TXT_100729,Cloudberry,クラウドベリー
-PROPITEM_TXT_100730,Berries harvested all the way from Flaris to the Garden of Rhisis. These berries are used to craft all kinds of Pet Candy.,フラリスからリシスの園までずっと収穫された果実。これらのベリーは、あらゆる種類のペット キャンディーの作成に使用されます。
+PROPITEM_TXT_100730,Berries harvested all the way from Flaris to the Garden of Rhisis. These berries are used to craft all kinds of Pet Candy.,フラリスからリシスの庭までずっと収穫された果実。これらのベリーは、あらゆる種類のペット キャンディーの作成に使用されます。
 PROPITEM_TXT_100731,Lightberry,ライトベリー
 PROPITEM_TXT_100732,Berries harvested from Darkon 1 and 2. These berries are used to craft all kinds of Pet Candy above D tier.,ダーコン 1 と 2 から収穫したベリー。これらのベリーは、D等級以上のあらゆる種類のペット キャンディーの作成に使用されます。
 PROPITEM_TXT_100733,Exoberry,エクソベリー
@@ -7506,7 +7506,7 @@ PROPITEM_TXT_100942,Rider Green Gloves (M),ライダーグリーングローブ(
 PROPITEM_TXT_100943,Rider Yellow Gloves (M),ライダーイエローグローブ(M)
 PROPITEM_TXT_100944,Rider Gloves for male characters.,ライダーグローブ。
 PROPITEM_TXT_100945,Volkane Key Piece,ヴォルケインのキーピース
-PROPITEM_TXT_100946,Volkane Key,火山の鍵
+PROPITEM_TXT_100946,Volkane Key,ヴォルケインの鍵
 PROPITEM_TXT_100947,Gray Crystal,グレークリスタル
 PROPITEM_TXT_100948,Quest item that drops from Medumet.,メデュメットから回収した希少なクリスタル。(クエストアイテム)
 PROPITEM_TXT_100949,Red Crystal,レッドクリスタル
@@ -9778,7 +9778,7 @@ PROPITEM_TXT_110302,This box contains a Cacti Set with Speed bonus. You can sele
 PROPITEM_TXT_230114,PK Chip,PKチップ
 PROPITEM_TXT_230115,Exchange this PK chip to Waforu for wonderful rewards!,[チップ商人]ワフォルを訪ねて、素晴らしい報酬と交換してもらいましょう!
 PROPITEM_TXT_230116,1 Day Kebaras Ticket,ケバラス1日券
-PROPITEM_TXT_230117,You have unlimited access to Kebaras  area for 1 day after activating this Ticket. Kebaras contains monsters from level 16 to 140.,このチケットを有効にしてから1日間、ケバラスエリアに無制限にアクセスできます。ケバラにはレベル16から140までのモンスターが含まれています。
+PROPITEM_TXT_230117,You have unlimited access to Kebaras  area for 1 day after activating this Ticket. Kebaras contains monsters from level 16 to 140.,このチケットを有効にしてから1日間、ケバラスエリアに無制限にアクセスできます。ケバラスにはレベル16から140までのモンスターが含まれています。
 PROPITEM_TXT_230118,6 hours Tower Ticket,6時間タワーチケット
 PROPITEM_TXT_230119,You have unlimited access to Tower area for 6 hours after activating this Ticket. Tower contains monsters from level 89 to 160.,このチケットを有効にしてから6時間、タワーエリアに無制限にアクセスできます。タワーにはレベル89から160までのモンスターが含まれています。
 PROPITEM_TXT_230120,Change your name color for 7 days!,7日間、名前の色を変更できます！
@@ -12266,7 +12266,7 @@ PROPITEM_TXT_018317,Fennith Boots,フェニスブーツ
 PROPITEM_TXT_018319,Fennith Gauntlets,フェニスガントレット
 PROPITEM_TXT_018321,Fennith Helmet,フェニスヘルメット
 PROPITEM_TXT_018323,Fennith Suit,フェニススーツ
-PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",原始的なエネルギーで脈動する荒野の謎のアーティファクト
+PROPITEM_TXT_018325,"A mysterious artifact from The Wilds, pulsating with primal energy.",原始的なエネルギーで脈動する、ザ・ワイルズの謎のアーティファクト
 PROPITEM_TXT_122300,Crumbling Coral Cutlass,崩れる珊瑚のカットラス
 PROPITEM_TXT_122301,Lethargic Leviathan,無気力なリヴァイアサン
 PROPITEM_TXT_122302,Neglected Nautilus,無視されたノーチラス号
@@ -12423,7 +12423,7 @@ PROPITEM_TXT_019464,Destroyed Coral Shield,破壊された珊瑚の盾
 PROPITEM_TXT_019465,This shield has been damaged beyond repair.,このシールドは修復不可能なほど損傷しています。
 PROPITEM_TXT_019466,Lusaka's Shield,ルサカの盾
 PROPITEM_TXT_019467,Lusaka's Crystal Shield,ルサカのクリスタルシールド
-PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,荒野で見つけた精巧な盾。力強くハミングします。
+PROPITEM_TXT_019468,An exquisitely crafted shield found in The Wilds. It hums with power.,ザ・ワイルズで見つけた精巧な盾。力強くハミングします。
 PROPITEM_TXT_150000,Lightning Strike,落雷
 PROPITEM_TXT_150001,"Call a lightning strike upon the person ahead of you in points, slowing them down by 20% for 10 seconds.",ポイントで前方の人に落雷を呼び、10秒間20%遅くします。
 PROPITEM_TXT_150002,Guided Missile,誘導弾
@@ -12685,7 +12685,7 @@ PROPITEM_TXT_422044,Teleport to one of the towns and return later where the scro
 PROPITEM_TXT_124000,Forest World Template (XL),フォレストワールドテンプレート(XL)
 PROPITEM_TXT_124001,Volcano World Template (XL),ヴォルケーノワールドテンプレート(XL)
 PROPITEM_TXT_124002,Snow World Template (XL),スノーワールドテンプレート(XL)
-PROPITEM_TXT_124003,Guild Ship Blinkwing,ギルドハウスブリンクウィング
+PROPITEM_TXT_124003,Guild Ship Blinkwing,ギルドシップブリンクウィング
 PROPITEM_TXT_131001,Scroll of Housing Preset,ハウジングプリセットのスクロール
 PROPITEM_TXT_131002,Using this scroll will increase your maximum housing presets count by 1! (This maximum count will be increased for all templates).,このスクロールを使用すると、ハウジングプリセットの最大数が1増えます。(この最大数は、すべてのテンプレートで増加します)。
 PROPITEM_TXT_131003,Common Trees Housing Pack,コモンツリーハウジング パック
@@ -13398,68 +13398,68 @@ PROPITEM_TXT_131824,[Personal House NPC] Cachu,[パーソナルハウスNPC]カ�
 PROPITEM_TXT_131825,This NPC will grant you the following bonus when placed on the Personal House: Party Exp +10%.,パーソナルハウスに設置すると、次のボーナスを付与します:パーティー経験値+10%。
 PROPITEM_TXT_131826,[Personal House NPC] Pang,[パーソナルハウスNPC]パング
 PROPITEM_TXT_131827,This NPC will grant you the following bonus when placed on the Personal House: Buffs limited to characters level 120 and below.,パーソナルハウスに設置すると、次のボーナスを付与します:レベル120以下のキャラクターへ限定バフ
-PROPITEM_TXT_131828,[Guild Ship NPC] Gira,[ギルドハウスNPC]ギラ
-PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.,ギルドハウスに設置すると、次のボーナスを付与します:MP消費減少+10%。
-PROPITEM_TXT_131830,[Guild Ship NPC] Affe,[ギルドハウスNPC]アフェ
-PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.,ギルドハウスに設置すると、次のボーナスを付与します:FP消費減少+10%。
-PROPITEM_TXT_131832,[Guild Ship NPC] Sham,[ギルドハウスNPC]シャム
-PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:MP+10%増加。
-PROPITEM_TXT_131834,[Guild Ship NPC] Lamew,[ギルドハウスNPC]ラミュー
-PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:FP+10%増加。
-PROPITEM_TXT_131836,[Guild Ship NPC] Quarter,[ギルドハウスNPC]クオーター
-PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:HP+10%増加。
-PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[ギルドハウスNPC]デュロン
-PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.,ギルドハウスに設置すると、次のボーナスを付与します:バトルアーティファクトHP+10%
-PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[ギルドハウスNPC]ドルフィー
-PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.,ギルドハウスに設置すると、次のボーナスを付与します:バトルアーティファクトDEF+10%
-PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[ギルドハウスNPC]フバ
-PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.,ギルドハウスに設置すると、次のボーナスを付与します:バトルアーティファクト回復+10%
-PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[ギルドハウスNPC]バコ
-PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くの味方HP+500
-PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[ギルドハウスNPC]ウィック
-PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方ATK+3%
-PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[ギルドハウスNPC]ウィナ
-PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方DEF+3%
-PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[ギルドハウスNPC]ピッチ
-PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方攻撃速度+5%
-PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[ギルドハウスNPC]キャッチ
-PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,ギルドハウスに設置すると、次のボーナスを付与します:家のアーティファクトの近くで味方詠唱速度+5%
-PROPITEM_TXT_131854,[Guild Ship NPC] Met,[ギルドハウスNPC]メット
-PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131856,[Guild Ship NPC] Ego,[ギルドハウスNPC]エゴ
-PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131858,[Guild Ship NPC] Wifielder,[ギルドハウスNPC]ウィフィールダー
-PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131860,[Guild Ship NPC] Simid,[ギルドハウスNPC]シミド
-PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドハウスに設置すると、次のボーナスを付与します:ドロップ率+5%
-PROPITEM_TXT_131862,[Guild Ship NPC] Chord,[ギルドハウスNPC]コード
-PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPダメージ+3%。
-PROPITEM_TXT_131864,[Guild Ship NPC] Anura,[ギルドハウスNPC]アヌーラ
-PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPダメージ軽減+3%。
-PROPITEM_TXT_131866,[Guild Ship NPC] Vikel,[ギルドハウスNPC]ビケル
-PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvP近接/範囲ブロック+3%
-PROPITEM_TXT_131868,[Guild Ship NPC] Soz,[ギルドハウスNPC]ソズ
-PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPブロック貫通+3%
-PROPITEM_TXT_131870,[Guild Ship NPC] Naso,[ギルドハウスNPC]ノーズ
-PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPクリティカル率+3%
-PROPITEM_TXT_131872,[Guild Ship NPC] Nuso,[ギルドハウスNPC]ヌソ
-PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.,ギルドハウスに設置すると、次のボーナスを付与します:PvPクリティカルダメージ+3%
-PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[ギルドハウスNPC]コバオ
-PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,ギルドハウスに設置すると、次のボーナスを付与します:回復+3%。
-PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[ギルドハウスNPC]アイバオ
-PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:魔法防御+3%。
-PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[ギルドハウスNPC]ナンコ
-PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,ギルドハウスに設置すると、次のボーナスを付与します:クリティカル耐性+3%。
-PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[ギルドハウスNPC]アサ
-PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.,ギルドハウスに設置すると、次のボーナスを付与します:選択した場所にテレポート可能
-PROPITEM_TXT_131882,[Guild Ship NPC] Alyn,[ギルドハウスNPC]アリン
-PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:武器/防具アップグレードチャンス+3%
-PROPITEM_TXT_131884,[Guild Ship NPC] Lane,[ギルドハウスNPC]レーン
-PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:アクセサリーアップグレードチャンス+3%
-PROPITEM_TXT_131886,[Guild Ship NPC] Runni,[ギルドハウスNPC]ルニ
-PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.,ギルドハウスに設置すると、次のボーナスを付与します:ピアスアップグレードチャンス+5%。
-PROPITEM_TXT_131888,[Guild Ship NPC] Pang,[ギルドハウスNPC]パング
-PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.,ギルドハウスに設置すると、次のボーナスを付与します:レベル140以下のキャラクターに限定バフ
+PROPITEM_TXT_131828,[Guild Ship NPC] Gira,[ギルドシップNPC]ギラ
+PROPITEM_TXT_131829,This NPC will grant you the following bonus when placed on the Guild Ship: MP Consumption Decrease +10%.,ギルドシップに設置すると、次のボーナスを付与します:MP消費減少+10%。
+PROPITEM_TXT_131830,[Guild Ship NPC] Affe,[ギルドシップNPC]アフェ
+PROPITEM_TXT_131831,This NPC will grant you the following bonus when placed on the Guild Ship: FP Consumption Decrease +10%.,ギルドシップに設置すると、次のボーナスを付与します:FP消費減少+10%。
+PROPITEM_TXT_131832,[Guild Ship NPC] Sham,[ギルドシップNPC]シャム
+PROPITEM_TXT_131833,This NPC will grant you the following bonus when placed on the Guild Ship: Increased MP +10%.,ギルドシップに設置すると、次のボーナスを付与します:MP+10%増加。
+PROPITEM_TXT_131834,[Guild Ship NPC] Lamew,[ギルドシップNPC]ラミュー
+PROPITEM_TXT_131835,This NPC will grant you the following bonus when placed on the Guild Ship: Increased FP +10%.,ギルドシップに設置すると、次のボーナスを付与します:FP+10%増加。
+PROPITEM_TXT_131836,[Guild Ship NPC] Quarter,[ギルドシップNPC]クオーター
+PROPITEM_TXT_131837,This NPC will grant you the following bonus when placed on the Guild Ship: Increased HP +10%.,ギルドシップに設置すると、次のボーナスを付与します:HP+10%増加。
+PROPITEM_TXT_131838,[Guild Ship NPC] Duron,[ギルドシップNPC]デュロン
+PROPITEM_TXT_131839,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact HP +10%.,ギルドシップに設置すると、次のボーナスを付与します:バトルアーティファクトHP+10%
+PROPITEM_TXT_131840,[Guild Ship NPC] Dolphie,[ギルドシップNPC]ドルフィー
+PROPITEM_TXT_131841,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact DEF +10%.,ギルドシップに設置すると、次のボーナスを付与します:バトルアーティファクトDEF+10%
+PROPITEM_TXT_131842,[Guild Ship NPC] Fuba,[ギルドシップNPC]フバ
+PROPITEM_TXT_131843,This NPC will grant you the following bonus when placed on the Guild Ship: Battle Artifact Recovery +10%.,ギルドシップに設置すると、次のボーナスを付与します:バトルアーティファクト回復+10%
+PROPITEM_TXT_131844,[Guild Ship NPC] Bako,[ギルドシップNPC]バコ
+PROPITEM_TXT_131845,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member HP Near Artifact +500.,ギルドシップに設置すると、次のボーナスを付与します:ギルドシップのアーティファクトの近くの味方HP+500
+PROPITEM_TXT_131846,[Guild Ship NPC] Wick,[ギルドシップNPC]ウィック
+PROPITEM_TXT_131847,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member ATK Near Artifact +3%.,ギルドシップに設置すると、次のボーナスを付与します:ギルドシップのアーティファクトの近くで味方ATK+3%
+PROPITEM_TXT_131848,[Guild Ship NPC] Wina,[ギルドシップNPC]ウィナ
+PROPITEM_TXT_131849,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member DEF Near Artifact +3%.,ギルドシップに設置すると、次のボーナスを付与します:ギルドシップのアーティファクトの近くで味方DEF+3%
+PROPITEM_TXT_131850,[Guild Ship NPC] Pitch,[ギルドシップNPC]ピッチ
+PROPITEM_TXT_131851,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Attack Speed Near Artifact +5%.,ギルドシップに設置すると、次のボーナスを付与します:ギルドシップのアーティファクトの近くで味方攻撃速度+5%
+PROPITEM_TXT_131852,[Guild Ship NPC] Catch,[ギルドシップNPC]キャッチ
+PROPITEM_TXT_131853,This NPC will grant you the following bonus when placed on the Guild Ship: Guild Member Casting Speed Near Artifact +5%.,ギルドシップに設置すると、次のボーナスを付与します:ギルドシップのアーティファクトの近くで味方詠唱速度+5%
+PROPITEM_TXT_131854,[Guild Ship NPC] Met,[ギルドシップNPC]メット
+PROPITEM_TXT_131855,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131856,[Guild Ship NPC] Ego,[ギルドシップNPC]エゴ
+PROPITEM_TXT_131857,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131858,[Guild Ship NPC] Wifielder,[ギルドシップNPC]ウィフィールダー
+PROPITEM_TXT_131859,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131860,[Guild Ship NPC] Simid,[ギルドシップNPC]シミド
+PROPITEM_TXT_131861,This NPC will grant you the following bonus when placed on the Guild Ship: Drop Rate Increase +5%.,ギルドシップに設置すると、次のボーナスを付与します:ドロップ率+5%
+PROPITEM_TXT_131862,[Guild Ship NPC] Chord,[ギルドシップNPC]コード
+PROPITEM_TXT_131863,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPダメージ+3%。
+PROPITEM_TXT_131864,[Guild Ship NPC] Anura,[ギルドシップNPC]アヌーラ
+PROPITEM_TXT_131865,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Damage Reduction +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPダメージ軽減+3%。
+PROPITEM_TXT_131866,[Guild Ship NPC] Vikel,[ギルドシップNPC]ビケル
+PROPITEM_TXT_131867,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Melee/Range Block +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvP近接/範囲ブロック+3%
+PROPITEM_TXT_131868,[Guild Ship NPC] Soz,[ギルドシップNPC]ソズ
+PROPITEM_TXT_131869,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Block Penetration +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPブロック貫通+3%
+PROPITEM_TXT_131870,[Guild Ship NPC] Naso,[ギルドシップNPC]ノーズ
+PROPITEM_TXT_131871,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPクリティカル率+3%
+PROPITEM_TXT_131872,[Guild Ship NPC] Nuso,[ギルドシップNPC]ヌソ
+PROPITEM_TXT_131873,This NPC will grant you the following bonus when placed on the Guild Ship: PvP Critical Damage +3%.,ギルドシップに設置すると、次のボーナスを付与します:PvPクリティカルダメージ+3%
+PROPITEM_TXT_131874,[Guild Ship NPC] Cobao,[ギルドシップNPC]コバオ
+PROPITEM_TXT_131875,This NPC will grant you the following bonus when placed on the Guild Ship: Healing +3%.,ギルドシップに設置すると、次のボーナスを付与します:回復+3%。
+PROPITEM_TXT_131876,[Guild Ship NPC] Aibao,[ギルドシップNPC]アイバオ
+PROPITEM_TXT_131877,This NPC will grant you the following bonus when placed on the Guild Ship: Magic Resistance +3%.,ギルドシップに設置すると、次のボーナスを付与します:魔法防御+3%。
+PROPITEM_TXT_131878,[Guild Ship NPC] Nanco,[ギルドシップNPC]ナンコ
+PROPITEM_TXT_131879,This NPC will grant you the following bonus when placed on the Guild Ship: Critical Resist +3%.,ギルドシップに設置すると、次のボーナスを付与します:クリティカル耐性+3%。
+PROPITEM_TXT_131880,[Guild Ship NPC] Asa,[ギルドシップNPC]アサ
+PROPITEM_TXT_131881,This NPC will grant you the following bonus when placed on the Guild Ship: Allow you to teleport to the place of your choice.,ギルドシップに設置すると、次のボーナスを付与します:選択した場所にテレポート可能
+PROPITEM_TXT_131882,[Guild Ship NPC] Alyn,[ギルドシップNPC]アリン
+PROPITEM_TXT_131883,This NPC will grant you the following bonus when placed on the Guild Ship: Weapon/Armor upgrade chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:武器/防具アップグレードチャンス+3%
+PROPITEM_TXT_131884,[Guild Ship NPC] Lane,[ギルドシップNPC]レーン
+PROPITEM_TXT_131885,This NPC will grant you the following bonus when placed on the Guild Ship: Accessory upgrade chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:アクセサリーアップグレードチャンス+3%
+PROPITEM_TXT_131886,[Guild Ship NPC] Runni,[ギルドシップNPC]ルニ
+PROPITEM_TXT_131887,This NPC will grant you the following bonus when placed on the Guild Ship: Piercing upgrade chance +3%.,ギルドシップに設置すると、次のボーナスを付与します:ピアスアップグレードチャンス+5%。
+PROPITEM_TXT_131888,[Guild Ship NPC] Pang,[ギルドシップNPC]パング
+PROPITEM_TXT_131889,This NPC will grant you the following bonus when placed on the Guild Ship: Buffs limited to characters level 140 and below.,ギルドシップに設置すると、次のボーナスを付与します:レベル140以下のキャラクターに限定バフ
 PROPITEM_TXT_522047,Cushion Chair Single Pack,クッションチェア シングルパック
 PROPITEM_TXT_522048,Spinning Globe Single Pack,スピニンググローブシングルパック
 PROPITEM_TXT_522049,Compass Single Pack,コンパスシングルパック
@@ -14526,37 +14526,37 @@ PROPITEM_TXT_722864,[Personal House NPC] Lala (7 Days),[パーソナルハウス
 PROPITEM_TXT_722865,[Personal House NPC] Tino (7 Days),[パーソナルハウスNPC]ティノ(7日間)
 PROPITEM_TXT_722866,[Personal House NPC] Cachu (7 Days),[パーソナルハウスNPC]カチュ(7日間)
 PROPITEM_TXT_722867,[Personal House NPC] Pang (7 Days),[パーソナルハウスNPC]パン(7日間)
-PROPITEM_TXT_722868,[Guild Ship NPC] Gira (7 Days),[ギルドハウスNPC]ギラ(7日間)
-PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days),[ギルドハウスNPC]アッフェ(7日間)
-PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days),[ギルドハウスNPC]シャム(7日間)
-PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days),[ギルドハウスNPC]ラミュー(7日間)
-PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days),[ギルドハウスNPC]クオーター(7日間)
-PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[ギルドハウスNPC]デュロン(7日間)
-PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[ギルドハウスNPC]ドルフィー(7日間)
-PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[ギルドハウスNPC]フバ(7日間)
-PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[ギルドハウスNPC]バコ(7日間)
-PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[ギルドハウスNPC]ウィック(7日間)
-PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[ギルドハウスNPC]ウィナ(7日間)
-PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[ギルドハウスNPC]ピッチ(7日間)
-PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[ギルドハウスNPC]キャッチ(7日間)
-PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days),[ギルドハウスNPC]メット(7日間)
-PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days),[ギルドハウスNPC]エゴ(7日間)
-PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days),[ギルドハウスNPC]ウィフィールダー(7日間)
-PROPITEM_TXT_722884,[Guild Ship NPC] Simid (7 Days),[ギルドハウスNPC]シミド(7日間)
-PROPITEM_TXT_722885,[Guild Ship NPC] Chord (7 Days),[ギルドハウスNPC]コード(7日間)
-PROPITEM_TXT_722886,[Guild Ship NPC] Anura (7 Days),[ギルドハウスNPC]アヌラ(7日間)
-PROPITEM_TXT_722887,[Guild Ship NPC] Vikel (7 Days),[ギルドハウスNPC]ビケル(7日間)
-PROPITEM_TXT_722888,[Guild Ship NPC] Soz (7 Days),[ギルドハウスNPC]ソズ(7日間)
-PROPITEM_TXT_722889,[Guild Ship NPC] Naso (7 Days),[ギルドハウスNPC]ナソ(7日間)
-PROPITEM_TXT_722890,[Guild Ship NPC] Nuso (7 Days),[ギルドハウスNPC]ヌソ(7日間)
-PROPITEM_TXT_722891,[Guild Ship NPC] Cobao (7 Days),[ギルドハウスNPC]コバオ(7日間)
-PROPITEM_TXT_722892,[Guild Ship NPC] Aibao (7 Days),[ギルドハウスNPC]アイバオ(7日間)
-PROPITEM_TXT_722893,[Guild Ship NPC] Nanco (7 Days),[ギルドハウスNPC]ナンコ(7日間)
-PROPITEM_TXT_722894,[Guild Ship NPC] Asa (7 Days),[ギルドハウスNPC]アサ(7日間)
-PROPITEM_TXT_722895,[Guild Ship NPC] Alyn (7 Days),[ギルドハウスNPC]アリン(7日間)
-PROPITEM_TXT_722896,[Guild Ship NPC] Lane (7 Days),[ギルドハウスNPC]レーン(7日間)
-PROPITEM_TXT_722897,[Guild Ship NPC] Runni (7 Days),[ギルドハウスNPC]ルンニ(7日間)
-PROPITEM_TXT_722898,[Guild Ship NPC] Pang (7 Days),[ギルドハウスNPC]パン(7日間)
+PROPITEM_TXT_722868,[Guild Ship NPC] Gira (7 Days),[ギルドシップNPC]ギラ(7日間)
+PROPITEM_TXT_722869,[Guild Ship NPC] Affe (7 Days),[ギルドシップNPC]アッフェ(7日間)
+PROPITEM_TXT_722870,[Guild Ship NPC] Sham (7 Days),[ギルドシップNPC]シャム(7日間)
+PROPITEM_TXT_722871,[Guild Ship NPC] Lamew (7 Days),[ギルドシップNPC]ラミュー(7日間)
+PROPITEM_TXT_722872,[Guild Ship NPC] Quarter (7 Days),[ギルドシップNPC]クオーター(7日間)
+PROPITEM_TXT_722873,[Guild Ship NPC] Duron (7 Days),[ギルドシップNPC]デュロン(7日間)
+PROPITEM_TXT_722874,[Guild Ship NPC] Dolphie (7 Days),[ギルドシップNPC]ドルフィー(7日間)
+PROPITEM_TXT_722875,[Guild Ship NPC] Fuba (7 Days),[ギルドシップNPC]フバ(7日間)
+PROPITEM_TXT_722876,[Guild Ship NPC] Bako (7 Days),[ギルドシップNPC]バコ(7日間)
+PROPITEM_TXT_722877,[Guild Ship NPC] Wick (7 Days),[ギルドシップNPC]ウィック(7日間)
+PROPITEM_TXT_722878,[Guild Ship NPC] Wina (7 Days),[ギルドシップNPC]ウィナ(7日間)
+PROPITEM_TXT_722879,[Guild Ship NPC] Pitch (7 Days),[ギルドシップNPC]ピッチ(7日間)
+PROPITEM_TXT_722880,[Guild Ship NPC] Catch (7 Days),[ギルドシップNPC]キャッチ(7日間)
+PROPITEM_TXT_722881,[Guild Ship NPC] Met (7 Days),[ギルドシップNPC]メット(7日間)
+PROPITEM_TXT_722882,[Guild Ship NPC] Ego (7 Days),[ギルドシップNPC]エゴ(7日間)
+PROPITEM_TXT_722883,[Guild Ship NPC] Wifielder (7 Days),[ギルドシップNPC]ウィフィールダー(7日間)
+PROPITEM_TXT_722884,[Guild Ship NPC] Simid (7 Days),[ギルドシップNPC]シミド(7日間)
+PROPITEM_TXT_722885,[Guild Ship NPC] Chord (7 Days),[ギルドシップNPC]コード(7日間)
+PROPITEM_TXT_722886,[Guild Ship NPC] Anura (7 Days),[ギルドシップNPC]アヌラ(7日間)
+PROPITEM_TXT_722887,[Guild Ship NPC] Vikel (7 Days),[ギルドシップNPC]ビケル(7日間)
+PROPITEM_TXT_722888,[Guild Ship NPC] Soz (7 Days),[ギルドシップNPC]ソズ(7日間)
+PROPITEM_TXT_722889,[Guild Ship NPC] Naso (7 Days),[ギルドシップNPC]ナソ(7日間)
+PROPITEM_TXT_722890,[Guild Ship NPC] Nuso (7 Days),[ギルドシップNPC]ヌソ(7日間)
+PROPITEM_TXT_722891,[Guild Ship NPC] Cobao (7 Days),[ギルドシップNPC]コバオ(7日間)
+PROPITEM_TXT_722892,[Guild Ship NPC] Aibao (7 Days),[ギルドシップNPC]アイバオ(7日間)
+PROPITEM_TXT_722893,[Guild Ship NPC] Nanco (7 Days),[ギルドシップNPC]ナンコ(7日間)
+PROPITEM_TXT_722894,[Guild Ship NPC] Asa (7 Days),[ギルドシップNPC]アサ(7日間)
+PROPITEM_TXT_722895,[Guild Ship NPC] Alyn (7 Days),[ギルドシップNPC]アリン(7日間)
+PROPITEM_TXT_722896,[Guild Ship NPC] Lane (7 Days),[ギルドシップNPC]レーン(7日間)
+PROPITEM_TXT_722897,[Guild Ship NPC] Runni (7 Days),[ギルドシップNPC]ルンニ(7日間)
+PROPITEM_TXT_722898,[Guild Ship NPC] Pang (7 Days),[ギルドシップNPC]パン(7日間)
 PROPITEM_TXT_722899,Cushion Chair Single Pack (10 Days),クッションチェア シングルパック(10日)
 PROPITEM_TXT_722900,Spinning Globe Single Pack (10 Days),スピニンググローブ シングルパック(10日)
 PROPITEM_TXT_722901,Compass Single Pack (10 Days),コンパスシングルパック(10日)
@@ -15114,7 +15114,7 @@ PROPITEM_TXT_723386,2nd Anniversary Gift Box D,2周年記念ギフトボック�
 PROPITEM_TXT_723387,2nd Anniversary Gift Box that contains various rewards based on it's tier.,2周年記念ギフトボックスには、ティアに応じた様々な報酬が入っています。
 PROPITEM_TXT_723388,1st Anniversary Housing Furniture,1周年記念住宅家具
 PROPITEM_TXT_723389,1st Anniversary Cake (Flaris),1周年記念ケーキ(フラリス)
-PROPITEM_TXT_723390,1st Anniversary Cake (Saint City),1周年記念ケーキ(セントシティ)
+PROPITEM_TXT_723390,1st Anniversary Cake (Saint City),1周年記念ケーキ(セイントモーニング)
 PROPITEM_TXT_723391,1st Anniversary Cake (Darken),1周年記念ケーキ(ダーコン)
 PROPITEM_TXT_723392,Select which housing prop you want to receive!,受け取りたい住宅の小道具を選択してください!
 PROPITEM_TXT_723393,April Smelting Scroll Package,4月の製錬スクロールパッケージ
@@ -15123,10 +15123,10 @@ PROPITEM_TXT_723395,Hunter's Inventory,ハンターのインベントリ
 PROPITEM_TXT_723396,"A package containing 10x Scroll of Amplification ES, 10x Upcut Stone, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.",戦神の巻物ESx10、パワーストーンx10、スタミナドリンクX または 魔力ドリンクゴールドx10、街戻りの巻物x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_723397,2nd Anniversary Housing Furniture,2周年記念住宅家具
 PROPITEM_TXT_723398,2nd Anniversary Cake (Flaris),2周年記念ケーキ(フラリス)
-PROPITEM_TXT_723399,2nd Anniversary Cake (Saint City),2周年記念ケーキ(セントシティ)
+PROPITEM_TXT_723399,2nd Anniversary Cake (Saint City),2周年記念ケーキ(セイントモーニング)
 PROPITEM_TXT_723400,2nd Anniversary Cake (Darken),2周年記念ケーキ(ダーコン)
-PROPITEM_TXT_723401,2nd Anniversary Presents 1 Single Pack,2ndアニバーサリープレゼンツ1シングルパック
-PROPITEM_TXT_723402,2nd Anniversary Presents 2 Single Pack,2ndアニバーサリープレゼンツ2シングルパック
+PROPITEM_TXT_723401,2nd Anniversary Presents 1 Single Pack,2周年記念プレゼンツ1シングルパック
+PROPITEM_TXT_723402,2nd Anniversary Presents 2 Single Pack,2周年記念プレゼンツ2シングルパック
 PROPITEM_TXT_723403,2nd Anniversary Arch 1 Single Pack,2周年記念アーチ1シングルパック
 PROPITEM_TXT_723404,Lucky Box Scroll of Amplification ES (1-100),ラッキーボックス戦神の巻物ES(1-100)
 PROPITEM_TXT_723405,"A package containing a random amount of Scroll of Amplification ES, ranging from 1 to 100.",戦神の巻物ESが1～100個ランダムに出現するパッケージ。
@@ -15978,30 +15978,30 @@ PROPITEM_TXT_132256,Orange Earless Seal,オレンジアザラシ
 PROPITEM_TXT_132257,Blue Earless Seal,ブルーアザラシ
 PROPITEM_TXT_132258,White Earless Seal,ホワイトアザラシ
 PROPITEM_TXT_132259,Earless seal follows his master around and pick up dropped items.,アザラシは主人についてまわり、落ちているアイテムを拾い集めてくれます。
-PROPITEM_TXT_725111,Magic Clock of Leren Chasm (5 Min),《レレン層岩巨淵の魔時計》 (5分)
-PROPITEM_TXT_725112,Re-entry cooldown for Leren Chasm has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レレン層岩巨淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のレレン層岩巨淵の魔法の時計と共有されます。
-PROPITEM_TXT_725113,Magic Clock of Leren Chasm (10 Min),レレン層岩巨淵の魔時計 (10分)
-PROPITEM_TXT_725114,Re-entry cooldown for Leren Chasm has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レレン層岩巨淵」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のレレン層岩巨淵の魔法の時計と共有されます。
+PROPITEM_TXT_725111,Magic Clock of Leren Chasm (5 Min),《レレンの淵の魔時計》 (5分)
+PROPITEM_TXT_725112,Re-entry cooldown for Leren Chasm has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レレンの淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のレレンの淵の魔法の時計と共有されます。
+PROPITEM_TXT_725113,Magic Clock of Leren Chasm (10 Min),レレンの淵の魔時計 (10分)
+PROPITEM_TXT_725114,Re-entry cooldown for Leren Chasm has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,「レレンの淵」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のレレンの淵の魔法の時計と共有されます。
 PROPITEM_TXT_725115,Magic Clock of Rhisis Catacombs (5 Min),リシスの地下墓地の魔法の時計 (5分)
-PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のリシス・カタコンベズムの魔時計と共有されます。
+PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの地下墓地の魔時計と共有されます。
 PROPITEM_TXT_725117,Magic Clock of Rhisis Catacombs (10 Min),リシスの地下墓地の魔法の時計 (10分)
-PROPITEM_TXT_725118,Re-entry cooldown for Rhisis Catacombs has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの秘宝の魔法の時計と共有されます。
-PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),嫉妬の深淵の魔時計 (5分)
-PROPITEM_TXT_725120,Re-entry cooldown for Envy Depths has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
-PROPITEM_TXT_725121,Magic Clock of Envy Depths (10 Min),嫉妬の深淵の魔時計 (10分)
-PROPITEM_TXT_725122,Re-entry cooldown for Envy Depths has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「羨望の深淵」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他の羨望の深さの魔法の時計と共有されます。
-PROPITEM_TXT_725123,Magic Clock of Guardiane Sanctuary (5 Min),ガーディアン・サンクチュアリの魔法の時計 (5分)
+PROPITEM_TXT_725118,Re-entry cooldown for Rhisis Catacombs has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,「リシスの地下墓地」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のリシスの地下墓地の魔法の時計と共有されます。
+PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),エンヴィーデプスの魔時計 (5分)
+PROPITEM_TXT_725120,Re-entry cooldown for Envy Depths has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「エンヴィーデプス」の再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のエンヴィーデプスの魔法の時計と共有されます。
+PROPITEM_TXT_725121,Magic Clock of Envy Depths (10 Min),エンヴィーデプスの魔時計 (10分)
+PROPITEM_TXT_725122,Re-entry cooldown for Envy Depths has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Envy Depths magic clocks.,「エンヴィーデプス」の再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のエンヴィーデプスの魔法の時計と共有されます。
+PROPITEM_TXT_725123,Magic Clock of Guardiane Sanctuary (5 Min),ガーディアンサンクチュアリの魔法の時計 (5分)
 PROPITEM_TXT_725124,Re-entry cooldown for Guardiane Sanctuary has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガーディアンサンクチュアリの再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のガーディアンサンクチュアリの魔法の時計と共有されます。
-PROPITEM_TXT_725125,Magic Clock of Guardiane Sanctuary (10 Min),ガーディアン・サンクチュアリの魔法の時計 (10分)
+PROPITEM_TXT_725125,Magic Clock of Guardiane Sanctuary (10 Min),ガーディアンサンクチュアリの魔法の時計 (10分)
 PROPITEM_TXT_725126,Re-entry cooldown for Guardiane Sanctuary has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Guardiane Sanctuary magic clocks.,ガーディアンサンクチュアリの再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のガーディアンサンクチュアリの魔法の時計と共有されます。
 PROPITEM_TXT_725127,Magic Clock of Storm Peak (5 Min),ストームピークの魔時計 (5分)
 PROPITEM_TXT_725128,Re-entry cooldown for Storm Peak has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
 PROPITEM_TXT_725129,Magic Clock of Storm Peak (10 Min),ストームピークの魔時計 (10分)
 PROPITEM_TXT_725130,Re-entry cooldown for Storm Peak has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Storm Peak magic clocks.,ストームピークの再突入クールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のストームピークの魔法時計と共有されます。
-PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),ザ・ワイルドの魔時計 (5分)
-PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルド」の再突入時のクールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
-PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),ザ・ワイルドの魔時計 (10分)
-PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルド」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
+PROPITEM_TXT_725131,Magic Clock of The Wilds (5 Min),ザ・ワイルズの魔時計 (5分)
+PROPITEM_TXT_725132,Re-entry cooldown for The Wilds has been reduced by 5 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルズ」の再突入時のクールダウンが5分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
+PROPITEM_TXT_725133,Magic Clock of The Wilds (10 Min),ザ・ワイルズの魔時計 (10分)
+PROPITEM_TXT_725134,Re-entry cooldown for The Wilds has been reduced by 10 minutes.\nThis item's number of uses today is shared with other The Wilds magic clocks.,「ザ・ワイルズ」の再突入のクールダウンが10分短縮されました。\nこのアイテムの現在の使用回数は、他のザ・ワイルズの魔法時計と共有されます。
 PROPITEM_TXT_725135,Adventurer's Consumable Package,冒険者の消耗品パッケージ
 PROPITEM_TXT_725136,"A package containing 10x Upcut Stone, 10x Activation, 10x Vital Drink X or Refresher Hold and 10x Scroll of Return Town. All items are also linked.",パワーストーンx10、アクティビションx10スタミナドリンクX または 魔力ドリンクゴールドx10、街戻りの巻物x10が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_725137,PickUp Pet Package II,ピックアップペットパッケージII
@@ -17301,8 +17301,8 @@ PROPITEM_TXT_800217,Rainbow Jewel (10),レインボージュエル(10)
 PROPITEM_TXT_800218,Gives +10 All stat when applied to a ultimate weapon. Can be attached multiple times.,アルティマ武器に装着すると全ステータス+10を付与します。複数回装着できます。
 PROPITEM_TXT_801000,Scroll of Pet Inventory (Character House),ペットインベントリの巻物(キャラクターハウス)
 PROPITEM_TXT_801001,Using this scroll will increase your maximum character house pet inventory slots by 1!,この巻物を使用すると、キャラクターハウスのペットインベントリの最大スロット数が1つ増加します！
-PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship),ペットインベントリの巻物(ギルド船)
-PROPITEM_TXT_801003,Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild),この巻物を使用すると、ギルド船のペットインベントリの最大スロット数が1つ増加します！(注意：この効果はギルドに帰属します)
+PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild Ship),ペットインベントリの巻物(ギルドシップ)
+PROPITEM_TXT_801003,Using this scroll will increase your maximum guild ship pet inventory slots by 1! (Warning: this will be linked to the guild),この巻物を使用すると、ギルドシップのペットインベントリの最大スロット数が1つ増加します！(注意：この効果はギルドに帰属します)
 PROPITEM_TXT_140000,Cubic Ring,キュービックリング
 PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.",このリングは他のプレイヤーにプロポーズする際に使用され、カップルが解消されると消滅します。
 PROPITEM_TXT_140002,Fancy Cubic Ring,豪華なキュービックリング
@@ -29610,9 +29610,9 @@ PROPITEM_TXT_904102,Last Beacon Trans Random Box,ラストビーコン・オー�
 PROPITEM_TXT_904103,"A random box that gives 1 of the random Trans items of the monsters appearing in The Last Beacon, including the boss.",ラストビーコンに登場するモンスター(ボスを含む)のオーブアイテムのうち、1つがランダムで手に入るボックスです。
 PROPITEM_TXT_904104,FWC Firework,FWC花火
 PROPITEM_TXT_904105,"If you shoot, FWC 2026 is drawn in the sky or on the ground.",撃つと、空または地面にFWC 2026の文字が描かれます。
-PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K]ギルドハウスサプライボックス
+PROPITEM_TXT_904106,[5K] Guild Ship Supply Box,[5K]ギルドシップサプライボックス
 PROPITEM_TXT_904107,"A package containing 1x Fortune Pang (7 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.",フォーチュンパン(7日)x1、[新]FWC花火x30、ラストビーコン・オーブランダムボックスx5が含まれたパッケージ。アイテムは全て帰属です。
-PROPITEM_TXT_904108,[10K] Guild Ship Supply Box,[10K]ギルドハウスサプライボックス
+PROPITEM_TXT_904108,[10K] Guild Ship Supply Box,[10K]ギルドシップサプライボックス
 PROPITEM_TXT_904109,"A package containing 1x FWC Flame Lusaka Weapon Select Box (30 days), 1x FWC Red Wings (30 days), 1x Fortune Pang (30 days), 30x [New] FWC Firework and 5x Last Beacon Trans Random Box. All items are also linked.",FWCフレイム・ルサカ武器選択ボックス(30日)x1、FWCレッドウィング(30日)x1、フォーチュンパン(30日)x1、[新]FWC花火x30、ラストビーコン・オーブランダムボックスx5が含まれたパッケージ。アイテムは全て帰属です。
 PROPITEM_TXT_904110,Flyff Summer Upgrade Package,Flyffサマーアップグレードパッケージ
 PROPITEM_TXT_904111,"A package containing 10x Smelting Scroll Box, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.",精錬編の巻物ボックスx10、パワーダイス [10D](S)x20、パワーダイス [12D](精)x20が含まれたパッケージ。アイテムは全て帰属です。
@@ -30183,49 +30183,49 @@ PROPITEM_TXT_1903302,A Dorian commonly found in Coral Island.,コーラルアイ
 PROPITEM_TXT_1903303,Kraken Cage,クラーケンのケージ
 PROPITEM_TXT_1903304,A Kraken commonly found in Coral Island.,コーラルアイランドでよく見られるクラーケンです。
 PROPITEM_TXT_1903305,[Queen of Thorns] Entaness Cage,[棘の女王]エンタネスのケージ
-PROPITEM_TXT_1903306,A legendary foe from Kaillun. Extremely rare!,カイルンに現れる伝説級の敵。極めて希少！
+PROPITEM_TXT_1903306,A legendary foe from Kaillun. Extremely rare!,カイルルンに現れる伝説級の敵。極めて希少！
 PROPITEM_TXT_1903307,Violet Hundur Sharpfoot Cage,バイオレット・ワークウルフのケージ
-PROPITEM_TXT_1903308,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903308,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903309,Violet Kyouchish Cage,バイオレット・ライカンセンチネルのケージ
-PROPITEM_TXT_1903310,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903310,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903311,Violet Samoset Cage,バイオレット・ライカンガードのケージ
-PROPITEM_TXT_1903312,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903312,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903313,Violet Kanonicus Cage,バイオレット・ライカンアーチャーのケージ
-PROPITEM_TXT_1903314,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903314,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903315,Violet Mage Redcloud Cage,バイオレット・ライカンソーサラーのケージ
-PROPITEM_TXT_1903316,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903316,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903317,Violet Taiaha Cage,バイオレット・ライカンウォーリアーのケージ
-PROPITEM_TXT_1903318,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903318,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903319,Violet Hellhound Cage,バイオレット・スケルトンジャッカルのケージ
-PROPITEM_TXT_1903320,A rare violet creature from Kaillun.,カイルンに生息する希少な紫色の魔物です。
+PROPITEM_TXT_1903320,A rare violet creature from Kaillun.,カイルルンに生息する希少な紫色の魔物です。
 PROPITEM_TXT_1903321,Giant Hundur Sharpfoot Cage,ジャイアント・ワークウルフのケージ
-PROPITEM_TXT_1903322,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903322,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903323,Giant Kyouchish Cage,ジャイアント・ライカンセンチネルのケージ
-PROPITEM_TXT_1903324,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903324,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903325,Giant Samoset Cage,ジャイアント・ライカンガードのケージ
-PROPITEM_TXT_1903326,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903326,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903327,Giant Kanonicus Cage,ジャイアント・ライカンアーチャーのケージ
-PROPITEM_TXT_1903328,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903328,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903329,Giant Mage Redcloud Cage,ジャイアント・ライカンソーサラーのケージ
-PROPITEM_TXT_1903330,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903330,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903331,Giant Taiaha Cage,ジャイアント・ライカンウォーリアーのケージ
-PROPITEM_TXT_1903332,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903332,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903333,Giant Hellhound Cage,ジャイアント・スケルトンジャッカルのケージ
-PROPITEM_TXT_1903334,A formidable creature from Kaillun. Uncommon sighting!,カイルンに現れる強力な魔物。遭遇はまれです！
+PROPITEM_TXT_1903334,A formidable creature from Kaillun. Uncommon sighting!,カイルルンに現れる強力な魔物。遭遇はまれです！
 PROPITEM_TXT_1903335,Hundur Sharpfoot Cage,ワークウルフのケージ
-PROPITEM_TXT_1903336,A Hundur Sharpfoot commonly found in Kaillun.,カイルンでよく見られるワークウルフです。
+PROPITEM_TXT_1903336,A Hundur Sharpfoot commonly found in Kaillun.,カイルルンでよく見られるワークウルフです。
 PROPITEM_TXT_1903337,Kyouchish Cage,ライカンセンチネルのケージ
-PROPITEM_TXT_1903338,A Kyouchish commonly found in Kaillun.,カイルンでよく見られるライカンセンチネルです。
+PROPITEM_TXT_1903338,A Kyouchish commonly found in Kaillun.,カイルルンでよく見られるライカンセンチネルです。
 PROPITEM_TXT_1903339,Samoset Cage,ライカンガードのケージ
-PROPITEM_TXT_1903340,A Samoset commonly found in Kaillun.,カイルンでよく見られるライカンガードです。
+PROPITEM_TXT_1903340,A Samoset commonly found in Kaillun.,カイルルンでよく見られるライカンガードです。
 PROPITEM_TXT_1903341,Kanonicus Cage,ライカンアーチャーのケージ
-PROPITEM_TXT_1903342,A Kanonicus commonly found in Kaillun.,カイルンでよく見られるライカンアーチャーです。
+PROPITEM_TXT_1903342,A Kanonicus commonly found in Kaillun.,カイルルンでよく見られるライカンアーチャーです。
 PROPITEM_TXT_1903343,Mage Redcloud Cage,ライカンソーサラーのケージ
-PROPITEM_TXT_1903344,A Mage Redcloud commonly found in Kaillun.,カイルンでよく見られるライカンソーサラーです。
+PROPITEM_TXT_1903344,A Mage Redcloud commonly found in Kaillun.,カイルルンでよく見られるライカンソーサラーです。
 PROPITEM_TXT_1903345,Taiaha Cage,ライカンウォーリアーのケージ
-PROPITEM_TXT_1903346,A Taiaha commonly found in Kaillun.,カイルンでよく見られるライカンウォーリアーです。
+PROPITEM_TXT_1903346,A Taiaha commonly found in Kaillun.,カイルルンでよく見られるライカンウォーリアーです。
 PROPITEM_TXT_1903347,Hellhound Cage,スケルトンジャッカルのケージ
-PROPITEM_TXT_1903348,A Hellhound commonly found in Kaillun.,カイルンでよく見られるスケルトンジャッカルです。
+PROPITEM_TXT_1903348,A Hellhound commonly found in Kaillun.,カイルルンでよく見られるスケルトンジャッカルです。
 PROPITEM_TXT_1903349,Saint Morning Pet Transmute,セイントモーニング・ペット変換
 PROPITEM_TXT_1903350,This item will change your pet's appearance into a random monster from Saint Morning. May luck be on your side!,このアイテムはペットの外見をセイントモーニングのランダムなモンスターに変化させます。幸運を祈ります！
 PROPITEM_TXT_1903351,Garden of Rhisis Pet Transmute,リシスの庭・ペット変換
@@ -30238,8 +30238,8 @@ PROPITEM_TXT_1903357,Azria Pet Transmute,アズリア ペット変換
 PROPITEM_TXT_1903358,This item will change your pet's appearance into a random monster from Azria. May luck be on your side!,このアイテムはペットの外見をアズリアのランダムなモンスターに変化させます。幸運を祈ります！
 PROPITEM_TXT_1903359,Coral Island Pet Transmute,コーラルアイランド ペット変換
 PROPITEM_TXT_1903360,This item will change your pet's appearance into a random monster from Coral Island. May luck be on your side!,このアイテムはペットの外見をコーラルアイランドのランダムなモンスターに変化させます。幸運を祈ります！
-PROPITEM_TXT_1903361,Kaillun Pet Transmute,カイルン ペット変換
-PROPITEM_TXT_1903362,This item will change your pet's appearance into a random monster from Kaillun. May luck be on your side!,このアイテムはペットの外見をカイルンのランダムなモンスターに変化させます。幸運を祈ります！
+PROPITEM_TXT_1903361,Kaillun Pet Transmute,カイルルン ペット変換
+PROPITEM_TXT_1903362,This item will change your pet's appearance into a random monster from Kaillun. May luck be on your side!,このアイテムはペットの外見をカイルルンのランダムなモンスターに変化させます。幸運を祈ります！
 PROPITEM_TXT_300089,2026 PvP Commemorative Pass,2026 PvP記念パス
 PROPITEM_TXT_300090,This purchase will give you access to many advantages until the end of the 2026 PvP Commemorative Pass season,この購入により、2026 PvP記念パスシーズン終了まで多くの特典にアクセスできます。
 PROPITEM_TXT_1903363,Frostfang Tiger Cage,フロストファングタイガーのケージ

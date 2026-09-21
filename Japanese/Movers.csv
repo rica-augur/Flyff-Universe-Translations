@@ -486,7 +486,7 @@ PROPMOVER_TXT_001300,[Guildwar Manager] Frankie,[ギルド対戦マネージャ�
 PROPMOVER_TXT_001302,[Guildwar Manager] Donaris,[ギルド対戦マネージャー]ドナリス
 PROPMOVER_TXT_001304,[1vs1Guildwar Manager] Amos,[1vs1ギルド対戦マネージャー]アーモス
 PROPMOVER_TXT_001306,[1vs1Guildwar Manager] Annie,[1vs1ギルド対戦マネージャー]エーニー
-PROPMOVER_TXT_001308,[Arena Manager] Lay,[アレーナー管理者]レイ
+PROPMOVER_TXT_001308,[Arena Manager] Lay,[アリーナ管理人]レイ
 PROPMOVER_TXT_001310,Mayor,市場
 PROPMOVER_TXT_001318,English Bulldog,ゴウダンブルドッグ
 PROPMOVER_TXT_001320,Naughty Ghost,幼いゴースト
@@ -629,7 +629,7 @@ PROPMOVER_TXT_100089,Violet Gongury,バイオレット・ゴングリー
 PROPMOVER_TXT_100084,Violet Shuhamma,バイオレット・シューハンマー
 PROPMOVER_TXT_100092,Violet Kern,バイオレット・ケルン
 PROPMOVER_TXT_100090,Violet Glaphan,バイオレット・グラファン
-PROPMOVER_TXT_100094,Violet Chimeradon,バイオレット・キメラドン
+PROPMOVER_TXT_100094,Violet Chimeradon,バイオレット・アバドン
 PROPMOVER_TXT_100095,Violet Bearnerky,バイオレット・ハニーシーカー
 PROPMOVER_TXT_100093,Violet Chef Muffrin,バイオレット・マフリン・シェフ
 PROPMOVER_TXT_100096,Violet Popcrank,バイオレット・ポップクランク
@@ -895,7 +895,7 @@ PROPMOVER_TXT_001178,Captain Catsy,キャプテン・ケットシー
 PROPMOVER_TXT_001218,Knight 2,騎士2
 PROPMOVER_TXT_001220,Knight 1,騎士1
 PROPMOVER_TXT_001221,Queen Long Legs,クイーン・ロングレッグス
-PROPMOVER_TXT_001222,Nightmist Empress,[ロードマネージャー]ヴァネッサ
+PROPMOVER_TXT_001222,Nightmist Empress,ナイトミスト・エンプレス
 PROPMOVER_TXT_001223,Bolt Otem,ボルト・オーテム
 PROPMOVER_TXT_001224,Overgrown Broodmother,オーバーグロウンブラッドマザー
 PROPMOVER_TXT_001225,Spiderling,スパイダーリング
@@ -1462,9 +1462,9 @@ PROPMOVER_TXT_500005,Mawrang,マウラン
 PROPMOVER_TXT_500006,Cheirang,チェイラン
 PROPMOVER_TXT_500007,Bato,パト
 PROPMOVER_TXT_500008,Ralbadan,ラルバダン
-PROPMOVER_TXT_500009,Miorang,ミウラン
+PROPMOVER_TXT_500009,Miorang,ミオラン
 PROPMOVER_TXT_500010,Ruidan,ルイラン
-PROPMOVER_TXT_500011,Weevs,ウィーブス
+PROPMOVER_TXT_500011,Weevs,ウィーヴス
 PROPMOVER_TXT_500012,Small Hundur Sharpfoot,スモール・ワークウルフ
 PROPMOVER_TXT_500013,Hundur Sharpfoot,ワークウルフ
 PROPMOVER_TXT_500014,Captain Hundur Sharpfoot,キャプテン・ワークウルフ
@@ -1647,7 +1647,7 @@ PROPMOVER_TXT_210007,Dread Ankou,恐怖の神獣ベヒモス
 PROPMOVER_TXT_210008,Corrupted Crystal Fiend,穢れたクリスタル・フィーンド
 PROPMOVER_TXT_210009,Pillar,ピラー
 PROPMOVER_TXT_210010,Tentacle,テンタクル
-PROPMOVER_TXT_505031,Musha,ムシュ
+PROPMOVER_TXT_505031,Musha,ムシャ
 PROPMOVER_TXT_550000,[Common] Wraithbark,[一般] レイスバーク
 PROPMOVER_TXT_550001,[Healthy] Ironback,[健康] アイアンバック
 PROPMOVER_TXT_550002,[Fast] Spiderling,[俊敏] スパイダーリング

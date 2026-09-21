@@ -113,7 +113,7 @@ NPC_000120,"Oh! You're asking about the ID Card that grants access to the Trilli
 NPC_000121,"Hail and well met, adventurers! My name is Bolpor and I'm the best chef in town!",食べ物ならここにあるぜ！
 NPC_000122,What do you want already?! I've got things to do!,なんだ？
 NPC_000123,"I'm the best chef in town, you got that? Anyone that tells you different is more than welcome to discuss it with my butcher knife. There will be more than just *chicken* on a stick on my menu...",見ればわかるだろう？ふんっ！まさかフードショップを知らんわけではあるまい！
-NPC_000124,"My name is Bolpor Centaurn, the best darn chef in Darken. I'm also the best looking. I didn't get this handsome overnight, you know.",何だ？ふんっ！名前くらいは教えてやるさ。俺の名は＜ボルバー＞。見てのとおり＜フードショップ＞の店員だ。分かったら、さっさと買い物だけして帰りな！
+NPC_000124,"My name is Bolpor Centaurn, the best darn chef in Darken. I'm also the best looking. I didn't get this handsome overnight, you know.",何だ？ふんっ！名前くらいは教えてやるさ。俺の名は＜ボルポー＞。見てのとおり＜フードショップ＞の店員だ。分かったら、さっさと買い物だけして帰りな！
 NPC_000125,"See ya later, alligator! Mmm, alligator... that gives me an idea for a new dish!",気をつけてな！
 NPC_000126,"Only the bravest adventurer can hope to succeed on the path of the Knight Hero, Billaon. Are you worthy?",ナイト英雄＜鉄壁の豪腕＞ビレリアンの志を継ぐ者よ、英雄の道を歩む準備は出来ていますか？
 NPC_000127,We must never forget the sacrifice of the Heroes. We are here to train those who wish to follow their path in hopes of a worthy successor.,たとえ彼らの名が忘れられても、彼らの志は生き続けるでしょう･･･。
@@ -498,7 +498,7 @@ NPC_000549,"If your Health Points (HP) reach zero, you will die. Not to worry, t
 NPC_000550,"If you select Lodestar, you will be summoned back to town and resurrected. Alternatively, players who've chosen the Assist Job can often resurrect you where you died.",でも、死んでしまっても、心配しないでください。フラリスには、＜ロードスター＞という復活機があります。これは、死んだ人を街に移動してくれるんですよ。
 NPC_000551,"In addition to this, you can also purchase a Scroll of Resurrection by selecting the Premium Item Shop icon on your task bar. This allows you to resurrect in place.",また、回復もしてくれます。
 NPC_000554,"Goodbye, adventurer. Enjoy your stay in Flarine!",楽しい一日になりますように！
-NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I also run a beauty shop. If you need any help or information, just ask me or my twin sisters!",私はフラリスの案内をしている＜イスク・トリニティ＞といいます。
+NPC_000558,"I am Iske Trinity, and I am one of the guides in Flarine City. I also run a beauty shop. If you need any help or information, just ask me or my twin sisters!",私はフラリスの案内をしている＜イスケ・トリニティ＞といいます。
 NPC_000564,"My name is Ismerelda Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",私はフラリスの案内をしている＜イスメラルダ・トリニティ＞といいます。
 NPC_000570,"I am Ispim Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",私はフラリスの案内をしている＜イスピム・トリニティ＞といいます。
 NPC_000576,"I am Isruel Trinity, and I am one of the guides in Flarine City. If you need any help or information, just ask me or one of my twin sisters!",私はフラリスの案内をしている＜イスルエル・トリニティ＞といいます。
@@ -531,7 +531,7 @@ NPC_000604,"Oh man! All this shoveling, all day long! Can't I have a break?!",�
 NPC_000605,"*Langdrong grins at you*\nYou want me to say hello to you? Haha, never! I may live like you humans but I am nothing like you! So nyah!",*ニヤリ*\nオレは人間と同じような生活スタイルをしているけど…人間とオレたちドワーフは、根本的に異なる種族だ。　
 NPC_000606,Me? You want to know who I am? Hahaha! What a shame the feeling isn't mutual. I am High-Dwarpet Langdrong Clo and I'm the keeper of the Mercenaries Book of Technique. Happy?,オレが誰かって？オレはハイドワーフ＜ランドラング・ジャクロー＞だ。マーシナリーの＜スキル事典＞を保管しているのさ。　
 NPC_000607,Steer clear of the other Dwarpets. They may not be as nice as I am.,これ以上慣れ慣れしくオレたちと関わるな。オレたちはおまえたちの種族とは相容れない。用がないなら帰りな。
-NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We have managed the Lodelights for generations.,代々、この復活機ロードライトを管理している＜ファン＞家門の長男＜フラリ・ファン＞です。
+NPC_000608,My name is Flaris Pang. I am the oldest son of the Pang family. We have managed the Lodelights for generations.,代々、この復活機ロードライトを管理している＜ファン＞家門の長男＜フラリス・ファン＞です。
 NPC_000609,Need a moment? Grab a chocolate bar from Losha's Premium Foods Shop!,美味しいものがいっぱいでしょう？
 NPC_000610,"I wonder, can you do something for me? I could really use your help.",何をやってくれるんですか？・・・
 NPC_000611,"Hello, welcome to Losha's Premium Foods Shop! We are here to serve the citizens of Flarine with the most tasty treats Penya can buy! So whaddya say, are ya' hungry?",フードショップ＜ララエン＞にようこそ！今は妹の＜ロコ＞、見習いの＜ソタ＞さん、そして＜ロシャ＞の3人でがんばってま～す！ふふふっ、人が増えてすっごく嬉しいなぁ！
@@ -630,8 +630,8 @@ NPC_000703,Good riddance!,じゃな。
 NPC_000704,Want to play with me?,ヒマだ…何か面白いことはないかなぁ……。
 NPC_000705,Pick something you can do. Something you can really do.,できるものを選んでください。正直に。
 NPC_000706,Want to play with me? Ok!,お、ちょうどいいところに来たね。ボクと遊ばない？
-NPC_000707,"I am the noble, elegant, and sophisticated Ancimys.",箱？誰の事？私には＜アンシミー＞という立派な名前がある。美しさ、気高さ、それにゴージャスさにあふれた名前だろう。
-NPC_000708,My name is Ann Peltrot I am in charge of guiding Saint City and managing the Garden of Rhisis.,私はセイントモーニングの案内をしている＜アン・ペルトロト＞といいます。リシスの庭園も管理しているんですよ。
+NPC_000707,"I am the noble, elegant, and sophisticated Ancimys.",箱？誰の事？私には＜アンシミス＞という立派な名前がある。美しさ、気高さ、それにゴージャスさにあふれた名前だろう。
+NPC_000708,My name is Ann Peltrot I am in charge of guiding Saint City and managing the Garden of Rhisis.,私はセイントモーニングの案内をしている＜アン・ペルトロト＞といいます。リシスの庭も管理しているんですよ。
 NPC_000709,"This is Saint City, the holy morning city\n Is it not peaceful? I am really proud to live here\n As happy as I am to be here, there are still a lot of Masquerpets outside the walls.",ここは ＜聖なる朝＞ の都市 ＜セイントモーニング＞ というところよ。\n 平和で美しい街でしょう？私はここで生まれたことが誇りなのよ。 \n でも、町の外には怖いモンスターばかりで・・・　それだけは嫌になっちゃうわ。
 NPC_000710,Feel free to wander around and gather as much information as you can. \n It is a good time to meet all of the merchants and prepare for your travels.,街の隅々まで歩いて、沢山の情報を手に入れてから外に出ても遅くはないわ。\n 商人達と会って、冒険のための充分な準備をしたほうがいいわよ。
 NPC_000711,Hi! I am Bill. Come get everything you need in my General Shop.,欲しいものは必ずここに！ビルの雑貨店にようこそ！
@@ -791,7 +791,7 @@ NPC_000864,"Are you ready to create your new guild? If you are not, please go I 
 NPC_CREATEGUILD,Create Guild,ギルド結成
 NPC_KEEPGOING,Keep Going,続き
 NPC_000868,Leave my sight if you lack the necessary skills to succeed!,我はイブリスの神官＜ピサロ＞。イブリス様に全てを捧げし者なり。……イブリス様の祭壇に行きたい？ふんっ、そんな低レベルではイブリス様への生け贄にもならんな。
-NPC_000869,"Speak with the Mayor of Saint City and complete the tasks he gives you. Then, collect the Rubies of Joy, Anger, and Sorrow. \n#bRequirement:\n - Must be the leader of a party and all party members must be between level 70 and 75.",セイントシティーの市長に話しかけ、依頼をこなし、喜び、怒り、悲しみのルビーを集めてこい。\n#b要求内容:\n - パーティーのリーダーであり、パーティーメンバー全員がレベル70～75であること。
+NPC_000869,"Speak with the Mayor of Saint City and complete the tasks he gives you. Then, collect the Rubies of Joy, Anger, and Sorrow. \n#bRequirement:\n - Must be the leader of a party and all party members must be between level 70 and 75.",セイントモーニングの市長に話しかけ、依頼をこなし、喜び、怒り、悲しみのルビーを集めてこい。\n#b要求内容:\n - パーティーのリーダーであり、パーティーメンバー全員がレベル70～75であること。
 NPC_000870,"You can't do this by yourself, you fool! Come back when you find some friends",イブリス様の祭壇に行きたい？ふむ、イブリス様にご復活していただく為には、多くの生け贄が必要になるが…ふんっ、お前一人では少なすぎる。パーティーでも組んでから来い。
 NPC_000871,You will need to wait before you can challenge Iblis Leanes again.,しばし待て。今は他の生け贄をイブリス様に捧げておる。
 NPC_000873,"I cannot help you until you bring me the Rubies of Joy, Anger and Sorrow.",イブリス神殿内にある感情を持ったルビーを全て集めよ。イブリス様を狂わせた人間の感情こそが生け贄であり、祭壇への鍵だ。…すでにイブリス様の＜影＞は祭壇に姿を現した。次は体か…心か……。復活の日は近いぞ。
@@ -845,8 +845,8 @@ NPC_000975,"ROOOARRR!! \nSorry... I was just practicing my tiger call. \nDo you 
 NPC_000976,I come from a long line of Pet Tamers. My family has been taming pets for generations and I am the best Pet tamer among them. Feel free to visit me if you ever need help with your pet.,私はマドリガルを代表するペットの調教師です。何か困ったことがありましたら気軽に聞いてください。
 NPC_000977,Don't forget to feed your pet!,あなたも素敵なペットがほしいですよね？
 NPC_001016,"Step right up, champions! Welcome to the Chip Emporium!",立ち上がれ、チャンピオン！チップエンポリアムへようこそ！
-NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?",ねえ見知らぬ人！あなたのギルドがギルド攻城戦に勝利した場合、勝利に対してチップが授与されます。私がショップで販売している防具セットは、あなたが見つけることができる最高のものです! それで、何枚のレッドチップを持っていますか?
-NPC_001018,"I am Waforu, the Battle Merchant. I've had my share of victories in the sieges, but I'm getting to old for that sort of thing. I still love the competition, however, so I decided to stay in the business and offer my services as a Red Chip Vendor.",バトルマーチャントのワフォルです。私は包囲戦で勝利を分け合ってきましたが、そのようなことのために年を取りつつあります。しかし、私はまだ競争が大好きなので、ビジネスにとどまり、レッドチップベンダーとしてサービスを提供することにしました。
+NPC_001017,"Heya stranger! If your guild wins the Guild Siege, you will be awarded Chips for your victory. The armor sets I sell here in my shop are absolutely the best you can find! So, how many Red Chips do you have, hmmm?",ねえ見知らぬ人！あなたのギルドがギルドコンバットに勝利した場合、勝利に対してチップが授与されます。私がショップで販売している防具セットは、あなたが見つけることができる最高のものです! それで、何枚のレッドチップを持っていますか?
+NPC_001018,"I am Waforu, the Battle Merchant. I've had my share of victories in the sieges, but I'm getting to old for that sort of thing. I still love the competition, however, so I decided to stay in the business and offer my services as a Red Chip Vendor.",バトルマーチャントのワポールです。私は包囲戦で勝利を分け合ってきましたが、そのようなことのために年を取りつつあります。しかし、私はまだ競争が大好きなので、ビジネスにとどまり、レッドチップベンダーとしてサービスを提供することにしました。
 NPC_001019,"So long, contender. May Rhisis be with you.",他では見られない、珍しい品物がいっぱいですよ！
 NPC_001024,You don't want me in that arena. I'll bury you!,ここでは強い者だけが生き残ることができるんだ。
 NPC_001025,"You know, most people simply don't understand that settling differences occasionally requires more than just petty talk. Sometimes, it requires a knuckle sandwich!",自由に闘うことのできるアリーナで、己の力を見直すといい。
@@ -947,7 +947,7 @@ NPC_100000,Hello my name is Yao-Rin.,こんにちは、ヤオリンです。
 NPC_100001,Oh! you are not the group of prophetic elected officials we have been waiting for. Leave. ,あれ？私たちが予言していた人たちではないな。帰ってくれ
 NPC_100002,I am the fortune teller of the MewMew people.,私はミュウミュウ占い師です。
 NPC_100003,Good luck adventurer!,頑張れよ！冒険者！
-NPC_100004,Hello my name is Zaoma.,こんにちは。ザオマと申します。
+NPC_100004,Hello my name is Zaoma.,こんにちは。ザオマーと申します。
 NPC_100005,Oh really! you're not who I thought you were.,そうなんですか？！私が思っていたのとは、違う人のようですね。
 NPC_100006,I'm an old man.,私はもう老人じゃ。
 NPC_100007,Goodbye.,さようなら。
@@ -969,12 +969,12 @@ NPC_100022,"You seem to me very tired, look at that messy hair! How about a litt
 NPC_100023,I am the only hairdresser of Madrigal! I am open all the day.,私はマドリガル唯一の美容師よ。1日中やってるわ。
 NPC_100024,Come back anytime you want!,いつでもきてね。
 NPC_100025,"Durandil swords are really great, too bad you can't mine with them...",デュランディルの剣は素晴らしいけどそれで採掘はできないんだ。
-NPC_100026,"I am Dekane, the creator of this mine.",私はデカネ、この鉱山のクリエイターだ。
+NPC_100026,"I am Dekane, the creator of this mine.",私はデェカネス、この鉱山のクリエイターだ。
 NPC_100027,I like brave people like you! Here is the key that seals the door to the secret room. Good luck!,あなたのような勇気ある人に秘密の部屋へ行ってもらいたいのです。これがその扉を開ける鍵です。どうか気をつけてください。
 NPC_100028,It's true that defeating a dragon is not an easy task for an adventurer. Come and try your luck again when you have completed the quest #bThe bottom of the mine#nb.,ドラゴンと対峙するというのは、冒険者にとっても簡単なことではないでしょう。もし＜地底深き鉱山＞のクエストをクリアしたらまた来てください。
 NPC_100029,See you bye bye!,またねバイバイ！
 NPC_100030,"Hello, what are you doing here?\n1.[Fight Meteonyker][IDS_NPC_Meteo]. \n2.[Who are you?][IDS_NPC_Dekane].",こんにちは、ここで何をするつもりだ？\n1.[メテオニカと戦う][IDS_NPC_Meteo]\n2.[あなたは誰？][IDS_NPC_Dekane]
-NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",私はこの鉱山のクリエイターであるデカネです。あなたが自分自身を証明したので、私はあなたに鉱山の底で本当の問題を話すことができるでしょう。
+NPC_100031,"I am Dekane, the creator of this mine. Now that you've proven yourself, I'll be able to tell you the real problem at the bottom of the mine.",私はこの鉱山のクリエイターであるデェカネスです。あなたが自分自身を証明したので、私はあなたに鉱山の底で本当の問題を話すことができるでしょう。
 NPC_100032,"In a secret room sleep dragons from ancient times created by Shade ages ago. To defeat them, you'll need a well armed team. Ah, but there's one detail I forgot to mention, you need 1,000,000 Penya, you've already collected 50 Blood Trillipys and killed 50 Mutant Keakoon Workers to open the gate. Are you and your team ready to accept this challenge?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc","この秘密の部屋には昔、シェイドが創った古代のドラゴンが眠っているとされる。奴を倒すには絆を深めたチームと、ゲートを開けるための1,000,000ペニャが必要となる。君たちは血のトリルピを50匹集め、ゲリラキクン労働者を50体討伐してここにたどり着いた。英雄そのものだ。さあ、いってきたまえ。\n[はい][IDS_NPC_Yes] / [いいえ][IDS_NPC_No]\n\n#cffff0000参加するギルドメンバーは全員近くにいる必要があります。#nc"
 NPC_100033,Would you like to take up the challenge again?\n[Yes][IDS_NPC_Yes] / [No][IDS_NPC_No]\n\n#cffff0000All the guild members participating must be close to you to enter.#nc,もう一度挑戦しますか？\n[はい][IDS_NPC_Yes] / [いいえ][IDS_NPC_No]\n\n#cffff0000参加するギルドメンバーは全員あなたの近くにいる必要があります。#nc
 NPC_100034,Sorry but you are not rich enough.,申し訳ありませんが、あなたは十分な金持ちではありません。
@@ -1005,11 +1005,11 @@ NPC_100058,,
 NPC_100059,,
 NPC_100060,,
 NPC_100061,You are ready to challenge the Red Meteonyker. Are you sure you would like to enter?\n[Yes][IDS_NPC_Yes_Enter] / [No][IDS_NPC_No_Enter]\n\n#cffff0000All the party members participating must be close to you to enter.#nc,レッドメテオニカに挑戦する準備が整いました。入場しますか？\n[はい][IDS_NPC_Yes_Enter] / [いいえ][IDS_NPC_No_Enter]\n\n#cffff0000参加するパーティーメンバー全員があなたの近くにいる必要があります。#nc
-NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,ヴォルケインキーを偽造するにはクマ―に話かける必要があります。
-NPC_100063,"Hello I am Azria Pang, the oldest of the Pang brothers. We manage the Lodelights.",やあやあ、バフ・ファン兄弟の長男、アズリア・ファンだぞ！ぼくらはロードライトの管理をしているぞ！
-NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004fThe #cfff60000レベル80ギルドシージアプリケーションセンター#cff8a004fis open!#nc#nb
+NPC_100062,You must go and speak with Kumah to forge the Volkane Key.,ヴォルケインキーを鍛造するには、クマーに話しかける必要があります。
+NPC_100063,"Hello I am Azria Pang, the oldest of the Pang brothers. We manage the Lodelights.",やあやあ、バフ・ファン兄弟の長男、アズリアパンだぞ！ぼくらはロードライトの管理をしているぞ！
+NPC_100064,#b#cff8a004fThe #cfff60000Level 80 Guild Siege Application Center #cff8a004fis open!#nc#nb,#b#cff8a004fThe #cfff60000レベル80ギルドコンバットアプリケーションセンター#cff8a004fis open!#nc#nb
 NPC_100065,Good Luck!,ご武運を！
-NPC_100066,#b#cff8a004fEnjoy the #cfff60000Level 60 Guild Siege #cff8a004fbefore your second class!#nc#nb,#b#cff8a004fEnjoy the #cfff60000レベル60ギルドシージ#cff8a004fbefore your second class!#nc#nb
+NPC_100066,#b#cff8a004fEnjoy the #cfff60000Level 60 Guild Siege #cff8a004fbefore your second class!#nc#nb,#b#cff8a004fEnjoy the #cfff60000レベル60ギルドコンバット#cff8a004fbefore your second class!#nc#nb
 NPC_100067,"With global warming, I’m gonna end up living in a freezer..",地球温暖化で、冷凍庫で生活することになります..
 NPC_100068,See you soon! At least if I still exist when you come back...,また近いうちにお会いしましょう！せめて君が戻ってきた時、僕が生きていれば…
 NPC_100069,It is way too early for you... Come back when you reach the appropriate level!,あなたには時期尚早です...適切なレベルに達したら戻ってきてください!
@@ -1021,9 +1021,9 @@ NPC_100074,Farewell.. may you be safe from the dangers of Leren Chasm!,お別れ
 NPC_100075,Will this storm ever end?..,この嵐はいつまでも終わるのでしょうか?..
 NPC_100076,You must have an iron will to survive the Rhisis Catacombs.,リシスの地下墓地を生き残るには鉄の意志が必要です。
 NPC_100077,"These grounds are electrified.. return from where you can, less you be shocked.",これらの敷地は電化されています。あなたができるところから戻って、あなたがショックを受けることはほとんどありません。
-NPC_100078,"I hail from the noble ranks of Saint City's guardians, entrusted with the duty of safeguarding the Rhisis Catacombs from curious adventurers.",私はセントシティの警備員で、無防備な冒険者からリシスの地下墓地を守るために任命されています。
+NPC_100078,"I hail from the noble ranks of Saint City's guardians, entrusted with the duty of safeguarding the Rhisis Catacombs from curious adventurers.",私はセイントモーニングの警備員で、無防備な冒険者からリシスの地下墓地を守るために任命されています。
 NPC_100079,Goodbye for now.. be safe from the storms!,とりあえずさようなら..嵐から守ってください!
-NPC_100080,How long as this palace been hidden within the Cave of Envy?,この宮殿が羨望の洞窟の中に隠されていたのはどれくらいですか?
+NPC_100080,How long as this palace been hidden within the Cave of Envy?,この宮殿がエイエンブルケーブの中に隠されていたのはどれくらいですか?
 NPC_100081,Beware the masquerpets touched by waters of the Envy Depths.,エンヴィーデプスの水に触れたモンスターに注意してください。
 NPC_100082,Turn around while you still have some life left in you.. these waters are cursed.,あなたがまだあなたの中にいくらかの人生が残っている間に振り返ってください..これらの水は呪われています。
 NPC_100083,I am a guard hired by the Mayor of Darken City to ensure the safety of adventurers who wander too close to the Envy Depths.,私はダーコン市長に雇われた警備員で、エンヴィーデプスに近づきすぎた冒険者の安全を確保しています。
@@ -1039,14 +1039,14 @@ NPC_100092,Go back home before you get frostbite!,凍傷になる前に家に帰
 NPC_100093,"I've watched over the Storm Peak mountain trails for many years, ensuring the safety of all who venture forth.",私は長い間ストームピーク山に通じる道を守ってきました。
 NPC_100094,"One day you will see, that the Frostiae peak ahead holds a dark secret.",いつの日か、前方のフロスティアエピークが暗い秘密を持っていることがわかります。
 NPC_100095,Azria Mine,アズリア鉱山
-NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.",何も言うべきではないが、マドリガル周辺には他にも放棄された鉱山があり、デカイン内のものよりもさらに強力な力を含んでいる。それらの鉱山の1つはアズリアの山に隠されています。
-NPC_100097,"My name is Rankashu, and my ancestors have lived in the mountains of Darkon long before you creatures ever showed up. And no.. I am not one of those stuck up High-Dwarpets.",私の名前はランカシュで、私の祖先はあなたが生き物が現れるずっと前からダーコンの山に住んでいました。そして、いいえ..私は立ち往生しているハイドワーペットの一人ではありません。
+NPC_100096,"I shouldn't say anything, but there are other mines abandoned around Madrigal that contain power even stronger than that within Dekane. One of those mines is hidden in the mountains of Azria.",何も言うべきではないが、マドリガル周辺には他にも放棄された鉱山があり、デェカネス内のものよりもさらに強力な力を含んでいる。それらの鉱山の1つはアズリアの山に隠されています。
+NPC_100097,"My name is Rankashu, and my ancestors have lived in the mountains of Darkon long before you creatures ever showed up. And no.. I am not one of those stuck up High-Dwarpets.",私の名前はランカシュ。私の祖先は、あなたたち人間が現れるずっと前からダーコンの山に住んでいたのです。それと……勘違いしないでほしいのですが、私はあの高慢なハイドワーフの一人ではありませんよ。
 NPC_100098,My people are all gone.. I am alone here.,私の人々は皆去りました..私はここに一人です。
 NPC_100099,I have lived here for what feels like an eternity collecting materials that may one day save Madrigal.,私はいつの日かマドリガルを救うかもしれない材料を集める永遠のように感じるもののためにここに住んでいました。
 NPC_100100,No one should be here.. leave before you are killed.,誰もここにいてはいけません..あなたが殺される前に去ってください。
 NPC_100101,"My name is Rankashin.. I have lived here for many years now. Long ago I helped build a powerful weapon, but in the end it was turned against us..",私の名前はランカシンです。私は何年もここに住んでいます。ずっと前に私は強力な武器を作るのを手伝いました、しかし結局それは私たちに背を向けました..。
 NPC_100102,May the Clockworks War never be forgotten!,時計じかけの戦争が決して忘れられませんように!
-NPC_100103,"Hi I am Kebaras Pang, the strongest of the Pang brothers. We manage the Lodelights.",こんにちは、私はケバラス・パン、パン兄弟の中で最強です。私たちはロードライトを管理します。
+NPC_100103,"Hi I am Kebaras Pang, the strongest of the Pang brothers. We manage the Lodelights.",こんにちは、私はケバラス・ファン、ファン兄弟の中で最強です。私たちはロードライトを管理します。
 NPC_100104,Cursed Symbol,呪われたシンボル
 NPC_100105,"I can feel the dark power radiating from your bag.. you have one of the symbols of corruption, don't you? Hand it to me if you don't mind.",私はあなたのバッグから放射される闇の力を感じることができます..。あなたは腐敗の象徴の1つを持っていますね。よろしければお渡しください。
 NPC_100106,Give the Symbol,シンボルを与える
@@ -1065,7 +1065,7 @@ NPC_100118,,
 NPC_100119,,
 NPC_100120,,
 NPC_100121,Who is gonna attend the #bfinals in Manila#nb and win the #bFlyff World Championship 2026#nb? Prove that you are the best!,#bマニラ決勝戦#nb に出場し、#bFlyff World チャンピオンシップ2026#nb で優勝するのは誰だ？お前が一番だということを証明してみせろ！
-NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",ようこそ、ライバル!私はフリフワールドチャンピオンシップのマネージャーであるアヴァです。競争に勝つために手に入れることができる最高の機器を交換します!
+NPC_100122,"Welcome, competitor! I am Ava, the manager of the Flyff World Championship. I will trade you the best equipment you can get to win the competition!",ようこそ、ライバル!私はフリフワールドチャンピオンシップのマネージャーであるエヴァです。競争に勝つために手に入れることができる最高の機器を交換します!
 NPC_100123,"Hm I can feel that you are the best PvE competitor! No, wait... Maybe PvP? Ha I don't know. Good luck!",うーん、あなたは最高のPvE競技者であると感じます!待たないでいいです。。。PvPかな?はぁ、わかんない。がんばって！
 NPC_100124,May the best win!,最高の勝利がありますように!
 NPC_100125,"I am an automated machine intended to replace and eliminate humans. However, I am also designed to deliver rewards in exchange for coins.",私は人間に取って代わり、抹殺することを意図した自動化された機械です。ただし、コインと引き換えに報酬を配信するように設計されています。
@@ -1075,8 +1075,8 @@ NPC_100128,"Thank you for saving me, I owe you one!",私を救ってくれてあ
 NPC_100129,Let's get out of here!,ここから出ましょう！
 NPC_400000,Collect some #bW-Token#nb from masquerpets and I will give you nice rewards!,モンスターから#bW-Token#nbを集めれば、素敵な報酬を差し上げます!
 NPC_100130,"Upgrade Costume Boxes with Repair Hammer that drops when you hunt a monster, and get various items!",モンスターを狩るとドロップするリペアハンマーでコスチュームボックスをアップグレードして、さまざまなアイテムを手に入れましょう!
-NPC_100131,"I'm the guardian of The Wilds, a wild and savage realm. What brings you here?",私は荒野で野蛮な領域である荒野の守護者です。なぜここに来たのですか?
-NPC_100132,Always another group thinking they can conquer 'The Wilds.' Let's see who comes out in one piece this time.,常に「荒野」を征服できると思っている別のグループ。今回は誰がワンピースで出てくるか見てみましょう。
+NPC_100131,"I'm the guardian of The Wilds, a wild and savage realm. What brings you here?",私は野蛮で荒々しい領域、ザ・ワイルズの守護者です。なぜここに来たのですか?
+NPC_100132,Always another group thinking they can conquer 'The Wilds.' Let's see who comes out in one piece this time.,「ザ・ワイルズ」を征服できると思っている連中が、また現れたか。今回は誰が無事に出てくるか見てみよう。
 NPC_100133,"Stay safe out there. Remember, not all who wander find their way back.",安全にお過ごしください。彷徨うすべての人が帰る道を見つけるわけではないことを忘れないでください。
 NPC_100134,"A wise decision, my friend. You're about to embark on a journey that will carve your legend. Brace yourself, for the untamed awaits.",賢明な決断だ、友よ。あなたはあなたの伝説を刻む旅に乗り出そうとしています。気を引き締めて、手つかずのものが待っています。
 NPC_100135,"Life's full of choices, and 'The Wilds' isn't for everyone. If you ever hunger for adventure, remember where I stand.",人生は選択肢に満ちており、「ザ・ワイルズ」は万人向けではありません。冒険に飢えているなら、私の立ち位置を思い出してください。
@@ -1095,7 +1095,7 @@ NPC_100147,"As you set forth on your adventures across this bewitching island, r
 NPC_100148,"Welcome to our charming Coral Island village! I've dedicated myself to mastering the culinary arts, conjuring delectable dishes with the island's finest ingredients.",魅力的なコーラルアイランドの村へようこそ!私は料理の芸術を習得し、島の最高級の食材を使ったおいしい料理を作ることに専念してきました。
 NPC_100149,"Oh, what a delight to have new and hungry souls to satiate! There's no greater joy for a chef like me than the smiles and satisfaction of full bellies.",ああ、新しくて飢えた魂を満足させるのは、なんという喜びでしょう。私のような料理人にとって、お腹いっぱいになった笑顔と満足感ほど大きな喜びはありません。
 NPC_100150,"If you ever find yourself yearning for the extraordinary flavors that Coral Island has to offer, look no further. Come to me, and I'll whip up a tantalizing feast that'll leave your taste buds dancing! Rare food ingredients, you say? Consider it a delicious deal!",コーラルアイランドが提供する並外れた味に憧れていることに気付いたら、もう探す必要はありません。私のところに来て、あなたの味覚を踊らせる食欲をそそるごちそうを作ります!希少な食材、とおっしゃいますか?お得にお得に!
-NPC_100151,"I'm Pau Pau, the culinary maestro of Coral Island. I've harnessed my love for cooking to nourish and cherish my friends here. May your time on this island be a banquet of delights, and may your travels be seasoned with happiness!",コーラルアイランドの料理界の巨匠、パウパウです。私は料理への愛情を活かして、ここで友達を養い、大切にしてきました。この島でのあなたの時間が喜びの宴会であり、あなたの旅行が幸せで味付けされますように!
+NPC_100151,"I'm Pau Pau, the culinary maestro of Coral Island. I've harnessed my love for cooking to nourish and cherish my friends here. May your time on this island be a banquet of delights, and may your travels be seasoned with happiness!",コーラルアイランドの料理界の巨匠、ポール・ポールです。私は料理への愛情を活かして、ここで友達を養い、大切にしてきました。この島でのあなたの時間が喜びの宴会であり、あなたの旅行が幸せで味付けされますように!
 NPC_100152,"Keep those eyes wide open as you explore the island; you'll stumble upon a treasure trove of marvelous cooking ingredients. They're scattered like edible gems all around Coral Island, waiting for the discerning palates of adventurous souls like yours!",島を探索するときは、目を大きく開いてください。素晴らしい料理の食材の宝庫に出くわすでしょう。彼らはコーラルアイランドのいたるところに食用の宝石のように散らばっていて、あなたのような冒険好きな魂の目の肥えた味覚を待っています!
 NPC_100153,"It's a real treat to have you grace our cozy little village. Our mail system hasn't been very active the past few years, but I have a hunch that things are about to change now that the island's mysterious mist has lifted!",私たちの居心地の良い小さな村を飾るのは本当の御馳走です。ここ数年、メールシステムはあまり活発ではなかったのですが、島の謎の霧が晴れた今、状況が変わろうとしている予感がします。
 NPC_100154,"You, my friend, are as sharp as a tack! It's no wonder the folks in this village put their faith in you. Your trustworthiness shines like a beacon.",友よ、お前は鋲のように鋭い!この村の人々があなたに信頼を寄せるのも無理はありません。あなたの信頼はビーコンのように輝きます。
@@ -1115,7 +1115,7 @@ NPC_100167,"Until we meet again, adventure. If you ever desire to fortify your a
 NPC_100168,"Coral Island is a crucible of potent weapon technologies, born from the island's bountiful resources and our village's ingenious craftsmanship. Here, we shape the future of armaments!",コーラルアイランドは、島の豊富な資源と村の独創的な職人技から生まれた強力な兵器技術のるつぼです。ここで、私たちは軍備の未来を形作ります!
 NPC_100169,"Ah, I can see you're as keen as the sharpest of blades! It's an absolute pleasure to have you join us and collaborate on forging a path to greatness.",ああ、鋭い刃のように鋭いのがわかる!皆さんが私たちに参加し、偉大さへの道を築くために協力してくれることをとても嬉しく思います。
 NPC_100170,"Remember, dreams are like trees. They bear fruit only when nurtured with determination and action.",夢は木のようなものだということを思い出してください。決意と行動で育まれて初めて実を結びます。
-NPC_100171,"Step into my workshop, my friend! I'm Talus, your weapon master at Coral Island village. I work endlessly to craft potent weapons for our village's protection and hunting needs.",私のワークショップに足を踏み入れてください、私の友人！私はコーラルアイランド村の武器使い、タルスだ。私は村の保護と狩猟のために強力な武器を作るために果てしなく働いています。
+NPC_100171,"Step into my workshop, my friend! I'm Talus, your weapon master at Coral Island village. I work endlessly to craft potent weapons for our village's protection and hunting needs.",私のワークショップに足を踏み入れてください、私の友人！私はコーラルアイランド村の武器使い、テイラスだ。私は村の保護と狩猟のために強力な武器を作るために果てしなく働いています。
 NPC_100172,"Should the need arise for weapon enhancement or if you seek the craftsmanship of a true master, don't hesitate to return. I'm here to empower you on your journey!",武器の強化が必要になったり、真のマスターの職人技を求めたりした場合は、遠慮なく戻ってきてください。私はあなたの旅に力を与えるためにここにいます!
 NPC_100173,"The elusive secrets of Ultimate power are concealed within the very heart of Coral Island, waiting to be unveiled.",究極の力のとらえどころのない秘密は、コーラルアイランドの中心部に隠され、明らかにされるのを待っています。
 NPC_100174,"Should your determination remain steady, the day may dawn when the keys to Ultimate power are yours to wield.",あなたの決意が揺るぎないものであれば、究極の力への鍵をあなたが振るう日が来るかもしれません。
@@ -1382,4 +1382,4 @@ NPC_156011,You made it out. Good. The data is secure and the specimens are intac
 NPC_156012,Hehe~ Feeling brave? I can send you right back in to test yourself against Entaness again.,へへ～勇気があるじゃない？もう一度エンタネスに挑ませてあげてもいいわよ。
 NPC_156013,Oh... alright. Come find me whenever you feel ready.,あら……分かったわ。準備ができたら、いつでも私を訪ねてきて。
 NPC_156014,I'm Musha. I keep watch over this place and guide adventurers who want another shot at Entaness.,私はムシャ。この場所を見張って、もう一度エンタネスに挑みたい冒険者を案内しているの。
-NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!",俺はエアリン。ここ、エルリウンでPvPアリーナの管理を任されている。1次転職を終えた冒険者だけ、中に入れてやる。
+NPC_156015,"Hey, I'm Aerin, the one in charge of the PvP arena around here. Think you've got what it takes? Step inside and prove it!",俺はエアリン。ここらのPvPアリーナの管理を任されている。腕に覚えがあるなら、入ってきな。実力を見せてみろ！

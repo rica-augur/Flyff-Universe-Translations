@@ -469,7 +469,7 @@ UI_GUILDNOTICE_NEW_TIP,Clear notice text,新しい告知を書込みます。
 UI_GUILDNOTICE_SAVE_TIP,Save notice,告知を開始します。同時に他のギルドメンバーに手紙もしくはささやきで知らせます。
 UI_GUILDLOGO_TITLE,Set Guild Logo,ギルドロゴの設定
 UI_GUILDDISMISS_TITLE,Disband Guild Confirmation,ギルド解散の確認
-UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",ギルドを解散しますか?ギルドが家を所有している場合、ギルドハウスの所有権も失われることに注意してください。
+UI_GUILDDISMISS_CONFIRM,"Disband the guild? If your guild owns a Guild Ship, it will be lost.",ギルドを解散しますか?ギルドがギルドシップを所有している場合、ギルドシップの所有権も失われることに注意してください。
 UI_GUILD_PAY,Salary,給与
 UI_GUILD_PAY_SETUP,Setup,設定
 UI_GUILD_GRADE_MEMBER,Members,メンバー
@@ -1577,10 +1577,10 @@ UI_BATTLEPASS_TIP_BASICREWARDS,Basic rewards for everyone!,全員が獲得可能
 UI_BATTLEPASS_TIP_PAIDREWARDS,Additional rewards available with the Extended Flyff Pass!,拡張バトルパスではさらに報酬が獲得可能！
 UI_BATTLEPASS_COMPLETED,Congratulations for completing the Flyff Pass!,バトルパスのコンプリートおめでとうございます！
 UI_GUILDCOMBAT80_CANCEL_TITLE,Cancel Lv.80 GS Application,Lv80 GS - キャンセル申請
-UI_GUILDCOMBAT80_CANCEL_MSG,Withdraw your application for the Lv.80 Guild Siege?,レベル 80 ギルド攻城戦から撤退しますか?
+UI_GUILDCOMBAT80_CANCEL_MSG,Withdraw your application for the Lv.80 Guild Siege?,レベル 80 ギルドコンバットから撤退しますか?
 UI_GUILDCOMBAT80_JOIN_MSG,Enter the Lv.80 Guild Siege Arena now?,レベル 80 ギルド シージに参加しますか?
 UI_GUILDCOMBAT60_CANCEL_TITLE,Cancel Lv.60 GS Application,Lv60 GS - キャンセル申請
-UI_GUILDCOMBAT60_CANCEL_MSG,Withdraw your application for the Lv.60 Guild Siege?,レベル 60 ギルド攻城戦から撤退しますか?
+UI_GUILDCOMBAT60_CANCEL_MSG,Withdraw your application for the Lv.60 Guild Siege?,レベル 60 ギルドコンバットから撤退しますか?
 UI_GUILDCOMBAT60_JOIN_MSG,Enter the Lv.60 Guild Siege Arena now?,レベル 60 ギルド シージに参加しますか?
 UI_GUILDCOMBATBOARD_TITLE1,Lv.80 Guild Siege Information,レベル 80 GS 情報
 UI_GUILDCOMBATBOARD_TITLE2,Lv.60 Guild Siege Information,レベル 60 GS 情報
@@ -2076,23 +2076,23 @@ UI_HOUSINGSETUP_FILTER_HDR,Filter,検索
 UI_HOUSINGSETUP_FILTER_HDR_ALL,All,すべて
 UI_HOUSINGSETUP_FILTER_TREE,Trees,ツリー
 UI_HOUSINGSETUP_FILTER_OTHER,Other,その他
-UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドハウスに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドハウスの所有権を獲得します。 \n\n#b#uNote:#nu#nb \n-一度に入札できるギルドハウスは1つだけです。\n-入札に費やしたペニャは、ギルドの銀行で利用可能でなければなりません。
+UI_GUILDHOUSINGBIDS_INFO,"You can place a bid on this Guild Ship. In #b#u%s#nb#nu, the guild with the highest bid will gain ownership of this Guild Ship. \n\n#b#uNote:#nu#nb \n- You can only bid on one Guild Ship at a time. \n- The Penya used to place a bid is taken from your Guild Bank. \n- You can increase your bid at any time before the bidding period ends.",このギルドシップに入札することができます。#b#u%s#nb#nu では、最高入札額のギルドがギルドシップの所有権を獲得します。 \n\n#b#uNote:#nu#nb \n-一度に入札できるギルドシップは1つだけです。\n-入札に費やしたペニャは、ギルドの銀行で利用可能でなければなりません。
 UI_GUILDHOUSINGBIDS_HDR,Guild Bids,ギルドの入札
 UI_GUILDHOUSINGBIDS_PLACE,Place Bid,入札する
 UI_GUILDHOUSINGBIDS_MSGBOX_INFO,Enter the amount you wish to bid. #b#uBids are placed using Penya from your Guild Bank.#nu#nb,入札したい金額を入力します。#b#uあなたのギルド銀行には、入札をカバーするのに十分なペニャが必要です。#nu#nb
-UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,現在このハウスに入札はありません。
-UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,船にテレポートする
-UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,ギルドが所有している船 [%s]
-UI_GUILD_TAB_HOUSING,Ship,マイルーム
+UI_GUILDHOUSINGBIDS_EMPTY,There are currently no bids for this Guild Ship.,現在このギルドシップに入札はありません。
+UI_MAP_SHIP_TELEPORT,Teleport to Your Guild Ship,ギルドシップにテレポートする
+UI_MAP_SHIP_TOOLTIP_OWNED,%s's Guild Ship,ギルドが所有しているギルドシップ [%s]
+UI_GUILD_TAB_HOUSING,Ship,ギルドシップ
 UI_GUILD_TAB_HOUSING_NEXTARTIFACTHDR,Next Artifact Placement:,次のアーティファクトの配置:
 UI_GUILD_TAB_HOUSING_PLACEARTIFACTHDR,Time Remaining to Select the Artifact Position:,アーティファクトの位置を選択するための残り時間:
-UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,船にテレポートする
-UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,現在の家のボーナス
+UI_GUILD_TAB_HOUSING_TELEPORT,Teleport to Ship,ギルドシップにテレポートする
+UI_GUILD_TAB_HOUSING_BONUSESHDR,Current Guild Ship Bonuses,現在のギルドシップのボーナス
 UI_GUILDHOUSINGARTIFACT_MSGBOX_INFO,Are you sure you want your guild's artifact to spawn here? #b#cffff0000Note: A %s Penya fee will be taken from your guild's bank.#nc#nb,ギルドのアーティファクトをここにスポーンさせてもよろしいですか?#b#cffff0000注: %s ペニャの手数料はギルドの銀行から引き落とされます。#nc#nb
-UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,ギルドハウス管理
-UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,ギルドハウスのアーティファクトがここのどこかにある...
-UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,あなたのギルドは家を所有していません。
-UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",ギルドがギルドハウスを所有している場合、隔週土曜日に、ギルドは#b#u%s penyas#nu#nbのアーティファクトを定義されたリストから選択した位置に配置する必要があります。\n\nギルドにギルドハウスがない場合は、次のアーティファクトバトルに #b#u%sペニャス#nu#nbで登録すると、ギルドハウスを獲得するチャンスがあります! お申込み・キャンセルはバトル開始の1時間前まで可能です。\n\n一度配置すると、ギルドはPKチャンネルで他のプレイヤーから守る必要があり、そうでなければ家の所有権を失います #bspecial。
+UI_GUILD_POWER_GUILDHOUSE,Guild Ship Management,ギルドシップ管理
+UI_MAP_GHARTIFACT_TOOLTIP,A Guild Ship Artifact is somewhere here...,ギルドシップのアーティファクトがここのどこかにある...
+UI_GUILD_TAB_HOUSING_NOOWNED,Your guild does not own a Guild Ship.,あなたのギルドはギルドシップを所有していません。
+UI_GUILD_TAB_HOUSING_INFO,"If your guild owns a Guild Ship, every other Saturday you must place an Artifact at one of the designated locations. Placing an Artifact costs #b#u%s Penya#nu#nb.\n\nIf your guild does not own a Guild Ship, you can register for the next Artifact Battle for #b#u%s Penya#nu#nb for a chance to obtain one.\nYou can only apply or cancel up to 1 hour before the battle begins.\n\n\nOnce the Artifact is placed, your guild must defend it on the PK channel against other players. If you fail to defend it, you will lose ownership of the Guild Ship.\n\nIf you successfully defend it, #ba portion of the registration fee will be refunded.#nb",ギルドがギルドシップを所有している場合、隔週土曜日に、ギルドは#b#u%s penyas#nu#nbのアーティファクトを定義されたリストから選択した位置に配置する必要があります。\n\nギルドにギルドシップがない場合は、次のアーティファクトバトルに #b#u%sペニャス#nu#nbで登録すると、ギルドシップを獲得するチャンスがあります! お申込み・キャンセルはバトル開始の1時間前まで可能です。\n\n一度配置すると、ギルドはPKチャンネルで他のプレイヤーから守る必要があり、そうでなければギルドシップの所有権を失います #bspecial。
 UI_HOUSINGSETUP_PRESETS,Presets,プリセット
 UI_HOUSINGSETUP_MANAGE,Management,管理
 UI_HOUSINGPRESET_INFO,You can manage housing presets for this house template in this window. Click a preset to preview object and NPC placements.\n\n#b#uNote:#nb#nu Applying a preset will remove all currently placed decorations and NPCs. Only the NPCs you have placed will be saved to the preset list. Decorations or NPCs that have expired will not be placed when applying a preset.,このページでは、このワールドのハウジングプリセットを管理できます。プリセットをクリックすると、オブジェクト/NPCの配置をプレビューできます。  \n\n\n #b#uNote:#nb#nu プリセットを適用すると、現在の装飾/NPCがすべて削除されます。配置したNPCのみがプリセットリストに追加されます。期限切れのパックに含まれていた一部のモデル/NPCは、プリセットを適用するときに配置されない場合があります。

@@ -628,7 +628,7 @@ TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,[GCC]キャンセル�
 TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",こんにちは。私はドナリスというギルドマネージャーです。\nキャンセルされたので返却させていただきますが、手数料として20％を差し引いています。\n良い一日を！
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,本日のギルドコンバットは、参加者不足のため開催されません。
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,よい空の旅を！
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスで「ギルド攻城戦への布陣」を今すぐ終わらせてください。
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスで「ギルドコンバットへの布陣」を今すぐ終わらせてください。
 TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",ギルドコンバットの参加資格を得られませんでした。またチャレンジしてください。払戻し金は、ファン・ギフトにてお送りします。
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,この後、ギルドコンバット開催予定です。%d秒後に自動でフラリスに移動します。
 TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,今後、フラリスのフランキーからギルドコンバットのアリーナへ入ることができます。
@@ -673,10 +673,10 @@ TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,入場制限時間
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドメンバーを招待することはできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,ギルドコンバットに申請したギルドは、ギルドの解散はできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドからの脱退はできません。
-TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドシージ中はメンバー管理機能を使用できません。
-TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドシージ中にギルドのロゴを変更することはできません。
-TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドシージ中にギルド名を変更することはできません。
-TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドシージ中に戦争宣言はできません。
+TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function during Guild Siege.,ギルドコンバット中はメンバー管理機能を使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドコンバット中にギルドのロゴを変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドコンバット中にギルド名を変更することはできません。
+TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドコンバット中に戦争宣言はできません。
 TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,イベント期間中はご利用いただけません。
 TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,イベント中はスキルを使用できません。
 TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,イベント中は適用できません。
@@ -685,10 +685,10 @@ TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,�
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,[GCC]参加対象外の払い戻し
 TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",こんにちはっ。ギルドコンバットマネジャーのドナリスだよっ。\n入札額が上位8ギルドに入れなかったから、手数料2%を差引いた金額を払い戻すね。\n残念だったけど、次の参加を待ってるからね～。\nこれからも、ギルドコンバットを盛り上げてねっ！！
 TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",既にMVP褒賞金をもらったか、ギルドコンバットのMVPではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドシージの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドコンバットの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
 TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,MVPとして%dペニャを受け取りました。おめでとう！
 TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",既に褒賞金を受取ったか、受け取り対象ではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドシージの賞金として%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドコンバットの賞金として%dペニャを受け取りました。おめでとう！
 TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,申請時の金額から、%dペニャを差し引いた額を受け取りました。
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,変身中には使用できません。
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,このアカウントはBANされています。カスタマーサービスへお問い合わせください。
@@ -1150,7 +1150,7 @@ TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOGOLDS,You don't have enough Penya in your 
 TEXTCLIENT_GUILDHOUSING_ARTIFACTNOTICE_PLACEMENT,"Your guild can now place the ship artifact! Check the Guild window tab ""Housing"" for more information.",これでギルドは船のアーティファクトを設置できるようになりました!詳細については、ギルドウィンドウタブの「ハウジング」を確認してください。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTTIME,It's not time to set the artifact spawn position yet.,アーティファクトの出現位置をまだ設定する時期ではありません。
 TEXTCLIENT_GUILDHOUSING_ARTIFACTPOS_NOTSET,Your guild has lost ownership of the guild ship as no Artifact was placed this week.,今週アーティファクトが設置されなかったため、ギルドはギルド船の所有権を失いました。
-TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルド船のアーティファクトが出現しました!PKチャンネルで船の所有権を求めてアーティファクトを破壊しましょう!
+TEXTCLIENT_GUILDHOUSING_ARTIFACT_ANNOUNCE,Guild Ship Artifacts have spawned! Hunt them for ownership of the ship on the PK channel!,ギルドシップのアーティファクトが出現しました!PKチャンネルでギルドシップの所有権を求めてアーティファクトを破壊しましょう!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_1,Your team has destroyed a guild ship artifact! That guild ship now belongs to your guild!,あなたのチームがギルド船のアーティファクトを破壊しました!そのギルド船は今、あなたのギルドに属しています!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_2,Your team has destroyed a guild ship artifact!,あなたのチームがギルド船のアーティファクトを破壊しました!
 TEXTCLIENT_GUILDHOUSING_ARTIFACTDESTROYED_ATTACKER_REWARD_1,%s Penya has been deposited into your guild bank. Congratulations!,%s ペニャがギルドバンクに入金されました。
